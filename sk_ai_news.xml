@@ -1,87 +1,77 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 07:24:57 +0000</lastBuildDate><item><title>📰 SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 07:27:29 +0000</lastBuildDate><item><title>📰 SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;h2 style="color: #1a73e8; margin-bottom: 15px;"&gt;SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;/h2&gt;
-                    
-                    &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%; margin-bottom: 15px; border-radius: 8px;"/&gt;
-                    
-                    &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;"&gt;
-                        &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.6; color: #444;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
                             SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;br&gt;&lt;br&gt;에스케이텔레콤(SKT)이 자회사·손자회사(계열사) 3곳을 삼구아이앤씨에 매각한다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 자회사 에스케이(SK)커뮤니케이션즈와 에프앤유(F&amp;U)신용정보, 손자회사인 복지 플랫폼 기업 에스케이(SK)엠앤서비스를 삼구아이앤씨에 매각하기로 했다고 지난 26일 밝혔다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 통신·인공지능(AI) 사업에 집중하기 위해 매각을 진행했다고 설명했다. 에스케이텔레콤은 각 사 지분 일부나 전량을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 에스케이(SK)그룹은 지난 10월께부터 에스케이커뮤니케이션즈를 매각하기로 하고 주관사 선정에 나섰다. 에스케이커뮤니케이션즈는 싸이월드와 네이트, 네이트온을 운영하며 주목받았지만, 모바일 시대에 접어들면서 고전했으며 지난해에는 86억원 이상의 영업 손실을 기록했다. 에프앤유신용정보는 통신요금에 대한 채권관리 업무, 콘택트센터 운영 등의 업무를 맡아왔다. 에스케이텔레콤의 손자회사인 에스케이엠엔서비스는 종합 복지서비스 업체다. 자회사인 피에스앤(PS&amp;)마케팅이 100% 지분을 보유하고 있다.
                         &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
                     &lt;/div&gt;
                     
-                    &lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px;"&gt;
-                        원문 보기 →
-                    &lt;/a&gt;
+                    &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:24:57 +0900</pubDate></item><item><title>📰 "통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각</title><link>https://www.sedaily.com/NewsView/2DIA77LRDF</link><description>
+                </description><pubDate>Fri, 27 Dec 2024 16:27:29 +0900</pubDate></item><item><title>📰 "통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각</title><link>https://www.sedaily.com/NewsView/2DIA77LRDF</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;h2 style="color: #1a73e8; margin-bottom: 15px;"&gt;"통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각&lt;/h2&gt;
-                    
-                    &lt;img src="https://newsimg.sedaily.com/2024/12/27/2DIA77LRDF_1.jpg" alt="뉴스 이미지" style="max-width:100%; margin-bottom: 15px; border-radius: 8px;"/&gt;
-                    
-                    &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;"&gt;
-                        &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.6; color: #444;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
                             SK텔레콤이 자회사 및 손자회사 3곳을 매각한다. 통신과 인공지능(AI) 사업에 주력하겠다는 취지다.&lt;br&gt;&lt;br&gt;SK텔레콤은 26일 자회사인 SK커뮤니케이션즈와 F&amp;U신용정보, 손자회사인 SK엠앤서비스를 삼구아이앤씨에 매각한다고 발표했다.&lt;br&gt;&lt;br&gt;SK커뮤니케이션즈는 포털사이트 네이트와 메신저 서비스 네이트온 등을 운영하는 인터넷 서비스 업체다. F&amp;U신용정보는 통신요금에 대한 채권관리 업무, 컨텍센터 운영 등의 업무를 맡아왔다. SK엠엔서비스는 종합 복지서비스 업체로, SKT의 손자회사다. 자회사인 피에스앤마케팅(PS&amp;마케팅)이 100% 지분을 보유하고 있다. SKT는 3사의 지분 일부 또는 전략을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;SK텔레콤 관계자는 “통신과 AI사업에 집중하기 위해 비핵심 계열사 3곳을 매각키로 결정했다”고 설명했다.
                         &lt;/div&gt;
+                        
+                        &lt;a href="https://www.sedaily.com/NewsView/2DIA77LRDF" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
                     &lt;/div&gt;
                     
-                    &lt;a href="https://www.sedaily.com/NewsView/2DIA77LRDF" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px;"&gt;
-                        원문 보기 →
-                    &lt;/a&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2024/12/27/2DIA77LRDF_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:24:57 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
+                </description><pubDate>Fri, 27 Dec 2024 16:27:29 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;h2 style="color: #1a73e8; margin-bottom: 15px;"&gt;싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표&lt;/h2&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%; margin-bottom: 15px; border-radius: 8px;"/&gt;
-                    
-                    &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;"&gt;
-                        &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.6; color: #444;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
                             SKT, 삼구아이앤씨에 SK컴즈 매각…법인 출범 22년만의 일&lt;br&gt;&lt;br&gt;AI 도입 등 제2 전성기 노렸으나 모바일 전환기 극복 못해&lt;br&gt;&lt;br&gt;토종 포털 3위 '네이트'와 국내 최대 PC 메신저 '네이트온', 국내 최대 규모 소셜네트워크서비스(SNS) '싸이월드'로 PC 시절 인터넷 시장을 주름 잡았지만 모바일·인공지능(AI)로 바뀌는 패러다임에 제대로 대응하지 못한 채 쇠퇴했다. SK텔레콤은 싸이월드를 SK컴즈에서 떼어내 팔았고, 남아 있던 SK컴즈마저 매각하기로 결정했다. SK텔레콤은 앞으로 통신과 인공지능(AI) 서비스에 집중한다는 계획이다.&lt;br&gt;&lt;br&gt;27일 업계에 따르면 SK텔레콤은 자회사 SK커뮤니케이션즈를 삼구아이앤씨에 매각한다. SK컴즈 법인 출범 22년 만의 일이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 매각 이유에 대해 "통신과 AI 사업에 집중하고 사업 포트폴리오의 효율성 제고를 위해 비핵심 계열사를 매각하기로 했다"고 전했다.
                         &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
                     &lt;/div&gt;
                     
-                    &lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px;"&gt;
-                        원문 보기 →
-                    &lt;/a&gt;
+                    &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:24:57 +0900</pubDate></item><item><title>📰 SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
+                </description><pubDate>Fri, 27 Dec 2024 16:27:29 +0900</pubDate></item><item><title>📰 SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;h2 style="color: #1a73e8; margin-bottom: 15px;"&gt;SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;/h2&gt;
-                    
-                    &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%; margin-bottom: 15px; border-radius: 8px;"/&gt;
-                    
-                    &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;"&gt;
-                        &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.6; color: #444;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
                             SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;br&gt;&lt;br&gt;에스케이텔레콤(SKT)이 자회사·손자회사(계열사) 3곳을 삼구아이앤씨에 매각한다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 자회사 에스케이(SK)커뮤니케이션즈와 에프앤유(F&amp;U)신용정보, 손자회사인 복지 플랫폼 기업 에스케이(SK)엠앤서비스를 삼구아이앤씨에 매각하기로 했다고 지난 26일 밝혔다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 통신·인공지능(AI) 사업에 집중하기 위해 매각을 진행했다고 설명했다. 에스케이텔레콤은 각 사 지분 일부나 전량을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 에스케이(SK)그룹은 지난 10월께부터 에스케이커뮤니케이션즈를 매각하기로 하고 주관사 선정에 나섰다. 에스케이커뮤니케이션즈는 싸이월드와 네이트, 네이트온을 운영하며 주목받았지만, 모바일 시대에 접어들면서 고전했으며 지난해에는 86억원 이상의 영업 손실을 기록했다. 에프앤유신용정보는 통신요금에 대한 채권관리 업무, 콘택트센터 운영 등의 업무를 맡아왔다. 에스케이텔레콤의 손자회사인 에스케이엠엔서비스는 종합 복지서비스 업체다. 자회사인 피에스앤(PS&amp;)마케팅이 100% 지분을 보유하고 있다.
                         &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
                     &lt;/div&gt;
                     
-                    &lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px;"&gt;
-                        원문 보기 →
-                    &lt;/a&gt;
+                    &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:24:57 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
+                </description><pubDate>Fri, 27 Dec 2024 16:27:29 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;h2 style="color: #1a73e8; margin-bottom: 15px;"&gt;싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표&lt;/h2&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%; margin-bottom: 15px; border-radius: 8px;"/&gt;
-                    
-                    &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 15px;"&gt;
-                        &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.6; color: #444;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
                             SKT, 삼구아이앤씨에 SK컴즈 매각…법인 출범 22년만의 일&lt;br&gt;&lt;br&gt;AI 도입 등 제2 전성기 노렸으나 모바일 전환기 극복 못해&lt;br&gt;&lt;br&gt;토종 포털 3위 '네이트'와 국내 최대 PC 메신저 '네이트온', 국내 최대 규모 소셜네트워크서비스(SNS) '싸이월드'로 PC 시절 인터넷 시장을 주름 잡았지만 모바일·인공지능(AI)로 바뀌는 패러다임에 제대로 대응하지 못한 채 쇠퇴했다. SK텔레콤은 싸이월드를 SK컴즈에서 떼어내 팔았고, 남아 있던 SK컴즈마저 매각하기로 결정했다. SK텔레콤은 앞으로 통신과 인공지능(AI) 서비스에 집중한다는 계획이다.&lt;br&gt;&lt;br&gt;27일 업계에 따르면 SK텔레콤은 자회사 SK커뮤니케이션즈를 삼구아이앤씨에 매각한다. SK컴즈 법인 출범 22년 만의 일이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 매각 이유에 대해 "통신과 AI 사업에 집중하고 사업 포트폴리오의 효율성 제고를 위해 비핵심 계열사를 매각하기로 했다"고 전했다.
                         &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
                     &lt;/div&gt;
                     
-                    &lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px;"&gt;
-                        원문 보기 →
-                    &lt;/a&gt;
+                    &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:24:57 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 27 Dec 2024 16:27:29 +0900</pubDate></item></channel></rss>
