@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 07:53:07 +0000</lastBuildDate><item><title>📰 "통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각</title><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 08:03:20 +0000</lastBuildDate><item><title>📰 "통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각</title><link>https://www.sedaily.com/NewsView/2DIA77LRDF</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
@@ -10,11 +10,15 @@
                         &lt;a href="https://www.sedaily.com/NewsView/2DIA77LRDF" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.sedaily.com
+                        &lt;/div&gt;
                     &lt;/div&gt;
                     
                     &lt;img src="https://newsimg.sedaily.com/2024/12/27/2DIA77LRDF_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:53:07 +0900</pubDate></item><item><title>📰 SK하이닉스, 반도체 생산 인력 확보 속도전…'패스트트랙' 실시</title><description>
+                </description><pubDate>Fri, 27 Dec 2024 17:03:20 +0900</pubDate></item><item><title>📰 SK하이닉스, 반도체 생산 인력 확보 속도전…'패스트트랙' 실시</title><link>https://www.yna.co.kr/view/AKR20241227121000003?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
@@ -25,26 +29,15 @@
                         &lt;a href="https://www.yna.co.kr/view/AKR20241227121000003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
                     &lt;/div&gt;
                     
                     &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2024/12/27/AKR20241227121000003_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:53:07 +0900</pubDate></item><item><title>📰 SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;br&gt;&lt;br&gt;에스케이텔레콤(SKT)이 자회사·손자회사(계열사) 3곳을 삼구아이앤씨에 매각한다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 자회사 에스케이(SK)커뮤니케이션즈와 에프앤유(F&amp;U)신용정보, 손자회사인 복지 플랫폼 기업 에스케이(SK)엠앤서비스를 삼구아이앤씨에 매각하기로 했다고 지난 26일 밝혔다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 통신·인공지능(AI) 사업에 집중하기 위해 매각을 진행했다고 설명했다. 에스케이텔레콤은 각 사 지분 일부나 전량을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 에스케이(SK)그룹은 지난 10월께부터 에스케이커뮤니케이션즈를 매각하기로 하고 주관사 선정에 나섰다. 에스케이커뮤니케이션즈는 싸이월드와 네이트, 네이트온을 운영하며 주목받았지만, 모바일 시대에 접어들면서 고전했으며 지난해에는 86억원 이상의 영업 손실을 기록했다. 에프앤유신용정보는 통신요금에 대한 채권관리 업무, 콘택트센터 운영 등의 업무를 맡아왔다. 에스케이텔레콤의 손자회사인 에스케이엠엔서비스는 종합 복지서비스 업체다. 자회사인 피에스앤(PS&amp;)마케팅이 100% 지분을 보유하고 있다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:53:07 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><description>
+                </description><pubDate>Fri, 27 Dec 2024 17:03:20 +0900</pubDate></item><item><title>📰 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
@@ -55,8 +48,12 @@
                         &lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
                     &lt;/div&gt;
                     
                     &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 27 Dec 2024 16:53:07 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 27 Dec 2024 17:03:20 +0900</pubDate></item></channel></rss>
