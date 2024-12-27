@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/ai_news.xml</link><description>최신 AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:42:01 +0000</lastBuildDate><item><title>[AI] 홍성교육지원청, 인공지능(AI)교육체험센터 개관</title><link>https://www.daejonilbo.com/news/articleView.html?idxno=2174975</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/ai_news.xml</link><description>최신 AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:45:22 +0000</lastBuildDate><item><title>[AI] 홍성교육지원청, 인공지능(AI)교육체험센터 개관</title><link>https://www.daejonilbo.com/news/articleView.html?idxno=2174975</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
                 &lt;h2&gt;홍성교육지원청, 인공지능(AI)교육체험센터 개관&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
@@ -29,7 +29,7 @@
                 
                 &lt;p&gt;&lt;a href="https://www.daejonilbo.com/news/articleView.html?idxno=2174975" style="color: #0066cc;"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 14:42:01 +0900</pubDate></item><item><title>[AI] 삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"</title><link>https://www.newsis.com/view/NISX20241218_0003001960</link><description>
+            </description><pubDate>Fri, 27 Dec 2024 14:45:22 +0900</pubDate></item><item><title>[AI] 삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"</title><link>https://www.newsis.com/view/NISX20241218_0003001960</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
                 &lt;h2&gt;삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
@@ -57,4 +57,4 @@
                 
                 &lt;p&gt;&lt;a href="https://www.newsis.com/view/NISX20241218_0003001960" style="color: #0066cc;"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 14:42:01 +0900</pubDate></item></channel></rss>
+            </description><pubDate>Fri, 27 Dec 2024 14:45:22 +0900</pubDate></item></channel></rss>
