@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SKT 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/skt_news.xml</link><description>최신 SKT 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:45:12 +0000</lastBuildDate><item><title>[SKT] SK브로드밴드 IPO 무산…SKT 1조 들여 미래에셋 보유 지분 인수</title><link>https://www.hani.co.kr/arti/economy/marketing/1167288.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SKT 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/skt_news.xml</link><description>최신 SKT 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:48:22 +0000</lastBuildDate><item><title>[SKT] SK브로드밴드 IPO 무산…SKT 1조 들여 미래에셋 보유 지분 인수</title><link>https://www.hani.co.kr/arti/economy/marketing/1167288.html</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
                 &lt;h2&gt;SK브로드밴드 IPO 무산…SKT 1조 들여 미래에셋 보유 지분 인수&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: SKT&lt;/p&gt;
@@ -7,20 +7,12 @@
                 &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/632/356/imgdb/original/2024/1113/20241113503545.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
-                &lt;p style="white-space: pre-line; line-height: 1.6;"&gt;SK브로드밴드 IPO 무산…SKT 1조 들여 미래에셋 보유 지분 인수
-
-Your browser does not support the
-
-에스케이(SK)텔레콤이 13일 태광그룹과 미래에셋그룹이 보유한 에스케이브로드밴드 합산 지분 24.8% 전량을 인수하는 주식양수도 계약을 체결했다고 밝혔다. 5년 전 태광이 보유한 케이블방송 티브로드를 인수하는 과정에서 재무적 투자자로 나선 미래에셋에 약속한 5년 내 기업공개(IPO)를 지키지 못하면서 지분을 모두 인수하기로 했다. 에스케이텔레콤은 인공지능(AI)에 많은 투자를 예고한 가운데 1조원에 이르는 돈을 지분 인수에 쓰게 됐다.
-
-에스케이텔레콤은 내년 5월까지 태광그룹과 미래에셋그룹이 보유한 에스케이브로드밴드 지분 각각 16.75%와 8.01%를 모두 1조1500억원(주당 1만1511원 평가)에 사들인다고 밝혔다. 에스케이텔레콤은 이번 계약으로 에스케이브로드밴드 지분 99.1%를 확보했다. 에스케이텔레콤 쪽은 “에스케이브로드밴드의 기업공개(IPO) 추진보다는 향후 에스케이텔레콤과의 더 큰 시너지를 낼 수 있도록 하는 것이 3사 모두에 이익이 된다는 공감 아래 이번 계약을 체결했다”고 설명했다.
-
-앞서 태광그룹과 미래에셋그룹은 지난 2020년 에스케이브로드밴드가 케이블 방송 티브로드를 인수하는 과정에서 에스케이브로드밴드의 주요 주주로 편입됐다. 미래에셋대우(현 미래에셋증권) 컨소시엄이 재무적 투자자로 4000억원(지분 8%)을 투자했는데 추후 5년 이내에 기업공개를 통해 투자금을 회수하는 조건이 붙었다. 이때 미래에셋은 기업공개 무산 때 주식매수청구권(콜옵션)과 동반매각요청권(드래그얼롱)을 획득할 수 있는 안전장치를 두었다. 동반매각요청권은 최대주주인 에스케이텔레콤 지분을 함께 제3자에게 팔 수 있는 권한이다.
-
-에스케이텔레콤으로서는 에스케이브로드밴드 경영권이 위협당할 수 있는 상황이어서 1조원 넘는 돈을 들여 지분을 되사오기로 한 것이다.
-
-에스케이텔레콤은 최근 에스케이브로드밴드가 운용하는 데이터센터와 해저 케이블 사업이 성장세여서, 두 회사의 기업가치 상승은 물론 장기적으로 주주가치 제고에 도움이 될 것이라고 설명했다.&lt;/p&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    에스케이(SK)텔레콤이 13일 태광그룹과 미래에셋그룹이 보유한 에스케이브로드밴드 합산 지분 24.8% 전량을 인수하는 주식양수도 계약을 체결했다고 밝혔다. 5년 전 태광이 보유한 케이블방송 티브로드를 인수하는 과정에서 재무적 투자자로 나선 미래에셋에 약속한 5년 내 기업공개(IPO)를 지키지 못하면서 지분을 모두 인수하기로 했다. 에스케이텔레콤은 인공지능(AI)에 많은 투자를 예고한 가운데 1조원에 이르는 돈을 지분 인수에 쓰게 됐다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 내년 5월까지 태광그룹과 미래에셋그룹이 보유한 에스케이브로드밴드 지분 각각 16.75%와 8.01%를 모두 1조1500억원(주당 1만1511원 평가)에 사들인다고 밝혔다. 에스케이텔레콤은 이번 계약으로 에스케이브로드밴드 지분 99.1%를 확보했다. 에스케이텔레콤 쪽은 “에스케이브로드밴드의 기업공개(IPO) 추진보다는 향후 에스케이텔레콤과의 더 큰 시너지를 낼 수 있도록 하는 것이 3사 모두에 이익이 된다는 공감 아래 이번 계약을 체결했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 태광그룹과 미래에셋그룹은 지난 2020년 에스케이브로드밴드가 케이블 방송 티브로드를 인수하는 과정에서 에스케이브로드밴드의 주요 주주로 편입됐다. 미래에셋대우(현 미래에셋증권) 컨소시엄이 재무적 투자자로 4000억원(지분 8%)을 투자했는데 추후 5년 이내에 기업공개를 통해 투자금을 회수하는 조건이 붙었다. 이때 미래에셋은 기업공개 무산 때 주식매수청구권(콜옵션)과 동반매각요청권(드래그얼롱)을 획득할 수 있는 안전장치를 두었다. 동반매각요청권은 최대주주인 에스케이텔레콤 지분을 함께 제3자에게 팔 수 있는 권한이다.&lt;br&gt;&lt;br&gt;에스케이텔레콤으로서는 에스케이브로드밴드 경영권이 위협당할 수 있는 상황이어서 1조원 넘는 돈을 들여 지분을 되사오기로 한 것이다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 최근 에스케이브로드밴드가 운용하는 데이터센터와 해저 케이블 사업이 성장세여서, 두 회사의 기업가치 상승은 물론 장기적으로 주주가치 제고에 도움이 될 것이라고 설명했다.
+                &lt;/div&gt;
                 
-                &lt;p&gt;&lt;a href="https://www.hani.co.kr/arti/economy/marketing/1167288.html" style="color: #0066cc;"&gt;원문 보기&lt;/a&gt;&lt;/p&gt;
+                &lt;p&gt;&lt;a href="https://www.hani.co.kr/arti/economy/marketing/1167288.html" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 14:45:14 +0900</pubDate></item></channel></rss>
+            </description><pubDate>Fri, 27 Dec 2024 14:48:22 +0900</pubDate></item></channel></rss>
