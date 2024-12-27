@@ -1,5 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/ai_news.xml</link><description>최신 AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:48:30 +0000</lastBuildDate><item><title>[AI] 홍성교육지원청, 인공지능(AI)교육체험센터 개관</title><link>https://www.daejonilbo.com/news/articleView.html?idxno=2174975</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/ai_news.xml</link><description>최신 AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 05:57:44 +0000</lastBuildDate><item><title>[AI] [이용호의 손에 잡히는 인공지능] AI 에이전트: 우리의 일상을 바꿀 디...</title><link>https://www.lecturernews.com/news/articleView.html?idxno=169228</link><description>
+            &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
+                &lt;h2&gt;[이용호의 손에 잡히는 인공지능] AI 에이전트: 우리의 일상을 바꿀 디...&lt;/h2&gt;
+                &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
+                
+                &lt;img src="https://cdn.lecturernews.com/news/thumbnail/202412/169228_426505_4733_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                
+                &lt;h3&gt;주요 내용:&lt;/h3&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    [한국강사신문 이용호 칼럼니스트] 지난주까지 이어진 ‘프롬프트 엔지니어링 황금키’ 연작을 마무리하고 한해를 마감하는 시점에서 새로운 연작으로 글을 이어 나가려고한다.&lt;br&gt;&lt;br&gt;이번 연작은 2024년 말부터 본격적으로 불붙기 시작하여 2025년 AI의 주요 트렌드로 자리매김할 것으로 확실하게 예상되는 ‘AI 에이전트’의 세상에 대해 차례로 살펴 볼 예정이다&lt;br&gt;&lt;br&gt;한 사례를 들어보자. 사용자가 "월 40만 원 예산으로 나에게 적합한 헬스장과 운동 프로그램을 찾아줘"라고 요청한다고 가정하자. AI 에이전트는 아래와 같은 과정을 거쳐 실행할 수 있다:&lt;br&gt;&lt;br&gt;1. 필요 정보 확인: 사용자의 위치와 일정, 운동 목적 등을 확인한다.&lt;br&gt;&lt;br&gt;2. 헬스장 검색: 구글 지도와 헬스장 리뷰 사이트를 통해 적합한 장소를 찾아낸다.
+                &lt;/div&gt;
+                
+                &lt;p&gt;&lt;a href="https://www.lecturernews.com/news/articleView.html?idxno=169228" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            </description><pubDate>Fri, 27 Dec 2024 14:57:44 +0900</pubDate></item><item><title>[AI] 생성형 AI 애플리케이션, AWS가 제시한 비용 절감 위한 4가지 핵심 전략...</title><link>https://www.aitimes.kr/news/articleView.html?idxno=33399</link><description>
+            &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
+                &lt;h2&gt;생성형 AI 애플리케이션, AWS가 제시한 비용 절감 위한 4가지 핵심 전략...&lt;/h2&gt;
+                &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
+                
+                &lt;img src="https://cdn.aitimes.kr/news/thumbnail/202412/33399_50787_1724_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                
+                &lt;h3&gt;주요 내용:&lt;/h3&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    아마존 웹 서비스(AWS)가 생성형 AI 애플리케이션의 비용 절감을 위한 새로운 전략을 26일(현지시간) 발표했다. AWS는 최근 생성형 AI 기술의 발전과 함께 증가하는 비용 부담을 해결하고, 모든 기업이 인공지능(AI) 기술을 활용하여 혁신을 이끌어 낼 수 있도록 비용 장벽을 낮추고 접근성을 높이는 데 주력하고 있다.&lt;br&gt;&lt;br&gt;AWS가 제시하는 생성형 AI 애플리케이션 비용 절감 전략은 크게 4가지로 나뉜다.&lt;br&gt;&lt;br&gt;AWS Graviton 프로세서 기반 인스턴스를 사용하면 가격 대비 성능을 최대 40%까지 향상시킬 수 있다. 또한, Amazon EC2 Spot Instances를 활용하면 유휴 컴퓨팅 용량을 최대 90% 할인된 가격으로 사용할 수 있어 테스트, 개발, 배치 작업과 같이 중단 가능한 워크로드에 적합하다. AWS Lambda, AWS Fargate와 같은 서버리스 컴퓨팅 서비스를 통해 컴퓨팅 리소스 관리를 자동화하여 비용을 절감할 수도 있다.&lt;br&gt;&lt;br&gt;예를 들어, 자주 액세스하지 않는 데이터는 Amazon S3 Glacier와 같은 저렴한 스토리지 서비스에 저장하여 비용을 절감할 수 있다. Glacier는 데이터 보관 및 백업에 최적화된 서비스로, 낮은 스토리지 비용으로 장기간 데이터를 안전하게 저장할 수 있다는 장점이 있다. 또한, S3 Intelligent-Tiering을 활용하면 데이터 액세스 패턴을 자동으로 분석하여 가장 비용 효율적인 스토리지 클래스로 데이터를 이동시켜 준다.&lt;br&gt;&lt;br&gt;마지막으로 머신 러닝 모델 최적화를 통해 비용을 절감할 수 있다.
+                &lt;/div&gt;
+                
+                &lt;p&gt;&lt;a href="https://www.aitimes.kr/news/articleView.html?idxno=33399" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            </description><pubDate>Fri, 27 Dec 2024 14:57:44 +0900</pubDate></item><item><title>[AI] 홍성교육지원청, 인공지능(AI)교육체험센터 개관</title><link>https://www.daejonilbo.com/news/articleView.html?idxno=2174975</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
                 &lt;h2&gt;홍성교육지원청, 인공지능(AI)교육체험센터 개관&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
@@ -8,14 +40,14 @@
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
                 &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
-                    홍성교육지원청은 지난 23일 학생, 학부모, 교원 100여 명이 참여한 가운데 홍성 인공지능교육체험센터 개관식을 개최했다.&lt;br&gt;&lt;br&gt;이날 개관식에는 김지철 충남교육감을 비롯해 교육계 및 홍성군 관계자, 지역 주민 등이 참석한 가운데 진행됐다.&lt;br&gt;&lt;br&gt;홍성 인공지능교육체험센터는 기존 홍성초등학교에 있던 유휴교실을 리모델링해 인공지능 교육을 위한 교육실과 체험실로 새롭게 조성됐다.
+                    홍성교육지원청은 지난 23일 학생, 학부모, 교원 100여 명이 참여한 가운데 홍성 인공지능교육체험센터 개관식을 개최했다.&lt;br&gt;&lt;br&gt;이날 개관식에는 김지철 충남교육감을 비롯해 교육계 및 홍성군 관계자, 지역 주민 등이 참석한 가운데 진행됐다.&lt;br&gt;&lt;br&gt;홍성 인공지능교육체험센터는 기존 홍성초등학교에 있던 유휴교실을 리모델링해 인공지능 교육을 위한 교육실과 체험실로 새롭게 조성됐다.&lt;br&gt;&lt;br&gt;'韓대행 탄핵' 놓고 연말 정국 요동…가결 정족수 논란도 불가피&lt;br&gt;&lt;br&gt;[르포] 응급실 정상화 기다리며 애타는 시민들… "하루하루 걱정 쌓인다"
                 &lt;/div&gt;
                 
                 &lt;p&gt;&lt;a href="https://www.daejonilbo.com/news/articleView.html?idxno=2174975" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 14:48:30 +0900</pubDate></item><item><title>[AI] 삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"</title><link>https://www.newsis.com/view/NISX20241218_0003001960</link><description>
+            </description><pubDate>Fri, 27 Dec 2024 14:57:44 +0900</pubDate></item><item><title>[AI] 삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"</title><link>https://www.newsis.com/view/NISX20241218_0003001960</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
                 &lt;h2&gt;삼성 라이프사이언스펀드 "AI 보유 美 바이오텍에 투자"&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
@@ -31,4 +63,20 @@
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 14:48:30 +0900</pubDate></item></channel></rss>
+            </description><pubDate>Fri, 27 Dec 2024 14:57:44 +0900</pubDate></item><item><title>[AI] 고래 '사투리'까지...동물 언어 이해에 AI 대활약</title><link>https://www.thedailypost.kr/news/articleView.html?idxno=108193</link><description>
+            &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
+                &lt;h2&gt;고래 '사투리'까지...동물 언어 이해에 AI 대활약&lt;/h2&gt;
+                &lt;p style="color: #666;"&gt;카테고리: AI&lt;/p&gt;
+                
+                &lt;img src="https://cdn.thedailypost.kr/news/thumbnail/202412/108193_110232_1226_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                
+                &lt;h3&gt;주요 내용:&lt;/h3&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    돌고래·코끼리·새 등 동물의 다양한 소리에는 특정 패턴이 존재하며, 동료와 소통하기 위해 울음소리를 사용한다. 그러나 인간이 이러한 동물 울음소리의 미묘한 차이를 식별하고 이해하는 것은 매우 어려운 일이다.&lt;br&gt;&lt;br&gt;하지만 AI의 놀라운 발달 속에 동물 언어의 신비함도 조금씩 벗겨지고 있다. 다만 인간 언어처럼 방대한 데이터가 축적되지 못한 상황에서 동물의 독자적인 소통 방식을 밝혀내는 일은 쉽지 않은 과정이다.&lt;br&gt;&lt;br&gt;고래류 생물학자인 셰인 게로 캐나다 칼턴대 교수는 지난 20년간 고래의 의사소통 방법을 규명하기 위한 연구를 이어가고 있으며, 고래가 가족 일원임을 나타내는 특정 울음소리를 내는 것과 향유고래도 서식 지역에 따라 울음소리에 '사투리'가 존재한다는 사실을 밝혀냈다.&lt;br&gt;&lt;br&gt;해양 미생물학자 데이비드 그루버 박사는 향유고래의 음향 해독을 목표로 한 국제적 프로젝트인 '프로젝트 CETI(Cetacean Translation Initiative)'를 설립해 그동안 축적한 데이터를 분석하고 있다.&lt;br&gt;&lt;br&gt;프로젝트 CETI는 향유고래에 초점을 맞추고 있으며 게로 교수팀의 연구도 후원하고 있다. 프로젝트 CETI 이전부터 게로 교수는 카리브해에서 수천 시간을 보내며 동료와 함께 섬 근처에 서식하는 30마리 이상의 고래 가족에 대한 데이터를 수집해 왔다.
+                &lt;/div&gt;
+                
+                &lt;p&gt;&lt;a href="https://www.thedailypost.kr/news/articleView.html?idxno=108193" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            </description><pubDate>Fri, 27 Dec 2024 14:57:44 +0900</pubDate></item></channel></rss>
