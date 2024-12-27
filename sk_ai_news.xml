@@ -1,66 +1,98 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 06:17:50 +0000</lastBuildDate><item><title>[SK_AI] [반도체 위클리] 글로벌 D램 매출 소폭 증가…증권가, SK하이닉스 목표...</title><link>https://www.ebn.co.kr/news/view/1626591/?sc=Naver</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 27 Dec 2024 06:25:42 +0000</lastBuildDate><item><title>[SK_AI] SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
-                &lt;h2&gt;[반도체 위클리] 글로벌 D램 매출 소폭 증가…증권가, SK하이닉스 목표...&lt;/h2&gt;
+                &lt;h2&gt;SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
                 
-                &lt;img src="https://cdn.ebn.co.kr/news/thumbnail/202406/1626591_636557_0603_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
                 &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
-                    [’24 결산] "비싼 배만 척척"…치솟은 선가에 3년치 일감까지&lt;br&gt;&lt;br&gt;[단독] 중견 신동아건설도 ‘워크아웃說’…건설업계 위기감 고조&lt;br&gt;&lt;br&gt;['24 결산] '영토 확장' 기회 얻은 K-바이오, 글로벌 향해 질주&lt;br&gt;&lt;br&gt;CJ대한통운, ‘주7일 배송’ 시행 임박…경쟁력·점유율↑&lt;br&gt;&lt;br&gt;[Car &amp; Now] 프리미엄 대형 SUV, 아우디 'Q8' 출시 등
+                    SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;br&gt;&lt;br&gt;에스케이텔레콤(SKT)이 자회사·손자회사(계열사) 3곳을 삼구아이앤씨에 매각한다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 자회사 에스케이(SK)커뮤니케이션즈와 에프앤유(F&amp;U)신용정보, 손자회사인 복지 플랫폼 기업 에스케이(SK)엠앤서비스를 삼구아이앤씨에 매각하기로 했다고 지난 26일 밝혔다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 통신·인공지능(AI) 사업에 집중하기 위해 매각을 진행했다고 설명했다. 에스케이텔레콤은 각 사 지분 일부나 전량을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 에스케이(SK)그룹은 지난 10월께부터 에스케이커뮤니케이션즈를 매각하기로 하고 주관사 선정에 나섰다. 에스케이커뮤니케이션즈는 싸이월드와 네이트, 네이트온을 운영하며 주목받았지만, 모바일 시대에 접어들면서 고전했으며 지난해에는 86억원 이상의 영업 손실을 기록했다. 에프앤유신용정보는 통신요금에 대한 채권관리 업무, 콘택트센터 운영 등의 업무를 맡아왔다. 에스케이텔레콤의 손자회사인 에스케이엠엔서비스는 종합 복지서비스 업체다. 자회사인 피에스앤(PS&amp;)마케팅이 100% 지분을 보유하고 있다.
                 &lt;/div&gt;
                 
-                &lt;p&gt;&lt;a href="https://www.ebn.co.kr/news/view/1626591/?sc=Naver" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                &lt;p&gt;&lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 15:17:50 +0900</pubDate></item><item><title>[SK_AI] SK텔레콤, 스팸 대응 전사 TF 출범...문자 중계사 관리 강화한다</title><link>https://www.ajunews.com/view/20240910165330231</link><description>
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item><item><title>[SK_AI] "통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각</title><link>https://www.sedaily.com/NewsView/2DIA77LRDF</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
-                &lt;h2&gt;SK텔레콤, 스팸 대응 전사 TF 출범...문자 중계사 관리 강화한다&lt;/h2&gt;
+                &lt;h2&gt;"통신·AI에 집중"…SKT, SK컴즈 등 자회사 3곳 매각&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
                 
-                &lt;img src="https://image.ajunews.com/content/image/2024/09/10/20240910165402842750.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                &lt;img src="https://newsimg.sedaily.com/2024/12/27/2DIA77LRDF_1.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
                 &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
-                    SK텔레콤, 스팸 대응 전사 TF 출범...문자 중계사 관리 강화한다&lt;br&gt;&lt;br&gt;* AI기술로 자동 요약된 내용입니다. 전체 맥락과 내용을 이해하기 위해서는 기사 본문 전체를 보시길 권장합니다&lt;br&gt;&lt;br&gt;SK텔레콤이 불법 스팸 문자로 인한 고객 피해를 최소화하기 위해 전사 차원의 전담 태스크포스(TF)를 신설하고 다양한 고강도 조치를 시행한다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이와 함께 이동통신 3사(SK텔레콤, KT, LG유플러스) 간 공조 체계를 마련하여 불법 스팸 분류 기준과 각사의 스팸 차단 솔루션을 상호 벤치마킹하는 등 적극적 협력을 통해 사후 대응을 강화하고 불법 스팸 문제를 보다 체계적으로 관리하기 위한 공동의 노력을 강화해 나갈 계획이다.&lt;br&gt;&lt;br&gt;한편 SKT는 이번 TF 출범에 맞춰 문자 중계사가 과도한 불법 스팸 문자를 발송할 경우 발송을 직접 제한하는 등 관리 강화에 나선다.
+                    SK텔레콤이 자회사 및 손자회사 3곳을 매각한다. 통신과 인공지능(AI) 사업에 주력하겠다는 취지다.&lt;br&gt;&lt;br&gt;SK텔레콤은 26일 자회사인 SK커뮤니케이션즈와 F&amp;U신용정보, 손자회사인 SK엠앤서비스를 삼구아이앤씨에 매각한다고 발표했다.&lt;br&gt;&lt;br&gt;SK커뮤니케이션즈는 포털사이트 네이트와 메신저 서비스 네이트온 등을 운영하는 인터넷 서비스 업체다. F&amp;U신용정보는 통신요금에 대한 채권관리 업무, 컨텍센터 운영 등의 업무를 맡아왔다. SK엠엔서비스는 종합 복지서비스 업체로, SKT의 손자회사다. 자회사인 피에스앤마케팅(PS&amp;마케팅)이 100% 지분을 보유하고 있다. SKT는 3사의 지분 일부 또는 전략을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;SK텔레콤 관계자는 “통신과 AI사업에 집중하기 위해 비핵심 계열사 3곳을 매각키로 결정했다”고 설명했다.
                 &lt;/div&gt;
                 
-                &lt;p&gt;&lt;a href="https://www.ajunews.com/view/20240910165330231" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                &lt;p&gt;&lt;a href="https://www.sedaily.com/NewsView/2DIA77LRDF" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 15:17:50 +0900</pubDate></item><item><title>[SK_AI] [어텐션]SK그룹, 퇴직 희망자 지원하고 AI와 배터리에는 투자하고...조직...</title><link>http://www.lkp.news/news/articleView.html?idxno=55229</link><description>
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item><item><title>[SK_AI] 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
-                &lt;h2&gt;[어텐션]SK그룹, 퇴직 희망자 지원하고 AI와 배터리에는 투자하고...조직...&lt;/h2&gt;
+                &lt;h2&gt;싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
                 
-                &lt;img src="https://cdn.lkp.news/news/thumbnail/202409/55229_68705_5335_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
                 &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
-                    SK텔레콤이 퇴직 격려금을 인상했다. 퇴직을 결정하면 최대 3억원의 격려금을 받을 수 있다. 인공지능(AI) 분야에 대한 대규모 투자를 위한 비용 절감 차원으로 풀이된다. SKT는 최근 AI 저변 확대를 위해 ‘&lt;br&gt;&lt;br&gt;SK온도 희망퇴직 신청을 받는다. 지난해 11월 이전 입사자가 대상이며, 희망퇴직 신청자에게 연봉의 50%와 단기 인센티브를 지급할 계획이다. SK온 관계자는 "&lt;br&gt;&lt;br&gt;전기차 캐즘으로 사업 성장세가 둔화됨에 따라 경영 효율을 높이고 지속가능한 성장 기반을 확보하기 위한 것&lt;br&gt;&lt;br&gt;SK온은 비상 경영 활동을 통해 연내 손익분기점(BEP)을 달성하는 것이 목표다. 당초 지난해에는 연내 흑자 전환을 기대했지만 현실적인 환경을 고려해 BEP 달성으로 목표치를 낮췄다.&lt;br&gt;&lt;br&gt;BEP 달성을 위해 SK온은 글로벌 완성차 업체에 납품할 생산량을 증대하는 방향으로 자구책도 마련 중이다. SK온의 미국 법인인 SK배터리아메리카(SKBA)가 조지아주 2공장 라인 일부에서 현대차 배터리 양산을 시작하며 생산 물량을 늘린다.
+                    SKT, 삼구아이앤씨에 SK컴즈 매각…법인 출범 22년만의 일&lt;br&gt;&lt;br&gt;AI 도입 등 제2 전성기 노렸으나 모바일 전환기 극복 못해&lt;br&gt;&lt;br&gt;토종 포털 3위 '네이트'와 국내 최대 PC 메신저 '네이트온', 국내 최대 규모 소셜네트워크서비스(SNS) '싸이월드'로 PC 시절 인터넷 시장을 주름 잡았지만 모바일·인공지능(AI)로 바뀌는 패러다임에 제대로 대응하지 못한 채 쇠퇴했다. SK텔레콤은 싸이월드를 SK컴즈에서 떼어내 팔았고, 남아 있던 SK컴즈마저 매각하기로 결정했다. SK텔레콤은 앞으로 통신과 인공지능(AI) 서비스에 집중한다는 계획이다.&lt;br&gt;&lt;br&gt;27일 업계에 따르면 SK텔레콤은 자회사 SK커뮤니케이션즈를 삼구아이앤씨에 매각한다. SK컴즈 법인 출범 22년 만의 일이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 매각 이유에 대해 "통신과 AI 사업에 집중하고 사업 포트폴리오의 효율성 제고를 위해 비핵심 계열사를 매각하기로 했다"고 전했다.
                 &lt;/div&gt;
                 
-                &lt;p&gt;&lt;a href="http://www.lkp.news/news/articleView.html?idxno=55229" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                &lt;p&gt;&lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 15:17:50 +0900</pubDate></item><item><title>[SK_AI] 최종현 SK 선대회장, 한국고등교육재단 50주년…'미래인재' 컨퍼런스</title><link>http://www.lawleader.co.kr/news/articleView.html?idxno=14624</link><description>
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item><item><title>[SK_AI] [2025전망] 불붙는 AI칩 경쟁…삼성·SK, HBM 판로 확대 '기지개'</title><link>https://daily.hankooki.com/news/articleView.html?idxno=1163534</link><description>
             &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
-                &lt;h2&gt;최종현 SK 선대회장, 한국고등교육재단 50주년…'미래인재' 컨퍼런스&lt;/h2&gt;
+                &lt;h2&gt;[2025전망] 불붙는 AI칩 경쟁…삼성·SK, HBM 판로 확대 '기지개'&lt;/h2&gt;
                 &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
                 
-                &lt;img src="https://cdn.lawleader.co.kr/news/thumbnail/202411/14624_57838_3158_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                &lt;img src="https://cdn.daily.hankooki.com/news/thumbnail/202412/1163534_1375321_2132_v150.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
                 
                 &lt;h3&gt;주요 내용:&lt;/h3&gt;
                 &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
-                    최종현 SK 선대회장, 한국고등교육재단 50주년…‘미래인재’ 컨퍼런스&lt;br&gt;&lt;br&gt;최종현 SK 선대회장, 한국고등교육재단 50주년…‘미래인재’ 컨퍼런스&lt;br&gt;&lt;br&gt;- 기업명, 설립자 아호 내세우지 않고 ‘세계적 인재 양성’에 충실… 952명 박사 배출, 5,000여 명 장학생 지원&lt;br&gt;&lt;br&gt;- 최태원 회장, 26일 워커힐서 대학생들과 ‘미래 인재상’ 주제로 토론…재단이 지향할 새 비전과 미션 제시&lt;br&gt;&lt;br&gt;- 이공계 석학ㆍ학생 모여 한국이 과학분야 ‘퍼스트 무버’로 도약하기 위한 도전적 난제 풀어가는 세션 열려
+                    27일 업계에 따르면 삼성전자와 SK하이닉스는 올해 1분기에 주문형반도체(ASIC) 기업 브로드컴으로부터 HBM3E 8단 공급 요청을 받고 퀄테스트(품질 검증)를 진행하고 있다. 성능을 개선한 후속 샘플을 수차례 제출한 SK하이닉스는 실제 제품 공급이 가까워진 것으로 추정된다.&lt;br&gt;&lt;br&gt;그동안 HBM 수요의 상당 부분은 엔비디아가 차지했다. 엔비디아는 그래픽처리장치(GPU)와 HBM을 결합해 AI 가속기를 만들어왔다.&lt;br&gt;&lt;br&gt;하지만 엔비디아의 시장 독점 체제로 가격 협상력에 한계가 있었던 글로벌 빅테크들은 앞다퉈 인공지능(AI) 가속기 개발에 뛰어들었다. 브로드컴은 빅테크들의 탈 엔비디아 움직임이 거세지면서 급부상했다.&lt;br&gt;&lt;br&gt;이 회사는 특정 용도에 최적화된 ASIC 분야에서 강점을 보이며 AI칩 시장에서 급성장하고 있다. 이미 구글과, 메타의 자체 AI칩을 설계하고. 오픈AI와 애플도 브로드컴과 일부 ASIC 분야 설계를 협력 중인 것으로 전해진다.&lt;br&gt;&lt;br&gt;특히 범용성을 목표로 하는 GPU와 달리 ASIC은 불필요한 회로를 제거하고 추론에서 가장 많이 사용되는 연산 단위만 포함해 효율을 극대화했다. GPU 대비 전력 소비가 적고 공간 효율성이 높은데다 저렴한 것이 장점이다. 글로벌 투자은행(IB) 모건스탠리는 AI용 ASIC 칩 시장이 2027년 전체 AI칩 시장(1820억달러)의 30%인 550억달러(약 75조원) 규모로 커질 것이라고 전망하기도 했다.
                 &lt;/div&gt;
                 
-                &lt;p&gt;&lt;a href="http://www.lawleader.co.kr/news/articleView.html?idxno=14624" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                &lt;p&gt;&lt;a href="https://daily.hankooki.com/news/articleView.html?idxno=1163534" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
                     원문 보기 →
                 &lt;/a&gt;&lt;/p&gt;
             &lt;/div&gt;
-            </description><pubDate>Fri, 27 Dec 2024 15:17:50 +0900</pubDate></item></channel></rss>
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item><item><title>[SK_AI] SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”</title><link>https://www.hani.co.kr/arti/economy/marketing/1175112.html</link><description>
+            &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
+                &lt;h2&gt;SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;/h2&gt;
+                &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
+                
+                &lt;img src="https://flexible.img.hani.co.kr/flexible/normal/434/205/imgdb/child/2024/1227/17352685430099_20240806502408.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                
+                &lt;h3&gt;주요 내용:&lt;/h3&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    SKT, SK컴즈 등 자회사 3곳 매각…“통신·AI에 집중”&lt;br&gt;&lt;br&gt;에스케이텔레콤(SKT)이 자회사·손자회사(계열사) 3곳을 삼구아이앤씨에 매각한다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 자회사 에스케이(SK)커뮤니케이션즈와 에프앤유(F&amp;U)신용정보, 손자회사인 복지 플랫폼 기업 에스케이(SK)엠앤서비스를 삼구아이앤씨에 매각하기로 했다고 지난 26일 밝혔다.&lt;br&gt;&lt;br&gt;에스케이텔레콤은 통신·인공지능(AI) 사업에 집중하기 위해 매각을 진행했다고 설명했다. 에스케이텔레콤은 각 사 지분 일부나 전량을 매각할 예정이다. 구체적인 매각 규모는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 에스케이(SK)그룹은 지난 10월께부터 에스케이커뮤니케이션즈를 매각하기로 하고 주관사 선정에 나섰다. 에스케이커뮤니케이션즈는 싸이월드와 네이트, 네이트온을 운영하며 주목받았지만, 모바일 시대에 접어들면서 고전했으며 지난해에는 86억원 이상의 영업 손실을 기록했다. 에프앤유신용정보는 통신요금에 대한 채권관리 업무, 콘택트센터 운영 등의 업무를 맡아왔다. 에스케이텔레콤의 손자회사인 에스케이엠엔서비스는 종합 복지서비스 업체다. 자회사인 피에스앤(PS&amp;)마케팅이 100% 지분을 보유하고 있다.
+                &lt;/div&gt;
+                
+                &lt;p&gt;&lt;a href="https://www.hani.co.kr/arti/economy/marketing/1175112.html" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item><item><title>[SK_AI] 싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표</title><link>https://www.newsis.com/view/NISX20241226_0003011508</link><description>
+            &lt;div style="font-family: 'Malgun Gothic', sans-serif;"&gt;
+                &lt;h2&gt;싸이월드 이어 네이트온까지…SK컴즈, SK와 22년간 인연 마침표&lt;/h2&gt;
+                &lt;p style="color: #666;"&gt;카테고리: SK_AI&lt;/p&gt;
+                
+                &lt;img src="https://img1.newsis.com/2024/12/26/NISI20241226_0001738013_web.jpg" alt="뉴스 이미지" style="max-width:100%;"/&gt;
+                
+                &lt;h3&gt;주요 내용:&lt;/h3&gt;
+                &lt;div style="line-height: 1.8; font-size: 16px; color: #333; margin: 15px 0;"&gt;
+                    SKT, 삼구아이앤씨에 SK컴즈 매각…법인 출범 22년만의 일&lt;br&gt;&lt;br&gt;AI 도입 등 제2 전성기 노렸으나 모바일 전환기 극복 못해&lt;br&gt;&lt;br&gt;토종 포털 3위 '네이트'와 국내 최대 PC 메신저 '네이트온', 국내 최대 규모 소셜네트워크서비스(SNS) '싸이월드'로 PC 시절 인터넷 시장을 주름 잡았지만 모바일·인공지능(AI)로 바뀌는 패러다임에 제대로 대응하지 못한 채 쇠퇴했다. SK텔레콤은 싸이월드를 SK컴즈에서 떼어내 팔았고, 남아 있던 SK컴즈마저 매각하기로 결정했다. SK텔레콤은 앞으로 통신과 인공지능(AI) 서비스에 집중한다는 계획이다.&lt;br&gt;&lt;br&gt;27일 업계에 따르면 SK텔레콤은 자회사 SK커뮤니케이션즈를 삼구아이앤씨에 매각한다. SK컴즈 법인 출범 22년 만의 일이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 매각 이유에 대해 "통신과 AI 사업에 집중하고 사업 포트폴리오의 효율성 제고를 위해 비핵심 계열사를 매각하기로 했다"고 전했다.
+                &lt;/div&gt;
+                
+                &lt;p&gt;&lt;a href="https://www.newsis.com/view/NISX20241226_0003011508" style="color: #0066cc; text-decoration: none; font-weight: bold;"&gt;
+                    원문 보기 →
+                &lt;/a&gt;&lt;/p&gt;
+            &lt;/div&gt;
+            </description><pubDate>Fri, 27 Dec 2024 15:25:42 +0900</pubDate></item></channel></rss>
