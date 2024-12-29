@@ -1,97 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 28 Dec 2024 08:00:34 +0000</lastBuildDate><item><title>📰 엔비디아 비켜…브로드컴 ‘맞춤형 반도체’ AI 칩 지도를 바꾼다</title><link>https://www.joongang.co.kr/article/25303421</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 29 Dec 2024 08:00:47 +0000</lastBuildDate><item><title>📰 AI 반도체 첫 유니콘 '리벨리온'…올해의 ICT R&amp;D 우수성과</title><link>https://www.newsis.com/view/NISX20241229_0003013588</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            엔비디아 비켜…브로드컴 ‘맞춤형 반도체’ AI 칩 지도를 바꾼다&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;지금 들어가도 늦지 않을까. ‘인공지능(AI) 반도체 신흥강자’로 떠오른 브로드컴 열풍이 뜨겁다. ‘AI 반도체 슈퍼스타’ 엔비디아가 주춤하는 사이, 맞춤형 반도체(ASIC) 기업인 브로드컴은 한달 새 40%가 넘는 수익률을 기록하며 새 주도주로 떠올랐다. 빅테크 기업 사이에서 엔비디아 의존도를 낮추려는 움직임을 타고, 구글·메타 등과 손잡으며 시장의 재편을 예고하고 있다.&lt;br&gt;&lt;br&gt;2018년 백악관을 방문한 혹 탄 브로드컴 CEO를 트럼프 대통령이 추켜세우던 모습. [연합뉴스]
+                            과기정통부·IITP "국산 차세대 AI 반도체 등 글로벌 시장 도전 성과"&lt;br&gt;&lt;br&gt;KAIST, 엔비디아 A100 대비 전력 625배 ↓…ETRI, 실제망에 양자정보 전송&lt;br&gt;&lt;br&gt;다크웹 특화 생성형 AI 인터폴과 공조…딥페이크 추적 솔루션 개발&lt;br&gt;&lt;br&gt;과학기술정보통신부와 정보통신기획평가원(IITP)은 이같은 내용을 포함한 '올해의 ICT R&amp;D 우수성과'를 29일 발표했다. 과기정통부와 IITP는 ICT R&amp;D에 연간 약 1조 원 규모의 전략적 투자를 진행하고 있다. 올해에는 인공지능(AI) 대전환 등 디지털 패러다임 변화 대응에 필요한 기술에 적극 지원했다.&lt;br&gt;&lt;br&gt;올해의 우수성과는 3가지 분야로 ▲AI반도체·AI·양자 등 게임체인저 분야 ▲차세대통신과 전파, 사이버 보안 등 인프라 분야 ▲디지털융합을 통한 사회혁신 기술개발 분야로 분류했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.joongang.co.kr/article/25303421" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20241229_0003013588" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.joongang.co.kr
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://pds.joongang.co.kr/news/component/joongang_sunday/202412/28/83e19bf5-23da-43cb-92a5-e8d819813d69.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2023/07/10/NISI20230710_0019951799_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 28 Dec 2024 17:00:34 +0900</pubDate></item><item><title>📰 '해현경장' 강조한 최태원 회장, 1년 후 SK에 생긴 변화는?</title><link>http://www.seoulfn.com/news/articleView.html?idxno=543458</link><description>
+                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item><item><title>📰 SKT·KT·LGU+, CES에 참관단 파견</title><link>https://www.etnews.com/20241229000019</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최 회장이 언급한 '해현경장'은 느슨해진 거문고는 줄을 풀어내어 다시 팽팽하게 고쳐 맨다는 뜻으로 옛 한나라 사상가 동중서가 무제에게 '변화와 개혁'을 강조하며 올린 건의문에서 유래된 말이다.&lt;br&gt;&lt;br&gt;최 회장의 이 같은 메시지는 올해 SK그룹이 '리밸런싱(사업재편)'을 추진하는 발판이 됐다. 지난 5월 공정거래위원회가 발표한 '2024년 공시대상기업집단 지정현황'에 따르면 SK그룹의 계열회사 수는 전년 대비 21개가 늘어난 219개로 나타났다. 이는 88개 공시대상기업집단 중 가장 많은 규모이며 2위인 카카오 128개와 비교해도 2배 가까이 많다.&lt;br&gt;&lt;br&gt;SK는 리밸런싱을 통해 핵심사업의 경쟁력을 강화하고 비효율 사업을 정리하기로 했다. 특히 SK의 양대 축인 에너지 사업과 ICT 사업은 각각 배터리, AI·반도체를 중심으로 재편하기로 했다. 이를 위해 SK그룹은 최창원 SK디스커버리 대표이사 부회장을 그룹 내 의사결정 기구인 SK수펙스추구협의회 의장으로 임명했다. 최 부회장은 SK그룹 리밸런싱을 진두지휘하며 비효율적인 사업 영역을 정리하는데 앞장섰다.&lt;br&gt;&lt;br&gt;SK 리밸런싱의 핵심은 베트남 투자 지분의 매각과 SK온의 정상화에 있다. SK는 지난 11월 베트남 마산그룹의 지분 5.05%를 매각하고 투자금 1조원을 회수했다. 또 빈그룹 투자 지분에 대해서도 매각을 진행해 내년까지 투자금을 회수한다는 계획이다.&lt;br&gt;&lt;br&gt;여기에 SK온을 중심으로 한 에너지 사업 효율화도 진행하고 있다. SK온은 2021년 SK이노베이션에서 분사한 후 올해까지 누적 시설투자(CAPEX) 규모가 20조원에 이른다. SK온은 올해 3분기 매출 1조4308억원, 영업이익 240억원을 기록하며 출범 이후 첫 흑자를 기록했다. 다만 이 같은 실적 개선은 사업 수주 성과보다 운영 효율화에 따른 것으로 2026년 IPO(기업공개) 추진 때까지 재무적 경쟁력을 확보해야 한다.
+                            SK텔레콤·KT·LG유플러스가 세계 최대 정보기술(IT)·가전 기술 전시회 'CES 2025'에 임직원 참관단을 파견한다.&lt;br&gt;&lt;br&gt;LG유플러스는 29일 사내 AI 전문가로 구성된 참관단이 CES 2025에 참석한다고 밝혔다.&lt;br&gt;&lt;br&gt;AI 전문가 참관단은 이상엽 LG유플러스 CTO(최고기술책임자·전무)를 필두로, AI 기반 상품·서비스 개발을 총괄하는 최윤호 LG유플러스 AI 에이전트 추진 그룹장(상무) 등이 포함된다.&lt;br&gt;&lt;br&gt;이들은 인공지능 전환(AX) 역량 강화·사업 파트너 발굴을 위해 통신·가전 업체들의 전시관을 둘러보고 사업 협력 방안을 타진한다. 특히 모바일, 홈 IoT, 기업 고객용 상품 등 AI 기술이 접목된 사례를 중점적으로 살펴보고 자사 AI인 '익시(ixi)'의 개선 방향을 도출한다는 방침이다.&lt;br&gt;&lt;br&gt;AI 전문가 참관단은 지난 11월 출시한 '익시오(ixi-O)' 등 AI 에이전트의 전략 수립 및 서비스 로드맵 고도화를 위해 연관된 기업들의 컨퍼런스를 참여할 예정이다. 이를 통해 글로벌 AI 기술 동향을 확인함과 동시에 유망 AI 기술 보유 기업을 발굴할 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.seoulfn.com/news/articleView.html?idxno=543458" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.etnews.com/20241229000019" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.seoulfn.com
+                            출처: www.etnews.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="http://www.seoulfn.com/news/thumbnail/202412/543458_297034_5050_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.etnews.com/news/article/2024/12/29/news-p.v1.20241229.a9134f6bcecf4f6c8183c4d7fa77ab32_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 28 Dec 2024 17:00:34 +0900</pubDate></item><item><title>📰 [뉴투분석] 삼성전자-SK하이닉스, 성과급에 희비 엇갈려</title><link>https://www.news2day.co.kr/article/20241226500183</link><description>
+                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item><item><title>📰 속도 올리는 SK하닉, 쫓아가는 삼성···"HBM 각축전 새해에 더 심화"</title><link>http://www.enewstoday.co.kr/news/articleView.html?idxno=2219045</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [뉴투분석] 삼성전자-SK하이닉스, 성과급에 희비 엇갈려&lt;br&gt;&lt;br&gt;경남은행이 쏘아올린 공...'금융사고 성과급 환수' 재점화하나&lt;br&gt;&lt;br&gt;[JOB현장에선] 삼성전자 노조원이 급증한 이유...15조원 적자 나도 성과급 달라는 DS 부문이 주도
+                            속도 올리는 SK하닉, 쫓아가는 삼성···“HBM 각축전 새해에 더 심화”&lt;br&gt;&lt;br&gt;속도 올리는 SK하닉, 쫓아가는 삼성···“HBM 각축전 새해에 더 심화”&lt;br&gt;&lt;br&gt;이처럼 폭발적 성장을 이루고 있는 AI 반도체 시장의 패권을 둘러싸고 6세대 제품인 HBM4 등 차세대 혁신 제품 개발에 속도를 올리고 있는 만큼 향후 시장 주도권이 어디로 돌아갈지 귀추가 주목된다.&lt;br&gt;&lt;br&gt;내년 HBM 시장 전망은 공급보다 수요가 더 많은 상황이 이어질 것으로 점쳐진다. 당연하게도 메모리 업계는 경쟁적으로 생산능력 확대를 위한 경쟁에 나선 상태다.&lt;br&gt;&lt;br&gt;시장조사업체 트렌드포스에 따르면 삼성전자는 HBM 핵심 공정인 TSV(실리콘관통전극) 처리 용량을 웨이퍼 환산 기준 올해 말 12만장에서 내년 말 17만장으로 40% 늘릴 전망이다. SK하이닉스도 처리 용량을 같은 기간 15만장으로, 올해보다 25% 늘릴 것으로 예상된다. 마이크론도 현 2만5000장에서 4만5000장으로 확대 중이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news2day.co.kr/article/20241226500183" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2219045" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news2day.co.kr
+                            출처: www.enewstoday.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.news2day.co.kr/data2/content/image/2024/12/26/.cache/512/20241226500188.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.enewstoday.co.kr/news/thumbnail/202412/2219045_1028817_355_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 28 Dec 2024 17:00:34 +0900</pubDate></item><item><title>📰 [아듀2024] 격동의 반도체업계…'삼성·인텔·SK' 명암 엇갈려</title><link>https://weekly.hankooki.com/news/articleView.html?idxno=7101825</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스는 38억 7000만 달러(약 5조 6000억원)를 투입해 미국 인디애나주에 새로운 반도체 공장을 건설한다. 지난 4월 곽노정 SK하이닉스 사장이 인디애나주 퍼듀대학교에서 열린 신규 반도체 공장 설립 투자 협약식에 참석해 연설하고 있다./퍼듀연구재단&lt;br&gt;&lt;br&gt;아울러 우리나라를 비롯해 미국, 일본, 유럽연합(EU) 등 세계 주요국의 반도체 경쟁이 날로 격화하는 모습을 보이고 있다. 기업간 주도권 싸움에 그치던 반도체 경쟁이 이제는 국가 대항전 형태로 확전된 것이다. 더구나 올해 미국 대선의 승자가 도널드 트럼프 전 대통령으로 결정되면서 그간 조 바이든 행정부의 주파수에 맞춰 진행해 온 우리 기업들의 매머드급 투자 플랜이 엎어질 위기에 처했다. 그야말로 한 치 앞을 내다볼 수 없는 상황에 놓인 것이다.&lt;br&gt;&lt;br&gt;과거 ‘반도체 왕국’ 인텔은 최악의 매출 부진에 빠졌다. 주력인 중앙처리장치(CPU) 시장에서 라이벌 AMD의 공세에 밀려 점유율이 계속 줄어드는 데다, 미래 먹거리로 꼽은 파운드리마저 이렇다 할 가능성을 보여주지 못하고 있기 때문이다. 적자가 눈덩이처럼 불어나면서 결국 인텔은 사업 매각, 인력 감원 등의 대규모 구조조정 카드를 꺼내 들었다.&lt;br&gt;&lt;br&gt;인텔 몰락의 배경으로는 팻 겔싱어 최고경영자(CEO)의 무리한 파운드리 사업 강행이 꼽힌다. 겔싱어 CEO는 2021년 인텔 총수 자리에 오르면서 2018년 접었던 파운드리 사업을 부활시켰다. 이어 천문학적인 투자금을 쏟으며 2030년 글로벌 2위 파운드리 기업 삼성전자를 추월할 것이란 포부도 밝혔다. 하지만 겔싱어 CEO는 경영난에 대한 책임을 지고 4년 만에 자리에서 물러났다.&lt;br&gt;&lt;br&gt;세계 주요 국가들이 반도체 산업을 두고 치열한 각축전을 벌이고 있다. 거액의 정부 보조금을 주는 조건으로 첨단 반도체 기업의 생산설비를 자국에 유치하는 움직임이 점점 거세지고 있는 것. 바이든 행정부는 2022년 ‘반도체와 과학법’(칩스법)을 제정하고 자국에 반도체 공장을 짓는 기업에 5년간 527억 달러(약 70조 5000억원) 상당 정부 보조금을 지원할 예정이다. 과거 반도체 강국의 위상을 되찾겠다는 일본 역시 2030년까지 AI와 반도체 분야에 10조엔(약 92조원)을 투입한다는 계획을 발표했다. EU도 ‘EU 칩스법’을 제정하고 약 430억 유로(약 62조원) 규모 지원금을 투입할 방침이다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://weekly.hankooki.com/news/articleView.html?idxno=7101825" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: weekly.hankooki.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.weekly.hankooki.com/news/thumbnail/202412/7101825_191516_826_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 28 Dec 2024 17:00:34 +0900</pubDate></item><item><title>📰 "삼성·SK와도 경쟁 가능한 수준"…업계가 놀란 中 반도체 기술</title><link>https://www.joongang.co.kr/article/25303477</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "삼성·SK와도 경쟁 가능한 수준"…업계가 놀란 中 반도체 기술&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;시진핑 중국 국가주석이 지난 2018년 4월 중국 우한에 있는 YMTC 공장을 둘러보고 있다. 신화통신=연합뉴스&lt;br&gt;&lt;br&gt;중국 메모리 반도체가 또 다시 기술 장벽을 넘어섰다. 이번엔 낸드다. 27일 반도체 업계에 따르면 중국 즈타이사(社)는 신형 2TB(테라바이트) SSD(솔리드스테이트드라이브)를 최근 출시해 자국 내수시장을 중심으로 판매에 들어간 것으로 확인됐다. SSD는 메모리 반도체인 낸드플래시 기반의 제품으로, 최근 인공지능(AI)의 발달로 데이터 저장·처리량이 폭증하면서 수요가 늘고 있다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.joongang.co.kr/article/25303477" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.joongang.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202412/28/13c320fc-c984-476c-a526-c8070333870a.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 28 Dec 2024 17:00:34 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item></channel></rss>
