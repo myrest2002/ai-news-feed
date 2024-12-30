@@ -1,13 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 29 Dec 2024 08:00:47 +0000</lastBuildDate><item><title>📰 AI 반도체 첫 유니콘 '리벨리온'…올해의 ICT R&amp;D 우수성과</title><link>https://www.newsis.com/view/NISX20241229_0003013588</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 30 Dec 2024 08:00:22 +0000</lastBuildDate><item><title>📰 "올해 10명 중 7명 생성형 AI 써봤다…2명은 유료 이용"</title><link>https://www.news1.kr/it-science/general-it/5646190</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            과기정통부·IITP "국산 차세대 AI 반도체 등 글로벌 시장 도전 성과"&lt;br&gt;&lt;br&gt;KAIST, 엔비디아 A100 대비 전력 625배 ↓…ETRI, 실제망에 양자정보 전송&lt;br&gt;&lt;br&gt;다크웹 특화 생성형 AI 인터폴과 공조…딥페이크 추적 솔루션 개발&lt;br&gt;&lt;br&gt;과학기술정보통신부와 정보통신기획평가원(IITP)은 이같은 내용을 포함한 '올해의 ICT R&amp;D 우수성과'를 29일 발표했다. 과기정통부와 IITP는 ICT R&amp;D에 연간 약 1조 원 규모의 전략적 투자를 진행하고 있다. 올해에는 인공지능(AI) 대전환 등 디지털 패러다임 변화 대응에 필요한 기술에 적극 지원했다.&lt;br&gt;&lt;br&gt;올해의 우수성과는 3가지 분야로 ▲AI반도체·AI·양자 등 게임체인저 분야 ▲차세대통신과 전파, 사이버 보안 등 인프라 분야 ▲디지털융합을 통한 사회혁신 기술개발 분야로 분류했다.
+                            방심위, '제주항공 참사' 제보영상 그대로 튼 MBC 뉴스 심의&lt;br&gt;&lt;br&gt;드림어스컴퍼니, 아이리버 50억에 매각…음악 사업 집중&lt;br&gt;&lt;br&gt;"경기침체엔 마케팅도 스마트하게…생성AI로 초개인화 광고"&lt;br&gt;&lt;br&gt;광명시로 사옥 옮긴 11번가, 광명시 소상공인 지원 구축&lt;br&gt;&lt;br&gt;인크로스, 3Q 영업익 53억원…전년 대비 37.3% 증가
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20241229_0003013588" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/it-science/general-it/5646190" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.news1.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://i3n.news1.kr/system/photos/2024/12/30/7060952/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 30 Dec 2024 17:00:22 +0900</pubDate></item><item><title>📰 SKT 유영상·KT 김영섭, CES2025 미국行…글로벌 AI 트렌드 살핀다</title><link>https://www.newsis.com/view/NISX20241229_0003013861</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SKT, SK그룹사들과 AI 주제로 한 부스 운영…유영상, AI 역량 강화 현장행보&lt;br&gt;&lt;br&gt;김영섭 KT 대표로 첫 CES 출장…LGU+는 CTO 중심으로 한 참관단이 방문&lt;br&gt;&lt;br&gt;30일 이동통신업계에 따르면 이통3사 중 SK텔레콤과 KT는 대표가 직접 CES 전시관을 찾는다.&lt;br&gt;&lt;br&gt;SK텔레콤의 경우 SK하이닉스, SKC, SK엔무브 등 SK그룹사들과 함께 공동 전시관을 운영한다. 전시 주제를 '혁신적인 AI 기술로 지속가능한 미래를 만든다'로 삼은 만큼 AI 기술 전시에 집중할 예정이다.&lt;br&gt;&lt;br&gt;핵심은 AI 데이터센터다. AI 데이터센터 인프라 매니저(운영)와 AI 데이터센터 시큐어 에지(보안) 등 AI 데이터센터 솔루션과 함께 SK텔레콤의 AI 반도체 자회사 사피온과 합병한 리벨리온의 신경망처리장치(NPU) 기반 AI 가속기도 선보인다. 북미 시장을 타깃으로 내년 출시를 준비 중인 글로벌향 AI 에이전트 에스터(Aster)도 공개한다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20241229_0003013861" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -16,17 +35,17 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2023/07/10/NISI20230710_0019951799_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2024/12/29/NISI20241229_0001739301_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item><item><title>📰 SKT·KT·LGU+, CES에 참관단 파견</title><link>https://www.etnews.com/20241229000019</link><description>
+                </description><pubDate>Mon, 30 Dec 2024 17:00:22 +0900</pubDate></item><item><title>📰 [미리보는 CES 2025]〈2〉AI 선도 엔비디아·SK하이닉스 반도체 기술 '주...</title><link>https://www.etnews.com/20241230000135</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤·KT·LG유플러스가 세계 최대 정보기술(IT)·가전 기술 전시회 'CES 2025'에 임직원 참관단을 파견한다.&lt;br&gt;&lt;br&gt;LG유플러스는 29일 사내 AI 전문가로 구성된 참관단이 CES 2025에 참석한다고 밝혔다.&lt;br&gt;&lt;br&gt;AI 전문가 참관단은 이상엽 LG유플러스 CTO(최고기술책임자·전무)를 필두로, AI 기반 상품·서비스 개발을 총괄하는 최윤호 LG유플러스 AI 에이전트 추진 그룹장(상무) 등이 포함된다.&lt;br&gt;&lt;br&gt;이들은 인공지능 전환(AX) 역량 강화·사업 파트너 발굴을 위해 통신·가전 업체들의 전시관을 둘러보고 사업 협력 방안을 타진한다. 특히 모바일, 홈 IoT, 기업 고객용 상품 등 AI 기술이 접목된 사례를 중점적으로 살펴보고 자사 AI인 '익시(ixi)'의 개선 방향을 도출한다는 방침이다.&lt;br&gt;&lt;br&gt;AI 전문가 참관단은 지난 11월 출시한 '익시오(ixi-O)' 등 AI 에이전트의 전략 수립 및 서비스 로드맵 고도화를 위해 연관된 기업들의 컨퍼런스를 참여할 예정이다. 이를 통해 글로벌 AI 기술 동향을 확인함과 동시에 유망 AI 기술 보유 기업을 발굴할 계획이다.
+                            [미리보는 CES 2025]〈2〉AI 선도 엔비디아·SK하이닉스 반도체 기술 '주목'&lt;br&gt;&lt;br&gt;새해 1월 7일 미국 라스베이거스에서 개막하는 CES는 인공지능(AI) 산업 핵심으로 부상한 첨단 반도체 기술을 확인할 수 있는 장이 될 전망이다.&lt;br&gt;&lt;br&gt;반도체는 '챗GPT' 등 대규모 언어 모델(LLM) 기반 생성형 AI 서비스 구현을 위한 필수 부품이 됐다. 방대한 정보를 짧은 시간에 연산·분석·처리하기 위해선 기존 반도체보다 성능이 개선된 저전력·고효율 칩이 필요하기 때문이다.&lt;br&gt;&lt;br&gt;AI 반도체 시장을 주도하고 있는 엔비디아는 CES 2025 기간 동안 고객사 대상 쇼케이스를 열고 최신 기술을 공개할 예정이다. 엔비디아는 AI용 그래픽처리장치(GPU)를 마이크로소프트(MS)·아마존·구글·메타 등 글로벌 빅테크 기업에 공급, AI 반도체 시장에서 90% 이상의 점유율을 차지하고 있다.&lt;br&gt;&lt;br&gt;젠슨 황 엔비디아 최고경영자(CEO)는 기조연설 무대에도 오른다. 황 CEO가 CES 기조연설자로 나서는 건 지난 2017년 이후 8년 만이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.etnews.com/20241229000019" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.etnews.com/20241230000135" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -35,25 +54,44 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.etnews.com/news/article/2024/12/29/news-p.v1.20241229.a9134f6bcecf4f6c8183c4d7fa77ab32_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.etnews.com/news/article/2024/01/12/news-p.v1.20240112.df14c80f21aa4771a3f75f60a3d2e043_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item><item><title>📰 속도 올리는 SK하닉, 쫓아가는 삼성···"HBM 각축전 새해에 더 심화"</title><link>http://www.enewstoday.co.kr/news/articleView.html?idxno=2219045</link><description>
+                </description><pubDate>Mon, 30 Dec 2024 17:00:22 +0900</pubDate></item><item><title>📰 "SK하이닉스, 반도체 하락 사이클에도 실적 성장 지속"-KB증권 [하이&amp;로...</title><link>https://news.mtn.co.kr/news-detail/2024123008001223360</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            속도 올리는 SK하닉, 쫓아가는 삼성···“HBM 각축전 새해에 더 심화”&lt;br&gt;&lt;br&gt;속도 올리는 SK하닉, 쫓아가는 삼성···“HBM 각축전 새해에 더 심화”&lt;br&gt;&lt;br&gt;이처럼 폭발적 성장을 이루고 있는 AI 반도체 시장의 패권을 둘러싸고 6세대 제품인 HBM4 등 차세대 혁신 제품 개발에 속도를 올리고 있는 만큼 향후 시장 주도권이 어디로 돌아갈지 귀추가 주목된다.&lt;br&gt;&lt;br&gt;내년 HBM 시장 전망은 공급보다 수요가 더 많은 상황이 이어질 것으로 점쳐진다. 당연하게도 메모리 업계는 경쟁적으로 생산능력 확대를 위한 경쟁에 나선 상태다.&lt;br&gt;&lt;br&gt;시장조사업체 트렌드포스에 따르면 삼성전자는 HBM 핵심 공정인 TSV(실리콘관통전극) 처리 용량을 웨이퍼 환산 기준 올해 말 12만장에서 내년 말 17만장으로 40% 늘릴 전망이다. SK하이닉스도 처리 용량을 같은 기간 15만장으로, 올해보다 25% 늘릴 것으로 예상된다. 마이크론도 현 2만5000장에서 4만5000장으로 확대 중이다.
+                            "SK하이닉스, 반도체 하락 사이클에도 실적 성장 지속"-KB증권 [하이&amp;로우]&lt;br&gt;&lt;br&gt;KB증권이 SK하이닉스에 대해 목표주가 24만원을 제시하며 투자의견 매수를 유지했다. 스마트 폰과 PC 수요 둔화에 따른 범용 메모리 재고 증가에도 인공지능(AI) 및 서버용 메모리 (HBM, DDR5, eSSD) 매출이 확대되면서 반도체 하락 사이클에도 불구하고 내년 실적 성장세가 지속될 것이란 이유에서다.&lt;br&gt;&lt;br&gt;30일 김동원 KB증권 연구원은 "2025년 SK하이닉스는 HBM3E 출하 증가로 DRAM에서 차지하는 HBM 매출 비중이 분기별 42~44%에 달하며, DRAM 이익의 50% 이상을 HBM에서 창출할 것으로 예상된다"며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;내년 NAND 부문은 매출의 60%를 상회한 eSSD 매출 증가와 공급 축소 전략 등에 따른 원가구조 개선으로 공급 과잉 국면에서도 과거처럼 급격한 수익성 악화 가능성은 제한적일 것으로 봤다.&lt;br&gt;&lt;br&gt;4분기 실적은 매출이 1년 전보다 72% 증가한 19조4000억원, 영업이익은 전분기보다 8% 증가한 7조6000억원으로 전망했다. 이는 컨센서스 영업이익인 8조원에 부합하는 수준이다. 4분기 부문별 영업이익은 DRAM이 전분기보다 12% 증가한 7조원, NAND가 24% 감소한 0.6조원을 기록할 것으로 추정됐다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2219045" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://news.mtn.co.kr/news-detail/2024123008001223360" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.enewstoday.co.kr
+                            출처: news.mtn.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.enewstoday.co.kr/news/thumbnail/202412/2219045_1028817_355_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://menu.mtn.co.kr/upload/article/2024/12/30/2024123008001223360_00_327.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 29 Dec 2024 17:00:47 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Mon, 30 Dec 2024 17:00:22 +0900</pubDate></item><item><title>📰 SK하이닉스 찾은 산업장관 "용인 클러스터 적기 조성 총력"</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=02453446639123768</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            안 장관은 이날 충북 청주 SK하이닉스(000660) 청주캠퍼스에서 열린 ‘반도체 수출·투자 환경 점검 및 기업간담회’에서 모두발언을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;간담회에는 안 장관을 비롯한 산업부 국장들과 송현종 SK하이닉스 사장, 전영선 심텍(222800) 사장 등 소재·부품·장비(소부장) 기업, 김정회 한국반도체산업협회 부회장 등이 참여했다.&lt;br&gt;&lt;br&gt;안 장관은 용인 반도체 메가 클러스터가 지난달 전력·용수 공급 협약을 체결했고, 국가산업단지 실시계획도 예정보다 3개월 먼저 승인되는 등 모든 절차가 차질 없이 진행되고 있으며, 전력·용수 등 기반시설은 정부가 책임지고 구축하겠다고 공언했다.&lt;br&gt;&lt;br&gt;그러면서 “국내 정치 상황, 트럼프 신(新)정부 출범, 중국의 매서운 추격 등 국내외 불확실성에도 반도체 등 첨단산업에 대한 정부 지원은 흔들림 없이 지속될 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;이날 간담회 참석자들은 내년 반도체 업황과 수출 전망 등을 공유하고 △용인 반도체 메가 클러스터 조성 △소부장 연구개발(R&amp;D) 지원 △반도체 인력양성 등에 대한 의견도 교환했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=02453446639123768" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.edaily.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2024/12/PS24123000655.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 30 Dec 2024 17:00:22 +0900</pubDate></item></channel></rss>
