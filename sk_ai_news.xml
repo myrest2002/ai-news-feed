@@ -1,89 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 01 Jan 2025 08:00:23 +0000</lastBuildDate><item><title>📰 [2025 핫이슈]AI 에이전트 시대 개막</title><link>https://www.etnews.com/20241227000026</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 02 Jan 2025 08:00:25 +0000</lastBuildDate><item><title>📰 “AI로 통신산업 패러다임 전환”</title><link>https://biz.heraldcorp.com/article/10381309?ref=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            인간의 개입 없이 자율적으로 다양한 작업을 수행하고 인간과 상호작용하는 AI 비서 시스템이 확산될 전망이다. 특히 AI 에이전트 기술은 기존 서비스형 소프트웨어(SaaS) 생태계에 결합돼 AI 수익화에 첨병으로 여겨지고 있다.&lt;br&gt;&lt;br&gt;구글, 마이크로소프트(MS), 애플, 메타 등 글로벌 빅테크 기업들은 지난해 하반기부터 본격적으로 자사 서비스에 AI 에이전트의 초기 모델을 선보이고, 새로운 부가가치 창출에 나섰다.&lt;br&gt;&lt;br&gt;국내 기업들도 AI 에이전트 잇달아 선보인다. SK텔레콤은 세계 최대 IT·가전 전시회 'CES 2025'에서 글로벌향 AI 에이전트 '에스터'를 공개한다. LG유플러스도 'AI 에이전트 추진 그룹'을 신설하고 AI 서비스와 상품 개발을 추진하고 있다.&lt;br&gt;&lt;br&gt;이외에도 한컴 등 국내 소프트웨어(SW) 기업들도 관련 솔루션을 공개하며 AI 에이전트 서비스 확산에 대응하고 있다.
+                            유 사장은 2일 신년사를 통해 “불확실성의 시대에 우리 모두 위기를 대비해 내실을 다지고 ‘글로벌 AI 컴퍼니(Global AI Company)’라는 비전을 향해 지혜와 열정을 모아 패기 있게 나아가자”며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “2025년은 전례 없는 위기를 맞닥뜨리게 될 것”이라며 “글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망은 어둡고 국내 경제 역시 어려움이 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “AI 기반 디지털 혁신이 만들어 내는 시장 성장과 AI와 통신의 결합을 통한 혁신 등 새로운 기회도 예측되지만, 기술패권 경쟁과 투자 경쟁도 가속할 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;유 사장은 글로벌 AI 컴퍼니로 전환을 위한 방법으로 ▷본원적 경쟁력 극대화(OE) ▷AI 가시적 성과 ▷유연한 기업문화, 세 가지를 강조했다.&lt;br&gt;&lt;br&gt;그는 “단기 수익성과 장기 성장성을 동시해 고려해 불필요한 요소를 제거하고 AI·디지털 전환(AT·DT) 기술을 활용해 경쟁력을 강화해야 한다”며 “궁극적으로 기존 통신 사업의 패러다임을 완전히 전환해 나갈 것”이라고 밝혔다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.etnews.com/20241227000026" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://biz.heraldcorp.com/article/10381309?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.etnews.com
+                            출처: biz.heraldcorp.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.etnews.com/news/article/2024/12/26/news-p.v1.20241226.4aaa6ed9063c4aa1b0ad1d7f998bfe3b_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/01/02/news-p.v1.20250102.943a3cc508064c0084350dc87d0dfaca_T1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 01 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 [미리보는 CES] ① 'AI 일상 속으로'…세계 최대 기술 전시회 7일 개막</title><link>https://www.yna.co.kr/view/AKR20241231049500091?input=1195m</link><description>
+                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 유영상 SKT 대표 "AI 사업 가시적 성과 창출"[신년사]</title><link>https://www.meconomynews.com/news/articleView.html?idxno=106817</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [미리보는 CES] ① 'AI 일상 속으로'…세계 최대 기술 전시회 7일 개막&lt;br&gt;&lt;br&gt;세계 최대 가전·정보기술 전시회 'CES 2025'가 현지시간 7일부터 10일까지 미국 라스베이거스에서 열립니다.&lt;br&gt;&lt;br&gt;연합뉴스는 CES 개막을 앞두고 이번 행사에서 소개될 기술과 참가 기업, 기조연설자 등 주목할 만한 내용을 네 편의 기사로 제작해 송고합니다.&lt;br&gt;&lt;br&gt;전 세계 기술 산업의 트렌드와 방향을 한 눈에 볼 수 있는 세계 최대 가전·정보기술 전시회 'CES 2025'가 7∼10일 미국 라스베이거스에서 열린다.&lt;br&gt;&lt;br&gt;
+                            유영상 SK텔레콤 대표가 2일 임직원들에게 보낸 신년사를 통해 "지난해 인공지능(AI) 사업이 B2B, B2C 부문에서 가능성을 입증한 데 이어, 올해는 실질적인 매출 성장으로 이어질 것"이라고 밝혔다.&lt;br&gt;&lt;br&gt;유 대표는 "글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망이 어둡고 내수 경기 침체 등 여러 어려움이 예상된다"고 진단하면서 "AI 기술 패권 경쟁과 투자 경쟁도 가속화될 것"이라고 내다봤다.&lt;br&gt;&lt;br&gt;그러면서 그는 이 같은 위기 상황을 돌파하고 글로벌 인공지능 기업으로 나아가기 위한 대안으로 '본원적 경쟁력 극대화(OE)'를 제시했다.&lt;br&gt;&lt;br&gt;유 대표는 "단기 수익성과 장기 성장성을 동시에 고려, 불필요한 요소를 제거하고 AT/DT(AI/디지털) 기술을 활용해 경쟁력을 강화해야 한다"며 "기존 통신 사업의 패러다임을 AI를 통해 완전히 전환해 나갈 것"이라고 강조했다.&lt;br&gt;&lt;br&gt;AI 사업에서의 가시적 성과를 자신한 유 대표는 "첨단 데이터 인프라 'AI Infra Super Highway' 구축을 위한 AI DC, GPUaaS, Edge AI 사업은 물론 AIX Solution과 PAA(개인 AI 비서)에 이르기까지 'AI 밸류체인' 전 영역에서 의미 있는 결과를 만들겠다"며 임직원들을 독려했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20241231049500091?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.meconomynews.com/news/articleView.html?idxno=106817" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: www.meconomynews.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img6.yna.co.kr/etc/inner/KR/2024/12/31/AKR20241231049500091_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://www.meconomynews.com/news/thumbnail/202501/106817_126537_474_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 01 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 믿을 건 AI뿐…국내 선호도 1위 SK하이닉스, 해외 1위는?</title><link>http://news.mt.co.kr/mtview.php?no=2024122007445212836</link><description>
+                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK텔레콤 유영상 "2025년 AI로 가시적인 성과 창출해야"</title><link>https://www.hankyung.com/article/202501020819g</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            ���� ������ ���� �ֵ��� ������������/�׷���=������&lt;br&gt;&lt;br&gt;������������ ��Ȯ�Ǽ��� Ŀ���� ��Ȳ �ӿ��� ���������� ���ص� AI(�ΰ�����)�� ���� ���ø� ������ ������ �����ߴ�. �ؿܿ����� ����, ���ڷ�, ���¼���� ���� Ʈ���� ���������� �ָ��ؾ� �Ѵٰ� ���ٺô�.&lt;br&gt;&lt;br&gt;�Ӵ������̰� ���� ������ 170���� ������� ������ ��� ��ü �������� 49.4%�� 84��(���� ��������)�� ���� ���ø� �ֵ��� ������������ AI���ݵ�ü�� �����ߴ�. ����AI�� Chat GPT(ê GPT)�� �������� HBM(���뿪���޸�)�� ����� �ϻ��� �ٲٱ� �����Ѹ�ŭ ���ص� �ֵ��ַ� �ڸ��ű��� ���̶� ����������.&lt;br&gt;&lt;br&gt;AI���ݵ�ü �ڸ� ���ࡤ���̿����̿��Ƿ�(41.2%��70��), �������ؿ�װ�(35.3%��60��), �������(33.5%��57��)�� �̾���. ���ڷ¹���(24.1%��41��), ���¼���(24.1%��41��)�� ������������ ������.&lt;br&gt;&lt;br&gt;�ݸ� ���� ���ÿ��� ������ ����ؾ� �� ���� �������� ��ü �������� 38.8%�� 66���� ��������2�������� ���ߴ�. ������ ĳ��(�Ͻ��� �����ȭ)�� �߱��� �������� ���߰��� ���� ſ�̴�. �� �ڸ� ģȯ�� ������(30.6%��52��), ������ȭ��(28.8%��49��)�� �̾���.
+                            SK텔레콤 유영상 "2025년 AI로 가시적인 성과 창출해야"&lt;br&gt;&lt;br&gt;유영상 CEO "본원적 경쟁력 극대화로 통신 사업 패러다임 전환"&lt;br&gt;&lt;br&gt;SK텔레콤은 유영상 최고경영자(CEO)가 2025년 신년사를 구성원들에게 공유했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤에 따르면 이날 유 CEO는 신년사를 통해 "본원적 경쟁력 극대화(OE)로 통신 사업의 패러다임을 전환하고, 인공지능(AI)으로 성과 창출하자"는 메시지를 구성원들에게 전했다.&lt;br&gt;&lt;br&gt;유 CEO는 "2024년은 OI(본원적 경쟁력 강화)를 통해 통신 사업의 건전성을 확보하고, AI 피라미드 전략의 실행력을 높이는 등 통신과 AI 두 축을 기반으로 '글로벌 AI 컴퍼니'의 토대를 마련했다"면서도 "2025년은 전례 없는 위기를 맞닥뜨리게 될 것"이라며 "글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망은 어둡고, 국내 경제 역시 내수 경기 침체 등 여러 어려움이 예상된다"고 말했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2024122007445212836" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: news.mt.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://thumb.mt.co.kr/21/2024/12/2024122007445212836_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Wed, 01 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 [신년기획-新사이버 위협①] AI로 훔치고, 딥페이크로 속인다</title><link>https://www.newsis.com/view/NISX20241231_0003015903</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            #. 2024년 2월 한 다국적 금융기업에서는 직원이 AI로 생성된 가짜 화상회의에 노출돼 2억 홍콩달러(약 340억원)를 이체하는 사건이 발생했다. 피해자는 생성형 AI로 만들어진 직장 동료의 목소리와 외모에 감쪽같이 속았다.&lt;br&gt;&lt;br&gt;#. 2024년 5월 일본에서는 AI를 활용해 컴퓨터 바이러스를 제작한 20대가 체포됐다. 이 범죄자는 IT 관련 지식이 거의 없었지만, 생성형 AI를 사용해 바이러스 소스코드를 얻고 그 정보를 조합해 랜섬웨어를 제작한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;위 사례는 모두 생성형 인공지능(AI) 기술을 악용했다는 공통점이 있다.&lt;br&gt;&lt;br&gt;AI의 발전은 사회 전반에 걸쳐 다양한 긍정적 영향을 미치고 있지만, 동시에 해커들의 공격 도구로 악용될 수 있다는 점에서 경고의 메시지가 나온다. AI를 악용한 랜섬웨어·피싱 공격은 더 고도화되고, 딥페이크는 더 정교하고 초개인화되면서 각별한 주의가 요구된다.&lt;br&gt;&lt;br&gt;과학기술정보통신부와 한국인터넷진흥원(KISA)은 '2025년 사이버위협 전망' 보고서를 통해 생성형 AI 모델을 악용한 사이버 보안 위협이 더욱 늘어날 것이란 점을 경고했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20241231_0003015903" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2024/12/24/NISI20241224_0001736640_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Wed, 01 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 최태원 SK 회장 "어려움 알지만…AI 경쟁 앞서나가자"</title><link>https://www.hankyung.com/article/202501019854g</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최태원 SK 회장 "어려움 알지만…AI 경쟁 앞서나가자"&lt;br&gt;&lt;br&gt;그는 “지난해 지정학적 변수가 커지고 AI 산업이 급성장하면서 글로벌 시장이 격변하는 경영환경을 어느 때보다 강도 높게 경험했다”고 짚은 뒤 “빠르게 재도약할 수 있는 발판을 함께 만들고 있는 구성원의 노고에 감사의 뜻을 전한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;SK그룹은 작년 초부터 조직 슬림화와 운영 효율화 등 리밸런싱(사업재편)에 공을 들여왔다. 그룹 부채 비율이 2023년 말 145%에서 지난해 3분기 말 128%로 줄어드는 등 가시적 성과를 거뒀다.&lt;br&gt;&lt;br&gt;미래 도약을 위한 ‘본원적 경쟁력’을 역설한 최 회장은 “외부 환경에 흔들리지 않으면서 본질적으로 보유한 근본적이고 지속가능한 경쟁력을 의미한다. 이를 위해 운영 개선(Operation Improvement)의 빠른 추진을 통한 경영 내실 강화가 필요하다”고 주문했다.&lt;br&gt;&lt;br&gt;이어 “운영 개선을 통한 본원적 경쟁력 강화는 우리 스스로 변화해야 하는 만큼 불편하고 힘들 수 있지만, SK 고유의 ‘패기’로 끈기 있고 집요하게 도전하며 구성원 모두가 합심해 협업한다면 기대하는 수준에 도달할 수 있을 것”이라고 자신했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.hankyung.com/article/202501019854g" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/202501020819g" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -92,6 +54,44 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.hankyung.com/photo/202501/AA.38959468.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202501/01.39082935.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 01 Jan 2025 17:00:23 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 박상규 SK이노 사장 "역량·자원 결집해 합병 시너지"[신년사]</title><link>https://www.newsis.com/view/NISX20250102_0003017874</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            지정학적 변동성과 글로벌 양극화 및 블록화 심화, 실물경제 침체 등 대내외적 영향으로 쉽지 않은 한 해가 될 것이라는 진단이다.&lt;br&gt;&lt;br&gt;박 사장은 "이 같은 백척간두(百尺竿頭) 상황에서도 SK이노베이션의 저력을 살려 담대하게 앞으로 나아가자"며 지속가능 성장을 위한 중점 추진 과제를 제시했다.&lt;br&gt;&lt;br&gt;특히 "모든 OC와 CIC, 경영진과 구성원이 '원 이노베이션(One Innovation)'으로 함께 힘을 모아야 한다"며 SK 고유의 '같이'의 힘을 발휘하기 위한 결속을 강조했다.&lt;br&gt;&lt;br&gt;그러면서 "SK이노베이션은 SK E&amp;S와의 합병을 통해 균형 잡힌 에너지 포트폴리오를 구축하며 에너지 산업을 선도하기 위한 구조적 혁신을 이뤘다"며 "이에 SK이노베이션 계열의 역량과 자원을 결집해 실질적 합병 시너지를 만들고 수익성과 성장성을 확보해 나가자"고 말했다.&lt;br&gt;&lt;br&gt;또 'SUPEX(수펙스) 2030' 비전을 수립함으로써 SK이노베이션 계열이 나아갈 지향점과 모든 구성원이 힘을 모을 구심점을 명확히 해 나갈 것이라고 밝혔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250102_0003017874" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/01/02/NISI20250102_0001741429_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 [신년사] SK하이닉스 곽노정 "본원적 혁신의 해…르네상스 여정 이어가...</title><link>https://www.yna.co.kr/view/AKR20250102040100003?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            [신년사] SK하이닉스 곽노정 "본원적 혁신의 해…르네상스 여정 이어가야"&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 대표이사 사장은 2일 "올해를 본원적인 혁신의 해로 삼고 기술 혁신, 기업문화 혁신, 운영 혁신을 통해 새로운 희망의 역사를 만들며 SK하이닉스의 르네상스 여정을 이어나가야 한다"고 말했다.&lt;br&gt;&lt;br&gt;곽 사장은 "2024년은 구성원 모두의 노력과 그룹 멤버사와의 긴밀한 협업에 힘입어 SK하이닉스와 반도체 업계의 역사를 새로 쓴 한 해였다"면서 "이 과정에서 여러 현장의 어려움에도 '원 팀 스피릿'으로 최선을 다해준 구성원에게 감사의 말씀을 전한다"고 말했다.&lt;br&gt;&lt;br&gt;곽 사장은 이어 "단순히 재무적 성과만이 아니라 끊임없는 혁신으로 스스로 부족한 부분을 보완하고 우리 본연의 역량을 올려 일류 회사로 발돋움해야 한다"며 "이를 위해서는 우선 경쟁력의 원천인 '기술 혁신'에 더욱 집중하고, 최고 품질과 성능을 갖춘 혁신 제품을 적기에 시장에 출시하기 위해 전사의 모든 역량을 결집해야 한다"고 강조했다.&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250102040100003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img9.yna.co.kr/photo/yna/YH/2024/11/04/PYH2024110408600001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item></channel></rss>
