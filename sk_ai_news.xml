@@ -1,70 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 02 Jan 2025 08:00:25 +0000</lastBuildDate><item><title>📰 “AI로 통신산업 패러다임 전환”</title><link>https://biz.heraldcorp.com/article/10381309?ref=naver</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 04 Jan 2025 08:00:25 +0000</lastBuildDate><item><title>📰 SK하이닉스, ‘CES 2025’에서 HBM3E 16단 샘플 등 AI 메모리 제품 총출동</title><link>http://www.segye.com/newsView/20250103506341?OutUrl=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            유 사장은 2일 신년사를 통해 “불확실성의 시대에 우리 모두 위기를 대비해 내실을 다지고 ‘글로벌 AI 컴퍼니(Global AI Company)’라는 비전을 향해 지혜와 열정을 모아 패기 있게 나아가자”며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “2025년은 전례 없는 위기를 맞닥뜨리게 될 것”이라며 “글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망은 어둡고 국내 경제 역시 어려움이 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “AI 기반 디지털 혁신이 만들어 내는 시장 성장과 AI와 통신의 결합을 통한 혁신 등 새로운 기회도 예측되지만, 기술패권 경쟁과 투자 경쟁도 가속할 것”이라고 평가했다.&lt;br&gt;&lt;br&gt;유 사장은 글로벌 AI 컴퍼니로 전환을 위한 방법으로 ▷본원적 경쟁력 극대화(OE) ▷AI 가시적 성과 ▷유연한 기업문화, 세 가지를 강조했다.&lt;br&gt;&lt;br&gt;그는 “단기 수익성과 장기 성장성을 동시해 고려해 불필요한 요소를 제거하고 AI·디지털 전환(AT·DT) 기술을 활용해 경쟁력을 강화해야 한다”며 “궁극적으로 기존 통신 사업의 패러다임을 완전히 전환해 나갈 것”이라고 밝혔다.
+                            3일 SK하이닉스는 ‘혁신적인 AI 기술로 지속가능한 미래를 만든다’를 주제로 SK텔레콤, SKC, SK엔무브 등 SK 관계사들과 공동 전시관을 운영한다. 공동 전시관은 SK그룹이 가지고 있는 AI 인프라와 서비스가 세상을 변화시키는 모습을 빛의 파도 형태로 구성했다. 행사에는 곽노정 SK하이닉스 대표이사(CEO) 사장, 김주선 AI 인프라 사장(CMO), 안현 개발총괄 사장(CDO) 등 SK하이닉스 ‘C레벨’ 경영진이 참석한다.&lt;br&gt;&lt;br&gt;김주선 사장은 “이번 CES에서 고대역폭 메모리(HBM), eSSD 등 대표적인 AI 메모리 제품을 포함해 온디바이스 AI에 최적화된 솔루션과 차세대 AI 메모리를 폭넓게 선보일 것”이라며 “이를 통해 ‘풀 스택 AI 메모리 프로바이더’로서 미래를 준비하는기술 경쟁력을 널리 알리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;SK하이닉스는 이번 전시에서 5세대 HBM인 HBM3E 16단 제품 샘플을 선보일 계획이다. 이 제품은 어드밴스드 MR-MUF 공정을 적용해 업계 최고층인 16단을 구현하면서, 칩의 휨 현상을 제어하고 방열 성능을 극대화 했다.&lt;br&gt;&lt;br&gt;세계 최초로 HBM3E 12단 제품을 양산해 공급하고 있는 SK하이닉스는 지난해 11월 HBM3E 16단 제품의 개발을 공식화했다. 이어 올해 상반기 중 HBM3E 16단 제품 샘플을 공급해 인증 절차를 진행할 계획이다.&lt;br&gt;&lt;br&gt;이밖에 AI 데이터센터 구축이 늘어나면서 수요가 급증하고 있는 고용량·고성능 기업용 SSD제품도 CES 2025에서 전시한다. 전시품목 중 자회사인 솔리다임이 지난해 11월 개발한 D5-P5336 122TB 제품도 포함된다. 이 제품은 현존 최대 용량에 높은 전력, 공간 효율성을 갖춘 제품이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://biz.heraldcorp.com/article/10381309?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.segye.com/newsView/20250103506341?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: biz.heraldcorp.com
+                            출처: www.segye.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/01/02/news-p.v1.20250102.943a3cc508064c0084350dc87d0dfaca_T1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="//img.segye.com/static/2019_segye/resources/images/logo_bk.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 유영상 SKT 대표 "AI 사업 가시적 성과 창출"[신년사]</title><link>https://www.meconomynews.com/news/articleView.html?idxno=106817</link><description>
+                </description><pubDate>Sat, 04 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 삼성·SK·LG 올해 신년사는…'혁신·용기·고객' 外[금주의 산업계 이슈...</title><link>https://www.newsis.com/view/NISX20250103_0003019674</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            유영상 SK텔레콤 대표가 2일 임직원들에게 보낸 신년사를 통해 "지난해 인공지능(AI) 사업이 B2B, B2C 부문에서 가능성을 입증한 데 이어, 올해는 실질적인 매출 성장으로 이어질 것"이라고 밝혔다.&lt;br&gt;&lt;br&gt;유 대표는 "글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망이 어둡고 내수 경기 침체 등 여러 어려움이 예상된다"고 진단하면서 "AI 기술 패권 경쟁과 투자 경쟁도 가속화될 것"이라고 내다봤다.&lt;br&gt;&lt;br&gt;그러면서 그는 이 같은 위기 상황을 돌파하고 글로벌 인공지능 기업으로 나아가기 위한 대안으로 '본원적 경쟁력 극대화(OE)'를 제시했다.&lt;br&gt;&lt;br&gt;유 대표는 "단기 수익성과 장기 성장성을 동시에 고려, 불필요한 요소를 제거하고 AT/DT(AI/디지털) 기술을 활용해 경쟁력을 강화해야 한다"며 "기존 통신 사업의 패러다임을 AI를 통해 완전히 전환해 나갈 것"이라고 강조했다.&lt;br&gt;&lt;br&gt;AI 사업에서의 가시적 성과를 자신한 유 대표는 "첨단 데이터 인프라 'AI Infra Super Highway' 구축을 위한 AI DC, GPUaaS, Edge AI 사업은 물론 AIX Solution과 PAA(개인 AI 비서)에 이르기까지 'AI 밸류체인' 전 영역에서 의미 있는 결과를 만들겠다"며 임직원들을 독려했다.
+                            삼성, SK, LG 등 주요 그룹이 2025년 새해를 맞아 새로운 도약을 다짐했다. 최태원 SK그룹 회장은 1일 신년사를 통해 "새로운 시도와 혁신은 언제나 어렵다"며 "저부터 솔선수범하며 용기를 내어 달릴 것이니 함께 나아가자"고 밝혔다.&lt;br&gt;&lt;br&gt;삼성전자는 이재용 회장 대신 한종희 대표이사 부회장과 전영현 디바이스솔루션(DS)부문장이 공동명의로 신년사를 발표했다. 두 부회장은 "지금은 인공지능(AI) 기술의 변곡점을 맞이해 기존 성공 방식을 초월한 과감한 혁신이 필요한 시점"이라며 "고도화된 인텔리전스를 통해 올해는 확실한 디바이스 AI 선도 기업으로 자리매김하자"고 말했다.&lt;br&gt;&lt;br&gt;구광모 LG그룹 회장은 "우리가 다져온 고객을 향한 마음과 혁신의 기반 위에 LG 없이는 상상할 수 없는 미래를 세우자"고 다짐했다.&lt;br&gt;&lt;br&gt;대한항공이 자회사로 편입한 아시아나항공의 신임 대표이사로 송보영 대한항공 여객사업본부장(전무)를 내정했다.&lt;br&gt;&lt;br&gt;금융감독원 전자공시시스템에 따르면 아시아나항공은 이달 16일 개최 예정인 주주총회에서 송 본부장을 신규 사내이사로 선임하는 안건을 공시했다. 항공업계에서는 대한항공이 송 본부장을 아시아나항공 신임 대표로 내정한 것으로 보고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.meconomynews.com/news/articleView.html?idxno=106817" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.meconomynews.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://www.meconomynews.com/news/thumbnail/202501/106817_126537_474_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK텔레콤 유영상 "2025년 AI로 가시적인 성과 창출해야"</title><link>https://www.hankyung.com/article/202501020819g</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤 유영상 "2025년 AI로 가시적인 성과 창출해야"&lt;br&gt;&lt;br&gt;유영상 CEO "본원적 경쟁력 극대화로 통신 사업 패러다임 전환"&lt;br&gt;&lt;br&gt;SK텔레콤은 유영상 최고경영자(CEO)가 2025년 신년사를 구성원들에게 공유했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤에 따르면 이날 유 CEO는 신년사를 통해 "본원적 경쟁력 극대화(OE)로 통신 사업의 패러다임을 전환하고, 인공지능(AI)으로 성과 창출하자"는 메시지를 구성원들에게 전했다.&lt;br&gt;&lt;br&gt;유 CEO는 "2024년은 OI(본원적 경쟁력 강화)를 통해 통신 사업의 건전성을 확보하고, AI 피라미드 전략의 실행력을 높이는 등 통신과 AI 두 축을 기반으로 '글로벌 AI 컴퍼니'의 토대를 마련했다"면서도 "2025년은 전례 없는 위기를 맞닥뜨리게 될 것"이라며 "글로벌 경제 불안정성 등 지정학적 이슈로 시장 전망은 어둡고, 국내 경제 역시 내수 경기 침체 등 여러 어려움이 예상된다"고 말했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.hankyung.com/article/202501020819g" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.hankyung.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.hankyung.com/photo/202501/01.39082935.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 박상규 SK이노 사장 "역량·자원 결집해 합병 시너지"[신년사]</title><link>https://www.newsis.com/view/NISX20250102_0003017874</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            지정학적 변동성과 글로벌 양극화 및 블록화 심화, 실물경제 침체 등 대내외적 영향으로 쉽지 않은 한 해가 될 것이라는 진단이다.&lt;br&gt;&lt;br&gt;박 사장은 "이 같은 백척간두(百尺竿頭) 상황에서도 SK이노베이션의 저력을 살려 담대하게 앞으로 나아가자"며 지속가능 성장을 위한 중점 추진 과제를 제시했다.&lt;br&gt;&lt;br&gt;특히 "모든 OC와 CIC, 경영진과 구성원이 '원 이노베이션(One Innovation)'으로 함께 힘을 모아야 한다"며 SK 고유의 '같이'의 힘을 발휘하기 위한 결속을 강조했다.&lt;br&gt;&lt;br&gt;그러면서 "SK이노베이션은 SK E&amp;S와의 합병을 통해 균형 잡힌 에너지 포트폴리오를 구축하며 에너지 산업을 선도하기 위한 구조적 혁신을 이뤘다"며 "이에 SK이노베이션 계열의 역량과 자원을 결집해 실질적 합병 시너지를 만들고 수익성과 성장성을 확보해 나가자"고 말했다.&lt;br&gt;&lt;br&gt;또 'SUPEX(수펙스) 2030' 비전을 수립함으로써 SK이노베이션 계열이 나아갈 지향점과 모든 구성원이 힘을 모을 구심점을 명확히 해 나갈 것이라고 밝혔다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250102_0003017874" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250103_0003019674" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -73,25 +35,6 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/01/02/NISI20250102_0001741429_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2024/12/19/NISI20241219_0001732228_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 [신년사] SK하이닉스 곽노정 "본원적 혁신의 해…르네상스 여정 이어가...</title><link>https://www.yna.co.kr/view/AKR20250102040100003?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [신년사] SK하이닉스 곽노정 "본원적 혁신의 해…르네상스 여정 이어가야"&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 대표이사 사장은 2일 "올해를 본원적인 혁신의 해로 삼고 기술 혁신, 기업문화 혁신, 운영 혁신을 통해 새로운 희망의 역사를 만들며 SK하이닉스의 르네상스 여정을 이어나가야 한다"고 말했다.&lt;br&gt;&lt;br&gt;곽 사장은 "2024년은 구성원 모두의 노력과 그룹 멤버사와의 긴밀한 협업에 힘입어 SK하이닉스와 반도체 업계의 역사를 새로 쓴 한 해였다"면서 "이 과정에서 여러 현장의 어려움에도 '원 팀 스피릿'으로 최선을 다해준 구성원에게 감사의 말씀을 전한다"고 말했다.&lt;br&gt;&lt;br&gt;곽 사장은 이어 "단순히 재무적 성과만이 아니라 끊임없는 혁신으로 스스로 부족한 부분을 보완하고 우리 본연의 역량을 올려 일류 회사로 발돋움해야 한다"며 "이를 위해서는 우선 경쟁력의 원천인 '기술 혁신'에 더욱 집중하고, 최고 품질과 성능을 갖춘 혁신 제품을 적기에 시장에 출시하기 위해 전사의 모든 역량을 결집해야 한다"고 강조했다.&lt;br&gt;&lt;br&gt;
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250102040100003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img9.yna.co.kr/photo/yna/YH/2024/11/04/PYH2024110408600001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 02 Jan 2025 17:00:25 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 04 Jan 2025 17:00:25 +0900</pubDate></item></channel></rss>
