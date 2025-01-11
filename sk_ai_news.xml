@@ -1,21 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 10 Jan 2025 08:00:23 +0000</lastBuildDate><item><title>📰 SK하이닉스·SKT, 美 대표 기업과 AI 데이터센터 협력 나서[CES2025]</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01554726642036408</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 11 Jan 2025 08:00:25 +0000</lastBuildDate><item><title>📰 SKT 북미 시장 출격 AI비서 '에스터', 에이닷과 뭐가 다를까</title><link>https://www.newsis.com/view/NISX20250108_0003025606</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            협약식에는 유영상 SK텔레콤(017670) 대표와, 마크 아담스 펭귄 솔루션스 최고경영자(CEO), 김주선 SK하이닉스 AI 인프라(Infra) 사장 등 각사 주요 인사가 참석했다.&lt;br&gt;&lt;br&gt;이번 협약을 통해 3사는 AI 데이터센터의 글로벌 확장을 위해 신규 시장을 개척하고 솔루션 공동 R&amp;D 및 상용화에 나서기로 했다. 데이터센터용 차세대 메모리 제품 개발에서도 긴밀히 협력해 SK하이닉스의 차별적인 HBM 경쟁력을 확대해 나갈 방침이다.&lt;br&gt;&lt;br&gt;SK하이닉스 관계자는 “AI 데이터센터의 효율적 운영을 위해 메모리 반도체 기술 혁신은 필수적이며 특히 전력 효율과 방열 성능 향상은 핵심 과제”라며 “SK텔레콤, 펭귄 솔루션스와의 협력을 통해 메모리 기술의 한계를 극복하고 글로벌 AI 생태계 확장을 선도하겠다”고 했다.
+                            답변 넘어 계획·실행까지…서드파티 협력으로 가격 경쟁력 꾀해&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 7일(현지시간) 미국 라스베이거스에서 개최된 IT 최대 전시회 'CES'에서 에스터를 처음으로 공개하고 오는 3월 북미 사용자 대상으로 에스터 베타 서비스를 출시할 계획이라고 밝혔다. 올 하반기 미국 정식 출시를 거쳐, 내년에는 다른 국가들로 서비스를 확대할 계획이다.&lt;br&gt;&lt;br&gt;에스터는 현대인의 바쁜 일상을 효율적으로 관리하는 AI 에이전트로, 북미를 중심으로 한 글로벌 시장을 타깃하고 있다. SK텔레콤이 설립한 실리콘밸리 자회사 '글로벌 AI 플랫폼 코퍼레이션(GAP Co.)'과 공동 개발했다.&lt;br&gt;&lt;br&gt;AI 안방 美시장 도전…자연스러운 대화 통해 계획, 실행까지
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01554726642036408" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250108_0003025606" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/01/PS25011000299.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/01/08/NISI20250108_0001746127_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 10 Jan 2025 17:00:23 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 11 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 "이 주식, 일단 담아" 돌아온 외인 '폭풍 매수'…뭐 샀나 보니</title><link>http://news.mt.co.kr/mtview.php?no=2025011014020965847</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            1�� �ܱ��� ���ż� ���� ����/�׷���=������ ����&lt;br&gt;&lt;br&gt;������ ���� �ֽĽ��忡�� ���� ������ ���� �϶��� �ֵ��ߴ� �ܱ����� ���ƿԴ�. ���� ���� �ż����� ���̰� �ִ� ���ε� �ݵ�ü, ���, �����ָ� �߽����� ������ ���� ������ Ȯ�εƴ�. �ֱ� ������ �Ǵ� ������ �����ֵ鵵 ���ż� ������ �ö���.&lt;br&gt;&lt;br&gt;10�� �ѱ��ŷ��ҿ� ������ ����(1�� 2~9��) �ܱ��� �����ڴ� ���� ���ÿ��� 1��2649��� ���ż��ߴ�. ������ 12�� �� �� ���� 2��3244�����ġ �Ⱦ�ġ���µ�, �̹� �޿��� �ż����� ���Ƽ���. �ݸ� �̴� ���� �����ڴ� 1��3292����� ���ϴ� �ֽ��� ��Ƴ´�.&lt;br&gt;&lt;br&gt;�ܱ����� ���� ���� ����� ������ �ݵ�ü�ִ�. 1����&lt;br&gt;&lt;br&gt;�� 8137��� �ֿ� ��Ҵ�. 2���� ������
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2025011014020965847" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: news.mt.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://thumb.mt.co.kr/21/2025/01/2025011014020965847_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 11 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 부천 대장산단에 DN솔루션즈 R&amp;D센터 들어선다</title><link>https://www.newsis.com/view/NISX20250111_0003028785</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            부천시장 “첨단산업 발전·경제도약 이루는 발판 되도록 노력”&lt;br&gt;&lt;br&gt;부천시는 최근 시청 1층 판타스틱 큐브에서 글로벌 공작기계 기업 ㈜DN솔루션즈와 부천대장 도시첨단산업단지 투자 및 입주 협약(MOU)을 맺었다.&lt;br&gt;&lt;br&gt;이에 따라 시는 지난 2023년 SK그룹과 체결한 SK그린테크노캠퍼스 조성 협약에 이어 이곳을 미래 신성장산업의 전진기지로 만드는 데에 더욱 속도를 낼 계획이다.&lt;br&gt;&lt;br&gt;협약식에는 조용익 부천시장, 김원종 DN솔루션즈 대표이사를 비롯해 이계삼 경기도 도시주택실장, 서환식 한국토지주택공사(LH) 인천지역본부장, 원명희 부천도시공사 사장 등 5개 기관 대표와 관련 업무관계자들이 참석했으며 이 자리에서 원만한 계획추진과 업무 협력에 대해 논의하는 시간을 가졌다.&lt;br&gt;&lt;br&gt;협약서에는 부천대장 제1도시첨단산업단지 내 1만4334㎡(약 4300평) 부지에 2400억 원을 투자해 DN솔루션즈의 연구개발(R&amp;D)센터를 건립한다는 내용을 담았다. R&amp;D센터 등이 들어서면 상당수의 석·박사급 연구 인력이 이곳에 상주하며 소프트웨어, 인공지능(AI), 디지털전환(DX)과 같은 첨단 연구개발을 통해 미래산업의 핵심 역할을 할 예정이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250111_0003028785" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/01/11/NISI20250111_0001748214_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 11 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 [CES 결산] ① AI가 만드는 세상…휴머노이드 로봇 시대 예고</title><link>https://www.yna.co.kr/view/AKR20250110065300091?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            [CES 결산] ① AI가 만드는 세상…휴머노이드 로봇 시대 예고&lt;br&gt;&lt;br&gt;세계 최대 가전·정보기술 전시회 'CES 2025'가 미국 라스베이거스에서 현지시간 7일 개막해 10일 막을 내렸습니다.&lt;br&gt;&lt;br&gt;AI 칩으로 AI 시대를 주도하고 있는 엔비디아 젠슨 황 최고경영자는 CES 개막 하루 전인 지난 6일 기조연설에서 자율주행과 로봇 개발을 위한 플랫폼 '코스모스'를 발표했다.&lt;br&gt;&lt;br&gt;코스모스는 자율주행과 로봇이 인간과 같은 수준의 지능을 갖추기 위해 필요한 현실의 방대한 데이터를 학습할 수 있게 하는 플랫폼이다.&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250110065300091?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img3.yna.co.kr/photo/yna/YH/2025/01/08/PYH2025010816580001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 11 Jan 2025 17:00:25 +0900</pubDate></item><item><title>📰 삼성·LG·SK 'IT 서비스 빅3' AI 선두 경쟁 가속</title><link>https://www.straightnews.co.kr/news/articleView.html?idxno=261872</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            ​​​​​​​LG CNS, 성공적 IPO 위해 사업 영역 확대 속도&lt;br&gt;&lt;br&gt;AI 시대를 맞아 주요 IT서비스 기업들이 본격적으로 사업 확장에 나서면서, 대표 3사인 삼성SDS와 LG CNS, SK C&amp;C 등이 접전을 펼칠 전망이다.&lt;br&gt;&lt;br&gt;시장조사기관 날리지리서치그룹에 따르면 올해 국내 IT 시장은 전년 대비 2.9% 성장한 16조2300억원 규모로 추정된다. 다만 이는 기대보단 저조한 전망치로, 글로벌 경기침체와 고물가에 따른 IT기기 수요 부진 등이 반영된 것으로 풀이된다.&lt;br&gt;&lt;br&gt;이에 국내 대표 IT서비스 기업인 삼성SDS와 LG CNS, SK C&amp;C는 생성형 AI(인공지능)와 이에 따른 클라우드, 스마트팩토리 등 새로운 성장동력을 확보하며 위기 타개 방안을 모색하고 있다.&lt;br&gt;&lt;br&gt;이들의 적극적인 행보는 연초부터 이어지고 있다. 삼성SDS와 SK C&amp;C가 지난 7일(현지시간)부터 미국 라스베이거스에서 열린 세계 최대 IT·가전 전시회 CES 2025에 등장해 생성형 AI 강조에 나섰다. LG CNS는 지난 9일 IPO(기업공개) 간담회를 개최했는데, 대표이사가 직접 등판해 생성형 AI 기반 글로벌 진출과 대외사업을 강조하기도 했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.straightnews.co.kr/news/articleView.html?idxno=261872" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.straightnews.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.straightnews.co.kr/news/thumbnail/202501/261872_167045_4753_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 11 Jan 2025 17:00:25 +0900</pubDate></item></channel></rss>
