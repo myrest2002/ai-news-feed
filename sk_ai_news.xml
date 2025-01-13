@@ -1,32 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 12 Jan 2025 08:00:23 +0000</lastBuildDate><item><title>📰 AI 올라탄 SK하이닉스, 작년 4분기 영업익 8조원 돌파 유력</title><link>https://www.dt.co.kr/contents.html?article_no=2025011202109932075004&amp;ref=naver</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 13 Jan 2025 08:00:26 +0000</lastBuildDate><item><title>📰 SKT, 엔비디아 GPU 기반 AI 클라우드 서비스 'GPUaaS' 출시</title><link>https://www.yna.co.kr/view/AKR20250113030000017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            ���� �ִ� ������IT ����ȸ 'CES 2025' SK �׷� ���ð��� ���õƴ� HBM3E 16�� ��ǰ ���.&lt;br&gt;&lt;br&gt;SK���̴н��� �ΰ�����(AI) ��ǳ�� �ö�Ÿ�� ������ ���� ����� ��� ���� ���� ���������� ���� ���̶�� ������ ���´�. SK���̴н��� AI ��ǳ�� �ֵ��ϴ� �������� ù ��° ���뿪���޸�(HBM) ���޻��, HBM3E(5����) 8�� ��ǰ�� �̾� HBM3E 12�ܰ� 16�� ��ǰ ���߿����� ����纸�� �ռ����� �ִ�.&lt;br&gt;&lt;br&gt;12�� ���迡 ������, ���ǰ������� �� �� ��� SK���̴н��� �۳� 4�б� ���������� 8������ �ʡ��߹� �������� ���� �����ߴ�. ���� ������ 10�� ����ġ�� 7������ �ߡ��Ĺ��̾��µ�, ���ǰ������� �̸� ���� �����ϰ� �ִ�.&lt;br&gt;&lt;br&gt;�ѵ��� SK���� �������� "SK���̴н��� ������ 4�б� ���� ���������� 8��1000����� ȣ������ ����� ��"�̶�� "HBM �� ���ΰ� ��ǰ �߽��� �ͽ� ������ ���� ��� ������ ������ ������ ����ȴ�"�� ���ߴ�.&lt;br&gt;&lt;br&gt;���ǰ����� ���������� 8��2000����� ���� ���̶� ������ ���´�. �̼��� DS�������� �������� "SK���̴н��� ������ 4�б� ���� 19��9000��, �������� 8��2000����� �ŵ� ���� ���ġ�� �����ϴ� ������ ���� ��"�̶�� �����ߴ�.
+                            SKT, 엔비디아 GPU 기반 AI 클라우드 서비스 'GPUaaS' 출시&lt;br&gt;&lt;br&gt;SK텔레콤이 지난해 12월 30일 가산에 인공지능 데이터센터를 오픈하고 AI 클라우드 서비스인 'SKT GPUaaS'를 출시했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤은 정식 출시 전부터 100개 이상의 기업이 GPUaaS 서비스에 대해 문의했다며 1분기 중 최신 GPU인 H200을 도입해 고객 확대를 꾀할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;김명국 SKT GPUaaS사업본부장은 "이번 GPUaaS 출시는 AI 데이터센터 사업으로 고객에게 다가가는 첫 번째 사례로, SK텔레콤이 AI 인프라 핵심 사업자로 자리매김하는 의미가 크다"며 "국가 AI 경쟁력을 높이는 GPU 팜으로 구축하겠다"고 말했다.&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.dt.co.kr/contents.html?article_no=2025011202109932075004&amp;ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250113030000017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.dt.co.kr
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="//contents.dt.co.kr/images/202501/2025011202109932075004[1].jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2025/01/13/AKR20250113030000017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 12 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 SK텔레콤, AI시대 맞아 통합시스템(BSS) 전면 개편</title><link>https://www.etnews.com/20250110000229</link><description>
+                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 "美기술주 하락 여파"…삼전·SK하이닉스 동반약세(종합)</title><link>https://www.newsis.com/view/NISX20250113_0003030438</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤, AI시대 맞아 통합시스템(BSS) 전면 개편&lt;br&gt;&lt;br&gt;SK텔레콤이 인공지능(AI) 시대를 맞아 8년만에 통합시스템(BSS) '스윙'을 전면 개편한다. 글로벌 AI컴퍼니로 변화하는 과정에서 통신과 AI를 접목한 상품·서비스를 강화하기 위한 포석이다.&lt;br&gt;&lt;br&gt;12일 통신업계에 따르면 SK텔레콤은 올해 차세대 통합시스템 개편을 위한 태스크포스팀(TF)을 발족, 관련 계획 수립에 돌입했다.&lt;br&gt;&lt;br&gt;SK텔레콤은 AI전환·디지털전환 사업을 실행하는 AT/DT센터 내 'Next BSS TF'를 신설했다. TF는 AI 전환에 초점을 두고 차세대 통합시스템(BSS, Business Support System) 전면 업그레이드를 준비하고 있다. 장현기 AT/DT센터장이 직접 TF를 지휘한다.&lt;br&gt;&lt;br&gt;올해 진행하는 차세대 통합시스템 업그레이드는 '글로벌 AI컴퍼니'라는 새로운 SK텔레콤 비전을 내세웠다. 기존 LTE·5G, 유무선통신·5G 결합상품에 더해 각종 AI 상품, 부가서비스 등을 유연하게 적용하도록 최적화된 시스템을 구축하는 게 목표다.
+                            삼성전자는 이날 유가증권시장에서 전 거래일보다 2.17% 내린 5만4100원에 거래를 마감했다.&lt;br&gt;&lt;br&gt;SK하이닉스는 4.52% 내린 19만4300원에 거래를 마쳤다. SK하이닉스 주가가 20만원 아래로 내려선 것은 지난 8일(19만4700원) 이후 3거래일 만이다.&lt;br&gt;&lt;br&gt;신한투자증권 이재원 연구원은 "미국의 대중 반도체 추가 규제 소식에 국내 반도체 업종이 약세를 나타냈다"며 "SK하이닉스의 상대적 낙폭이 컸다"고 설명했다.&lt;br&gt;&lt;br&gt;미국 뉴욕증시는 지난 10일(현지시각) 예상치를 크게 웃돈 고용지표 영향에 금리 인하 속도 둔화 우려가 커지며 하락 마감했다. 바이든 행정부의 대중 인공지능(AI) 반도체 추가 규제 보도까지 더해지며 빅테크 관련주들이 대부분 하락했다.&lt;br&gt;&lt;br&gt;필라델피아 반도체지수가 2.42% 내렸다. 엔비디아(-3.0%), AMD(-4.76%), 브로드컴(-2.18%) 등 기술주들이 눈에 띄게 하락했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.etnews.com/20250110000229" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250113_0003030438" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/01/08/NISI20250108_0020654810_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 곽노정 SK하이닉스 사장, 28대 핸드볼협회장 당선</title><link>https://www.sisajournal.com/news/articleView.html?idxno=321188</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            최태원 SK그룹 회장으로부터 바통…4년간 협회 이끌 예정&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 사장이 제28대 대한핸드볼협회 회장에 당선됐다.&lt;br&gt;&lt;br&gt;대한핸드볼협회 선거운영위원회는 13일 단독 입후보한 곽 사장에 대한 심의 절차를 거쳐 그를 제28대 회장 당선인으로 확정했다고 공고했다. 곽 사장은 협회 정기 대의원총회가 예정된 오는 2월12일부터 회장직을 공식 수행, 향후 4년간 핸드볼협회를 이끌게 됐다.&lt;br&gt;&lt;br&gt;1965년생인 곽 사장은 고려대 출신으로 국가인공지능위원회 민간위원, 한국공학한림원 부회장 등을 역임하고 있다.&lt;br&gt;&lt;br&gt;곽 사장의 전임자는 최태원 SK그룹 회장이다. 2008년 12월 대한핸드볼협회장에 취임해 16년 동안 23∼27대 회장을 역임했다. 이 기간 최 회장은 핸드볼 활성화와 선진 시스템 구축, 저변 확대 등에 공헌했다는 평가를 받는다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.sisajournal.com/news/articleView.html?idxno=321188" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.sisajournal.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.sisajournal.com/news/thumbnail/202501/321188_324345_2518_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 SK텔레콤, 가산 AIDC 개소…람다와 GPUaaS 첫 제공</title><link>https://www.etnews.com/20250113000023</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            유영상 SK텔레콤 대표가 가산 AI DC 시설을 살펴보고 있다.&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 12월 30일 가산 인공지능AI 데이터센터(AIDC)를 개소하고 시범 운영을 마친 뒤 AI 클라우드 서비스인 'SKT GPUaaS(GPU-as-a-Service)'를 출시했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 'SK AI 서밋 2024'에서 'AI 인프라 슈퍼 하이웨이' 구축 전략을 발표했다. 연말 조직 개편에서 'AI DC 사업부'를 별도 조직으로 신설하고, GPUaaS를 새롭게 출시하며 'AI 인프라' 사업 본격화에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;'SKT GPUaaS'는 미국 람다와 지난 1여년간 함께 준비한 구독형 AI 클라우드 서비스다. SK텔레콤은 가산 AIDC에 람다의 한국 리전을 아시아태평양 최초로 유치했다. 이번에 출시하는 GPUaaS는 엔비디아 GPU H100을 기반으로 한다. H100은 현재 국내에 도입된 GPU 중 가장 성능이 우수하다.&lt;br&gt;&lt;br&gt;'SKT GPUaaS' 구독을 원하는 기업 고객은 AI 서비스 규모나 목적에 따라 GPU 수량과 기간을 선택하고, 단독 서버·방화벽·전용회선 등 맞춤형 패키지를 구성할 수 있다. 고객사는 독자적인 GPU를 사용해 안정적 AI 학습과 추론을 시행할 수 있다. AI 작업량이 급격히 늘어나더라도 단독 서버에 GPU를 손쉽게 추가할 수 있다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.etnews.com/20250113000023" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -35,25 +73,25 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.etnews.com/news/article/2025/01/10/news-p.v1.20250110.bc310e1d655b4fd180f9025bad55c1b2_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.etnews.com/news/article/2025/01/13/news-p.v1.20250113.a215c64d68d2438d8234bcfa88a7625a_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 12 Jan 2025 17:00:23 +0900</pubDate></item><item><title>📰 SK그룹, '베트남의 삼성' 빈그룹 지분 일부 매각</title><link>https://magazine.hankyung.com/business/article/202501120818b</link><description>
+                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 삼성전자·SK하이닉스 "2년 후 '커스텀 HBM' 시대 막 오른다" [biz-플러스...</title><link>https://www.sedaily.com/NewsView/2GNODJH990</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            https://magazine.hankyung.com/business/article/202501120818b&lt;br&gt;&lt;br&gt;SK그룹이 베트남 최대 그룹인 빈그룹의 지분 일부를 매각한다.&lt;br&gt;&lt;br&gt;12일(현지 시간) 로이터통신 등에 따르면 빈그룹은 공시를 통해 'SK 인베스트먼트 비나 Ⅱ'를 통해 보유한 빈그룹 주식 5080만주를 매각한다고 밝혔다. 이번 매각 지분은 SK 보유 지분의 약 20% 수준이다.&lt;br&gt;&lt;br&gt;이번 매각으로 SK 측의 빈그룹 보유 지분율은 기존 6.05%에서 4.72%로 낮아진다. 매각 대금은 단순 계산시 약 1180억원 규모로 추산된다.&lt;br&gt;&lt;br&gt;여기에 환율 효과 등을 고려하면 이번 매각으로 SK가 손에 쥐게 될 현금 규모는 투자 원금 대비 약 30% 하락한 수준으로 파악된다.
+                            삼성전자·SK하이닉스 등 고대역폭메모리(HBM) 회사가 맞춤형 칩인 ‘커스텀 HBM’ 시장이 2027년 이후 활짝 열릴 것이라고 예측했다. 인공지능(AI) 시장이 다변화하고 HBM 사용자들의 스펙 요구가 점차 다양해지면서 두 메모리 회사 모두 고객사에 다양한 선택지를 제안할 수 있는 반도체 기술을 개발하고 있는 것으로 파악된다.&lt;br&gt;&lt;br&gt;12일 업계에 따르면 김인동 삼성전자 상무와 강선국 SK하이닉스 부사장은 지난해 말 세계적인 팹리스 회사 ‘마벨’이 미국에서 주최한 애널리스트 행사에서 이 같은 내용을 밝혔다.&lt;br&gt;&lt;br&gt;강 부사장은 “8세대 HBM(HBM5)은 아직 표준이 정해져 있지 않다”면서 “2026년 말까지는 6세대 HBM(HBM4) 표준 제품이 주류를 이룰 것이고 2027년부터는 맞춤형 HBM 제작이 본격적으로 시작될 것”이라고 설명했다. 김 상무는 “첨단 패키징·메모리·로직 반도체 기술을 결합한 최첨단 기술이 필요하다”며 “커스텀 HBM 시장이 2029년까지 380억 달러(약 55조 원) 규모로 확장될 것이라는 예측도 있다”고 말했다.&lt;br&gt;&lt;br&gt;HBM은 여러 개의 D램을 수직으로 쌓아서 만든 칩이다. 그래픽처리장치(GPU) 등 정보 연산장치 바로 옆에 붙어서 데이터를 저장하는 역할을 맡는다. 기존 D램 모듈보다 데이터 이동 속도가 훨씬 빠르고 단일 D램보다 저장 용량이 크다는 장점이 있다. HBM은 최근 인공지능(AI) 시장이 만개하면서 크게 주목받고 있다. 세계 AI 반도체 1위인 엔비디아에서 최신 AI용 반도체 제품에 HBM을 적극적으로 채용하면서다.&lt;br&gt;&lt;br&gt;업계에서는 ‘표준’ HBM이 아닌 ‘맞춤형’ HBM을 선호하는 현상이 뚜렷해지고 있다. AI 시장이 각종 데이터를 ‘학습’하는 단계에서 이를 다양하게 응용하는 ‘추론’ 시장으로 넘어가면서 ‘빅테크’ 회사들도 자신들만의 칩을 요구하고 있어서다. 최근 구글이 엔비디아 공급망에서 벗어나 자체 AI 칩 텐서프로세싱유닛(TPU) 설계를 브로드컴에 맡기는 흐름처럼 HBM도 각자의 조건에 맞춤 제작해야 하는 상황이 도래한 것이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://magazine.hankyung.com/business/article/202501120818b" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sedaily.com/NewsView/2GNODJH990" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: magazine.hankyung.com
+                            출처: www.sedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://static.hankyung.com/photo/202501/AD.39144887.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2025/01/13/2GNODJH990_1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 12 Jan 2025 17:00:23 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item></channel></rss>
