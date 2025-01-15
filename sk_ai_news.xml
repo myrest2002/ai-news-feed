@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 13 Jan 2025 08:00:26 +0000</lastBuildDate><item><title>📰 SKT, 엔비디아 GPU 기반 AI 클라우드 서비스 'GPUaaS' 출시</title><link>https://www.yna.co.kr/view/AKR20250113030000017?input=1195m</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 15 Jan 2025 08:00:28 +0000</lastBuildDate><item><title>📰 '1350% vs 턱도 없다'… SK하이닉스, 성과급 기싸움</title><link>https://biz.newdaily.co.kr/site/data/html/2025/01/15/2025011500107.html</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT, 엔비디아 GPU 기반 AI 클라우드 서비스 'GPUaaS' 출시&lt;br&gt;&lt;br&gt;SK텔레콤이 지난해 12월 30일 가산에 인공지능 데이터센터를 오픈하고 AI 클라우드 서비스인 'SKT GPUaaS'를 출시했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤은 정식 출시 전부터 100개 이상의 기업이 GPUaaS 서비스에 대해 문의했다며 1분기 중 최신 GPU인 H200을 도입해 고객 확대를 꾀할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;김명국 SKT GPUaaS사업본부장은 "이번 GPUaaS 출시는 AI 데이터센터 사업으로 고객에게 다가가는 첫 번째 사례로, SK텔레콤이 AI 인프라 핵심 사업자로 자리매김하는 의미가 크다"며 "국가 AI 경쟁력을 높이는 GPU 팜으로 구축하겠다"고 말했다.&lt;br&gt;&lt;br&gt;
+                            [단독] 삼성, ‘승부처' HBM4 6개월 당겨… 상반기 양산승인 추진&lt;br&gt;&lt;br&gt;'1350% vs 턱도 없다'… SK하이닉스, 성과급 기싸움&lt;br&gt;&lt;br&gt;엔비디아 제치나 … 브로드컴, AI칩 신흥강자로 급부상&lt;br&gt;&lt;br&gt;'들었다 놨다' 젠슨 황 밀당 발언에… 피곤한 삼성전자&lt;br&gt;&lt;br&gt;HBM3E '12단' 본격화 … 블랙웰 신제품 내년 3월 출시
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250113030000017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://biz.newdaily.co.kr/site/data/html/2025/01/15/2025011500107.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: biz.newdaily.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2025/01/13/AKR20250113030000017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.newdaily.co.kr/site/data/img/2025/01/15/2025011500107_0.jpeg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 "美기술주 하락 여파"…삼전·SK하이닉스 동반약세(종합)</title><link>https://www.newsis.com/view/NISX20250113_0003030438</link><description>
+                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 젠슨 황, 美 AI칩 수출 규제 직후 中 방문…왜?</title><link>https://www.newsis.com/view/NISX20250114_0003032112</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            삼성전자는 이날 유가증권시장에서 전 거래일보다 2.17% 내린 5만4100원에 거래를 마감했다.&lt;br&gt;&lt;br&gt;SK하이닉스는 4.52% 내린 19만4300원에 거래를 마쳤다. SK하이닉스 주가가 20만원 아래로 내려선 것은 지난 8일(19만4700원) 이후 3거래일 만이다.&lt;br&gt;&lt;br&gt;신한투자증권 이재원 연구원은 "미국의 대중 반도체 추가 규제 소식에 국내 반도체 업종이 약세를 나타냈다"며 "SK하이닉스의 상대적 낙폭이 컸다"고 설명했다.&lt;br&gt;&lt;br&gt;미국 뉴욕증시는 지난 10일(현지시각) 예상치를 크게 웃돈 고용지표 영향에 금리 인하 속도 둔화 우려가 커지며 하락 마감했다. 바이든 행정부의 대중 인공지능(AI) 반도체 추가 규제 보도까지 더해지며 빅테크 관련주들이 대부분 하락했다.&lt;br&gt;&lt;br&gt;필라델피아 반도체지수가 2.42% 내렸다. 엔비디아(-3.0%), AMD(-4.76%), 브로드컴(-2.18%) 등 기술주들이 눈에 띄게 하락했다.
+                            중국에 적지 않은 AI 칩을 수출하는 엔비디아 입장에서 미국 정부의 신규 규제로 매출 타격이 우려되는 만큼 황 CEO가 직접 현지를 방문해 대책 마련에 나설 것으로 보인다.&lt;br&gt;&lt;br&gt;삼성전자와 SK하이닉스도 엔비디아의 중국 사업 향방에 따라 직간접적 영향을 받을 수 있어 황 CEO의 중국 방문에 업계가 주목하고 있다.&lt;br&gt;&lt;br&gt;15일 업계에 따르면 젠슨황 CEO는 이날 중국 선전시를 찾아 현지 엔비디아 직원들과 설 행사를 진행할 것으로 알려졌다. 젠슨황은 이후 상하이와 베이징을 차례대로 방문할 예정이다.&lt;br&gt;&lt;br&gt;황 CEO의 이번 중국 방문은 미국 정부가 첨단 AI 칩에 대한 수출 규제 조치 강화 발표 직후에 이뤄진 것이어서 타이밍이 주목된다.&lt;br&gt;&lt;br&gt;미국 정부는 지난 13일(현지시간) 일부 동맹국을 제외하고, 중국과 러시아 등 적대국이 사실상 미국의 AI 칩에 대한 접근을 차단하는 수출 규제 방안을 공개했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250113_0003030438" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250114_0003032112" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -35,36 +35,55 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/01/08/NISI20250108_0020654810_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/01/07/NISI20250107_0000012082_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 곽노정 SK하이닉스 사장, 28대 핸드볼협회장 당선</title><link>https://www.sisajournal.com/news/articleView.html?idxno=321188</link><description>
+                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 [거버넌스 뉴웨이브] 변화 앞둔 이사회 2.0, '업무감독' 권한 강화 ｜SK...</title><link>https://www.bloter.net/news/articleView.html?idxno=629811</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최태원 SK그룹 회장으로부터 바통…4년간 협회 이끌 예정&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 사장이 제28대 대한핸드볼협회 회장에 당선됐다.&lt;br&gt;&lt;br&gt;대한핸드볼협회 선거운영위원회는 13일 단독 입후보한 곽 사장에 대한 심의 절차를 거쳐 그를 제28대 회장 당선인으로 확정했다고 공고했다. 곽 사장은 협회 정기 대의원총회가 예정된 오는 2월12일부터 회장직을 공식 수행, 향후 4년간 핸드볼협회를 이끌게 됐다.&lt;br&gt;&lt;br&gt;1965년생인 곽 사장은 고려대 출신으로 국가인공지능위원회 민간위원, 한국공학한림원 부회장 등을 역임하고 있다.&lt;br&gt;&lt;br&gt;곽 사장의 전임자는 최태원 SK그룹 회장이다. 2008년 12월 대한핸드볼협회장에 취임해 16년 동안 23∼27대 회장을 역임했다. 이 기간 최 회장은 핸드볼 활성화와 선진 시스템 구축, 저변 확대 등에 공헌했다는 평가를 받는다.
+                            SK㈜는 국내 대기업집단 중 선진화된 이사회 구조를 갖췄다는 평가를 받는다. 일찍부터 사외이사 중에서 이사회 의장을 선임해 독립성을 강화했으며 구성원의 의견 표출도 자유롭다. 최근 SK그룹은 이사회의 업무감독 역할을 강화하는 ‘이사회2.0’을 준비하고 있어 사외이사의 독립성과 자율성이 보다 강화될 것으로 예상된다.&lt;br&gt;&lt;br&gt;또 SK㈜ 이사회 구성원은 대부분 재무 및 인수합병(M&amp;A) 전문가다. SK㈜는 투자형 지주회사로서 활발한 투자와 M&amp;A를 시행하는 한편 그룹 차원의 리밸런싱에도 나서고 있다. 이 같은 그룹의 성격이 사내이사는 물론 사외이사의 필수역량으로도 자리를 잡는 모양새다. 여기에 올해 정기 주주총회에서 김병호, 염재호 사외이사의 임기만료와 신규 사내이사 선임이 예정돼 이사회 구성에도 큰 변화가 나타날 것으로 보인다.&lt;br&gt;&lt;br&gt;‘재무‧IB’ 중심 이사회 구성, 사외이사 2명 교체 예정&lt;br&gt;&lt;br&gt;SK㈜는 지난해까지 사내이사 3명, 사외이사 5명 등 총 8명으로 이사회를 구성했다. 이사회 내 사외이사 비율을 과반인 62.5%로 유지하며 다양한 전문가들을 이사회에 참여시켜 경영진을 견제하고 있다.&lt;br&gt;&lt;br&gt;현재 사외이사는 △김병호 △김선희 △박현주 △염재호 △윤치원 등 5인이다. SK㈜의 이사회 역량 구성표를 보면 사내이사를 포함한 8인 중 7인이 재무‧회계와 M&amp;A‧자본시장 전문가다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.sisajournal.com/news/articleView.html?idxno=321188" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=629811" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.sisajournal.com
+                            출처: www.bloter.net
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.sisajournal.com/news/thumbnail/202501/321188_324345_2518_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202501/629811_236555_1050_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 SK텔레콤, 가산 AIDC 개소…람다와 GPUaaS 첫 제공</title><link>https://www.etnews.com/20250113000023</link><description>
+                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 [2025 유망바이오 톱10] SK바이오팜, '넥스트 엑스코프리'로 1조클럽 당...</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01088966642038048</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            유영상 SK텔레콤 대표가 가산 AI DC 시설을 살펴보고 있다.&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 12월 30일 가산 인공지능AI 데이터센터(AIDC)를 개소하고 시범 운영을 마친 뒤 AI 클라우드 서비스인 'SKT GPUaaS(GPU-as-a-Service)'를 출시했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 'SK AI 서밋 2024'에서 'AI 인프라 슈퍼 하이웨이' 구축 전략을 발표했다. 연말 조직 개편에서 'AI DC 사업부'를 별도 조직으로 신설하고, GPUaaS를 새롭게 출시하며 'AI 인프라' 사업 본격화에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;'SKT GPUaaS'는 미국 람다와 지난 1여년간 함께 준비한 구독형 AI 클라우드 서비스다. SK텔레콤은 가산 AIDC에 람다의 한국 리전을 아시아태평양 최초로 유치했다. 이번에 출시하는 GPUaaS는 엔비디아 GPU H100을 기반으로 한다. H100은 현재 국내에 도입된 GPU 중 가장 성능이 우수하다.&lt;br&gt;&lt;br&gt;'SKT GPUaaS' 구독을 원하는 기업 고객은 AI 서비스 규모나 목적에 따라 GPU 수량과 기간을 선택하고, 단독 서버·방화벽·전용회선 등 맞춤형 패키지를 구성할 수 있다. 고객사는 독자적인 GPU를 사용해 안정적 AI 학습과 추론을 시행할 수 있다. AI 작업량이 급격히 늘어나더라도 단독 서버에 GPU를 손쉽게 추가할 수 있다.
+                            SK바이오팜은 뇌전증치료제 ‘세노바메이트’(제품명 엑스코프리)의 미국 식품의약국(FDA) 품목허가를 2019년 11월 획득했다. 바이오 훈풍이 일던 2020년 상장해 ‘따상상상’의 기록을 세워 공모주 열풍을 일으킨 주인공이다. 상장 후엔 세노바메이트의 다국가 진출에 매진했고 이 부분이 해결되자, 신규 R&amp;D 분야에서 경쟁력을 발굴하고 있다.&lt;br&gt;&lt;br&gt;이동훈 SK바이오팜 대표는 상업화 제품의 도입으로 1조원 연매출 달성을 앞당기고 신기술 역량 강화를 통해 차세대 먹거리를 찾겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;세노바메이트 판매국가 지속 확대…액상제형 품목허가 추진&lt;br&gt;&lt;br&gt;SK바이오팜은 세노바메이트라는 캐시카우를 보유한 게 가장 큰 저력으로 꼽힌다. 세노바메이트는 2024년 3분기까지 제품 판매 및 기술수출 계약금 등으로 3744억원을 벌어들였다. 이는 SK바이오팜 전체 매출의 97%에 해당한다.&lt;br&gt;&lt;br&gt;엑스코프리는 작년 12월 중국 의약당국에 신약허가신청서를 제출했다. SK바이오팜은 이에 따른 마일스톤 기술료로 이그니스 테라퓨틱스로부터 210억원을 수령했다. 이를 감안하면 연말까지 매출 4000억원을 무리없이 달성했을 것으로 추정된다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.etnews.com/20250113000023" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01088966642038048" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.edaily.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/01/PS25010800416.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 SK바이오팜 “AI로 뇌전증 예측 솔루션 개발…유로파마와 북미 JV 설립”</title><link>https://www.etnews.com/20250114000288</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK바이오팜 “AI로 뇌전증 예측 솔루션 개발…유로파마와 북미 JV 설립”&lt;br&gt;&lt;br&gt;이동훈 SK바이오팜 사장이 13일(현지시간) 미국 샌프란시스코에서 열린 JP모건 헬스케어 컨퍼런스에서 유로파마와의 디지털 헬스케어 조인트 벤처 설립 계획을 발표 중이다.&lt;br&gt;&lt;br&gt;SK바이오팜이 남미 최대 제약사 중 하나인 유로파마와 미국 내 조인트 벤처(이하 JV)를 설립한다. 이번 JV 설립은 SK바이오팜이 북미 시장에서 인공지능(AI) 기반 뇌전증 관리 플랫폼 사업화를 본격적으로 개시하기 위한 전략적 행보다.&lt;br&gt;&lt;br&gt;SK바이오팜과 유로파마는 2022년부터 SK바이오팜의 혁신 뇌전증 신약인 세노바메이트의 중남미 지역 출시를 위해 협력해왔다. 양사는 디지털 헬스케어 기술력과 경험을 융합해 북미 시장을 겨냥한 디지털 헬스케어 플랫폼 JV를 설립한다.&lt;br&gt;&lt;br&gt;이번 JV는 SK바이오팜이 2018년부터 자체적으로 개발해 온 뇌파 분석 AI 기술과 뇌파 측정 웨어러블 디바이스 기술을 기반으로 한다. 'AI 기반 뇌전증 관리 솔루션'의 상용화 개발을 본격화할 예정이다. 이 솔루션은 뇌전증 발작 여부를 실시간으로 모니터링하고, 의료진에게 데이터 기반의 최적 치료 계획 수립을 지원한다. 환자와 의료진 간 소통을 강화해 뇌전증을 예방할 수 있게 돕는다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.etnews.com/20250114000288" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -73,25 +92,6 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.etnews.com/news/article/2025/01/13/news-p.v1.20250113.a215c64d68d2438d8234bcfa88a7625a_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.etnews.com/news/article/2025/01/14/news-p.v1.20250114.021c6c3152ff4b37ba06078370c92b40_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item><item><title>📰 삼성전자·SK하이닉스 "2년 후 '커스텀 HBM' 시대 막 오른다" [biz-플러스...</title><link>https://www.sedaily.com/NewsView/2GNODJH990</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            삼성전자·SK하이닉스 등 고대역폭메모리(HBM) 회사가 맞춤형 칩인 ‘커스텀 HBM’ 시장이 2027년 이후 활짝 열릴 것이라고 예측했다. 인공지능(AI) 시장이 다변화하고 HBM 사용자들의 스펙 요구가 점차 다양해지면서 두 메모리 회사 모두 고객사에 다양한 선택지를 제안할 수 있는 반도체 기술을 개발하고 있는 것으로 파악된다.&lt;br&gt;&lt;br&gt;12일 업계에 따르면 김인동 삼성전자 상무와 강선국 SK하이닉스 부사장은 지난해 말 세계적인 팹리스 회사 ‘마벨’이 미국에서 주최한 애널리스트 행사에서 이 같은 내용을 밝혔다.&lt;br&gt;&lt;br&gt;강 부사장은 “8세대 HBM(HBM5)은 아직 표준이 정해져 있지 않다”면서 “2026년 말까지는 6세대 HBM(HBM4) 표준 제품이 주류를 이룰 것이고 2027년부터는 맞춤형 HBM 제작이 본격적으로 시작될 것”이라고 설명했다. 김 상무는 “첨단 패키징·메모리·로직 반도체 기술을 결합한 최첨단 기술이 필요하다”며 “커스텀 HBM 시장이 2029년까지 380억 달러(약 55조 원) 규모로 확장될 것이라는 예측도 있다”고 말했다.&lt;br&gt;&lt;br&gt;HBM은 여러 개의 D램을 수직으로 쌓아서 만든 칩이다. 그래픽처리장치(GPU) 등 정보 연산장치 바로 옆에 붙어서 데이터를 저장하는 역할을 맡는다. 기존 D램 모듈보다 데이터 이동 속도가 훨씬 빠르고 단일 D램보다 저장 용량이 크다는 장점이 있다. HBM은 최근 인공지능(AI) 시장이 만개하면서 크게 주목받고 있다. 세계 AI 반도체 1위인 엔비디아에서 최신 AI용 반도체 제품에 HBM을 적극적으로 채용하면서다.&lt;br&gt;&lt;br&gt;업계에서는 ‘표준’ HBM이 아닌 ‘맞춤형’ HBM을 선호하는 현상이 뚜렷해지고 있다. AI 시장이 각종 데이터를 ‘학습’하는 단계에서 이를 다양하게 응용하는 ‘추론’ 시장으로 넘어가면서 ‘빅테크’ 회사들도 자신들만의 칩을 요구하고 있어서다. 최근 구글이 엔비디아 공급망에서 벗어나 자체 AI 칩 텐서프로세싱유닛(TPU) 설계를 브로드컴에 맡기는 흐름처럼 HBM도 각자의 조건에 맞춤 제작해야 하는 상황이 도래한 것이다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.sedaily.com/NewsView/2GNODJH990" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.sedaily.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://newsimg.sedaily.com/2025/01/13/2GNODJH990_1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Mon, 13 Jan 2025 17:00:26 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item></channel></rss>
