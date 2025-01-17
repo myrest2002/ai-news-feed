@@ -1,97 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 15 Jan 2025 08:00:28 +0000</lastBuildDate><item><title>📰 '1350% vs 턱도 없다'… SK하이닉스, 성과급 기싸움</title><link>https://biz.newdaily.co.kr/site/data/html/2025/01/15/2025011500107.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 17 Jan 2025 08:00:35 +0000</lastBuildDate><item><title>📰 KB증권 "美 반도체 규제, 삼성전자·SK하이닉스에 영향 적을 듯"</title><link>https://www.yna.co.kr/view/AKR20250117027600008?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [단독] 삼성, ‘승부처' HBM4 6개월 당겨… 상반기 양산승인 추진&lt;br&gt;&lt;br&gt;'1350% vs 턱도 없다'… SK하이닉스, 성과급 기싸움&lt;br&gt;&lt;br&gt;엔비디아 제치나 … 브로드컴, AI칩 신흥강자로 급부상&lt;br&gt;&lt;br&gt;'들었다 놨다' 젠슨 황 밀당 발언에… 피곤한 삼성전자&lt;br&gt;&lt;br&gt;HBM3E '12단' 본격화 … 블랙웰 신제품 내년 3월 출시
+                            KB증권 "美 반도체 규제, 삼성전자·SK하이닉스에 영향 적을 듯"&lt;br&gt;&lt;br&gt;KB증권은 17일 미국의 새로운 반도체 규제가 삼성전자와 SK하이닉스에 미치는 영향은 제한적이라고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 김동원 연구원은 "우려 거래자 목록에 신규로 포함된 업체들은 중국 군사 부문과 미국 제재 대상인 화웨이 지원 의혹을 받는 업체들이 대부분"이라며 "삼성전자와 SK하이닉스에 미치는 영향은 제한적일 전망"이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 "이번 규제는 올해 D램 생산능력 기준 4위로 예상되는 중국 최대 D램 업체인 창신메모리에 직접적인 영향을 줄 것으로 예상된다"고 말했다.&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://biz.newdaily.co.kr/site/data/html/2025/01/15/2025011500107.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250117027600008?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: biz.newdaily.co.kr
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.newdaily.co.kr/site/data/img/2025/01/15/2025011500107_0.jpeg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img8.yna.co.kr/photo/cms/2023/10/05/39/PCM20231005000039990_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 젠슨 황, 美 AI칩 수출 규제 직후 中 방문…왜?</title><link>https://www.newsis.com/view/NISX20250114_0003032112</link><description>
+                </description><pubDate>Fri, 17 Jan 2025 17:00:35 +0900</pubDate></item><item><title>📰 "美 반도체 규제, 삼성전자·SK하이닉스에 영향 제한적"</title><link>https://www.sisajournal.com/news/articleView.html?idxno=321716</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            중국에 적지 않은 AI 칩을 수출하는 엔비디아 입장에서 미국 정부의 신규 규제로 매출 타격이 우려되는 만큼 황 CEO가 직접 현지를 방문해 대책 마련에 나설 것으로 보인다.&lt;br&gt;&lt;br&gt;삼성전자와 SK하이닉스도 엔비디아의 중국 사업 향방에 따라 직간접적 영향을 받을 수 있어 황 CEO의 중국 방문에 업계가 주목하고 있다.&lt;br&gt;&lt;br&gt;15일 업계에 따르면 젠슨황 CEO는 이날 중국 선전시를 찾아 현지 엔비디아 직원들과 설 행사를 진행할 것으로 알려졌다. 젠슨황은 이후 상하이와 베이징을 차례대로 방문할 예정이다.&lt;br&gt;&lt;br&gt;황 CEO의 이번 중국 방문은 미국 정부가 첨단 AI 칩에 대한 수출 규제 조치 강화 발표 직후에 이뤄진 것이어서 타이밍이 주목된다.&lt;br&gt;&lt;br&gt;미국 정부는 지난 13일(현지시간) 일부 동맹국을 제외하고, 중국과 러시아 등 적대국이 사실상 미국의 AI 칩에 대한 접근을 차단하는 수출 규제 방안을 공개했다.
+                            KB증권 “삼성전자·SK하이닉스, 올해 실적 개선 예상”&lt;br&gt;&lt;br&gt;KB증권은 미국의 새로운 반도체 규제가 삼성전자와 SK하이닉스에 미치는 영향이 제한적일 것이라고 17일 밝혔다. ⓒ연합뉴스&lt;br&gt;&lt;br&gt;KB증권은 17일 미국의 새로운 반도체 규제가 삼성전자와 SK하이닉스에 미치는 영향이 제한적일 것이라는 분석을 내놨다.&lt;br&gt;&lt;br&gt;김동원 KB증권 연구원은 이날 “우려 거래자 목록에 신규로 포함된 업체들은 중국 군사 부문과 미국 제재 대상인 화웨이 지원 의혹을 받는 업체들이 대부분”이라며 이같은 전망을 내놨다. 그는 “이번 규제는 올해 D램 생산능력 기준 4위로 예상되는 중국 최대 D램 업체인 창신메모리(CXMT)에 직접적인 영향을 줄 것으로 예상된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 연구원은 삼성전자와 SK하이닉스는 올해 실적 개선이 예상된다며 1분기가 투자 비중을 확대할 적기라고 강조했다. 그는 “SK하이닉스의 올해 영업이익은 최대치를 경신할 것으로 기대된다”며 “삼성전자 영업이익은 전년과 유사하지만, 하반기로 갈수록 실적 개선 폭이 확대될 전망”이라고 전했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250114_0003032112" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sisajournal.com/news/articleView.html?idxno=321716" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
+                            출처: www.sisajournal.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/01/07/NISI20250107_0000012082_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.sisajournal.com/news/thumbnail/202501/321716_325001_5757_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 [거버넌스 뉴웨이브] 변화 앞둔 이사회 2.0, '업무감독' 권한 강화 ｜SK...</title><link>https://www.bloter.net/news/articleView.html?idxno=629811</link><description>
+                </description><pubDate>Fri, 17 Jan 2025 17:00:35 +0900</pubDate></item><item><title>📰 SK하이닉스, 설 맞아 협력사 거래대금 1천330억원 앞당겨 지급</title><link>https://www.yna.co.kr/view/AKR20250117029400003?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK㈜는 국내 대기업집단 중 선진화된 이사회 구조를 갖췄다는 평가를 받는다. 일찍부터 사외이사 중에서 이사회 의장을 선임해 독립성을 강화했으며 구성원의 의견 표출도 자유롭다. 최근 SK그룹은 이사회의 업무감독 역할을 강화하는 ‘이사회2.0’을 준비하고 있어 사외이사의 독립성과 자율성이 보다 강화될 것으로 예상된다.&lt;br&gt;&lt;br&gt;또 SK㈜ 이사회 구성원은 대부분 재무 및 인수합병(M&amp;A) 전문가다. SK㈜는 투자형 지주회사로서 활발한 투자와 M&amp;A를 시행하는 한편 그룹 차원의 리밸런싱에도 나서고 있다. 이 같은 그룹의 성격이 사내이사는 물론 사외이사의 필수역량으로도 자리를 잡는 모양새다. 여기에 올해 정기 주주총회에서 김병호, 염재호 사외이사의 임기만료와 신규 사내이사 선임이 예정돼 이사회 구성에도 큰 변화가 나타날 것으로 보인다.&lt;br&gt;&lt;br&gt;‘재무‧IB’ 중심 이사회 구성, 사외이사 2명 교체 예정&lt;br&gt;&lt;br&gt;SK㈜는 지난해까지 사내이사 3명, 사외이사 5명 등 총 8명으로 이사회를 구성했다. 이사회 내 사외이사 비율을 과반인 62.5%로 유지하며 다양한 전문가들을 이사회에 참여시켜 경영진을 견제하고 있다.&lt;br&gt;&lt;br&gt;현재 사외이사는 △김병호 △김선희 △박현주 △염재호 △윤치원 등 5인이다. SK㈜의 이사회 역량 구성표를 보면 사내이사를 포함한 8인 중 7인이 재무‧회계와 M&amp;A‧자본시장 전문가다.
+                            SK하이닉스, 설 맞아 협력사 거래대금 1천330억원 앞당겨 지급&lt;br&gt;&lt;br&gt;SK하이닉스가 설 명절을 맞아 중소·중견 협력사 470곳에 약 1천330억원 규모의 거래대금을 조기 지급한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;SK하이닉스는 이번 거래대금 조기 지급이 원자재 대금과 직원 명절 상여금 지급 등으로 일시적 자금 수요가 많을 협력사에 실질적인 보탬이 될 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;SK하이닉스 측은 "고금리·고환율로 어려움을 겪는 산업계 전반의 상황을 고려, 협력사의 원활한 자금 운용과 내수 경기 활성화를 위해 거래대금을 조기에 지급하기로 결정했다"며 "협력사와 그 구성원들의 설 명절 준비와 가계에 도움이 되길 바란다"고 밝혔다.&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=629811" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250117029400003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202501/629811_236555_1050_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img7.yna.co.kr/photo/yna/YH/2024/07/25/PYH2024072511360006100_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 [2025 유망바이오 톱10] SK바이오팜, '넥스트 엑스코프리'로 1조클럽 당...</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01088966642038048</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK바이오팜은 뇌전증치료제 ‘세노바메이트’(제품명 엑스코프리)의 미국 식품의약국(FDA) 품목허가를 2019년 11월 획득했다. 바이오 훈풍이 일던 2020년 상장해 ‘따상상상’의 기록을 세워 공모주 열풍을 일으킨 주인공이다. 상장 후엔 세노바메이트의 다국가 진출에 매진했고 이 부분이 해결되자, 신규 R&amp;D 분야에서 경쟁력을 발굴하고 있다.&lt;br&gt;&lt;br&gt;이동훈 SK바이오팜 대표는 상업화 제품의 도입으로 1조원 연매출 달성을 앞당기고 신기술 역량 강화를 통해 차세대 먹거리를 찾겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;세노바메이트 판매국가 지속 확대…액상제형 품목허가 추진&lt;br&gt;&lt;br&gt;SK바이오팜은 세노바메이트라는 캐시카우를 보유한 게 가장 큰 저력으로 꼽힌다. 세노바메이트는 2024년 3분기까지 제품 판매 및 기술수출 계약금 등으로 3744억원을 벌어들였다. 이는 SK바이오팜 전체 매출의 97%에 해당한다.&lt;br&gt;&lt;br&gt;엑스코프리는 작년 12월 중국 의약당국에 신약허가신청서를 제출했다. SK바이오팜은 이에 따른 마일스톤 기술료로 이그니스 테라퓨틱스로부터 210억원을 수령했다. 이를 감안하면 연말까지 매출 4000억원을 무리없이 달성했을 것으로 추정된다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01088966642038048" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/01/PS25010800416.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item><item><title>📰 SK바이오팜 “AI로 뇌전증 예측 솔루션 개발…유로파마와 북미 JV 설립”</title><link>https://www.etnews.com/20250114000288</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK바이오팜 “AI로 뇌전증 예측 솔루션 개발…유로파마와 북미 JV 설립”&lt;br&gt;&lt;br&gt;이동훈 SK바이오팜 사장이 13일(현지시간) 미국 샌프란시스코에서 열린 JP모건 헬스케어 컨퍼런스에서 유로파마와의 디지털 헬스케어 조인트 벤처 설립 계획을 발표 중이다.&lt;br&gt;&lt;br&gt;SK바이오팜이 남미 최대 제약사 중 하나인 유로파마와 미국 내 조인트 벤처(이하 JV)를 설립한다. 이번 JV 설립은 SK바이오팜이 북미 시장에서 인공지능(AI) 기반 뇌전증 관리 플랫폼 사업화를 본격적으로 개시하기 위한 전략적 행보다.&lt;br&gt;&lt;br&gt;SK바이오팜과 유로파마는 2022년부터 SK바이오팜의 혁신 뇌전증 신약인 세노바메이트의 중남미 지역 출시를 위해 협력해왔다. 양사는 디지털 헬스케어 기술력과 경험을 융합해 북미 시장을 겨냥한 디지털 헬스케어 플랫폼 JV를 설립한다.&lt;br&gt;&lt;br&gt;이번 JV는 SK바이오팜이 2018년부터 자체적으로 개발해 온 뇌파 분석 AI 기술과 뇌파 측정 웨어러블 디바이스 기술을 기반으로 한다. 'AI 기반 뇌전증 관리 솔루션'의 상용화 개발을 본격화할 예정이다. 이 솔루션은 뇌전증 발작 여부를 실시간으로 모니터링하고, 의료진에게 데이터 기반의 최적 치료 계획 수립을 지원한다. 환자와 의료진 간 소통을 강화해 뇌전증을 예방할 수 있게 돕는다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.etnews.com/20250114000288" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.etnews.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.etnews.com/news/article/2025/01/14/news-p.v1.20250114.021c6c3152ff4b37ba06078370c92b40_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Wed, 15 Jan 2025 17:00:28 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 17 Jan 2025 17:00:35 +0900</pubDate></item></channel></rss>
