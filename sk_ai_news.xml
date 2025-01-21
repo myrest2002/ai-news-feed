@@ -1,135 +1,97 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 19 Jan 2025 08:00:33 +0000</lastBuildDate><item><title>📰 최태원 대한상의 회장 "관세·인플레이션·AI 등 삼각파도 우려"</title><link>https://www.moneys.co.kr/article/2025011910181826840</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 21 Jan 2025 08:00:41 +0000</lastBuildDate><item><title>📰 SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입</title><link>https://www.joongang.co.kr/article/25309080</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최태원 대한상의 회장 "관세·인플레이션·AI 등 삼각파도 우려"&lt;br&gt;&lt;br&gt;KBS 일요진단 출연… 국제질서 변화에 따른 한국경제 개선방향 제시&lt;br&gt;&lt;br&gt;최태원 대한상공회의소 회장 겸 SK그룹 회장이 20일 KBS 일요진단에 출연해 트럼프 정부 출범 등 국제질서 변화가 한국경제에 미치는 영향과 그 대응책을 제시했다.&lt;br&gt;&lt;br&gt;최태원 회장은 이날 방송에서 올해 경제전망을 묻는 질문에 "소비, 고용, 수출 등 각종 경제지표가 좋지 않다"며 "미국 주도의 관세 인상과 이에 따른 인플레이션 압력, AI의 빠른 기술적 변화 등의 불안요소가 삼각파도로 다가오고 있다"고 밝혔다.&lt;br&gt;&lt;br&gt;실제 한국의 대미 흑자액이 트럼프 1기 행정부 4년간 약 600억달러 정도였는데 바이든 정부 4년간 약 1500억달러여서 통상압력으로 돌아올 가능성이 높다고도 말했다.
+                            SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입&lt;br&gt;&lt;br&gt;SK쉴더스(대표 홍원표)가 AI 테크기업 크라우드웍스(대표 김우승)와 협력해 생성형 AI 기반 고객케어 프로그램을 업무에 도입했다고 26일 밝혔다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.moneys.co.kr/article/2025011910181826840" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.joongang.co.kr/article/25309080" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.moneys.co.kr
+                            출처: www.joongang.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://menu.moneys.co.kr/moneyweek/thumb/2025/01/19/06/2025011910181826840_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://pds.joongang.co.kr/news/component/joongang_sunday/202501/21/6770d36b-95b3-4516-9739-65571f3271e1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 SK하이닉스 사상 최대 실적 예약…4Q 8조·年 23조 영업익 찍나</title><link>https://www.news1.kr/industry/general-industry/5664627</link><description>
+                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 '80조 노다지' 대박 기회 열렸다…삼성·하이닉스에 희소식</title><link>https://www.hankyung.com/article/202501219342i</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            '관세의 시간' 왔다…재계, 트럼프 코드 맞추기 총력[트럼프 2.0]&lt;br&gt;&lt;br&gt;SK하이닉스 사상 최대 실적 예약…4Q 8조·年 23조 영업익 찍나&lt;br&gt;&lt;br&gt;삼성전자, 코스피 반등에도 하락세…제한적 성장 예상에 목표가 '뚝'&lt;br&gt;&lt;br&gt;[AI Korea]④"AI 활용 처지면 반도체도 조선도 끝"…필사적인 재계&lt;br&gt;&lt;br&gt;머리 복잡한 K-반도체…가전업계, 관세인상 초긴장[트럼프 2.0]
+                            '80조 노다지' 대박 기회 열렸다…삼성·하이닉스에 희소식&lt;br&gt;&lt;br&gt;한국 반도체 기업들이 주도하고 있는 고대역폭메모리(HBM) 시장이 올해 380억달러(약 55조원), 내년에는 580억달러(83조원)까지 급성장할 것이란 전망이 나왔다.&lt;br&gt;&lt;br&gt;기존 최대 수요자인 엔비디아에 더해 구글, 아마존, 메타 등 빅테크 기업들이 신규 구매자로 등장하면서다.&lt;br&gt;&lt;br&gt;21일 JP모건은 올해 구글과 아마존의 자체 AI칩이 HBM 성장을 주도할 것이라며 이같이 전망했다. JP모건은 빅테크들의 자체 칩이 삼성전자, SK하이닉스 등 메모리 업계가 구조적으로 성장할 수 있는 촉매제(catalyst)가 될 것이라고 내다봤다.&lt;br&gt;&lt;br&gt;구글과 아마존은 엔비디아에 대한 의존도를 낮추기 위해 저마다 자체 칩을 개발하고 있다. HBM2 등 이전 세대 제품을 사용해왔던 빅테크들은 올해부터 칩 성능을 끌어올리기 위해 최신 HBM을 탑재한다. 구글은 올해 HBM3E 12단 제품을 채택할 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news1.kr/industry/general-industry/5664627" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/202501219342i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
+                            출처: www.hankyung.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://i3n.news1.kr/system/photos/2025/1/17/7090368/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202501/01.39274634.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 원격으로 ‘발작’ 관리하는 SK바이오팜…‘뇌전증’ 사업 확장</title><link>https://economist.co.kr/article/view/ecn202501150041</link><description>
+                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 SK텔레콤 '에이닷', 아이폰 기본 통화 앱 설정 가능</title><link>https://www.yna.co.kr/view/AKR20250120123600017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            원격으로 ‘발작’ 관리하는 SK바이오팜…‘뇌전증’ 사업 확장&lt;br&gt;&lt;br&gt;이동훈 SK바이오팜 사장은 지난 13일(현지시각) 미국 캘리포니아주 샌프란시스코에서 열린 JP모건 헬스케어 콘퍼런스(JPMHC)에서 간담회를 열고 다국적 기업 유로파마(Eurofarma)와 미국에 합작법인을 설립한다고 밝혔다. 이 사장은 “합작법인을 통해 북미 시장에서 AI 기반 뇌전증 관리 플랫폼을 성공적으로 선보여 성장 동력으로 만들겠다”라며 “유로파마와의 협력은 SK바이오팜이 해외 사업을 확장하는 새로운 장이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;JP모건 헬스케어 콘퍼런스는 미국의 투자은행인 JP모건이 매년 1월 개최하는 제약·바이오 분야의 최대 규모 투자 행사다. 올해 43회차를 맞이하는 이번 행사에는 550여 개 기업과 8000여 명의 투자자, 전문가가 참여했다. SK바이오팜에서는 이 사장 외 임직원 15명이 JP모건 헬스케어 콘퍼런스로 향했다. ▲삼성바이오로직스 ▲셀트리온 ▲브릿지바이오테라퓨틱스 등 발표를 하는 다른 기업과는 달리 파트너링 미팅만 진행한다.&lt;br&gt;&lt;br&gt;SK바이오팜은 2018년부터 뇌파 분석 AI 기술, 뇌파 측정 웨어러블 기기를 개발했다. 합작법인을 통해 사업화할 뇌전증 관리 플랫폼에 AI 기술과 뇌파 측정 기기를 적용한다. 뇌전증 환자가 발작을 일으키면 뇌에 10~15분 동안 충격이 가해지다 사망에 이를 수 있다. 해당 플랫폼을 활용하면 뇌전증 환자의 발작 여부를 실시간으로 관찰할 수 있고 의료진에게 이와 관련한 데이터를 전송해 발작을 사전에 관리할 수 있다.&lt;br&gt;&lt;br&gt;SK바이오팜이 유로파마와 설립할 미국 법인은 ‘제2의 엑스코프리’를 찾는 데도 숨통을 트여줄 전망이다. SK바이오팜은 뇌전증 치료제인 엑스코프리를 개발해 상업화에 성공했지만, 엑스코프리 외 다른 매출 창구가 없어 새로운 먹거리를 찾아야 한다는 부담을 안고 있다. SK바이오팜은 전체 매출의 97%를 엑스코프리에서 얻고 있다. 엑스코프리를 세계 각지에 판매하거나 기술 수출해 올린 매출이다.
+                            SK텔레콤 '에이닷', 아이폰 기본 통화 앱 설정 가능&lt;br&gt;&lt;br&gt;아이폰에서 인공지능 비서 서비스 '에이닷'을 기본 통화 앱으로 사용할 수 있게 됐다.&lt;br&gt;&lt;br&gt;21일 SK텔레콤 에이닷 공지사항에 따르면 아이폰 운영체제 18.2 업데이트와 에이닷 최신 업데이트를 진행하면 에이닷 앱을 기본 통화 앱으로 설정할 수 있다.&lt;br&gt;&lt;br&gt;그동안 안드로이드 운영체제에서는 이 같은 설정이 가능했지만 아이폰에서는 지원되지 않아 웹서핑이나 지도, 메신저 앱 내 전화번호를 클릭하면 아이폰 기본 통화로 연결됐다.&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://economist.co.kr/article/view/ecn202501150041" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250120123600017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: economist.co.kr
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://economist.co.kr/data/ecn/image/2025/01/15/ecn20250115000050.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img6.yna.co.kr/etc/inner/KR/2025/01/20/AKR20250120123600017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 美 브로드컴 'HBM4' 큰 손 될까…삼성·SK '탈 엔비디아' 주목</title><link>https://www.newsworks.co.kr/news/articleView.html?idxno=781298</link><description>
+                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 트럼프 취임에도 의기양양한 TSMC… 삼성-SK는 '불안' [막오른 트럼프2....</title><link>https://biz.newdaily.co.kr/site/data/html/2025/01/21/2025012100125.html</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            19일 관련 업계에 따르면 SK하이닉스는 브로드컴으로부터 최근 맞춤형 HBM4를 대량으로 공급해 줄 것을 요청받았다. 삼성전자 역시 HBM4 공급 방안에 대해 브로드컴과 논의 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최근 브로드컴은 '시가총액 1조달러 클럽'에 엔비디아, TSMC에 이어 세 번째로 이름을 올린 바 있다.&lt;br&gt;&lt;br&gt;브로드컴은 원래 와이파이·블루투스 등 통신장비에 들어가는 반도체 설계를 주력 사업으로 해 온 '팹리스' 기업이다. 엔비디아는 범용으로 사용되는 그래픽처리장치(GPU)를 개발한다면, 브로드컴은 인공지능(AI) 맞춤형 반도체의 일종인 XPU(eXtreme Processing Unit)를 개발하는 업체다.&lt;br&gt;&lt;br&gt;AI 반도체는 GPU는 물론 신경망처리장치(NPU)와 중앙처리장치(CPU) 등을 포함하고 있는데, 브로드컴은 NPU와 관련된 제품을 개발하고 있다.&lt;br&gt;&lt;br&gt;브로드컴의 XPU는 특정 고객의 AI 프로그램을 더 효율적으로 실행하도록 설계된 제품이다. 엔비디아의 GPU에 비해 작동이 간편하고 가격이 저렴한 것이 장점이다. 최근 브로드컴은 구글·메타·바이트댄스 등 빅테크 기업에 저렴한 가격으로 XPU를 공급하고 있다.
+                            삼성 또 '어닝쇼크' 맞나… 실적 발표 앞두고 목표치 줄하향&lt;br&gt;&lt;br&gt;2나노 파운드리 경쟁 본격화… 삼성전자, 가격 경쟁력 관건&lt;br&gt;&lt;br&gt;스마트폰 다음은 안경… 삼성·구글·메타가 콕 집은 이 기업&lt;br&gt;&lt;br&gt;트럼프 취임에도 의기양양한 TSMC… 삼성-SK는 '불안'
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsworks.co.kr/news/articleView.html?idxno=781298" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://biz.newdaily.co.kr/site/data/html/2025/01/21/2025012100125.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsworks.co.kr
+                            출처: biz.newdaily.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.newsworks.co.kr/news/thumbnail/202501/781298_716618_4420_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.newdaily.co.kr/site/data/img/2025/01/21/2025012100125_0.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 SK그룹 최태원 회장이 대한민국 경제계에 던진 세 가지 화두 ‘글로벌 ...</title><link>https://www.sportsseoul.com/news/read/1490582?ref=naver</link><description>
+                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 SK하이닉스 사측, 성과급 1450% 제안…노조 반발</title><link>https://www.dt.co.kr/contents.html?article_no=2025012102109932075002&amp;ref=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK그룹 최태원 회장이 대한민국 경제계에 던진 세 가지 화두 ‘글로벌 경제 연대·수출 주도형 모델 보완·내수 확대’&lt;br&gt;&lt;br&gt;SK그룹 최태원 회장이 위기에 빠진 대한민국 경제계에 새로운 화두를 던졌다.&lt;br&gt;&lt;br&gt;최 회장은 19일 KBS ‘일요진단’에 출연해 “미국 주도의 관세 인상과 이에 따른 인플레이션 압력, 인공지능(AI)의 빠른 기술적 변화 등의 불안요소가 삼각파도로 다가오고 있다”며 대응이 필요하다고 강조했다.&lt;br&gt;&lt;br&gt;대한상공회의소 회장을 겸하고 있는 최 회장은 도널드 트럼프 미국 대통령 2기 출범 등으로 국제 질서 변화가 예상되는 상황에 기존 수출 주도형 모델로는 한계가 있다고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 ▲글로벌 경제 연대 ▲수출 주도형 모델의 보완 ▲내수 확대 등을 대응책으로 제시했다.
+                            SK���̴н��� �ʰ����ͼ�����(PS)�� �⺻���� 1450% ������ ������ ������ ��������. ���� �ñ�� 24�Ϸ� �����ߴ�.&lt;br&gt;&lt;br&gt;�׷��� �������� �ݹ��ϰ� �־� ������ �ŵ�ǰ� �ִ�.&lt;br&gt;&lt;br&gt;21�� ���迡 ������ SK���̴н� ������ �ֱ� �������� ���� �ش� ������ ���� �ȳ� �̸����� ���� ������ �˷�����. SK���̴н� PS�� ���� ���������� 10%�� ������� ��� �⺻���� �ִ� 1000%�� �����ϴ� ������ ������.&lt;br&gt;&lt;br&gt;���ǰ����� ������ SK���̴н��� �۳� ���������� 23��4000��� �����̴�. �̴� �ݵ�ü ���� ȣȲ�⿴�� ���� 2018�� �������� 20��8400����� �Ѵ� �����̴�.&lt;br&gt;&lt;br&gt;SK���̴н��� �� ���� ���ִ� �ΰ�����(AI) �ô� �þ ���뿪���޸�(HBM) ���� �����̴�. SK���̴н��� AI ��ǳ�� �ֵ��ϴ� �������� ù ��° HBM ���޻��.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.sportsseoul.com/news/read/1490582?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.dt.co.kr/contents.html?article_no=2025012102109932075002&amp;ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.sportsseoul.com
+                            출처: www.dt.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://file.sportsseoul.com/news/cms/2025/01/19/rcv.YNA.20250109.PYH2025010901350000300_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="//contents.dt.co.kr/images/202501/2025012102109932075002[1].jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 [한주의 제약바이오]SK바사, 21가 폐렴 백신 韓·美 3상 IND 승인</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01895846642039360</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK바이오사이언스(302440)는 사노피와 공동 개발중인 21가 폐렴구균 단백접합 백신 후보물질 ‘GBP410’의 3상 임상시험계획(IND)이 한국 식품의약품안전처와 미국 식품의약국(FDA)에서 승인됐다고 지난 17일 밝혔다. 지난달 호주에서 첫 3상 투약이 시작된 GBP410의 글로벌 임상 3상은 생후 6주 이상부터 만 17세까지의 영·유아, 어린이 및 청소년 7700여명을 대상으로 최대 4회 접종 후 기 허가 폐렴구균 백신과 면역원성 및 안전성을 비교하는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;SK바이오사이언스와 사노피는 2023년 6월 성공적으로 GBP410의 2상 결과를 확보한 바 있다. 생후 12~15개월의 소아 140명과 생후 42~89일의 영·유아 712명을 대상으로 GBP410과 대조백신(프리베나13)을 기초 접종 및 추가 접종하는 비교임상 결과, 대조백신과 GBP410의 면역원성이 동등한 수준임을 확인했다.&lt;br&gt;&lt;br&gt;안전성 측면에서도 GBP410 접종군은 백신과 관련 있는 중대한 이상사례가 보고되지 않았다. 또 파상풍, 디프테리아, 백일해, 폴리오, B형 헤모필루스 인플루엔자 백신 등 영·유아 및 소아 접종 권고 백신을 병용 투약하는 경우에도 대조백신 대비 동등한 수준의 면역원성 및 안전성을 확인했다. GBP410은 영·유아 대상 임상 3상에 진입한 백신 후보물질 중 최초로 20가를 넘는 혈청형을 포함한다.&lt;br&gt;&lt;br&gt;양사의 신규 프로젝트에 따라 SK바이오사이언스는 사노피로부터 5000만 유로(약 755억원)를 선급금(upfront)으로, 이후 개발 완료 시점까지 단계별로 최대 3억 유로(약 4529억원)의 마일스톤을 추가로 지급받게 된다.&lt;br&gt;&lt;br&gt;백신의 연구개발비는 양사가 동일하게 분담하며 상업화와 관련된 모든 비용은 사노피가 부담한다. 상업화 후 SK바이오사이언스는 한국에서, 사노피는 글로벌에서 판매를 맡는다. 제품 매출에 따라 수익은 양사가 정해진 비율로 나누게 된다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01895846642039360" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://image.edaily.co.kr/images/content/defaultimg.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item><item><title>📰 SKT, 협력사 대금 1230억원 조기 지급</title><link>https://www.techm.kr/news/articleView.html?idxno=134662</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤은 설을 맞아 총 1230억원의 협력사 거래 대금을 조기 지급한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤뿐 아니라 SK브로드밴드 SK스토아 등 SK그룹 정보통신기술(ICT) 계열사 포함이다. 대상은 1450여개 협력사와 250여개 유통망이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 ▲동반성장펀드 ▲대금지급바로 등 동반성장 프로그램을 운영 중이다.&lt;br&gt;&lt;br&gt;김양섭 SK텔레콤 코퍼레이트플래닝센터장(CFO)은 "이번 대금 조기 지급이 중소 파트너사의 경영 안정에 보탬이 되길 바란다"며 "SK텔레콤은 인공지능(AI) 컴퍼니로 진화에 중요한 동반자인 중소 비즈니스 파트너사를 위한 다양한 상생 프로그램을 지속 이어나갈 것"이라고 말했다.&lt;br&gt;&lt;br&gt;[2025 테크노베이션] "개인비서에 친구 역할까지"...AI에이전트의 거센 돌풍, 국내 빅테크 들썩인다
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.techm.kr/news/articleView.html?idxno=134662" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.techm.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.techm.kr/news/thumbnail/202501/134662_178446_822_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 19 Jan 2025 17:00:33 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item></channel></rss>
