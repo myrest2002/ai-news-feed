@@ -1,51 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 21 Jan 2025 08:00:41 +0000</lastBuildDate><item><title>📰 SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입</title><link>https://www.joongang.co.kr/article/25309080</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 23 Jan 2025 08:01:05 +0000</lastBuildDate><item><title>📰 'HBM 신화' 반도체 왕좌 오른 SK하이닉스…최태원 '뚝심' 결실</title><link>https://www.news1.kr/industry/company/5670641</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;SK쉴더스, 업계 최초로 고객케어 업무에 생성형 AI 도입&lt;br&gt;&lt;br&gt;SK쉴더스(대표 홍원표)가 AI 테크기업 크라우드웍스(대표 김우승)와 협력해 생성형 AI 기반 고객케어 프로그램을 업무에 도입했다고 26일 밝혔다.
+                            최태원 회장이 우시 공장에 마련된 전시관에서 반도체 제품을 살펴보고 있다. 왼쪽부터 이재우 법인장, 최태원 회장, 권오철 사장, 박상훈 제조총괄본부장. ⓒ News1&lt;br&gt;&lt;br&gt;SK 최태원 회장, SK하이닉스 권오철 사장, 김문수 경기도지사를 비롯한 참석자들이 26일 오전 경기도 이천 하이닉스반도체에서 열린 'SK하이닉스 출범식'에서 새로운 CI 퍼포먼스를 하고 있다. 뉴스1/머니투데이&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장(오른쪽)과 젠슨 황 엔비디아 최고경영자(CEO).(최태원 회장 SNS 갈무리)&lt;br&gt;&lt;br&gt;[IR]LG전자 "웹OS 사용 타 브랜드 스마트TV 1000만대 이상 확보"&lt;br&gt;&lt;br&gt;[IR]LG전자 "트럼프 관세 대응 위해 생산지 전략 변경도 고려"
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.joongang.co.kr/article/25309080" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/industry/company/5670641" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.joongang.co.kr
+                            출처: www.news1.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://pds.joongang.co.kr/news/component/joongang_sunday/202501/21/6770d36b-95b3-4516-9739-65571f3271e1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://i3n.news1.kr/system/photos/2012/2/21/82503/article.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 '80조 노다지' 대박 기회 열렸다…삼성·하이닉스에 희소식</title><link>https://www.hankyung.com/article/202501219342i</link><description>
+                </description><pubDate>Thu, 23 Jan 2025 17:01:05 +0900</pubDate></item><item><title>📰 '진정한 AI 스마트폰' 갤럭시 S25 시리즈 사전판매 내일 시작</title><link>https://www.yna.co.kr/view/AKR20250123030100017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            '80조 노다지' 대박 기회 열렸다…삼성·하이닉스에 희소식&lt;br&gt;&lt;br&gt;한국 반도체 기업들이 주도하고 있는 고대역폭메모리(HBM) 시장이 올해 380억달러(약 55조원), 내년에는 580억달러(83조원)까지 급성장할 것이란 전망이 나왔다.&lt;br&gt;&lt;br&gt;기존 최대 수요자인 엔비디아에 더해 구글, 아마존, 메타 등 빅테크 기업들이 신규 구매자로 등장하면서다.&lt;br&gt;&lt;br&gt;21일 JP모건은 올해 구글과 아마존의 자체 AI칩이 HBM 성장을 주도할 것이라며 이같이 전망했다. JP모건은 빅테크들의 자체 칩이 삼성전자, SK하이닉스 등 메모리 업계가 구조적으로 성장할 수 있는 촉매제(catalyst)가 될 것이라고 내다봤다.&lt;br&gt;&lt;br&gt;구글과 아마존은 엔비디아에 대한 의존도를 낮추기 위해 저마다 자체 칩을 개발하고 있다. HBM2 등 이전 세대 제품을 사용해왔던 빅테크들은 올해부터 칩 성능을 끌어올리기 위해 최신 HBM을 탑재한다. 구글은 올해 HBM3E 12단 제품을 채택할 계획이다.
+                            '진정한 AI 스마트폰' 갤럭시 S25 시리즈 사전판매 내일 시작&lt;br&gt;&lt;br&gt;개선된 인공지능을 탑재한 삼성전자의 플래그십 스마트폰 '갤럭시 S25 시리즈'의 사전 판매가 24일부터 다음 달 3일까지 진행된다.&lt;br&gt;&lt;br&gt;다만 갤럭시 S25·갤럭시 S25+ 512GB 모델, 갤럭시 S25 울트라 메모리 12GB 1TB 모델은 사전 판매를 진행하지 않으며 갤럭시 S25 울트라 메모리 16GB 1TB 모델은 삼성닷컴에서만 사전 판매를 진행한다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;삼성전자는 미국 캘리포니아주 새너제이에서 22일(현지시간) 갤럭시 S25 일반, 플러스, 울트라 총 3개 모델을 공개했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.hankyung.com/article/202501219342i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.hankyung.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.hankyung.com/photo/202501/01.39274634.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 SK텔레콤 '에이닷', 아이폰 기본 통화 앱 설정 가능</title><link>https://www.yna.co.kr/view/AKR20250120123600017?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤 '에이닷', 아이폰 기본 통화 앱 설정 가능&lt;br&gt;&lt;br&gt;아이폰에서 인공지능 비서 서비스 '에이닷'을 기본 통화 앱으로 사용할 수 있게 됐다.&lt;br&gt;&lt;br&gt;21일 SK텔레콤 에이닷 공지사항에 따르면 아이폰 운영체제 18.2 업데이트와 에이닷 최신 업데이트를 진행하면 에이닷 앱을 기본 통화 앱으로 설정할 수 있다.&lt;br&gt;&lt;br&gt;그동안 안드로이드 운영체제에서는 이 같은 설정이 가능했지만 아이폰에서는 지원되지 않아 웹서핑이나 지도, 메신저 앱 내 전화번호를 클릭하면 아이폰 기본 통화로 연결됐다.&lt;br&gt;&lt;br&gt;
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250120123600017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250123030100017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -54,44 +35,44 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img6.yna.co.kr/etc/inner/KR/2025/01/20/AKR20250120123600017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img3.yna.co.kr/etc/inner/KR/2025/01/23/AKR20250123030100017_02_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 트럼프 취임에도 의기양양한 TSMC… 삼성-SK는 '불안' [막오른 트럼프2....</title><link>https://biz.newdaily.co.kr/site/data/html/2025/01/21/2025012100125.html</link><description>
+                </description><pubDate>Thu, 23 Jan 2025 17:01:05 +0900</pubDate></item><item><title>📰 [속보]SK하이닉스, 지난해 영업익 23.5조 사상 최대…HBM 비중 40% 이상</title><link>https://www.khan.co.kr/article/202501230758001</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            삼성 또 '어닝쇼크' 맞나… 실적 발표 앞두고 목표치 줄하향&lt;br&gt;&lt;br&gt;2나노 파운드리 경쟁 본격화… 삼성전자, 가격 경쟁력 관건&lt;br&gt;&lt;br&gt;스마트폰 다음은 안경… 삼성·구글·메타가 콕 집은 이 기업&lt;br&gt;&lt;br&gt;트럼프 취임에도 의기양양한 TSMC… 삼성-SK는 '불안'
+                            SK하이닉스가 고대역폭메모리(HBM) 수요 확대에 힘입어 지난해 사상 최대 매출과 영업이익 기록을 새로 썼다.&lt;br&gt;&lt;br&gt;SK하이닉스는 23일 지난해 매출이 66조1930억원으로 전년 대비 102.0% 증가했다고 밝혔다. 지난해 영업이익은 23조4673억원(영업이익률 35%), 순이익 19조7969억원(순이익률 30%)으로 창사 이래 최대 실적을 경신했다.&lt;br&gt;&lt;br&gt;매출은 기존 최고였던 2022년보다 21조원 이상 높은 실적을 달성했고, 영업이익도 메모리 호황기였던 2018년의 성과를 넘어섰다. SK하이닉스 지난해 영업이익은 삼성전자 반도체 사업을 담당하는 디바이스솔루션(DS)부문 영업이익(15조원대)도 넘어선 것이다.&lt;br&gt;&lt;br&gt;특히 4분기 매출은 전 분기 대비 12% 증가한 19조7670억원, 영업이익 또한 15% 증가한 8조828억원(영업이익률 41%)에 달했다. 순이익은 8조65억원(순이익률 41%)을 기록했다.&lt;br&gt;&lt;br&gt;SK하이닉스는 “인공지능(AI) 메모리 반도체 수요 강세가 두드러진 가운데 업계 선두의 HBM 기술력과 수익성 중심의 경영을 통해 사상 최고의 실적을 달성했다”고 설명했다. 이어 “4분기에도 높은 성장률을 보인 HBM은 전체 D램 매출의 40% 이상을 차지했고, 기업용 SSD(eSSD)도 판매를 지속 확대했다”며 “차별화된 제품 경쟁력을 바탕으로 한 수익성 중심 경영으로 안정적인 재무 상황을 구축했고, 이를 기반으로 실적 개선세가 이어졌다”고 덧붙였다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://biz.newdaily.co.kr/site/data/html/2025/01/21/2025012100125.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.khan.co.kr/article/202501230758001" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: biz.newdaily.co.kr
+                            출처: www.khan.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.newdaily.co.kr/site/data/img/2025/01/21/2025012100125_0.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.khan.co.kr/news/2025/01/23/news-p.v1.20250123.e5bfdebd7b544b5da7c5efa5d70e49b5_P1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item><item><title>📰 SK하이닉스 사측, 성과급 1450% 제안…노조 반발</title><link>https://www.dt.co.kr/contents.html?article_no=2025012102109932075002&amp;ref=naver</link><description>
+                </description><pubDate>Thu, 23 Jan 2025 17:01:05 +0900</pubDate></item><item><title>📰 'HBM의 힘' SK하이닉스, 2등 꼬리표 뗐다(종합)</title><link>https://view.asiae.co.kr/article/2025012311133296155</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK���̴н��� �ʰ����ͼ�����(PS)�� �⺻���� 1450% ������ ������ ������ ��������. ���� �ñ�� 24�Ϸ� �����ߴ�.&lt;br&gt;&lt;br&gt;�׷��� �������� �ݹ��ϰ� �־� ������ �ŵ�ǰ� �ִ�.&lt;br&gt;&lt;br&gt;21�� ���迡 ������ SK���̴н� ������ �ֱ� �������� ���� �ش� ������ ���� �ȳ� �̸����� ���� ������ �˷�����. SK���̴н� PS�� ���� ���������� 10%�� ������� ��� �⺻���� �ִ� 1000%�� �����ϴ� ������ ������.&lt;br&gt;&lt;br&gt;���ǰ����� ������ SK���̴н��� �۳� ���������� 23��4000��� �����̴�. �̴� �ݵ�ü ���� ȣȲ�⿴�� ���� 2018�� �������� 20��8400����� �Ѵ� �����̴�.&lt;br&gt;&lt;br&gt;SK���̴н��� �� ���� ���ִ� �ΰ�����(AI) �ô� �þ ���뿪���޸�(HBM) ���� �����̴�. SK���̴н��� AI ��ǳ�� �ֵ��ϴ� �������� ù ��° HBM ���޻��.
+                            SK하이닉스가 간판 제품인 고대역폭메모리(HBM)를 앞세워 지난해 사상 최대 실적을 올렸다. 매출과 영업이익, 순이익 모두 창사 이래 최대를 기록했다. 지난해 3분기 삼성전자 반도체부문(DS) 영업이익을 처음 추월한 데 이어 연간 기준으로도 처음 뛰어넘었다.&lt;br&gt;&lt;br&gt;SK하이닉스는 2024년 영업이익이 23조4673억원(연결기준)을 기록하면서 전년 7조7303억원 영업손실에서 흑자 전환했다고 23일 공시했다.&lt;br&gt;&lt;br&gt;지난해 매출은 66조1930억원으로 전년 대비 102% 증가했다. 순이익은 19조7969억원을 기록했다. 매출은 종전 최고였던 2022년(44조6216억원)보다 21조원 이상 높은 실적을 달성했고 영업이익도 메모리 초호황기였던 2018년(20조8437억원)의 성과를 넘었다.&lt;br&gt;&lt;br&gt;SK하이닉스 최대 성과의 핵심은 단연 HBM이었다. 전체 D램 매출의 40% 이상을 점유했고 기업용 솔리드스테이트드라이브(SSD) 판매도 호조를 보였다.&lt;br&gt;&lt;br&gt;SK하이닉스 연간 실적이 삼성전자를 뛰어넘으면서 ‘만년 2등’이라는 꼬리표도 떼게 됐다. 삼성전자가 앞서 발표한 지난해 4분기 영업이익은 6조5000억원이었다. 증권가와 업계에선 DS부문 영업이익을 3조원 안팎으로 추정하고 있다. 지난해 전체로는 약 15조원 규모의 영업이익을 올린 것으로 추산된다. 연간 영업이익이 삼성전자 DS부문을 넘어선 것은 이번이 처음이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.dt.co.kr/contents.html?article_no=2025012102109932075002&amp;ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://view.asiae.co.kr/article/2025012311133296155" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.dt.co.kr
+                            출처: view.asiae.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="//contents.dt.co.kr/images/202501/2025012102109932075002[1].jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cphoto.asiae.co.kr/listimglink/1/2025012310532710661_1737597207.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 21 Jan 2025 17:00:41 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Thu, 23 Jan 2025 17:01:05 +0900</pubDate></item></channel></rss>
