@@ -1,97 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 02 Feb 2025 08:00:19 +0000</lastBuildDate><item><title>📰 딥시크가 불붙인 미-중 'AI 패권전쟁'…삼전·하이닉스 운명은</title><link>https://www.news1.kr/finance/general-stock/5676203</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 05 Feb 2025 08:00:23 +0000</lastBuildDate><item><title>📰 '딥시크 쇼크' 오픈AI 위기?…韓서 해법 찾은 올트먼 "바쁘다 바빠"</title><link>https://www.newsis.com/view/NISX20250204_0003053005</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            딥시크가 불붙인 미-중 'AI 패권전쟁'…삼전·하이닉스 운명은&lt;br&gt;&lt;br&gt;"하이닉스 주가도 혹시?"…딥시크 등장에 동학개미 '긴장'&lt;br&gt;&lt;br&gt;딥시크에 흔들린 증시…이번주도 SK하이닉스 하락·네이버 상승할까&lt;br&gt;&lt;br&gt;'딥시크 쇼크'에…외국인, '삼전·하이닉스' 1조 던졌다 [핫종목]&lt;br&gt;&lt;br&gt;'딥시크 쇼크'에 하이닉스 던진 외국인…코스피, 하락마감 (시황종합)
+                            오픈AI-소프트뱅크 '스타게이트'에 한국 협력 손 내밀어&lt;br&gt;&lt;br&gt;최근 딥시크는 오픈AI의 기존 AI 모델 대비 18분의 1 수준의 비용으로 비슷한 성능의 AI 모델 'R1'을 공개하면서 글로벌 AI 시장의 판도를 흔들었다. 그동안 AI 시장은 천문학적 투자가 필수적이라는 인식을 딥시크가 깬 것이다.&lt;br&gt;&lt;br&gt;이로 인해 오픈AI의 위기론까지 제기됐다. 이를 타개하기 위해 올트먼 CEO는 AI 시장 잠재력이 큰 한국, 일본, 인도 등 아시아 국가들을 잇달아 방문해 전방위적 협력 방안을 모색하고 있다.&lt;br&gt;&lt;br&gt;오픈AI는 한국 기업 중 처음으로 카카오와 전략적 제휴를 체결했다. 카카오톡, 카나나 등 카카오 서비스에 자사 기술을 적용하고 카카오와 함께 AI 서비스를 개발한다. 양사가 AI 서비스 대중화에 함께 기여하겠다는 전략이다.&lt;br&gt;&lt;br&gt;우선 카카오톡, 카나나 등 카카오 주요 서비스에 오픈AI 최신 AI 기술 API(애플리케이션 프로그래밍 인터페이스)를 활용하기로 했다. 'AI 네이티브 컴퍼니'로의 전환을 가속하고자 챗GPT 엔터프라이즈도 도입하기로 결정했다. 또 현재 개발 중인 AI 에이전트 '카나나' 서비스에 카카오 언어모델과 더불어 오픈AI 모델도 함께 활용하기로 했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news1.kr/finance/general-stock/5676203" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250204_0003053005" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://i3n.news1.kr/system/photos/2025/1/28/7105549/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/02/04/NISI20250204_0020681846_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 02 Feb 2025 17:00:19 +0900</pubDate></item><item><title>📰 이통사, 사내 업무에 AI 접목…근무 효율·생산성 개선</title><link>https://www.etnews.com/20250131000158</link><description>
+                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 [단독] 카카오, 딥시크 이용금지…격화하는 AI 동맹 대전</title><link>https://www.sedaily.com/NewsView/2GOUP5W2RR</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            이통사, 사내 업무에 AI 접목…근무 효율·생산성 개선&lt;br&gt;&lt;br&gt;국내 이동통신사가 인공지능(AI) 기술을 활용한 업무 혁신에 적극 나서고 있다. AI가 단순 반복 업무를 보조하는 것을 넘어 자율추론 기반의 AI 에이전트로 진화하면서 업무 효율과 생산성을 극대화하는데 핵심 역할을 수행한다.&lt;br&gt;&lt;br&gt;2일 업계에 따르면 SK텔레콤은 지난해부터 사내 업무 전반에 'AI 매니저' 시스템을 도입했다. 이 시스템은 특정 작업에 특화된 업무 보조 AI다.&lt;br&gt;&lt;br&gt;SK텔레콤은 AI를 활용한 업무 혁신 방식을 사업화하는 방안도 추진 중이다. 지난해 말부터 사내 구성원 대상으로 '에이닷 비즈' 클로즈 베타서비스(CBT)에 돌입했다. 에이닷 비즈는 회의록 및 보고서 작성, 시장 동향 요약 등을 지원하는 AI 협업틀이다. HR 에이전트, 법무 에이전트 등 직무별 특화된 AI 기능을 포함한 에이닷 비즈 프로도 개발한다.&lt;br&gt;&lt;br&gt;LG유플러스도 대화형 데이터 솔루션 '아쿠아'를 사내 임직원 대상으로 상용화했다. 오픈AI의 GPT-4o를 기반으로 만들어진 아쿠아는 사용자의 질문을 AI가 이해하고 회사 내부 데이터레이크에 저장된 내용을 활용해 SQL 코드를 생성하는 솔루션이다.
+                            가 전체 임직원을 대상으로 중국 인공지능(AI) 스타트업 딥시크의 AI 서비스 사용을 금지했다. 오픈AI의 대항마로 떠오르고 있는 딥시크를 배제해 개인정보 유출 가능성도 차단하고 오픈AI와의 동맹도 강화하려는 ‘일석이조’ 효과를 노린 것으로 분석된다.&lt;br&gt;&lt;br&gt;5일 정보기술(IT) 업계에 따르면 카카오는 최근 내부 구성원들을 대상으로 “딥시크의 사내 업무 목적 이용을 금지한다”고 공지했다. 딥시크가 AI 모델의 학습을 위해 사용자의 이름·생년월일뿐만 아니라 키보드 패턴, 오디오 등의 개인정보까지 수집하자 내부 기밀 유출 방지 등 대응에 나선 것으로 분석된다.&lt;br&gt;&lt;br&gt;동시에 카카오가 오픈AI와 동맹 전선을 구축한 점 역시 이번 조치에 영향을 미친 것으로 풀이된다. 국내 기업 중 처음으로 오픈AI와 전략적 제휴를 맺은 카카오는 오픈AI와 공동 상품 개발을 추진한다. 이달 4일 방한한 샘 올트먼 오픈AI 최고경영자(CEO)는 ‘카카오 AI 미디어데이’ 행사에 참여해 “장기적 관점에서 카카오를 좋아하고 AI 비전을 공유한다”고 말했다.&lt;br&gt;&lt;br&gt;한 업계 관계자는 “오픈AI가 독주하던 AI 시장에 딥시크가 등장하며 위기감이 고조된 상황에서 카카오가 오픈AI의 편에 서는 모습”이라며 “카카오가 오픈AI의 ‘챗GPT’ 등을 새 AI 서비스 ‘카나나’에 붙이는 시도를 하고 있는 만큼 개인정보 유출 우려도 고려한 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;국내에서는 카카오 외에도 원자력 발전 공기업 한국수력원자력과 발·송전 설비 정비 공기업인 한전KPS가 최근 딥시크 사용을 금지했다. 국내 공공 분야에서는 최초다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.etnews.com/20250131000158" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sedaily.com/NewsView/2GOUP5W2RR" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.etnews.com
+                            출처: www.sedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.etnews.com/news/article/2024/11/13/news-p.v1.20241113.a5e9510bf3c34720ae479d59e40a3315_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2025/02/05/2GOUP5W2RR_2.jpeg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 02 Feb 2025 17:00:19 +0900</pubDate></item><item><title>📰 [2024건설성과] SK에코플랜트, 고부가가치 사업으로 미래 경쟁력 확보</title><link>http://www.shinailbo.co.kr/news/articleView.html?idxno=1997168</link><description>
+                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 "AI시대 '게임 체인저' 찾는다"…투자처 물색에 분주한 SK스퀘어</title><link>https://news.einfomax.co.kr/news/articleView.html?idxno=4342051</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            전통 건설 한계 탈피…환경 분야 기술 개발·계열사 확대&lt;br&gt;&lt;br&gt;반도체·AI·재활용 솔루션 등으로 '포트폴리오 확장' 노력&lt;br&gt;&lt;br&gt;건설업계는 자잿값 상승과 금융 비용 증가 등으로 어려운 2024년을 보냈다. 1년 전 건설사들은 경기 악화에 대응하면서 내일을 준비했다. 이들이 준비한 계획은 얼마만큼 실천됐을까. 경영 전략을 중심으로 주요 건설사들의 2024년 성과를 알아봤다.&lt;br&gt;&lt;br&gt;SK에코플랜트가 전통적 건설의 한계를 깨고 고부가가치 사업을 통해 미래 경쟁력을 키워가고 있다. 작년에는 환경 분야를 중심으로 신기술 개발, 계열사 확장 성과를 냈다. 반도체와 AI, 재활용 솔루션 등으로 포트폴리오를 다양화하며 사업 구조 개선 노력을 지속했다.&lt;br&gt;&lt;br&gt;SK에코플랜트는 특히 수요가 늘고 있는 ITAD(정보통신기술 자산처분서비스) 시장 공략에 나서고 있다. ITAD는 노트북과 스마트폰, 데이터센터 장비 메모리, 하드디스크 등에서 각종 정보를 완벽히 파기한 후 기기와 부품 등을 재활용하는 서비스다.
+                            최태원 "AI 밸류체인 강화" 주문…그룹 리밸런싱 고려 '신중' 접근&lt;br&gt;&lt;br&gt;배당·포폴 매각으로 곳간 '두둑'…조 단위 '빅딜' 기대감&lt;br&gt;&lt;br&gt;그룹 차원에서 미래 먹거리로 낙점, 사활을 걸고 있는 AI 밸류체인을 더욱 정교화하고 시장 리더십을 강화하기 위한 목적이다. SK의 AI 생태계를 한 단계 발전시킬 '제2의 고대역폭메모리(HBM)'를 찾는 작업으로도 볼 수 있다.&lt;br&gt;&lt;br&gt;시장에선 조 단위 '빅딜'에 대한 기대감이 높아지는 분위기다. SK스퀘어[402340]가 올해 배당·투자수익으로만 8천억원 이상 확보하는 등 넉넉한 현금 유동성, 즉 총알을 갖출 것으로 예상되기 때문이다. 지난해 최대 실적을 경신하며 '효자'로 거듭난 SK하이닉스[000660]와 적기에 시행한 포트폴리오 매각이 함께 빛을 발한 결과다.&lt;br&gt;&lt;br&gt;◇그룹사간 시너지 고려해 투자…AI 반도체·인프라 '초점'
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.shinailbo.co.kr/news/articleView.html?idxno=1997168" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4342051" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.shinailbo.co.kr
+                            출처: news.einfomax.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="http://www.shinailbo.co.kr/news/thumbnail/202501/1997168_1112450_400_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.news.einfomax.co.kr/news/thumbnail/202502/4342051_220189_442_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 02 Feb 2025 17:00:19 +0900</pubDate></item><item><title>📰 '딥시크 쇼크'에 20만원 깨진 SK하이닉스</title><link>https://www.jbnews.com/news/articleView.html?idxno=1465455</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            31일 SK하이닉스 주가는 전 거래일 대비 9.86% 내린 19만9천200원에 거래를 마쳤다.&lt;br&gt;&lt;br&gt;이날 SK하이닉스는 주가는 11.86% 내린 19만4천800원까지 떨어지기도 했다.&lt;br&gt;&lt;br&gt;SK하이닉스 주가 하락은 딥시크가 최근 선보인 추론 AI 모델 '딥시크 R1'이 챗GPT 개발사 오픈AI가 지난해 9월 출시한 추론 AI 모델 'o1'보다 일부 성능 테스트에서 앞선 것으로 나타나면서다.&lt;br&gt;&lt;br&gt;이 여파에 엔비디아 GPU 수요 감소로 이어질 것이란 우려 때문으로 풀이된다.&lt;br&gt;&lt;br&gt;딥시크 R1은 엔비디아 최첨단 AI가속기인 H100 대신 성능을 다운그레이드 시킨 H800을 사용한 것으로 알려졌다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.jbnews.com/news/articleView.html?idxno=1465455" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.jbnews.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.jbnews.com/news/thumbnail/202502/1465455_1297579_129_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 02 Feb 2025 17:00:19 +0900</pubDate></item><item><title>📰 최태원 SK 회장, 이달 미국行… 경제위기 해법 모색</title><link>https://www.newscj.com/news/articleView.html?idxno=3229005</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            2일 재계에 따르면 최 회장은 오는 21∼22일 워싱턴DC 샐러맨더 호텔에서 열리는 ‘트랜스퍼시픽 다이얼로그(TPD)’에 참석할 예정이다. 현재까지 알려진 일정으로는 트럼프 2기 출범 이후 국내 4대 그룹 총수로서는 첫 워싱턴DC 방문이 될 것으로 알려졌다.&lt;br&gt;&lt;br&gt;TPD는 최 회장이 이사장을 맡고 있는 최종현학술원이 지난 2021년부터 열고 있는 행사로, 한국과 미국, 일본 등 3국의 오피니언 리더들이 모여 태평양과 동북아의 각종 현안을 분석하고 해결책을 모색하는 자리다. 통상 12월에 진행했지만, 올해는 미국과 일본의 정치 일정을 고려해 2월에 열고 행사 규모도 키우기로 했다.&lt;br&gt;&lt;br&gt;올해 TPD의 참석자는 아직 알려지지 않았지만, 한미일 3국 유력 정관계 인사들이 대거 참석할 것으로 보인다. 이전 TPD 행사에서는 커트 캠벨 미국 국무부 부장관, 존 오소프 조지아주 상원의원, 빌 해거티 테네시주 상원의원, 론 클레인 전 백악관 비서실장, 모리모토 사토시 전, 일본 방위상, 후지사키 이치로 전 주미일본대사 등이 참석한 바 있다.&lt;br&gt;&lt;br&gt;올해 행사에서는 미국의 외교 정책을 비롯해 미국과 동아시아의 안보, 인공지능(AI) 시대의 협력 방안 등을 논의할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최 회장은 최근 미국, 일본 등 주요 국가들과의 연대 강화 필요성을 강조했다. 그는 지난달 19일 KBS ‘일요진단’에 출연해 “세계 경제 룰을 결정하는 나라는 미국, 중국, 유럽연합(EU)”이라며 “우리(한국) 혼자서는 국제질서의 룰을 바꿀 힘이 부족해 함께 연대할 파트너가 필요하다”고 말했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newscj.com/news/articleView.html?idxno=3229005" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newscj.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.newscj.com/news/thumbnail/202502/3229005_3283762_149_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 02 Feb 2025 17:00:19 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item></channel></rss>
