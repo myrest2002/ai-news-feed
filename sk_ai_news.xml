@@ -1,13 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 05 Feb 2025 08:00:23 +0000</lastBuildDate><item><title>📰 '딥시크 쇼크' 오픈AI 위기?…韓서 해법 찾은 올트먼 "바쁘다 바빠"</title><link>https://www.newsis.com/view/NISX20250204_0003053005</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 06 Feb 2025 08:00:31 +0000</lastBuildDate><item><title>📰 "中에 개인정보 샐라"…금융권, '딥시크 차단' 전방위 확산</title><link>https://www.hankyung.com/article/2025020677096</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            오픈AI-소프트뱅크 '스타게이트'에 한국 협력 손 내밀어&lt;br&gt;&lt;br&gt;최근 딥시크는 오픈AI의 기존 AI 모델 대비 18분의 1 수준의 비용으로 비슷한 성능의 AI 모델 'R1'을 공개하면서 글로벌 AI 시장의 판도를 흔들었다. 그동안 AI 시장은 천문학적 투자가 필수적이라는 인식을 딥시크가 깬 것이다.&lt;br&gt;&lt;br&gt;이로 인해 오픈AI의 위기론까지 제기됐다. 이를 타개하기 위해 올트먼 CEO는 AI 시장 잠재력이 큰 한국, 일본, 인도 등 아시아 국가들을 잇달아 방문해 전방위적 협력 방안을 모색하고 있다.&lt;br&gt;&lt;br&gt;오픈AI는 한국 기업 중 처음으로 카카오와 전략적 제휴를 체결했다. 카카오톡, 카나나 등 카카오 서비스에 자사 기술을 적용하고 카카오와 함께 AI 서비스를 개발한다. 양사가 AI 서비스 대중화에 함께 기여하겠다는 전략이다.&lt;br&gt;&lt;br&gt;우선 카카오톡, 카나나 등 카카오 주요 서비스에 오픈AI 최신 AI 기술 API(애플리케이션 프로그래밍 인터페이스)를 활용하기로 했다. 'AI 네이티브 컴퍼니'로의 전환을 가속하고자 챗GPT 엔터프라이즈도 도입하기로 결정했다. 또 현재 개발 중인 AI 에이전트 '카나나' 서비스에 카카오 언어모델과 더불어 오픈AI 모델도 함께 활용하기로 했다.
+                            "中에 개인정보 샐라"…금융권, '딥시크 차단' 전방위 확산&lt;br&gt;&lt;br&gt;금융당국과 증권사들이 중국 인공지능(AI) 딥시크(Deepseek) 접속 차단에 잇따라 나서고 있다. 생성형 AI 사용 과정에서 발생할 수 있는 민감 업무 및 개인정보 유출 가능성을 차단하기 위한 움직임으로 풀이된다.&lt;br&gt;&lt;br&gt;6일 금융투자업계에 따르면 금융위원회와 금융감독원은 이날 외부 접속이 가능한 컴퓨터에서 딥시크 접속을 제한한다고 내부 공지했다. 딥시크가 이용자 정보를 과도하게 수집한다는 우려가 나오면서다. 뿐만 아니라 금융위는 예금보험공사·한국자산관리공사·주택금융공사 등 산하 기관에도 딥시크의 보안상 우려 등이 담긴 공문을 발송했다. 한국거래소도 지난달 말 딥시크 접속을 차단하는 등의 내부 보안 조치를 실시했다.&lt;br&gt;&lt;br&gt;국내 증권사들도 딥시크 접속을 제한하고 있다. 하나·IBK투자증권 등은 지난달 31일부터 딥시크 접속을 차단했다. 이밖에 미래에셋·키움·메리츠·신한·대신·유안타·iM·한화투자·교보·LS·다올 등도 딥시크 접속을 차단해 놓은 상태다. 한국투자·KB·SK·한양·토스증권 등은 개인정보 유출 가능성 등을 검토한 후 딥시크 차단 여부를 결정한다는 방침이다.&lt;br&gt;&lt;br&gt;최근 딥시크의 개인정보 유출 우려가 확대되면서 국내 정부 기관과 기업들이 잇따라 사용을 제한하고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250204_0003053005" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/2025020677096" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.hankyung.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.hankyung.com/photo/202502/01.39358546.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 '딥시크 쇼크'에 韓 AI 주역 한목소리…"잠재력 이미 충분, 정부 적극 투...</title><link>https://www.newsis.com/view/NISX20250206_0003054919</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            과기정통부, 국내 AI 산업 경쟁력 진단·점검 회의 개최&lt;br&gt;&lt;br&gt;LG AI연구원·SKT·KT·네이버클라우드·카카오 관계자 참석&lt;br&gt;&lt;br&gt;[베이징=AP/뉴시스]28일 중국 수도 베이징의 한 사용자 휴대전화 화면에 딥시크(DeepSeek)와 챗GPT(ChatGPT)의 애플리케이션이 보이고 있다. 2025.01.28.&lt;br&gt;&lt;br&gt;과학기술정보통신부는 6일 오전 9시 서울 중구 국가AI위원회에서 국내 AI 산업 경쟁력을 진단하고 점검하기 위해 간담회를 열었다.&lt;br&gt;&lt;br&gt;이 간담회는 중국 AI 스타트업 딥시크가 AI 투자 비용 격차를 기술 혁신으로 극복했다는 평가를 받는 상황에서 열렸다. 국내 AI 기업들과의 의견 수렴을 통해 AI 혁신 생태계를 구축하고 한국이 글로벌 AI G3로 도약할 수 있는 발판을 조성하기 위해 마련됐다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250206_0003054919" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -16,44 +35,44 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/02/04/NISI20250204_0020681846_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/01/28/NISI20250128_0000066002_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 [단독] 카카오, 딥시크 이용금지…격화하는 AI 동맹 대전</title><link>https://www.sedaily.com/NewsView/2GOUP5W2RR</link><description>
+                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 "인공지능 성과 입증"...SKT, 온디바이스 AI로 휴대폰 통신 성능 고도화</title><link>https://www.newsquest.co.kr/news/articleView.html?idxno=239132</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            가 전체 임직원을 대상으로 중국 인공지능(AI) 스타트업 딥시크의 AI 서비스 사용을 금지했다. 오픈AI의 대항마로 떠오르고 있는 딥시크를 배제해 개인정보 유출 가능성도 차단하고 오픈AI와의 동맹도 강화하려는 ‘일석이조’ 효과를 노린 것으로 분석된다.&lt;br&gt;&lt;br&gt;5일 정보기술(IT) 업계에 따르면 카카오는 최근 내부 구성원들을 대상으로 “딥시크의 사내 업무 목적 이용을 금지한다”고 공지했다. 딥시크가 AI 모델의 학습을 위해 사용자의 이름·생년월일뿐만 아니라 키보드 패턴, 오디오 등의 개인정보까지 수집하자 내부 기밀 유출 방지 등 대응에 나선 것으로 분석된다.&lt;br&gt;&lt;br&gt;동시에 카카오가 오픈AI와 동맹 전선을 구축한 점 역시 이번 조치에 영향을 미친 것으로 풀이된다. 국내 기업 중 처음으로 오픈AI와 전략적 제휴를 맺은 카카오는 오픈AI와 공동 상품 개발을 추진한다. 이달 4일 방한한 샘 올트먼 오픈AI 최고경영자(CEO)는 ‘카카오 AI 미디어데이’ 행사에 참여해 “장기적 관점에서 카카오를 좋아하고 AI 비전을 공유한다”고 말했다.&lt;br&gt;&lt;br&gt;한 업계 관계자는 “오픈AI가 독주하던 AI 시장에 딥시크가 등장하며 위기감이 고조된 상황에서 카카오가 오픈AI의 편에 서는 모습”이라며 “카카오가 오픈AI의 ‘챗GPT’ 등을 새 AI 서비스 ‘카나나’에 붙이는 시도를 하고 있는 만큼 개인정보 유출 우려도 고려한 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;국내에서는 카카오 외에도 원자력 발전 공기업 한국수력원자력과 발·송전 설비 정비 공기업인 한전KPS가 최근 딥시크 사용을 금지했다. 국내 공공 분야에서는 최초다.
+                            SK텔레콤은 홍원빈 포항공과대학교(포스텍) 전자전기공학과 교수팀과 스마트폰에 내장된 안테나 개수를 늘려 통신 성능을 높이는 기술을 개발 및 실증했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 개발한 기술은 온디바이스 AI를 활용해 주파수 환경과 스마트폰 크기를 기존과 동일하게 유지하면서도 스마트폰에 통상적으로 탑재되는 4개의 안테나를 최대 8개까지 늘려 데이터 전송 품질을 향상시킬 가능성을 입증했다.&lt;br&gt;&lt;br&gt;특히 인공지능을 활용해 100만 가지 이상의 스마트폰 사용 환경에서 다양한 변수에 안정적으로 대응 가능하다.&lt;br&gt;&lt;br&gt;이용자들의 자세와 환경 변화에 따라 달라지는 안테나 성능 문제 등에 대해 해결의 실마리를 마련해 활용 가능성이 높을 것으로 기대된다.&lt;br&gt;&lt;br&gt;기존의 다중 안테나 확장 시도는 하드웨어 중심으로 이루어졌으나, 이번 연구는 AI를 활용해 새로운 가능성을 열었다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.sedaily.com/NewsView/2GOUP5W2RR" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsquest.co.kr/news/articleView.html?idxno=239132" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.sedaily.com
+                            출처: www.newsquest.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://newsimg.sedaily.com/2025/02/05/2GOUP5W2RR_2.jpeg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.newsquest.co.kr/news/thumbnail/202502/239132_137418_2539_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 "AI시대 '게임 체인저' 찾는다"…투자처 물색에 분주한 SK스퀘어</title><link>https://news.einfomax.co.kr/news/articleView.html?idxno=4342051</link><description>
+                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 SK하이닉스, 글로벌 車산업 보안인증 획득 '업계 최초'</title><link>https://www.news1.kr/industry/general-industry/5680806</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최태원 "AI 밸류체인 강화" 주문…그룹 리밸런싱 고려 '신중' 접근&lt;br&gt;&lt;br&gt;배당·포폴 매각으로 곳간 '두둑'…조 단위 '빅딜' 기대감&lt;br&gt;&lt;br&gt;그룹 차원에서 미래 먹거리로 낙점, 사활을 걸고 있는 AI 밸류체인을 더욱 정교화하고 시장 리더십을 강화하기 위한 목적이다. SK의 AI 생태계를 한 단계 발전시킬 '제2의 고대역폭메모리(HBM)'를 찾는 작업으로도 볼 수 있다.&lt;br&gt;&lt;br&gt;시장에선 조 단위 '빅딜'에 대한 기대감이 높아지는 분위기다. SK스퀘어[402340]가 올해 배당·투자수익으로만 8천억원 이상 확보하는 등 넉넉한 현금 유동성, 즉 총알을 갖출 것으로 예상되기 때문이다. 지난해 최대 실적을 경신하며 '효자'로 거듭난 SK하이닉스[000660]와 적기에 시행한 포트폴리오 매각이 함께 빛을 발한 결과다.&lt;br&gt;&lt;br&gt;◇그룹사간 시너지 고려해 투자…AI 반도체·인프라 '초점'
+                            LG 스탠바이미2, 예약판매 38분 만에 천대 완판…'대박' 예감&lt;br&gt;&lt;br&gt;SK하이닉스, 글로벌 車산업 보안인증 획득 '업계 최초'&lt;br&gt;&lt;br&gt;"美 빅테크, 대규모 AI 투자 나선다"…삼전·하이닉스 2% 강세[핫종목]&lt;br&gt;&lt;br&gt;외인·기관 동반 매수에 코스피 1%대 강세…2530선 안착[시황종합]&lt;br&gt;&lt;br&gt;글로벌 메모리 업계 낸드 감산 동참…"1분기 바닥 2분기 반등"
                         &lt;/div&gt;
                         
-                        &lt;a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4342051" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/industry/general-industry/5680806" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: news.einfomax.co.kr
+                            출처: www.news1.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.news.einfomax.co.kr/news/thumbnail/202502/4342051_220189_442_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/2/6/7115993/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Wed, 05 Feb 2025 17:00:23 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item></channel></rss>
