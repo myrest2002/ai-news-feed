@@ -1,13 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 06 Feb 2025 08:00:31 +0000</lastBuildDate><item><title>📰 "中에 개인정보 샐라"…금융권, '딥시크 차단' 전방위 확산</title><link>https://www.hankyung.com/article/2025020677096</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 07 Feb 2025 08:00:34 +0000</lastBuildDate><item><title>📰 트럼프發 HBM 규제…삼성전자 '비상' vs SK하이닉스 '여유' [소부장반차...</title><link>https://www.ddaily.co.kr/page/view/2025020716024102779</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "中에 개인정보 샐라"…금융권, '딥시크 차단' 전방위 확산&lt;br&gt;&lt;br&gt;금융당국과 증권사들이 중국 인공지능(AI) 딥시크(Deepseek) 접속 차단에 잇따라 나서고 있다. 생성형 AI 사용 과정에서 발생할 수 있는 민감 업무 및 개인정보 유출 가능성을 차단하기 위한 움직임으로 풀이된다.&lt;br&gt;&lt;br&gt;6일 금융투자업계에 따르면 금융위원회와 금융감독원은 이날 외부 접속이 가능한 컴퓨터에서 딥시크 접속을 제한한다고 내부 공지했다. 딥시크가 이용자 정보를 과도하게 수집한다는 우려가 나오면서다. 뿐만 아니라 금융위는 예금보험공사·한국자산관리공사·주택금융공사 등 산하 기관에도 딥시크의 보안상 우려 등이 담긴 공문을 발송했다. 한국거래소도 지난달 말 딥시크 접속을 차단하는 등의 내부 보안 조치를 실시했다.&lt;br&gt;&lt;br&gt;국내 증권사들도 딥시크 접속을 제한하고 있다. 하나·IBK투자증권 등은 지난달 31일부터 딥시크 접속을 차단했다. 이밖에 미래에셋·키움·메리츠·신한·대신·유안타·iM·한화투자·교보·LS·다올 등도 딥시크 접속을 차단해 놓은 상태다. 한국투자·KB·SK·한양·토스증권 등은 개인정보 유출 가능성 등을 검토한 후 딥시크 차단 여부를 결정한다는 방침이다.&lt;br&gt;&lt;br&gt;최근 딥시크의 개인정보 유출 우려가 확대되면서 국내 정부 기관과 기업들이 잇따라 사용을 제한하고 있다.
+                            도널드 트럼프 대통령 당선자가 제60대 대통령 취임식 전 집회에서 연설하고 있다. [ⓒ연합뉴스]&lt;br&gt;&lt;br&gt;SK하이닉스는 상대적으로 엔비디아 등 미국 빅테크 고객사를 확보하며 고부가가치 제품 판매 비중을 늘려왔지만, 삼성전자는 범용 HBM 판매에 집중하면서 중국 시장 의존도가 높아 이번 규제의 직격탄을 맞게 됐다.&lt;br&gt;&lt;br&gt;7일 반도체 업계에 따르면, 도널드 트럼프 전 대통령이 재집권하면서 미국의 대중 반도체 규제는 더욱 강화되고 있다. 트럼프 정부는 반도체 공급망을 중국에서 분리하는 것을 핵심 정책으로 삼고 있다.&lt;br&gt;&lt;br&gt;지난해 12월 3일 미국 상무부는 HBM의 중국 수출을 사실상 금지하는 규제를 발표했다. 이 조치는 미국의 첨단 기술이 중국의 AI 및 데이터센터 산업에 활용되는 것을 막기 위한 것으로, 특정 사양 이상의 HBM 제품을 중국으로 수출하지 못하도록 하는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;해당 규제에 따라 HBM3 및 HBM3E와 같은 고성능 AI 반도체 제품이 중국으로 수출될 수 없게 됐으며, 엔비디아는 이를 우회하기 위해 H800, A800과 같은 중국 전용 AI 가속기 모델을 설계했지만, 미국 정부가 점차 규제를 강화하면서 이러한 전략도 어려워지고 있는 상황이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.hankyung.com/article/2025020677096" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.ddaily.co.kr/page/view/2025020716024102779" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.ddaily.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="/2025/01/21/2025012110061170979_l.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 가온칩스 주가 환호성... 한·미·일 인공지능 동맹서 역할론 부각</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=319072</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            시스템반도체 디자인 솔루션 기업 가온칩스 주가가 크게 오르고 있다.&lt;br&gt;&lt;br&gt;7일 한국거래소에 따르면 이날 오후 1시55분 현재 12.78% 상승 5만 300원에 거래되고 있다.&lt;br&gt;&lt;br&gt;가온칩스가 한·미·일 인공지능(AI) 동맹에서 새로운 역할로 주목 받으면서 주가에 훈풍을 불어 넣을 것으로 보인다.&lt;br&gt;&lt;br&gt;오픈AI와 소프트뱅크(ARM) 등이 협력하는 가운데 삼성전자 파운드리 활용이 예상되면서, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP)인 가온칩스의 역할이 커질 수 있다.&lt;br&gt;&lt;br&gt;최근 이재용 삼성전자 회장과 샘 올트먼 오픈AI 최고경영자(CEO), 손정의 일본 소프트뱅크그룹 회장이 만나 AI 분야 협력을 논의했다. 이 자리에서 올트먼 CEO와 손 회장은 이 회장에게 약 730조 원을 투입해 미국에 초거대 AI 인프라를 구축하는 '스타게이트 프로젝트' 참여를 제안한 것으로 알려졌다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=319072" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.pinpointnews.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202502/319072_319856_511_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK바이오팜 '어닝서프라이즈'에 강세, AI 신약회사들 줄상승[맥짚기]</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01981126642068224</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            6일 KRX 바이오 TOP 10 지수(자료=KG제로인 엠피닥터)&lt;br&gt;&lt;br&gt;KG제로인 엠피닥터(MP DOCTOR·옛 마켓포인트)에 따르면 SK바이오팜은 6일 전일 대비 17.16% 상승한 1만 2700원에 마감했다. 이날 실적 발표에서 공개된 세노바메이트(제품명：엑스코프리) 매출이 예상 가이던스를 뛰어 넘은게 주가를 견인했다.&lt;br&gt;&lt;br&gt;뇌전증 신약인 세노바메이트는 지난해 미국 전체 매출이 4387억원으로 전년 대비 약 62% 증가했다. 이를 기반으로 SK바이오팜은 작년 연매출로 전년비 54% 늘어난 5476억원을 기록했고, 전년도 375억원 영업손실에서 963억원 영업흑자로 대폭 흑자전환했다.&lt;br&gt;&lt;br&gt;세노바메이트는 SK바이오팜이 장장 15년이란 기간 동안 물질 발굴부터 신약 허가 신청까지 연구개발 전주기를 직접 진행했다. 지난 2019년 미국 FDA로부터 신약허가를 획득, 2020년 5월 미국 시장에 제품을 출시했다. 세노바메이트는 현재 SK바이오팜 전체매출의 80%를 차지하는 단일 효자품목이다. 나머지 20%는 세노바메이트의 지역별 권리이전을 통한 일회성 매출과, 기술이전 후 파트너사가 상업화한 기면증 치료제 솔리암페톨의 경상기술료 등이다.&lt;br&gt;&lt;br&gt;앞으로 추가적 도약을 위해 SK바이오팜은 세노바메이트에서 창출되는 현금을 새로운 품목 도입 및 인오가닉(inorganic) 투자에 순환시킨다는 계획이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01981126642068224" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.edaily.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/02/PS25020700328.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK하이닉스로 3조 번 '큰손'…새로 사들인 종목은</title><link>https://www.hankyung.com/article/202502070461i</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK하이닉스의 주요 투자자인 미국 자산운용사 더캐피탈그룹이 LS일렉트릭 지분을 6.11%로 확대한 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 금융감독원 전자공시에 따르면 더캐피탈그룹은 전날 LS일렉트릭 지분을 기존 5.12%에서 6.11%로 늘렸다고 공시했다.&lt;br&gt;&lt;br&gt;더캐피탈그룹은 지난해 12월 23일 LS일렉트릭 지분 5.09% 신규 매수 사실을 처음 공시한 이후 지분을 계속 사들이고 있다.&lt;br&gt;&lt;br&gt;이날 오후 2시 기준 LS일렉트릭 주가는 21만6500원에 거래되고 있다. 더캐피탈그룹의 최근 한 달 매수 단가는 15만~22만원이다.&lt;br&gt;&lt;br&gt;더캐피탈그룹, LS일렉트릭 지분 매집 내역. 자료=금융감독원 전자공시
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hankyung.com/article/202502070461i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -16,63 +73,6 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.hankyung.com/photo/202502/01.39358546.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202502/01.39436152.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 '딥시크 쇼크'에 韓 AI 주역 한목소리…"잠재력 이미 충분, 정부 적극 투...</title><link>https://www.newsis.com/view/NISX20250206_0003054919</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            과기정통부, 국내 AI 산업 경쟁력 진단·점검 회의 개최&lt;br&gt;&lt;br&gt;LG AI연구원·SKT·KT·네이버클라우드·카카오 관계자 참석&lt;br&gt;&lt;br&gt;[베이징=AP/뉴시스]28일 중국 수도 베이징의 한 사용자 휴대전화 화면에 딥시크(DeepSeek)와 챗GPT(ChatGPT)의 애플리케이션이 보이고 있다. 2025.01.28.&lt;br&gt;&lt;br&gt;과학기술정보통신부는 6일 오전 9시 서울 중구 국가AI위원회에서 국내 AI 산업 경쟁력을 진단하고 점검하기 위해 간담회를 열었다.&lt;br&gt;&lt;br&gt;이 간담회는 중국 AI 스타트업 딥시크가 AI 투자 비용 격차를 기술 혁신으로 극복했다는 평가를 받는 상황에서 열렸다. 국내 AI 기업들과의 의견 수렴을 통해 AI 혁신 생태계를 구축하고 한국이 글로벌 AI G3로 도약할 수 있는 발판을 조성하기 위해 마련됐다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250206_0003054919" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2025/01/28/NISI20250128_0000066002_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 "인공지능 성과 입증"...SKT, 온디바이스 AI로 휴대폰 통신 성능 고도화</title><link>https://www.newsquest.co.kr/news/articleView.html?idxno=239132</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤은 홍원빈 포항공과대학교(포스텍) 전자전기공학과 교수팀과 스마트폰에 내장된 안테나 개수를 늘려 통신 성능을 높이는 기술을 개발 및 실증했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 개발한 기술은 온디바이스 AI를 활용해 주파수 환경과 스마트폰 크기를 기존과 동일하게 유지하면서도 스마트폰에 통상적으로 탑재되는 4개의 안테나를 최대 8개까지 늘려 데이터 전송 품질을 향상시킬 가능성을 입증했다.&lt;br&gt;&lt;br&gt;특히 인공지능을 활용해 100만 가지 이상의 스마트폰 사용 환경에서 다양한 변수에 안정적으로 대응 가능하다.&lt;br&gt;&lt;br&gt;이용자들의 자세와 환경 변화에 따라 달라지는 안테나 성능 문제 등에 대해 해결의 실마리를 마련해 활용 가능성이 높을 것으로 기대된다.&lt;br&gt;&lt;br&gt;기존의 다중 안테나 확장 시도는 하드웨어 중심으로 이루어졌으나, 이번 연구는 AI를 활용해 새로운 가능성을 열었다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsquest.co.kr/news/articleView.html?idxno=239132" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsquest.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.newsquest.co.kr/news/thumbnail/202502/239132_137418_2539_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 SK하이닉스, 글로벌 車산업 보안인증 획득 '업계 최초'</title><link>https://www.news1.kr/industry/general-industry/5680806</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            LG 스탠바이미2, 예약판매 38분 만에 천대 완판…'대박' 예감&lt;br&gt;&lt;br&gt;SK하이닉스, 글로벌 車산업 보안인증 획득 '업계 최초'&lt;br&gt;&lt;br&gt;"美 빅테크, 대규모 AI 투자 나선다"…삼전·하이닉스 2% 강세[핫종목]&lt;br&gt;&lt;br&gt;외인·기관 동반 매수에 코스피 1%대 강세…2530선 안착[시황종합]&lt;br&gt;&lt;br&gt;글로벌 메모리 업계 낸드 감산 동참…"1분기 바닥 2분기 반등"
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.news1.kr/industry/general-industry/5680806" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://i3n.news1.kr/system/photos/2025/2/6/7115993/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 06 Feb 2025 17:00:31 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item></channel></rss>
