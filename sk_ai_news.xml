@@ -1,32 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 07 Feb 2025 08:00:34 +0000</lastBuildDate><item><title>📰 트럼프發 HBM 규제…삼성전자 '비상' vs SK하이닉스 '여유' [소부장반차...</title><link>https://www.ddaily.co.kr/page/view/2025020716024102779</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 08 Feb 2025 08:00:32 +0000</lastBuildDate><item><title>📰 한국판 딥시크 속도전…AI 컴퓨팅센터 이통3사·네카오 참여 검토</title><link>https://www.news1.kr/it-science/general-it/5683136</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            도널드 트럼프 대통령 당선자가 제60대 대통령 취임식 전 집회에서 연설하고 있다. [ⓒ연합뉴스]&lt;br&gt;&lt;br&gt;SK하이닉스는 상대적으로 엔비디아 등 미국 빅테크 고객사를 확보하며 고부가가치 제품 판매 비중을 늘려왔지만, 삼성전자는 범용 HBM 판매에 집중하면서 중국 시장 의존도가 높아 이번 규제의 직격탄을 맞게 됐다.&lt;br&gt;&lt;br&gt;7일 반도체 업계에 따르면, 도널드 트럼프 전 대통령이 재집권하면서 미국의 대중 반도체 규제는 더욱 강화되고 있다. 트럼프 정부는 반도체 공급망을 중국에서 분리하는 것을 핵심 정책으로 삼고 있다.&lt;br&gt;&lt;br&gt;지난해 12월 3일 미국 상무부는 HBM의 중국 수출을 사실상 금지하는 규제를 발표했다. 이 조치는 미국의 첨단 기술이 중국의 AI 및 데이터센터 산업에 활용되는 것을 막기 위한 것으로, 특정 사양 이상의 HBM 제품을 중국으로 수출하지 못하도록 하는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;해당 규제에 따라 HBM3 및 HBM3E와 같은 고성능 AI 반도체 제품이 중국으로 수출될 수 없게 됐으며, 엔비디아는 이를 우회하기 위해 H800, A800과 같은 중국 전용 AI 가속기 모델을 설계했지만, 미국 정부가 점차 규제를 강화하면서 이러한 전략도 어려워지고 있는 상황이다.
+                            한국판 딥시크 속도전…AI 컴퓨팅센터 이통3사·네카오 참여 검토&lt;br&gt;&lt;br&gt;카카오VX '프렌즈 스크린', 스크린골프 종합만족도 1위&lt;br&gt;&lt;br&gt;첨단 반도체 기반 인프라로 인재·SW 혁신…AI G3 도약 뒷받침&lt;br&gt;&lt;br&gt;NHN 광주 AI DC, AI 생태계 활성화 기여…유상임 장관 방문&lt;br&gt;&lt;br&gt;강기정 시장 "AI 2단계 지원"…유상임 장관 "AI 선도모델 협력"
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.ddaily.co.kr/page/view/2025020716024102779" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/it-science/general-it/5683136" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.ddaily.co.kr
+                            출처: www.news1.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="/2025/01/21/2025012110061170979_l.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/2/7/7120026/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 가온칩스 주가 환호성... 한·미·일 인공지능 동맹서 역할론 부각</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=319072</link><description>
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 韓 삼성, 美 오픈AI, 日소프트뱅크 맞손…AI 판 바꾼다 外[금주의 산업계...</title><link>https://www.newsis.com/view/NISX20250207_0003056866</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            시스템반도체 디자인 솔루션 기업 가온칩스 주가가 크게 오르고 있다.&lt;br&gt;&lt;br&gt;7일 한국거래소에 따르면 이날 오후 1시55분 현재 12.78% 상승 5만 300원에 거래되고 있다.&lt;br&gt;&lt;br&gt;가온칩스가 한·미·일 인공지능(AI) 동맹에서 새로운 역할로 주목 받으면서 주가에 훈풍을 불어 넣을 것으로 보인다.&lt;br&gt;&lt;br&gt;오픈AI와 소프트뱅크(ARM) 등이 협력하는 가운데 삼성전자 파운드리 활용이 예상되면서, 삼성 파운드리의 공식 디자인 솔루션 파트너(DSP)인 가온칩스의 역할이 커질 수 있다.&lt;br&gt;&lt;br&gt;최근 이재용 삼성전자 회장과 샘 올트먼 오픈AI 최고경영자(CEO), 손정의 일본 소프트뱅크그룹 회장이 만나 AI 분야 협력을 논의했다. 이 자리에서 올트먼 CEO와 손 회장은 이 회장에게 약 730조 원을 투입해 미국에 초거대 AI 인프라를 구축하는 '스타게이트 프로젝트' 참여를 제안한 것으로 알려졌다.
+                            사법리스크 털어낸 이재용, '위기의 삼성' 경영 기대감↑&lt;br&gt;&lt;br&gt;이재용 삼성전자 회장이 부당합병·분식회계 혐의 관련 1심에 이어 항소심에서도 무죄 판결을 받으면서 수년간 삼성을 맴돌던 총수 사법리스크 족쇄가 풀렸다는 평가가 나온다.&lt;br&gt;&lt;br&gt;사법리스크를 던 만큼 4대그룹 총수 중 유일한 미등기임원인 이 회장이 등기이사에 올라 본격 책임경영에 나설 수 있다는 전망이 제기된다.&lt;br&gt;&lt;br&gt;韓 삼성, 美 오픈AI, 日소프트뱅크 맞손…AI 판 바꾼다&lt;br&gt;&lt;br&gt;이재용 삼성전자 회장과 샘 올트먼 오픈AI 최고경영자(CEO), 손정의 소프트뱅크그룹 회장이 4일 한국에서 3자 회동을 갖고, AI 사업에 적극 협력하기로 했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=319072" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250207_0003056866" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2024/10/08/NISI20241008_0020549244_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 딥시크 쇼크…한국 AI 산업, 위기가 기회될까</title><link>https://www.khan.co.kr/article/202502080900061</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            빅테크 가성비 AI 모델 경쟁 확산···한·미·일 AI 동맹 시동&lt;br&gt;&lt;br&gt;각국 딥시크 차단···“AI 원천기술 확보로 경쟁력 키워야”&lt;br&gt;&lt;br&gt;세계적으로 AI 관련 개발 및 연구에 관심이 집중된 가운데 한·미·일 대표 기업의 AI 회동이 지난 2월 4일 서울에서 열렸다. 이날 이재용 삼성전자 회장은 서울 서초구 삼성전자 사옥에서 AI 인프라 프로젝트 ‘스타게이트’를 추진하고 있는 미국 오픈 AI의 샘 올트먼 최고경영자(CEO), 일본 소프트뱅크의 손정의 회장을 만났다. 연합뉴스&lt;br&gt;&lt;br&gt;한국이 세계 인공지능(AI) 패권 경쟁의 주요 전선으로 부상했다. 중국 AI 스타트업 딥시크(DeepSeek) 흥행에 놀란 샘 올트먼 오픈AI 최고경영자(CEO)가 한국 기업에 투자를 요청하며 협업을 공식화했다. 당장은 한국 기업의 투자를 얻어내려는 것일 수도 있지만, 협상력을 잘 발휘해 한국이 AI 강국으로 도약하는 계기로 만들어야 한다는 주문이 나온다. 오픈AI의 행보는 중국 기술 추격에 맞서 일본·한국 등의 아시아 국가들과 AI 동맹을 구축해 세계적인 영향력을 공고히 하려는 전략으로 한국에도 호재가 될 수 있다. 전문가들은 세계 AI 업계를 뒤흔든 딥시크 쇼크를 계기로 한국이 AI 기술 주권을 확보할 수 있도록 투자를 늘려야 한다고 말한다.&lt;br&gt;&lt;br&gt;올트먼 오픈AI 최고경영자(CEO)는 지난 2월 4일 삼성전자 강남 서초 사옥에서 이재용 삼성전자 회장, 손정의 일본 소프트뱅크그룹 회장과 만나 AI 협력 방안을 논의했다. 이들이 AI 논의를 위해 한자리에 모인 것은 처음이다. 이재용 회장의 항소심 무죄 선고 이후 첫 대외 행보로, ‘한·미·일 AI 동맹’ 성사에 대한 기대감이 커지며 관심을 끌었다. 손 회장과 올트먼 CEO는 이 회장에게 725조원가량 투입되는 ‘스타게이트 프로젝트’ 참여를 제안한 것으로 알려졌다. 스타게이트는 오픈AI와 소프트뱅크, 미국 소프트웨어 기업 오라클이 합작사를 설립해 미국 내 AI 인프라를 구축하는 프로젝트다. 손 회장은 회동 후 “좋은 논의였다”며, 삼성의 스타게이트 합류 여부에 대해선 “(삼성과) 더 논의할 것”이라고 말했다. 올트먼 CEO는 이날 별도 회견에서 “스타게이트 생태계에 기여할 수 있는 한국 기업이 많다. 스타게이트는 공급망에 많은 기업이 참여해야 가능한 프로젝트”라며 “(오늘) 말하기는 어렵지만, 어떤 파트너십이 있을지는 예상할 수 있을 것”이라고 했다. 삼성전자는 회동과 관련해 “확인해줄 수 있는 내용이 없다”고 했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.khan.co.kr/article/202502080900061" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.khan.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.khan.co.kr/news/2025/02/08/news-p.v1.20250206.adc0e95b418344eb8a0fa068d2c2c1dc_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 "밸런타인데이 명소는?"…쏘카, 데이터 공개</title><link>http://news.bizwatch.co.kr/article/mobile/2025/02/07/0008</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            [위클리잇(IT)슈] 넷마블 'RF 온라인 넥스트' 쇼케이스&lt;br&gt;&lt;br&gt;경기도 하남·미사 카페 거리가 밸런타인데이 명소로 떠올랐다.&lt;br&gt;&lt;br&gt;모빌리티 플랫폼 쏘카가 오는 14일 밸런타인데이를 앞두고 그간 이용자들의 정차 데이터를 기반으로 집계한 데이트 명소를 공개했다. 이번 데이터는 지난해 2월 한달간 전국 주요 핫 플레이스 기준 반경 1km 이내에 30분 이상 5시간 미만 시동을 끄고 정차한 차량 위치를 기반으로 추출했다.&lt;br&gt;&lt;br&gt;지난해 2월 쏘카 이용자들이 밸런타인데이 시즌 데이트를 즐기기 위해 가장 많이 방문한 곳은 하남·미사 카페 거리로 나타났다. 여유 있는 주차 공간, 이색적인 인테리어 등으로 인기를 끌고 있는 대형 카페가 밀집해 인기 데이트 명소로 부상한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;2위는 경북의 인기 도보 코스인 △경주 황리단길이 차지했다. 주요 문화재와의 접근성, 전통 한옥 숙박 시설 등으로 모든 연령대에서 꾸준한 인기를 얻고 있는 것으로 확인됐다. 서울에서 가장 많이 방문한 데이트 명소 역시 석촌호수, 밀집한 상권 등으로 유명한 도보 코스인 △잠실 송리단길로 나타났다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://news.bizwatch.co.kr/article/mobile/2025/02/07/0008" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: news.bizwatch.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.bizwatch.co.kr/news/photo/2019/02/14/MD201902141533543_wmark.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 제주반도체 주가 파죽지세...중국 화웨이 인공지능 반도체 성능 향상 주...</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=319263</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            8일 한국거래소에 따르면 전 거래일 18.01% 상승 1만 6710원에 거래를 마감했다.&lt;br&gt;&lt;br&gt;제주반도체가 중국 화웨이의 인공지능(AI) 반도체 성능 향상 소식이 주가에 훈풍을 불어 넣고 있는 것으로 해석된다.&lt;br&gt;&lt;br&gt;화웨이가 엔비디아를 맹추격 AI 반도체 시장에서 경쟁력을 강화할 것이라는 기대감이 커지고 있다.&lt;br&gt;&lt;br&gt;화웨이는 자체 AI 반도체인 '어센드' 시리즈의 성능을 대폭 향상시킨 새로운 칩을 개발한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;AI 연산에 필수적인 성능을 크게 끌어 올리면서 엔비디아의 AI 반도체와 대등한 수준으로 올라섰다는 평가를 받고 있다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=319263" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -35,44 +92,44 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202502/319072_319856_511_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202502/319263_319987_5028_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK바이오팜 '어닝서프라이즈'에 강세, AI 신약회사들 줄상승[맥짚기]</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01981126642068224</link><description>
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 SK·테슬라 AI로봇 본격화… 美 통상압박에 D램 10% 하락 전망 [AI 프리즘...</title><link>https://www.sedaily.com/NewsView/2GOW20PZSA</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            6일 KRX 바이오 TOP 10 지수(자료=KG제로인 엠피닥터)&lt;br&gt;&lt;br&gt;KG제로인 엠피닥터(MP DOCTOR·옛 마켓포인트)에 따르면 SK바이오팜은 6일 전일 대비 17.16% 상승한 1만 2700원에 마감했다. 이날 실적 발표에서 공개된 세노바메이트(제품명：엑스코프리) 매출이 예상 가이던스를 뛰어 넘은게 주가를 견인했다.&lt;br&gt;&lt;br&gt;뇌전증 신약인 세노바메이트는 지난해 미국 전체 매출이 4387억원으로 전년 대비 약 62% 증가했다. 이를 기반으로 SK바이오팜은 작년 연매출로 전년비 54% 늘어난 5476억원을 기록했고, 전년도 375억원 영업손실에서 963억원 영업흑자로 대폭 흑자전환했다.&lt;br&gt;&lt;br&gt;세노바메이트는 SK바이오팜이 장장 15년이란 기간 동안 물질 발굴부터 신약 허가 신청까지 연구개발 전주기를 직접 진행했다. 지난 2019년 미국 FDA로부터 신약허가를 획득, 2020년 5월 미국 시장에 제품을 출시했다. 세노바메이트는 현재 SK바이오팜 전체매출의 80%를 차지하는 단일 효자품목이다. 나머지 20%는 세노바메이트의 지역별 권리이전을 통한 일회성 매출과, 기술이전 후 파트너사가 상업화한 기면증 치료제 솔리암페톨의 경상기술료 등이다.&lt;br&gt;&lt;br&gt;앞으로 추가적 도약을 위해 SK바이오팜은 세노바메이트에서 창출되는 현금을 새로운 품목 도입 및 인오가닉(inorganic) 투자에 순환시킨다는 계획이다.
+                            딥시크 공포와 ETF 수수료 전쟁의 속내 [AI PRISM x D•LOG]&lt;br&gt;&lt;br&gt;글로벌 AI 로봇 시장의 경쟁이 본격화되는 가운데 국내 기업들의 신사업 진출에 속도가 붙었다.&lt;br&gt;&lt;br&gt;그룹이 젠슨 황 엔비디아 CEO, 샘 올트먼 오픈AI CEO와 연이어 AI 로봇 기술협력을 논의하는 등 시장 진출에 적극적이다.&lt;br&gt;&lt;br&gt;은 AI 기반 엔드투엔드 로봇 제어 솔루션을 보유하고 있으며, 기존 지분 투자도 유지 중이다.&lt;br&gt;&lt;br&gt;미국발 통상압박과 반도체 업황 악화가 기업들의 발목을 잡았다. 미 무역대표부(USTR) 그리어 대표 지명자 한국의 플랫폼 규제를 직접 언급하며 압박을 예고했고, D램 시장은 중국발 공급과잉으로 상반기 10% 가격 하락이 전망된다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01981126642068224" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sedaily.com/NewsView/2GOW20PZSA" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
+                            출처: www.sedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/02/PS25020700328.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2025/02/08/2GOW20PZSA_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK하이닉스로 3조 번 '큰손'…새로 사들인 종목은</title><link>https://www.hankyung.com/article/202502070461i</link><description>
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item><item><title>📰 1년새 주가 44%↑…밸류업 올라타고 SK스퀘어 주가 '훨훨'</title><link>http://news.mt.co.kr/mtview.php?no=2025020713462461558</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스의 주요 투자자인 미국 자산운용사 더캐피탈그룹이 LS일렉트릭 지분을 6.11%로 확대한 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 금융감독원 전자공시에 따르면 더캐피탈그룹은 전날 LS일렉트릭 지분을 기존 5.12%에서 6.11%로 늘렸다고 공시했다.&lt;br&gt;&lt;br&gt;더캐피탈그룹은 지난해 12월 23일 LS일렉트릭 지분 5.09% 신규 매수 사실을 처음 공시한 이후 지분을 계속 사들이고 있다.&lt;br&gt;&lt;br&gt;이날 오후 2시 기준 LS일렉트릭 주가는 21만6500원에 거래되고 있다. 더캐피탈그룹의 최근 한 달 매수 단가는 15만~22만원이다.&lt;br&gt;&lt;br&gt;더캐피탈그룹, LS일렉트릭 지분 매집 내역. 자료=금융감독원 전자공시
+                            �ְ��� ���� ���� ����� ������ ���δ�. �������� ����ȯ��å�� ���忡�� ���ߴٴ� �м��� ���´�.&lt;br&gt;&lt;br&gt;7�� SK������� �� �ŷ��� ��� 2900(2.95%)�� �϶��� 9��5400���� �ŷ��� ���ƴ�. SK������ �ְ��� �ֱ� 1�⵿�� 44%���� ����ߴ�. ������ ���� ��Ȯ�Ǽ��� �������� �������� ���� ���� �������� Ŀ���� ��Ȳ������ ���� ���� 20% �Ѱ� �ö���.&lt;br&gt;&lt;br&gt;����� ���α׷� ������� �̾��� �������� Ǯ�̵ȴ�. ���ΰ� �ѱ� ���� ���� ������ �ؼ��ϱ� ���� ������� ������ ���ְ�ġ ������ȹ�� ���쵵�� �������� ������ ���� ������ �ִ� ���ֻ翡 �����ڵ��� ���ȴ�. ������ �Ϲݱ� ������� ������ ���ְ�ġ ������� ��ȿ���� �ΰ� ���������Ⱑ �̷�����.&lt;br&gt;&lt;br&gt;SK������� 2023�� ��ǥ�� �߱� ����ȯ����å�� ���� 30%�� �Ѵ� �������԰� ���� ���� �Ϻθ� ���ֿ� ������� �����ߴ�. �������� �ƿ��� �ڻ��� ������ �ƴ� �Ұ��� ���� �������� ���ְ�ġ ���� ȿ���� ������� �ߴ�. �ڻ��ְ� �Ұ��Ǹ� �����ֽļ��� �پ��¸�ŭ �ִ簡ġ�� ������ �� �ִ�.&lt;br&gt;&lt;br&gt;������ FCF(�׿������帧) �� 50%�� ���ϴ� 4100�����ġ �ڻ��ָ� 2023����� ������ �� �Ұ��ؿԴ�. ������ 4�� ������ �ڻ��� 1000����� ���� 1��6�� �Ұ��� ��ģ �� �ִ�. ���� 3�� ������ȸ������ �߰����� �ڻ��� ���԰� �Ұ� ��ȹ�� ���� ������ ���ǰ������� �����Ѵ�.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.hankyung.com/article/202502070461i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2025020713462461558" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.hankyung.com
+                            출처: news.mt.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.hankyung.com/photo/202502/01.39436152.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://thumb.mt.co.kr/21/2025/02/2025020713462461558_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Feb 2025 17:00:34 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 08 Feb 2025 17:00:32 +0900</pubDate></item></channel></rss>
