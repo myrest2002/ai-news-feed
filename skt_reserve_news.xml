@@ -1,21 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SKT_RESERVE 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/skt_reserve_news.xml</link><description>최신 SKT_RESERVE 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 08 Feb 2025 08:00:13 +0000</lastBuildDate><item><title>📰 말레이시아 '디지털 도반' AI 챗봇 노르부</title><link>https://www.btnnews.tv/news/articleView.html?idxno=84458</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            ---------------------------------&lt;br&gt;&lt;br&gt;노르부에 ‘반려견이 죽어 슬프다’는 개인적인 감정을 입력하자 불교적 관점의 위로와 명상법을 제시합니다.&lt;br&gt;&lt;br&gt;서비스 시작 5개월 만에 100만개의 질문에 응답하는 등 빠른 속도로 성장하는 불교 AI챗봇입니다.&lt;br&gt;&lt;br&gt;자홍스님/동국대 불교학술원 HK+연구단 보조연구원(전화인터뷰)&lt;br&gt;&lt;br&gt;(실제 사용해본 입장에선 AI의 반응속도라던가 내장된 정보의 양이라던가 이런 점에선 대기업에서 만든 것보단 못할 수 있겠지만 학습되는 데이터의 질이 굉장히 고품질의 데이터를 학습하거든요. 데이터의 정밀성은 좀 더 좋을 수 있지 않겠나 생각합니다.)
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.btnnews.tv/news/articleView.html?idxno=84458" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.btnnews.tv
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.btnnews.tv/news/thumbnail/202502/84458_74038_518_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 08 Feb 2025 17:00:15 +0900</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SKT_RESERVE 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/skt_reserve_news.xml</link><description>최신 SKT_RESERVE 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 09 Feb 2025 08:00:11 +0000</lastBuildDate><item><title>📰 SKT_RESERVE - 금일 새로운 뉴스가 없습니다</title><description>
+        &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+            &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0;"&gt;
+                &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 안내&lt;/h3&gt;
+                &lt;p style="line-height: 1.6; color: #444;"&gt;
+                    2025년 02월 09일자 SKT_RESERVE 관련 새로운 뉴스가 없습니다.&lt;br&gt;
+                    다음 업데이트를 기다려주세요.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        </description><pubDate>Sun, 09 Feb 2025 17:00:13 +0900</pubDate></item></channel></rss>
