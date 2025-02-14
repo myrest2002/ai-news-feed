@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 13 Feb 2025 08:00:39 +0000</lastBuildDate><item><title>📰 ‘우물 안 개구리’ 한국 AI 산업이 나아갈 길</title><link>https://weekly.donga.com/3/all/11/5436706/1</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 14 Feb 2025 08:00:48 +0000</lastBuildDate><item><title>📰 영업익 줄어든 통신 3사, AI 수익화로 반등</title><link>https://zdnet.co.kr/view/?no=20250214000537</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            딥시크가 오픈소스 영역에서 새로운 리더로 우뚝 서는 양상이다. R1이 오픈소스로 공개되기 전까지 오픈소스 AI 모델계의 선두 주자는 메타의 언어모델 라마(LLaMA)였다. 오픈AI와 구글은 자사 AI 모델의 작동 방식을 외부에 전혀 공개하지 않고 있기 때문이다.&lt;br&gt;&lt;br&gt;R1은 코드가 공개돼 있으면서도 라마보다 추론 성능이 뛰어난 것으로 평가받는다. R1의 코드와 가중치가 완전히 공개돼 개발자들이 이를 자유롭게 이용할 수 있는 것도 라마와의 차별점이다. 라마는 코드에 접근하려면 메타의 승인 절차를 거쳐야 하는 제한적 오픈소스 모델이다.&lt;br&gt;&lt;br&gt;딥시크는 그래픽처리장치(GPU)와 고대역폭메모리(HBM)에 의존해 AI 모델을 개발하는 업계 공식도 깨뜨렸다. 미국은 그동안 반도체 규제를 통해 중국이 고성능 GPU와 HBM을 사용하는 것을 제한해왔다. 이러한 악조건에도 딥시크는 오픈AI의 챗GPT와 대등한 수준의 성능을 갖춘 R1을 개발해냈다. 딥시크는 AI 모델의 효율보다 성능을 강조한 오픈AI의 AI 학습 방법에서 벗어났다. 그 대신 고품질 데이터를 활용한 강화학습으로 AI를 학습시켰다. 또 추론에 특화된 저비용 신경망처리장치(NPU)를 활용해 AI 모델 운영비를 대폭 줄였다.&lt;br&gt;&lt;br&gt;요동치는 AI 시장에서 뒤처지지 않으려면 한국이 나아갈 방향을 제대로 설정해야 한다. 이를 위해서는 한국의 현 위치부터 정확히 진단할 필요가 있다. 한국은 AI 반도체 시장에서 두각을 나타내고 있다. SK하이닉스와 삼성전자는 AI 모델을 학습시키고 운영하는 데 필수적인 HBM 시장에서 약 90% 점유율을 차지한다. 하지만 AI와 관련된 기타 시장에서는 한국 기업 성과가 부진하다. 네이버와 삼성SDS, LG AI연구원, SK텔레콤, 뤼튼테크놀로지스가 AI 모델을 개발하고 AI 서비스를 운영 중이다. 하지만 이들은 전 세계에 큰 영향을 끼치지는 못하고 있다. 말 그대로 우물 안 개구리다.&lt;br&gt;&lt;br&gt;한국은 ‘하드웨어·인프라·서비스’라는 세 가지 축을 조화롭게 발전시켜야 한다. 이미 국내 기업이 선두를 차지한 HBM 분야에서는 경쟁력이 떨어지지 않도록 투자를 지속해야 한다. 일각에서는 딥시크 때문에 HBM 수요가 줄어들 것이라고 얘기한다. HBM을 적게 사용해도 더 나은 AI 모델을 만들 수 있다는 점을 딥시크가 증명했다는 이유에서다. 하지만 ‘제번스의 역설’에 따르면 기술 진보로 특정 자원 사용의 효율성이 증대될 경우 해당 자원에 대한 수요는 오히려 증가한다. 즉 딥시크 같은 새로운 AI 모델이 오픈소스로 공개되면 AI는 더욱 보편화될 테고, AI 사용이 늘어난 만큼 반도체 소비는 늘어날 것이다.
+                            SK텔레콤, KT, LG유플러스가 올해를 'AI 사업 수익화'의 원년으로 삼고 관련 사업에 박차를 가해 반등을 노린다.&lt;br&gt;&lt;br&gt;매출은 58조9천970억원, 영업이익은 3조4천960억원으로 집계됐다.&lt;br&gt;&lt;br&gt;영업이익은 전년(4조4천10억원) 대비 20.6% 감소하며,&lt;br&gt;&lt;br&gt;일회성 비용 증가로 실적 부진...AI 투자 성과는 긍정적&lt;br&gt;&lt;br&gt;SK텔레콤은 통신 3사 중 유일하게 영업이익이 1조8천234억 원으로 전년 대비 4.0% 증가했다. 반면 KT는 8천95억원으로 50.9% 급감했고, LG유플러스도 8천631억원으로 13.5% 감소했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://weekly.donga.com/3/all/11/5436706/1" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://zdnet.co.kr/view/?no=20250214000537" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: weekly.donga.com
+                            출처: zdnet.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://dimg1.donga.com/ugc/CDB/WEEKLY/Article/67/a5/68/4f/67a5684f0b0ad2738250.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.zdnet.co.kr/2022/04/06/d36ae41e4deb1db7a18702e5c7d4251b.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 "메타-퓨리오사 AI 인수"…韓 기업과 협력 늘린다</title><link>https://www.newsis.com/view/NISX20250212_0003063028</link><description>
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item><item><title>📰 '기업인 최초 강대원상' 이강욱 SK하닉 부사장 "패키징 가치 증명"</title><link>https://www.newsis.com/view/NISX20250214_0003065593</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스는 퓨리오사 AI에 고대역폭메모리(HBM)를 공급하며, LG도 AI 모델 개발을 위해 퓨리오사 AI와 협력하고 있다. 메타의 투자로 퓨리오사 AI가 덩치를 키우면 이들 기업들과 협력 규모는 더 확대될 전망이다.&lt;br&gt;&lt;br&gt;13일 포브스 및 업계에 따르면 메타의 퓨리오사 AI 인수 논의가 이르면 이달 안에 끝날 것이라는 전망이 나온다. 퓨리오사 AI는 데이터센터 서버용 AI 추론 연산 특화 반도체를 개발하는 팹리스(반도체 설계 전문회사)다.&lt;br&gt;&lt;br&gt;퓨리오사 AI는 지난 2021년 첫 번째 AI 칩 '워보이'를 내놓은 데 이어 지난해 8월에는 차세대 AI 칩인 '레니게이드'를 공개했다. 최근 AI 칩 기술력을 높이면서 업계에서는 퓨리오사 AI가 엔비디아의 대안이 될 수 있다는 기대감이 커진다. 메타도 엔비디아 의존도를 낮추기 위해 퓨리오사 AI 인수를 적극 논의하고 있다.&lt;br&gt;&lt;br&gt;업계에서는 메타의 인수가 현실화하면 퓨리오사 AI와 협력 중인 한국 기업들도 매출 및 AI 기술 개발 측면에서 긍정적인 영향을 받을 것으로 본다. 메타가 오픈 AI와 소프트뱅크의 '스타게이트' 계획에 대응하기 위해 AI에 최대 650억 달러(94조원)를 투자하는 만큼 퓨리오사 AI도 AI 칩 개발 속도와 규모를 키울 수 있다.&lt;br&gt;&lt;br&gt;SK하이닉스는 HBM 4세대 제품인 'HBM3'를 퓨리오사 AI의 레니게이드에 공급 중인 것으로 알려졌다. 퓨리오사 AI는 국내 AI 칩 시장 최초로 SK하이닉스로부터 HBM을 공급 받았다.
+                            14일 SK하이닉스에 따르면 이 부사장은 전날 강원 정선에서 열린 제32회 한국반도체학술대회에서 제8회 강대원상 소자 및 공정 분야를 수상했다.&lt;br&gt;&lt;br&gt;반도체 산업에 기념비적 발자취를 남긴 고(故) 강대원 박사의 업적을 기리고자 제정된 이 상은 그동안 반도체 전공정인 소자 및 공정 분야의 저명한 교수들에게 수여됐는데 올해는 후공정인 반도체 패키징 분야의 기업인에게 최초로 수여된 것이다.&lt;br&gt;&lt;br&gt;이 부사장은 글로벌 학계 및 업계에서 3차원 패키징 및 집적 회로 분야에 대한 연구 개발을 27년 이상 이어 온 반도체 패키징 분야의 최고 기술 전문가다.&lt;br&gt;&lt;br&gt;2000년 일본 도호쿠 대학에서 박사 학위를 받은 그는 미국 렌슬리어 공과대학 박사 후 연구원, 일본 도호쿠 대학 교수를 거쳐 2018년 SK하이닉스에 합류했다. 국내 최초로 TSV 기술 개발에 성공한 이 부사장은 SK하이닉스 입사 후 HBM2E(3세대)에 MR-MUF 기술을 적용하며 'AI 메모리 성공 신화'의 기틀을 마련했다는 평가를 받는다.&lt;br&gt;&lt;br&gt;이 부사장은 "TSV 기반 3차원 패키징 연구 성과들은 다양한 분야에서 상용화되고 있는데, 가장 대표적인 제품이 HBM"이라며 "SK하이닉스의 독자적 패키징 기술인 'MR-MUF'는 고난도의 HBM 제품을 높은 제조 수율과 양산성을 가지고 안정적으로 대량 생산할 수 있도록 해주었고, 핵심 특성인 열 방출 성능도 개선해 주었다"고 밝혔다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250212_0003063028" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250214_0003065593" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -35,36 +35,17 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2024/08/14/NISI20240814_0020487419_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/02/14/NISI20250214_0001770289_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 삼성·SK·LG, 미래 반도체 '꿈의 기판' 유리기판 주도권 경쟁</title><link>http://www.wsobi.com/news/articleView.html?idxno=268783</link><description>
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item><item><title>📰 [단독]'넥스트 HBM' CXL D램 열린다…삼성·SK 양산 임박</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01308726642070520</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [�����Һ��ڽŹ� �̸��� ����] �̷� �ݵ�ü ������ �� ������ ���۵Ǵ� ���� ���� ���忡 ���� ����鵵 ���ǥ�� �� ���, ���� ��� ���ȭ�� ���� ���� ������ ������ �����̴�.&lt;br&gt;&lt;br&gt;SK�׷��� �ʵη� �Ｚ�� LG �� ���� �ֿ� �׷���� �մ��� �ֵ����� Ȯ���ϱ� ���� ��� ���� ������ ���̰� �ִ�.&lt;br&gt;&lt;br&gt;���� ���� ���� ���忡�� ���� �ռ� �ִ� SK�� SKC�� �߽����� ���ȭ�� �غ� ���̸�, �Ｚ���ڴ� �迭�� �Ｚ���⸦ ��������, LG�׷��� LG�̳����� ���� ���� ���� ���� ����� �ӵ��� ���� �ִ�.&lt;br&gt;&lt;br&gt;13�� ���������ü ���Ͼظ��Ͽ� ������ ������ ���� ���� ���� �Ը�� ���� 2023�� 71��޷�(10��4400���)���� ���� 2028�� 84��޷�(12��3500���)�� 18% ���� Ȯ��� �����̴�.&lt;br&gt;&lt;br&gt;�ֱ� �ΰ�����(AI) ������ �޼���� �¹��� ������ �ݵ�ü�� �ɸ��� ������ �䱸�ǰ� �ִ�. ���� ������ �μ�ȸ�α���(PCB)�̶� �Ҹ��� �ݵ�ü ������ �������� ���¿� ���� �ʰ� ����� ���� ���ۿ� �����ϴ�.
+                            13일 이데일리 취재를 종합하면 SK하이닉스는 올해 1분기 말부터 CMM-DDR5 양산에 돌입한다. CMM-DDR5는 SK하이닉스가 만든 CXL 기반 D램이다. 이는 SK하이닉스의 메인 CXL 메모리이며, DDR5를 탑재한 기본 제품이다.&lt;br&gt;&lt;br&gt;현재 SK하이닉스는 이 제품의 고객사 인증을 진행하고 있다. SK하이닉스는 인텔, AMD 같은 중앙처리장치(CPU)와 협력해 최종적으로는 데이터센터 기업들에 제품을 공급할 계획이다. 인증 작업을 진행 중인 고객사는 구글, 아마존, 마이크로소프트 등 주요 빅테크인 것으로 추정된다.&lt;br&gt;&lt;br&gt;CXL은 중앙처리장치(CPU)나 그래픽처리장치(GPU) 등 각 반도체의 인터페이스다. 일종의 통신 언어인데, 지금은 각 칩이 서로 다른 인터페이스를 갖추고 있다. 이 인터페이스를 CXL로 통합하면 메모리 용량 확대 효과를 낼 수 있다. 이전에는 각 반도체 칩이 자기가 갖고 있는 메모리만 쓸 수 있었다면 CXL를 도입할 경우 CPU가 GPU에 붙은 메모리도 빌려 연산에 활용할 수 있다. 고대역폭메모리(HBM)가 정보의 고속도로를 대폭 늘린 제품이라면 CXL은 메모리 용량을 필요한 사람에게 나눠주고 빌려쓰는 식이다.&lt;br&gt;&lt;br&gt;그동안 국내 반도체 기업들은 CXL 메모리 양산 준비를 마쳤음에도 양산 시점을 구체적으로 확정하지 못하고 있었다. 마땅한 수요처가 없었기 때문이다. 이에 반도체업계는 CXL 메모리 개화 시점에 관심이 컸다.&lt;br&gt;&lt;br&gt;그러다 지난해 하반기 인텔이 서버용 CPU 신제품 ‘제온6 P코어’를 출시한 게 CXL 메모리 개화 계기가 됐다. 이 CPU가 CXL 2.0을 지원하기 때문이다. AMD도 AI 서버용 CPU EPYC 5세대(코드네임 튜린) 제품을 공개했는데, 이 CPU 역시 CXL 2.0을 지원한다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.wsobi.com/news/articleView.html?idxno=268783" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.wsobi.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="http://www.wsobi.com/news/photo/202502/268783_163429_5117.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 SK텔레콤, 본업 정체로 성장 제한적-현대차</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01935206642070192</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            김현용 현대차증권 연구원은 “SK텔레콤의 지난해 4분기 매출액은 전년 대비 0.3% 감소한 4조5115억원, 영업이익은 14.4% 줄어든 2541억원으로 추정치를 11% 하회했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난해 4분기 SK브로드밴드 매출이 전년 대비 3.8% 성장하며 선전했지만, 별도 기준 매출액이 전년보다 0.4% 감소하면서 연결 기준으로 매출이 감소세를 보였다는 평가다. 영업이익은 매출 약보합세 이외에 일회성 인건비가 인식되며 전년 대비 감익의 직접적인 원인으로 작용해다고 짚었다.&lt;br&gt;&lt;br&gt;지난해 4분기 이동전화수익은 전년보다 0.2% 성장했으나, 2023년 2분기 이후 6개 분기 만에 최저 성장률을 기록했다고 평가했다. 이동통신(MNO) 순증은 연중 매분기 감소해 2만4000명에 그쳤으며, 가입자당평균매출(ARPU) 전년보다 0.2% 감소했다고 짚었다. 아울러 브로드밴드 사업 중에선 유료방송 매출이 전년 대비 1% 증가해 유선통신 등 대비 눈에 띄게 낮은 증가율을 나타냈다고 분석했다.&lt;br&gt;&lt;br&gt;에이닷 누적 가입자수가 지난해 말 830만명으로 전년 말(340만명) 대비 급증한 점은 긍정적으로 평가했다. 김 연구원은 “에이닷 전화 및 멀티 언어모델(LLM) 웹 버전 출시 등의 확장 전략이 가입자 증가로 이어지는 모습”이라며 “인공지능(AI) 개인 비서 서비스 시장을 선점하고 있는 가운데 3월 글로벌 AI 에이전트 서비스 ‘에스터’가 북미에서 베타 서비스를 개시할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;다만 올해 이익 증가가 제한적인 데다, 2월 담합 과징금 이슈도 있어 주가는 관망세를 보일 것으로 내다봤다. 김 연구원은 “2월에는 공정거래위원회 전원회의를 통해 5G 답함 과징금 이슈가 점화될 가능성이 높아 당분간 주가는 관망세를 예상한다”고 밝혔다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01935206642070192" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01308726642070520" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -73,44 +54,63 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/02/PS25021300272.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/02/PS25021400051.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 SK에코플랜트 '야심작' 친환경사업…5년 만에 매각 제값 받을까 [넘버스...</title><link>https://www.bloter.net/news/articleView.html?idxno=631351</link><description>
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item><item><title>📰 [단독] SK스퀘어 원스토어, 콘텐츠 자회사 매각…앱마켓·게임 집중</title><link>https://www.sedaily.com/NewsView/2GOYSJ914F</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK에코플랜트가 아시아 대표 환경기업으로 성장하겠다는 포부를 드러내며 5년 전에 인수했던 친환경 자회사들을 매각할 수 있다는 관측이 나온다. 이미 다수의 사모펀드(PEF) 운용사들이 눈독을 들이는 분위기다. 친환경기업의 인수합병(M&amp;A)이 활발하지만, 매각 대상 기업들이 뚜렷한 성장세를 보이지 않는 만큼 제값을 받을 수 있을지에 관심이 쏠린다.&lt;br&gt;&lt;br&gt;13일 투자은행(IB) 업계에 따르면 SK에코플랜트는 자회사인 리뉴어스와 리뉴원에 대해 국내외 PEF운용사들의 매각 제안을 받았다. SK에코플랜트는 리뉴어스 지분 75%와 리뉴원 지분 100%를 보유하고 있다.&lt;br&gt;&lt;br&gt;리뉴어스는 수처리·폐기물 처리 업체로 전신은 환경시설관리다. 리뉴원은 폐기물 매립·소각 업체로 대원그린에너지가 그린환경기술·이메디원·디디에스·새한환경·도시환경·제이에이그린 등을 합병해 출범시켰다.&lt;br&gt;&lt;br&gt;SK에코플랜트는 지난 2020년 리뉴어스, 2021년 리뉴원을 인수하면서 친환경사업에 본격적으로 드라이브를 걸었다. SK건설에서 SK에코플랜트로 사명을 변경한 것도 비슷한 시기다. 당시 SK에코플랜트는 이름을 바꾸며 "아시아를 대표하는 환경기업이 될 것"이라고 밝혔다.&lt;br&gt;&lt;br&gt;다만 리뉴어스와 리뉴원의 성장세가 기대에 못 미친 것으로 나타났다. 2020년 리뉴어스의 연결기준 매출은 3679억원, 영업이익은 237억원으로 전년의 3272억원, 187억원보다 각각 12%, 27% 증가하는 등 성장세가 뚜렷했다. 하지만 SK에코플랜트 아래서는 크게 성장하지 못했다. SK에코플랜트의 사업보고서에 따르면 리뉴어스의 2023년 매출은 4294억원, 순손실은 55억원이었다.
+                            자회사인 원스토어가 4년 전 인수한 콘텐츠 자회사와의 결별을 결정했다. 비핵심 자회사를 매각해 손익 구조를 개선하는 동시에 핵심 사업인 게임·앱마켓 서비스를 중심으로 사업구조를 개펀하기 위해서다.&lt;br&gt;&lt;br&gt;14일 정보기술(IT) 및 투자은행(IB) 업계에 따르면 원스토어는 100% 자회사인 로크미디어 지분 전량을 인공지능(AI) 기반 웹툰 제작 플랫폼 스타트업인 '올콘텐츠앤에이아이'에 매각한다. 이르면 이달 중 대금 납입 등 매각 절차가 마무리될 수 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;2003년 설립된 로크미디어는 판타지, 게임소설 등 다양한 지식재산권(IP)를 바탕으로 웹툰과 웹소설을 제작하는 콘텐츠 기업이다. 카카오페이지와 네이버웹툰 등 플랫폼에 콘텐츠를 공급하고 있으며, 보유한 웹툰·웹소설 IP 수가 2800여 개에 달한다.&lt;br&gt;&lt;br&gt;원스토어는 2021년 3월 웹소설과 웹툰 등 콘텐츠 사업 진출을 목적으로 로크미디어를 인수했다. 이후 원스토어는 로크미디어가 가진 콘텐츠 역량을 바탕으로 웹툰·웹소설 플랫폼 '원스토리(옛 원스토어 북스)'를 출시하기도 했지만, 원스토어와의 시너지, 사업적 성과가 기대에 미치지 못했던 것으로 보인다.&lt;br&gt;&lt;br&gt;원스토어의 이번 매각은 SK스퀘어의 자회사 경쟁력 강화 노력 중 하나로 풀이된다. 로크미디어는 2023년 17억 원, 2024년 70억 원 수준의 영업손실을 기록했는데, 이번 매각으로 원스토어는 비핵심 사업을 정리하고 손익도 대폭 개선할 수 있을 것으로 기대된다. 실제로 원스토어는 로크미디어의 손실 규모를 포함해 지난해 3분기 말 기준 누적 순손실 124억 원을 기록했다. SK스퀘어는 원스토어 외에도 티맵모빌리티의 택시호출(우티) 및 공항버스(서울공항리무진) 자회사 지분 매각도 진행 중이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=631351" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sedaily.com/NewsView/2GOYSJ914F" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
+                            출처: www.sedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202502/631351_238298_5157_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2025/02/14/2GOYSJ914F_3.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 삼성·SK하이닉스, 스페인 'MWC 2025' 참가…AI 메모리 선봬</title><link>https://www.yna.co.kr/view/AKR20250213106900003?input=1195m</link><description>
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item><item><title>📰 이강욱 SK하이닉스 부사장, 국내 반도체 최고 영예 '강대원상' 수상</title><link>https://weekly.hankooki.com/news/articleView.html?idxno=7105146</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            삼성·SK하이닉스, 스페인 'MWC 2025' 참가…AI 메모리 선봬&lt;br&gt;&lt;br&gt;국내외 반도체 업체들이 미국 CES, 독일 IFA와 함께 3대 전시회로 꼽히는 세계 최대 이동통신 전시회 '모바일 월드 콩그레스'에 대거 참가해 인공지능 메모리 및 설루션을 공개한다.&lt;br&gt;&lt;br&gt;국내외 통신 업체들이 메인으로 참석하는 행사지만 최근 전자 기기에서 AI를 적용한 서비스가 확대되고 있고, 이를 위한 데이터센터 구축도 늘면서 반도체 업체들의 참석도 잇따르고 있다.&lt;br&gt;&lt;br&gt;이번 행사에는 삼성전자와 SK하이닉스 외에 미국 마이크론, AMD, 시놉시스, 마이크로칩 테크놀로지와 대만 미디어텍, 영국 반도체 설계기업 Arm, 중국 반도체 설계 기업 UNISOC 등도 참석한다.&lt;br&gt;&lt;br&gt;
+                            이 부사장은 반도체 업계에서 패키징 분야의 최고 전문가로 통한다. 지난 2000년 일본 도호쿠 대학에서 박사 학위를 받고 미국 렌슬리어 공과대학 박사 후 연구원과 일본 도호쿠 대학 교수를 거쳐 2018년 SK하이닉스에 합류했다. SK하이닉스 입사 후 MR-MUF 기술을 적용한 고대역폭메모리(HBM) 3세대인 HBM2E 개발에 성공하는 등 SK하이닉스가 인공지능(AI) 메모리반도체 시장의 주도권을 잡는데 기틀을 마련했다는 평가를 받고 있다.&lt;br&gt;&lt;br&gt;MR-MUF는 반도체 칩과 칩 사이 회로를 보호하기 위해 액체 형태의 보호재를 공간 사이에 주입하고 굳히는 기술을 말한다. 칩을 하나씩 쌓을 때마다 필름형 소재를 깔아주는 기존의 방식 대비 공정이 효율적인 것은 물론 열 방출에도 효과적이다.&lt;br&gt;&lt;br&gt;이 부사장은 “반도체 기술 발전의 패러다임이 미세화 중심에서 패키징 중심으로 바뀌는 등 전공정만큼 후공정의 역할도 커졌다”면서 “제 수상은 이 같은 사실을 다시 한 번 상기시켜준 계기”라고 말했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250213106900003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://weekly.hankooki.com/news/articleView.html?idxno=7105146" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: weekly.hankooki.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img2.yna.co.kr/photo/yna/YH/2024/02/26/PYH2024022621350001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.weekly.hankooki.com/news/thumbnail/202502/7105146_193412_217_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Feb 2025 17:00:39 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item><item><title>📰 美 반도체법 보조금 변경 추진… 삼성전자·SK하이닉스 예의주시</title><link>https://www.kmib.co.kr/article/view.asp?arcid=0027768629&amp;code=61141111&amp;cp=nv</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            ڸ �ݵ�ü�� ������ ���� ������ �Ｚ���ڡ�SK���̴н� �����ֽ�&lt;br&gt;&lt;br&gt;�Ｚ���ڡ�SK���̴н�, ������ ���� ��Ը� �̱� ����&lt;br&gt;&lt;br&gt;���ε� Ʈ���� �� ������� 12�� �̰����� ī��� ȣ�ڿ��� ������ ���� ������������� ù ����ȸ���� ��ģ �� ���� ����ȸ�߿��� ������ �亯�ϰ� �ִ�. AP���ý�&lt;br&gt;&lt;br&gt;���ε� Ʈ���� ���ΰ� �ݵ�ü��(Chips Act)�� ���� ������ �Ը� ������ �����ϰ� �ִٴ� ������ ���Դ�. �ݵ�ü���� �̱��� ������ �����ϴ� �� ��Ը� ���ڸ� �ϴ� ����� �������� �����ϴ� ��å�̴�.&lt;br&gt;&lt;br&gt;14�� ��������ſ� ������ Ʈ���� ���δ� ���� ������ å�� ���� �䱸 ������ ������ϰ� �Ϻ� �ŷ��� ���� ������ ���� ��ȹ�̴�. �������� �̷��� ��� ���� ���Ǵ� �ı�ȴ�.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.kmib.co.kr/article/view.asp?arcid=0027768629&amp;code=61141111&amp;cp=nv" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.kmib.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.kmib.co.kr/online_image/2025/0214/2024110711571547588_1730948235_0027768629.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Feb 2025 17:00:48 +0900</pubDate></item></channel></rss>
