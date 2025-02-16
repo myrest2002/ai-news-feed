@@ -1,51 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 15 Feb 2025 08:00:39 +0000</lastBuildDate><item><title>📰 SK하이닉스, '삼각동맹'으로 위기 돌파[반도체 美 사업 어디로②]</title><link>https://www.newsis.com/view/NISX20250214_0003066077</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 16 Feb 2025 08:00:37 +0000</lastBuildDate><item><title>📰 23년만에 SKT 떠난 네이트, AI+B2B기업 변신 추진</title><link>http://news.mt.co.kr/mtview.php?no=2025021015594819227</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            15일 업계에 따르면 트럼프 행정부는 최근 미국 내 투자 기업에 지급하기로 했던 반도체 보조금에 대해 재협상을 추진할 수 있다는 입장을 드러냈다.&lt;br&gt;&lt;br&gt;SK하이닉스는 앞서 바이든 행정부의 주요 정책이었던 반도체법을 통해 4억5800만 달러(약 6600억원)를 지원받기로 했다. 하지만 트럼프 정부 기조에 맞춰 보조금 지급 요건 조정 가능성이 제기됐다.&lt;br&gt;&lt;br&gt;SK하이닉스는 미국 인디애나주에 고대역폭메모리(HBM)용 어드밴스드 패키징 공장을 건설하기로 하고, 보조금을 받기로 한 바 있다. 아직 실제 지급이 되지 않은 상황에서 일부 외신은 트럼프가 SK하이닉스를 포함한 일부 기업들의 중국 투자를 지적했다고 한다. SK하이닉스는 중국 우시와 다롄에서 전체 D램 생산량의 40%와 낸드 20%를 만든다.&lt;br&gt;&lt;br&gt;트럼프 행정부는 보조금 지급 요건에서 전임 정부가 강조했던 기업의 사회적 책임을 완화하는 대신 초과 이익 공유 비율과 중국 관련 규제를 강화하는 방향을 검토 중인 것으로 알려졌다. 중국 투자에 대한 제한이 강화될 경우 SK하이닉스 입장에서는 중국 내 공장 운영에 대한 부담이 커질 수밖에 없다.&lt;br&gt;&lt;br&gt;업계에서는 엔비디아(설계)-TSMC(생산)-SK하이닉스(HBM 공급)로 이어지는 삼각동맹을 통해 돌파구를 찾을 수 있다는 관측이다.
+                            ���� ����Ʈ ��� SKĿ�´����̼���(���� SK����)�� 23�� ����&lt;br&gt;&lt;br&gt;ǰ�� ������. SK���� �� ������ �ﱸ���̾ؾ��� SK������ ���� ����Ʈ�� �޽��� ����Ʈ�� ���񽺴� �����ϵ�, AI(�ΰ�����)�� B2B(������ŷ�)�� ����� Ȯ���� ��ȹ�̴�.&lt;br&gt;&lt;br&gt;16�� ���������� ���ڰ��ýý��ۿ� ������ SKT�� ������ �� �ﱸ���������� SK���� �ֽ� 100%(4342��7530��)�� 70��3526������ �Ű��ߴ�. �̿� ���� SK���� �ִ����ִ� SKT���� �ﱸ���������� ����ƴ�. SK����� ���� ���� ������ ������ ��ǥ�� ������ �系�̻����� ��ü�ߴ�. ������ �ﱸ���̾ؾ� �系�̻簡 ����� �̸��� �÷ȴ�.&lt;br&gt;&lt;br&gt;�ﱸ���̾ؾ��� 1968�� ������ ���� �ִ� ��Ź���� ������ü��. �ﱸ���̾ؾ��� 100% ��ȸ���� �ﱸ���������� �η°��޾�ü��, 2023�� ���� 2256���, �������� 23����� ����ߴ�. SK������ IT���� � ���Ͽ츦 Ȱ���� AI ��� B2B ������� ������ �����ٴ� ��ǥ��. ���� SK����� AI�� ���� ����Ʈ�°� ������ �������� �غ� ���̴�.&lt;br&gt;&lt;br&gt;�ﱸ���̾ؾ� �����ڴ� "���С��޽������� AI�� B2B�� ��������� �ӵ��� �ְ� ��ȯ�� ����"�̶�� "����Ʈ�� ����Ʈ�� ����� �״�� �����ϸ鼭 ����������� AI ������� ���� ����ȭ�� ������ ���� ��"�̶�� ���ߴ�.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250214_0003066077" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2024/04/25/NISI20240425_0001535888_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 15 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 [위클리 스마트] '작곡 시간 50% 단축'…AI 음원생성 서비스 써보니</title><link>https://www.yna.co.kr/view/AKR20250214101500017?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [위클리 스마트] '작곡 시간 50% 단축'…AI 음원생성 서비스 써보니&lt;br&gt;&lt;br&gt;AI 음악 스타트업 포자랩스가 만든 라이브는 몇 번의 클릭만으로 나만의 음악을 생성할 수 있는 서비스다.&lt;br&gt;&lt;br&gt;실제로 팝, 힙합, 록, 펑크, 뉴에이지 등 12개 장르 중에서 '팝' 장르를 선택하고 희망찬, 로맨틱한 등 다양한 분위기 중 '바운시'(활기찬 느낌)를 택한 다음 음원을 생성해봤다.&lt;br&gt;&lt;br&gt;장르와 분위기를 같은 조합으로 선택해도 생성할 때마다 새로운 음악이 만들어진다는 점과, 광고에 큰 비용을 들이기 어려운 작은 사업체도 쉽고 저렴하게 마케팅 등에 사용할 음원을 만들 수 있는 점이 장점이라고 생각됐다.&lt;br&gt;&lt;br&gt;포자랩스의 음원 생성 AI는 사람 작곡가가 실제 작곡하는 방식대로 작동한다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250214101500017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img8.yna.co.kr/etc/inner/KR/2025/02/14/AKR20250214101500017_04_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 15 Feb 2025 17:00:39 +0900</pubDate></item><item><title>📰 美 반도체 관세, '제 무덤 파는 거'라는데…삼성·SK에 미칠 영향은?</title><link>http://news.mt.co.kr/mtview.php?no=2025021414220270319</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            Ʈ���� ���ݵ�ü ������ ������?/�׷���=������&lt;br&gt;&lt;br&gt;"�츮�� �ݵ�ü ����� �ٽ� ������ ���̴�" (���ε� Ʈ���� �̱� �����)&lt;br&gt;&lt;br&gt;Ʈ���� ������� �Һ��� '���� ����'�� �Ҿ��� �ݵ�ü ������� ������ �ִ�. �ݵ�ü�� �ߴ� ��ο� ���̸鼭 ���� �ݵ�ü ����� �ڼ����� �������. ������ �̱� �ݵ�ü ���� ��å�� ��ȿ���� �ΰ� ����ǥ�� ���� �����鼭, ��å�� �Ƿ� �̱��� '�����'�� �� �� �ִٴ� �м��� ���´�.&lt;br&gt;&lt;br&gt;13��(�����ð�) Ʈ���� ������� ���� ������ '��ȣ ����'�� �ΰ��ϱ�� �����ϸ鼭 �ݵ�ü ���� �ΰ� ���ɼ��� ��Ȯ������, ���� �ݵ�ü ���谡 �����ߴ�. �޸� �ݵ�ü�� ��� �Ｚ���ڿ� SK���̴н� �� ���� ����� �۷ι� ������ ��� �κ��� �����ϴ� ��ŭ Ÿ���� �ִ� �� �ƴϳĴ� ����� ���� ���̴�.&lt;br&gt;&lt;br&gt;������ �̱��� ������ �ݵ�ü�� ������ �ű� ���, ���� ����� ���� Ÿ���� �������� ���̶�� �� ��ü���� �����̴�. �̱��� ���� �����ϴ� �޸� ������ �۾Ƽ���. �� ������ �Ƿ� �̱� �� ���� ����� ���߱� �� �ִٴ� ������ ��å�� ���� ���ɼ� ��ü���� �ǹ���ȣ�� ������. �� ���踦 ������ �ִ� �ݵ�ü ���� ��å�� ��ȿ���� ���� ���ɼ��� ���캻��.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2025021414220270319" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2025021015594819227" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -54,6 +16,120 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://thumb.mt.co.kr/21/2025/02/2025021414220270319_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://thumb.mt.co.kr/21/2025/02/2025021015594819227_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 15 Feb 2025 17:00:39 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 통신 3사 “올해 AI로 돈번다”</title><link>https://sports.donga.com/it/article/all/20250216/131038534/1</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            지난해 합산 영업이익이 4조 원을 밑돈 통신 3사가 올해 인공지능(AI) 사업 수익화에 나선다. 16일 업계에 따르면 SK텔레콤과 KT, LG유플러스는 지난해 부진한 성적표를 받았다. 3사의 지난해 합산 영업이익은 3조4960억 원이다. 2023년에 비해 20.6% 가량 줄어들었다. 3사는 올해 AI 관련 사업을 더욱 본격화하면서 수익 개선에 나선다는 전략이다.&lt;br&gt;&lt;br&gt;지난해 3사 중 유일하게 영업이익이 성장한 SK텔레콤은 올해부터 ‘돈버는 AI’를 본격 추진한다는 계획이다.&lt;br&gt;&lt;br&gt;먼저 글로벌 파트너십을 확보해‘AI 인프라 슈퍼 하이웨이’ 구축에 속도를 더한다. SK텔레콤은 지난해 12월 람다와 함께 가산 AI 데이터센터(DC)를 오픈하고, 이어 ‘ GPUaaS’(서비스형 그래픽처리장치)를 선보이는 등 AI 인프라 사업에 힘을 쏟고 있다. 올해 1월 협약을 체결한 펭귄 솔루션스와는 AI DC 글로벌 확장, 공동 연구개발(R&amp;D) 및 상용화, 차세대 메모리 어플라이언스 개발 등 협력을 지속 추진할 계획이다.&lt;br&gt;&lt;br&gt;‘AI 비서’ 영역에선 국내 시장을 타깃으로 한 ‘에이닷’과 글로벌 시장을 겨냥한 ‘에스터’ 투 트랙 전략을 추진한다. ‘에이닷’은 지난해 멀티 LLM(대규모 언어 모델) 에이전트 기능과 PC버전을 새롭게 선보이고, T전화에 AI 전화 기능을 강화한 ‘에이닷 전화’를 출시하는 등 대규모 서비스 개편을 통해 AI 개인서비스 영역을 빠르게 넓혀가고 있다. 지난해 ‘SK AI 서밋’에서 처음 공개한 글로벌 개인 AI 에이전트 서비스 ‘에스터’는 올해 초 CES에서 완결적 일상 관리의 서비스 모델을 제시하며 상반기 중 미국 베타 서비스 개시에 나설 계획이다. SK텔레콤은 앤트로픽, 퍼플렉시티 등 해외 주요 LLM업체들과도 협력을 지속 추진하고 있다.&lt;br&gt;&lt;br&gt;KT는 올해 마이크로소프트(MS)와의 전략적 파트너십을 통해 AI와 정보통신기술(ICT)을 결합한 ‘AICT 기업’으로의 구조전환을 본격적으로 추진한다. 저수익 사업의 구조적인 개선을 추진하는 한편 MS와의 파트너십을 기반으로 한 사업 성과를 구체화한다는 계획이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://sports.donga.com/it/article/all/20250216/131038534/1" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: sports.donga.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://dimg.donga.com/wps/SPORTS/IMAGE/2025/02/16/131038536.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 최태원, '베트남 서열 1위'와 회동 "에너지·AI 사업 협력 논의"</title><link>https://www.news1.kr/industry/company/5691077</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            캐즘 비웃듯 인터배터리 덩치 더 커졌다…올 키워드 "중국·ESS"&lt;br&gt;&lt;br&gt;'역공' 나선 최윤범, 영풍 '집중투표제' 강제 상정 추진&lt;br&gt;&lt;br&gt;SK그룹, 오늘 정기 임원인사…3대 키워드 '슬림화·AI·세대교체'&lt;br&gt;&lt;br&gt;SK 에너지사업 재편 속도 낸다…SK이노 수석부회장에 최태원 동생 최재원(종합)&lt;br&gt;&lt;br&gt;'세기의 이혼'에 이틀새 22% 급등한 SK…'기관'이 쓸어담았다[종목현미경]
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.news1.kr/industry/company/5691077" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.news1.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/2/11/7125443/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 삼성전자·네이버·SK하이닉스... '100대 로봇 기업'</title><link>https://www.meconomynews.com/news/articleView.html?idxno=108301</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            MS·메타·애플 등 빅테크 '브레인' 항목에 이름 올려&lt;br&gt;&lt;br&gt;삼성전자와 네이버, 현대자동차 등이 글로벌 금융기업 모건스탠리 선정 '로봇 분야 100대 핵심 기업'에 이름을 올렸다. 16일 업계에 따르면 모건스탠리는 최근 이 같은 내용을 담은 ‘휴머노이드 100’ 보고서를 발표했다.&lt;br&gt;&lt;br&gt;보고서는 휴머노이드 산업을 △인공지능(AI) 칩과 소프트웨어·반도체를 개발하는 '브레인' △하드웨어를 제작하는 '바디' △완전체 로봇을 개발하는 '인테그레이터' 등 3개 부문으로 분류했다.&lt;br&gt;&lt;br&gt;'브레인' 부분에서는 삼성전자와 SK하이닉스, 네이버가 선정됐다. 삼성전자는 메모리와 NPU 설계 및 제조 역량을, SK하이닉스는 메모리 부문에서 각각 경쟁력을 인정받은 결과로 풀이된다.&lt;br&gt;&lt;br&gt;삼성SDI와 LG에너지솔루션은 '바디' 부문 100대 기업에 포함됐다. 국내 기업이 가장 많이 선정된 부문은 인테그레이터 영역이다. 삼성전자와, 현대차, LG, 네이버 등이 인테그레이터 부문 100대 기업에 꼽혔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.meconomynews.com/news/articleView.html?idxno=108301" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.meconomynews.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://www.meconomynews.com/news/thumbnail/202502/108301_128455_5942_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 '모바일 HBM' 두고 엇갈린 삼성·SK…“제 2의 패키징 경쟁”</title><link>https://www.etnews.com/20250214000121</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            '모바일 HBM' 두고 엇갈린 삼성·SK…“제 2의 패키징 경쟁”&lt;br&gt;&lt;br&gt;'모바일 HBM'를 두고 삼성전자와 SK하이닉스 기술 전략이 엇갈렸다. 저전력 D램을 쌓아 마치 고대역폭메모리(HBM)와 같은 성능을 끌어내는 차세대 메모리 제품에서 삼성전자는 성능과 안정성을, SK하이닉스는 비용 효율을 택했다.&lt;br&gt;&lt;br&gt;'온디바이스 AI' 핵심 메모리 시장에서 삼성과 SK가 HBM 패키징 방식을 두고 격돌하는 셈이다.&lt;br&gt;&lt;br&gt;16일 업계에 따르면, 삼성전자는 인공지능(AI 스마트폰이나 PC 등에서 연산 성능을 극대화할 차세대 D램을 개발중이다. LPDDR D램을 쌓아 입출력(I/O) 단자를 대폭 늘린 제품으로, '저지연 와이드 입출력(LLW)' D램이라고도 불린다.&lt;br&gt;&lt;br&gt;삼성전자는 모바일 HBM의 성능과 안정성 확보에 초점을 맞춘 것으로 확인됐다. 앞서 삼성전자는 적층한 D램을 연결하는데, 구리 기둥을 활용한다고 밝힌 바 있다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.etnews.com/20250214000121" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.etnews.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.etnews.com/news/article/2025/02/16/news-g.v1.20250216.9704223790e443f68dbe90e488114e8c_Z1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 SK그룹, AI·재무개선 올해도 고강도 리밸런싱 예고 "판 바꾼다"</title><link>https://www.news1.kr/industry/general-industry/5690520</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            제주 유나이티트, 제주SK FC로 새출발…구단명 선포식 개최&lt;br&gt;&lt;br&gt;페라리 CEO, SK서린빌딩 방문…SK온과 배터리 협력 논의&lt;br&gt;&lt;br&gt;[IR]SK하이닉스 "내년 HBM 물량 논의 시작…올 상반기 가시화"&lt;br&gt;&lt;br&gt;1조 모태펀드 3월까지 신속 공급…신규 벤처펀드 1.9조 조성&lt;br&gt;&lt;br&gt;"일단 살리자" 채무센터 신설하고 환율 피해에 1.5조 대출
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.news1.kr/industry/general-industry/5690520" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.news1.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/2/4/7112301/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item><item><title>📰 [단독] 엔비디아 '제2의 HBM' 삼성·SK와 극비 협의</title><link>https://www.sedaily.com/NewsView/2GOZQ8MB1J</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            엔비디아가 '제 2의 고대역폭메모리(HBM)'를 상용화하기 위해&lt;br&gt;&lt;br&gt;등 메모리 반도체 회사들과 극비리에 접촉하며 협의하고 있는 것으로 확인됐다. 엔비디아가 ‘개인용 AI(인공지능) 슈퍼 컴퓨터’ 대중화에 필요한 특수 D램 모듈을 만드는 것인데, 젠슨 황 엔비디아 CEO(최고경영자)가 이에 성공할 경우 메모리 반도체 업계에 또 한 번 지각 변동을 일으킬 전망이다.&lt;br&gt;&lt;br&gt;16일 반도체업계에 따르면 엔비디아는 자체 메모리 표준인 'SOCAMM(소캠)'을 만들고 삼성전자·SK하이닉스·마이크론 등과 상용화 가능성을 협의하고 있다. 이 사안에 정통한 업계 관계자는 "현재 엔비디아와 메모리 회사들이 SOCAMM 시제품을 교환하면서 성능 테스트를 하고 있다" 면서 "이르면 올 해 말쯤 양산까지 가능할 것으로 예상된다"고 말했다.&lt;br&gt;&lt;br&gt;SOCAMM은 기존 소형PC 및 노트북에 쓰이는 D램 모듈보다 ‘가성비’가 좋다. 기존 PC에는 SODIMM이라는 D램 모듈이 장착돼 범용 DDR4나 DDR5 D램을 쓰지만, SOCAMM은 기판 위에 저전력이 장점인 'LPDDR5X' D램을 얹기 때문에 전력 효율성이 뛰어나다.&lt;br&gt;&lt;br&gt;차세대 노트북 PC용 D램 모듈로 각광받는 저전력 모듈 LPCAMM보다 큰 장점도 있다. D램과 전자 기기 사이에서 신호를 전달하는 통로인 '출입구(I/O)'의 수가 훨씬 많기 때문이다. 일반 PC용 D램 모듈의 정보 출입구 수가 260개였다면 LPCAMM은 644개, SOCAMM은 이보다 많은 694개다. AI 컴퓨팅의 최대 난제였던 데이터 병목 현상을 다른 모듈보다 훨씬 수월하게 해결할 수 있는 셈이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.sedaily.com/NewsView/2GOZQ8MB1J" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.sedaily.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://newsimg.sedaily.com/2025/02/16/2GOZQ8MB1J_1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 16 Feb 2025 17:00:37 +0900</pubDate></item></channel></rss>
