@@ -1,78 +1,40 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 20 Feb 2025 08:00:23 +0000</lastBuildDate><item><title>📰 AI에 수백조 쏟아붓는 선진국들…"산업 특화 AI로 차별화해야"</title><link>https://www.yna.co.kr/view/AKR20250220064800017?input=1195m</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 21 Feb 2025 08:00:34 +0000</lastBuildDate><item><title>📰 [SK 바이오 톺아보기] ③'최태원 딸' 최윤정의 SK바이오팜, 그룹 내 입지...</title><link>https://www.bloter.net/news/articleView.html?idxno=631923</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            AI에 수백조 쏟아붓는 선진국들…"산업 특화 AI로 차별화해야"&lt;br&gt;&lt;br&gt;미국과 유럽연합 등 선진국이 수백조원 규모의 인공지능 분야 투자계획을 발표하는 등 글로벌 AI 주도권 확보를 위한 총력전이 전개되고 있다.&lt;br&gt;&lt;br&gt;전문가들은 우리나라가 글로벌 경쟁에서 물리적 자본으로는 열세일 수밖에 없는 만큼 AI 원천 모델 개발도 중요하나 산업에 적용하는 쪽에 투자를 하는 것이 차별화할 방법이라고 강조한다.&lt;br&gt;&lt;br&gt;고석태 마인즈앤컴퍼니 대표는 "AI 개발 영역을 둘로 나누면 크게 원천 기술, 산업에 필요한 앱 등 형태로 적용하는 분야가 있다"고 말했다.&lt;br&gt;&lt;br&gt;
+                            최윤정 SK바이오팜 사업개발본부장이 회사의 글로벌 성장과 함께 최근 SK㈜의 미래 전략을 주도하는 역할을 맡으며 그룹 내 입지를 빠르게 확장하고 있다. 업계에서는 SK바이오팜의 성장이 향후 경영승계에 중요한 영향을 미칠 것으로 보고 있다.&lt;br&gt;&lt;br&gt;SK바이오팜 성장 이끈 최윤정 본부장...그룹까지 입지 확대&lt;br&gt;&lt;br&gt;최 본부장은 최태원 SK그룹 회장의 장녀다. 지난 2017년 SK바이오팜 경영전략실 전략팀 선임 매니저(대리)로 입사해 2019년까지 파트장을 지냈다. 이후 2023년 말 정기 임원인사에서 사업개발본부장(부사장)으로 승진해 그룹의 최연소 임원 기록을 달성했다. 최 본부장은 중국 베이징국제고를 졸업하고 미국 시카고대에서 생물학을 전공한 뒤 시카고대 뇌과학연구소 연구원, 하버드대 물리화학연구소 연구원 등으로 일했다.&lt;br&gt;&lt;br&gt;최 본부장은 SK바이오팜 전략본부를 이끌며 글로벌 시장 진출 및 사업 다각화에서 성과를 냈다. 2020년에는 SK바이오팜의 코스피 상장을 주도하며 회사의 시장가치를 극대화했다. 특히 미국 식품의약국(FDA)의 승인을 받은 뇌전증치료제 '세노바메이트(미국 제품명 엑스코프리)'를 상업화해 SK바이오팜을 SK그룹의 신성장동력으로 자리매김한 점 역시 높게 평가된다.&lt;br&gt;&lt;br&gt;지난해에는 SK바이오팜의 차세대 모달리티인 방사성의약품(RPT) 사업 관련 발표를 직접 진행하며 처음으로 공식석상에 모습을 나타냈다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250220064800017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=631923" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: www.bloter.net
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img8.yna.co.kr/photo/cms/2025/02/11/76/PCM20250211000076990_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202502/631923_238830_3058_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 20 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 갈 길 먼 AI 패권경쟁···"韓 현주소는 인공지능 하도급"</title><link>http://www.enewstoday.co.kr/news/articleView.html?idxno=2239456</link><description>
+                </description><pubDate>Fri, 21 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK하이닉스 곽노정 "AI 빅웨이브 속 막중한 책임감 느껴"</title><link>https://isplus.com/article/view/isp202502210019</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            갈 길 먼 AI 패권경쟁···“韓 현주소는 인공지능 하도급”&lt;br&gt;&lt;br&gt;갈 길 먼 AI 패권경쟁···“韓 현주소는 인공지능 하도급”&lt;br&gt;&lt;br&gt;무거운 규제·예산 태부족···세계 3강 달성 ‘역부족’&lt;br&gt;&lt;br&gt;세계적 수준의 AI 반도체 기술력을 바탕으로 다시금 추격에 나섰지만, 미국과 중국으로 대표되는 AI 강국들의 시장 헤게모니 장악을 위한 ‘러시’가 더욱 심화되면서 사실상 AI 개발에 필요한 반도체 납품을 주도하는 ‘하도급’ 국가 위치에 머물고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;20일 영국 언론기관인 토터스미디어에 따르면 지난해 글로벌 AI 지수 집계 결과 전 세계 83개국 가운데 우리나라는 전년과 동일한 종합 6위를 머무른 것으로 나타났다. 1위와 2위는 미국과 중국으로 양강 체제를 형성했고, 3위는 싱가포르, 4위 영국, 5위는 프랑스로 조사됐다. 6위인 우리나라의 뒤를 이어서는 독일, 캐나다, 이스라엘, 인도가 각각 자리했다.
+                            세미콘 코리아 2025에서 연설하는 곽노정 SK하이닉스 사장. 곽노정 사장 링크드인 캡처&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 사장이 인공지능(AI) 확산 속에 한국 반도체 산업의 중요성을 강조했다.&lt;br&gt;&lt;br&gt;곽 사장은 20일 자신의 사회관계망서비스(SNS)에 "세미콘 코리아 2025에서 보낸 시간을 되돌아보면 반도체 업계가 짊어진 막중한 책임감을 다시금 깨닫게 된다"며 "AI가 계속 진화하면서 그 어느 때보다 위험이 커지고 있다는 것도 분명하다"고 밝혔다.&lt;br&gt;&lt;br&gt;곽 사장은 지난 19일 서울 강남구 그랜드 인터컨티넨탈 파르나스호텔에서 열린 '세미콘 코리아 2025 리더십 디너' 행사에 참가해 세계 경제와 국가 안보에서 반도체의 역할 및 중요성에 대해 연설했다.&lt;br&gt;&lt;br&gt;리더십 디너 행사는 국내 최대 규모의 반도체 박람회인 세미콘 코리아 2025와 함께 열리는 행사로, 500여명의 글로벌 반도체 리더 및 임원들이 모여 반도체 산업 인사이트를 공유하는 자리다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2239456" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://isplus.com/article/view/isp202502210019" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.enewstoday.co.kr
+                            출처: isplus.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.enewstoday.co.kr/news/thumbnail/202502/2239456_1050765_3453_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://isplus.com/data/isp/image/2025/02/21/isp20250221000023.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 20 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 SK C&amp;C, 채용과정에 '에이닷' 적용…수천개 지원서 4시간 만에 분석</title><link>https://www.newsis.com/view/NISX20250220_0003071965</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            에이닷 비즈 HR, SK 텔레콤과 공동 개발중인 '에이닷 비즈' 첫 번째 성과물&lt;br&gt;&lt;br&gt;서류 및 AICT 결과, 필기 전형 결과 바탕으로 지원자 맞춤형 AI 일대일 면접 지원&lt;br&gt;&lt;br&gt;에이닷 비즈 HR은 SK 텔레콤과 공동 개발중인 '에이닷 비즈'서비스의 첫 번째 결과물로, 인공지능(AI)을 활용해 채용 전 과정을 효율화하고 평가 정확도를 향상시키는 것이 핵심이다.&lt;br&gt;&lt;br&gt;현재 SK C&amp;C와 SK텔레콤은 이 서비스의 클로즈 베타 테스트(CBT)를 진행하고 있다. 이번 CBT에서는 회의실 예약, 회의록 작성 등 일상적인 공통 업무를 지원하는 '에이닷 비즈'와 법무, 세무, PR, HR 등 전문 업무에 특화된 '에이닷 비즈 프로페셔널' 두 가지 버전의 AI 에이전트 기능을 테스트하며, 본격적인 시장 진출을 준비하고 있다.&lt;br&gt;&lt;br&gt;이번 CBT에 앞서 SK C&amp;C는 에이닷 비즈 HR을 실제 채용 과정에 적용, 기존 채용 과정 대비 평가 효율성과 평가 정확도가 크게 향상됐음을 확인했다고 설명했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250220_0003071965" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2025/01/22/NISI20250122_0001755666_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 20 Feb 2025 17:00:23 +0900</pubDate></item><item><title>📰 쇼호스트 음성도 AI로…SK스토아 방송에 음성합성 기술 도입</title><link>https://www.yna.co.kr/view/AKR20250220056900030?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            쇼호스트 음성도 AI로…SK스토아 방송에 음성합성 기술 도입&lt;br&gt;&lt;br&gt;데이터 홈쇼핑 기업 SK스토아는 방송에 인공지능 음성합성 기술을 도입한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;AI 음성합성 기술을 활용하면 비용 절감은 물론 제작 효율성도 크게 높일 수 있을 것으로 SK스토아는 기대했다.&lt;br&gt;&lt;br&gt;SK스토아는 지난해 하반기부터 네오사피엔스의 타입캐스트 서비스를 기반으로 일부 패션 방송 프로그램의 가격·색상 코멘트 수정, 프로모션 내용 변경 등에 AI 음성합성 기술을 적용해 그 효과를 확인했다.&lt;br&gt;&lt;br&gt;
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250220056900030?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2025/02/20/AKR20250220056900030_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 20 Feb 2025 17:00:23 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 21 Feb 2025 17:00:34 +0900</pubDate></item></channel></rss>
