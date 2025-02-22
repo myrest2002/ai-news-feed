@@ -1,40 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 21 Feb 2025 08:00:34 +0000</lastBuildDate><item><title>📰 [SK 바이오 톺아보기] ③'최태원 딸' 최윤정의 SK바이오팜, 그룹 내 입지...</title><link>https://www.bloter.net/news/articleView.html?idxno=631923</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 22 Feb 2025 08:00:31 +0000</lastBuildDate><item><title>📰 개화 앞둔 AI 신약개발, 핵심은 '역량 차별화'</title><link>http://www.hansbiz.co.kr/news/articleView.html?idxno=735338</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최윤정 SK바이오팜 사업개발본부장이 회사의 글로벌 성장과 함께 최근 SK㈜의 미래 전략을 주도하는 역할을 맡으며 그룹 내 입지를 빠르게 확장하고 있다. 업계에서는 SK바이오팜의 성장이 향후 경영승계에 중요한 영향을 미칠 것으로 보고 있다.&lt;br&gt;&lt;br&gt;SK바이오팜 성장 이끈 최윤정 본부장...그룹까지 입지 확대&lt;br&gt;&lt;br&gt;최 본부장은 최태원 SK그룹 회장의 장녀다. 지난 2017년 SK바이오팜 경영전략실 전략팀 선임 매니저(대리)로 입사해 2019년까지 파트장을 지냈다. 이후 2023년 말 정기 임원인사에서 사업개발본부장(부사장)으로 승진해 그룹의 최연소 임원 기록을 달성했다. 최 본부장은 중국 베이징국제고를 졸업하고 미국 시카고대에서 생물학을 전공한 뒤 시카고대 뇌과학연구소 연구원, 하버드대 물리화학연구소 연구원 등으로 일했다.&lt;br&gt;&lt;br&gt;최 본부장은 SK바이오팜 전략본부를 이끌며 글로벌 시장 진출 및 사업 다각화에서 성과를 냈다. 2020년에는 SK바이오팜의 코스피 상장을 주도하며 회사의 시장가치를 극대화했다. 특히 미국 식품의약국(FDA)의 승인을 받은 뇌전증치료제 '세노바메이트(미국 제품명 엑스코프리)'를 상업화해 SK바이오팜을 SK그룹의 신성장동력으로 자리매김한 점 역시 높게 평가된다.&lt;br&gt;&lt;br&gt;지난해에는 SK바이오팜의 차세대 모달리티인 방사성의약품(RPT) 사업 관련 발표를 직접 진행하며 처음으로 공식석상에 모습을 나타냈다.
+                            22일 제약바이오업계에 따르면 리커전은 최근 국제 뇌졸중 컨퍼런스(ISC)에서 AI 기반 약물 'REC-994'의 임상2상 데이터를 발표, 기존 치료법 대비 우수한 효능을 확인했다.&lt;br&gt;&lt;br&gt;AI 기반 신약개발 성공이 가시화되면서 전 세계 정부와 기업들의 이목이 쏠렸다.&lt;br&gt;&lt;br&gt;글로벌 시장조사기관 마켓앤마켓에 따르면 AI 신약 개발의 북미 시장 규모는 연평균 48.4%씩 성장해 2026년 19억4000달러(약 2조 7833억원) 규모로 확대된다. 국내의 경우 연평균 34.6%씩 성장해 2026년 826억원 규모에 달할 것으로 전망된다.&lt;br&gt;&lt;br&gt;대한민국 정부는 AI 기반 신약 개발을 집중 육성하겠다는 계획이다. 과학기술정보통신부는 내년 연구개발(R&amp;D) 투자 방향에 대해 첨단바이오 기술 중에서도 AI 신약 개발에 집중 투자하겠다고 밝혔다. 해당 투자방향안은 국가과학기술회의 심의 의결을 거친 후 다음달 15일까지 관계부처에 통보될 예정이다.&lt;br&gt;&lt;br&gt;국내 AI 신약 개발사 중에는 신테카바이오와 온코크로스가 주목받고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=631923" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=735338" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
+                            출처: www.hansbiz.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202502/631923_238830_3058_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.hansbiz.co.kr/news/thumbnail/202502/735338_724127_221_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 21 Feb 2025 17:00:34 +0900</pubDate></item><item><title>📰 SK하이닉스 곽노정 "AI 빅웨이브 속 막중한 책임감 느껴"</title><link>https://isplus.com/article/view/isp202502210019</link><description>
+                </description><pubDate>Sat, 22 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 등번호 42번 램리서치의 '몰리브덴', 삼성·SK 1000단 낸드의 필승조 [강...</title><link>https://www.sedaily.com/NewsView/2GP2HE6HCU</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            세미콘 코리아 2025에서 연설하는 곽노정 SK하이닉스 사장. 곽노정 사장 링크드인 캡처&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 사장이 인공지능(AI) 확산 속에 한국 반도체 산업의 중요성을 강조했다.&lt;br&gt;&lt;br&gt;곽 사장은 20일 자신의 사회관계망서비스(SNS)에 "세미콘 코리아 2025에서 보낸 시간을 되돌아보면 반도체 업계가 짊어진 막중한 책임감을 다시금 깨닫게 된다"며 "AI가 계속 진화하면서 그 어느 때보다 위험이 커지고 있다는 것도 분명하다"고 밝혔다.&lt;br&gt;&lt;br&gt;곽 사장은 지난 19일 서울 강남구 그랜드 인터컨티넨탈 파르나스호텔에서 열린 '세미콘 코리아 2025 리더십 디너' 행사에 참가해 세계 경제와 국가 안보에서 반도체의 역할 및 중요성에 대해 연설했다.&lt;br&gt;&lt;br&gt;리더십 디너 행사는 국내 최대 규모의 반도체 박람회인 세미콘 코리아 2025와 함께 열리는 행사로, 500여명의 글로벌 반도체 리더 및 임원들이 모여 반도체 산업 인사이트를 공유하는 자리다.
+                            정보기술(IT) 시장에 관심 많으신 독자 여러분, 안녕하세요. 오늘은 낸드플래시에 대한 이야기를 해볼까 하는데요.&lt;br&gt;&lt;br&gt;낸드는 전자 기기의 전원이 꺼져도 정보를 기억할 수 있는 반도체입니다. D램이 책을 펼쳐놓고 공부할 수 있는 책상이라면, 낸드플래시는 다양한 자료를 보관해두는 수납장 역할을 하죠.&lt;br&gt;&lt;br&gt;정보를 많이 저장하려면 어떻게 해야할까요. 수납장을 높게 쌓아서 더 많은 저장공간을 확보하면 됩니다.&lt;br&gt;&lt;br&gt;요즘 화두가 되는 '1000단 낸드'도 비슷합니다. AI 시대 진입으로 데이터가 넘치는 시대에 대응하기 위해, 삼성전자와 SK하이닉스는 200단을 넘어 1000단까지 쌓은 낸드를 만들어보는 것을 꿈꿉니다.&lt;br&gt;&lt;br&gt;미국의 램리서치라는 장비 회사가 삼성·SK의 꿈을 든든히 뒷받침하기 위해 '몰리브덴'이라는 소재를 들고 나온 내용과 의미
                         &lt;/div&gt;
                         
-                        &lt;a href="https://isplus.com/article/view/isp202502210019" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.sedaily.com/NewsView/2GP2HE6HCU" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: isplus.com
+                            출처: www.sedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://isplus.com/data/isp/image/2025/02/21/isp20250221000023.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://newsimg.sedaily.com/2025/02/22/2GP2HE6HCU_21.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 21 Feb 2025 17:00:34 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 22 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 [VC’s Pick]투자 유치 성공한 ‘AI 의료 솔루션’들…글로벌 시장 정조...</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01777766642073144</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            AI 기반 근골격계 의료 소프트웨어와 수술용 로봇을 개발하는 코넥티브가 140억원 규모 시리즈A 투자 유치에 성공했다. 이번 라운드에는 기존 투자사인 DSC인베스트먼트, 슈미트, 스톤브릿지벤처스, 리벤처스가 참여했다. 신규 투자사로 BSK인베스트먼트, TS인베스트먼트, IMM인베스트먼트, JB인베스트먼트, 빅무브벤처스가 합류했다.&lt;br&gt;&lt;br&gt;코넥티브는 올해 그동안의 연구개발(R&amp;D) 성과를 기반으로 본격적인 사업화에 나설 계획이다. 이번 투자에 전략적 투자자(SI)로 참여한 부민병원이 사업화를 함께 한다. 이외에도 중동 등 글로벌 시장에 진출한다. 올해 1월 아랍에미리트(UAE) 아부다비 주요 헬스케어 그룹인 버질 홀딩스 산하 병원에 AI 소프트웨어 제품의 사업실증(PoC)을 마쳤다. 유럽, 동남아시아, 일본 등에서도 의료인증을 진행, 준비 중이다.&lt;br&gt;&lt;br&gt;뇌질환 진단 AI 플랫폼 기업 퍼플AI가 뮤렉스파트너스, 빅베이슨캐피탈, 매쉬업벤처스, 디지털헬스케어파트너스(DHP)로부터 25억원 규모의 프리 시리즈A 투자를 유치했다. 이번 라운드를 리드한 뮤렉스파트너스는 뇌질환 진단 분야가 의료진의 AI 솔루션 도입 요구가 높고, FDA에서도 보험 수가 적용이 활발히 진행되고 있는 영역이라는 점을 눈여겨봤다. 퍼플AI는 이번 투자를 바탕으로 자사 AI 솔루션을 경쟁력 있게 확장하고, 글로벌 시장 진출을 추진한다.&lt;br&gt;&lt;br&gt;퍼플AI는 SK C&amp;C AI 헬스케어팀과 서울대병원·아주대병원 영상의학과 교수진이 공동 창업한 스타트업이다. 회사는 지난해 10월 SK C&amp;C로부터 분사했다. 회사 대표 솔루션인 메디컬 인사이트 플러스 뇌출혈은 뇌 CT 영상을 수초 내로 분석해 98% 수준의 정확도로 출혈 위치와 이상 여부를 의료진에게 알려준다. 이 솔루션은 의료진이 놓치기 쉬운 미세 출혈도 신경두경부 영상의학전문의 수준으로 탐지한다. 의료진의 진단 정확도를 높이고, 응급실에서의 진료 시간을 단축하는 효과가 다수의 임상 실증 연구에서 확인됐다. 이를 바탕으로 지난해 보건복지부 통합심사에서 혁신의료 기술로 지정됐다. 미국 FDA 품목 허가도 취득했다.&lt;br&gt;&lt;br&gt;푸드테크 스타트업 휴밀이 CJ인베스트먼트, 동문파트너즈로부터 20억원 규모의 신규 투자를 유치했다. 투자사들은 휴밀이 차별적인 소재 기술을 지녔고, 사업 성장 가능성이 크다는 점에 주목해 투자를 집행했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01777766642073144" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.edaily.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/02/PS25022200218.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 22 Feb 2025 17:00:31 +0900</pubDate></item><item><title>📰 국장 돌아오나…연기금 최장 순매수[K증시 훈풍①]</title><link>https://www.newsis.com/view/NISX20250221_0003073859</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            22일 한국거래소에 따르면 전날 코스피지수는 0.52포인트(0.02%) 오른 2654.58에 마감했다. 지수는 장중 2630선까지 밀렸지만 기관이 매수세를 확대하면서 낙폭을 줄였다.&lt;br&gt;&lt;br&gt;코스피지수는 지난 11일부터 7거래일 연속 상승하며 19일 2670선을 돌파했다. 지수는 20일 0.65% 소폭 하락했다가 하루 만에 다시 반등했다. 올해 2400.97로 출발한 코스피지수는 10.56%나 오르며 어느새 2700선을 눈앞에 두고 있다. 미국 S&amp;P(스탠더드푸어스)500지수의 올해 상승률(4.01%)이나 나스닥지수의 상승률(3.37%)을 훨씬 웃돌았다.&lt;br&gt;&lt;br&gt;이에 따라 지난해 말부터 쪼그라들었던 거래량과 거래대금이 급증하며 주식시장이 다시 활기를 띠고 있다. 거래소에 따르면 이달 들어 지난 20일까지 국내 증시 거래량은 14억507만주로 지난해 10월(12억6566만주)에 줄어든 뒤 점차 회복세를 보이고 있다. 지난해 12월(13억4171억원), 올해 1월(13억6247만주)로 3개월 연속 증가세를 보이고 있다.&lt;br&gt;&lt;br&gt;코스피의 하루 평균 거래대금은 12조3961억원으로 지난 1월(9조6178억원) 대비 28.9% 늘었다. 지난해 12월(8조7353억원) 대비로는 41.9% 급증했다.&lt;br&gt;&lt;br&gt;최장 기간 순매수를 이어가고 있는 연기금이 국내 증시 상승을 견인했다. 연기금은 지난해 12월 27일부터 전날까지 35거래일 연속 코스피 시장에서 순매수했다. 이 기간 코스피 시장에서 순매수한 액수는 3조2827억원에 달한다. 국내 주식이 해외 주식에 비해 저평가돼 연기금이 순매수를 이어가고 있는 것이란 분석이다. 다만 외국인 투자자는 '팔자'세를 지속하고 있다. 이달 들어 전날까지 코스피에서만 1조1275억원 순매도했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250221_0003073859" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/02/21/NISI20250221_0020708981_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 22 Feb 2025 17:00:31 +0900</pubDate></item></channel></rss>
