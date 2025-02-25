@@ -1,70 +1,51 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 24 Feb 2025 08:00:24 +0000</lastBuildDate><item><title>📰 AI로 내가 먼저 돈 번다…통신3사 수장 ‘바르셀로나 결투’</title><link>https://www.joongang.co.kr/article/25315942</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 25 Feb 2025 08:00:24 +0000</lastBuildDate><item><title>📰 SK하이닉스, 용인 클러스터 1기 팹 첫 삽…2027년 5월 준공 목표</title><link>https://news.tvchosun.com/site/data/html_dir/2025/02/25/2025022590041.html</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            AI로 내가 먼저 돈 번다…통신3사 수장 ‘바르셀로나 결투’&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;올해를 ‘인공지능(AI) 수익화의 원년’으로 삼겠다고 선언한 국내 이동통신 3사가 다음 달 3일부터 스페인 바르셀로나에서 열리는 세계 최대 규모 통신 박람회 ‘모바일월드콩그레스(MWC25)’에 참가해 AI 기술력을 겨룬다.&lt;br&gt;&lt;br&gt;SK텔레콤은 MWC25가 열리는 ‘피라 그란 비아’ 3홀 중앙에 300평(992㎡) 규모의 대형 전시 공간을 꾸민다. 지난해 연말 별도 조직을 신설해 주력하고 있는 ‘AI DC(데이터센터)’ 관련 기술에 특히 힘을 준다. 보안 기술 ‘AIDC 시큐어에지(SecureEdge)’가 대표적이다. 의심되는 데이터만 경계하는 기존 방식에서 벗어나 모든 데이터를 의심하고 검증하는 ‘제로 트러스트(Zero Trust)’ 방식을 적용해 각종 정보를 종합적으로 보호하는 기술이다. 그룹 차원의 AI 반도체 기술이 돋보이는 공간도 마련한다. 이 공간에서는 SK하이닉스의 고대역폭 메모리 ‘HBM3E’와 데이터센터용 고성능 SSD 스토리지 등 첨단 제품뿐 아니라 SKT가 투자한 AI 반도체 스타트업 리벨리온의 AI 추론 특화 NPU(신경망처리장치) 기술력을 선보인다.
+                            SK하이닉스, 용인 클러스터 1기 팹 첫 삽…2027년 5월 준공 목표&lt;br&gt;&lt;br&gt;25일 SK하이닉스 뉴스룸에 따르면 SK하이닉스[000660]는 전날 용인 반도체 클러스터 1기 팹의 본격 착공에 들어갔다. /연합뉴스&lt;br&gt;&lt;br&gt;SK하이닉스가 경기도 용인 반도체 클러스터 내 1기 팹(fab·반도체 생산공장)의 첫 삽을 떴다.&lt;br&gt;&lt;br&gt;SK하이닉스는 당초 다음 달부터 1기 팹 착공에 들어갈 계획이었으나 용인시가 예정보다 신속하게 인허가 절차를 진행해 지난 21일 건축을 허가하면서 착공 시점보다 계획보다 앞당기게 됐다.&lt;br&gt;&lt;br&gt;용인시는 지난해 4월 SK하이닉스와 '생산라인 조기 착공 추진과 지역 건설산업 활성화를 위한 업무협약'을 맺은 데 이어 건축허가 태스크포스(TF)를 구성, 인허가 절차에 속도를 냈다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.joongang.co.kr/article/25315942" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://news.tvchosun.com/site/data/html_dir/2025/02/25/2025022590041.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.joongang.co.kr
+                            출처: news.tvchosun.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/24/771fabb2-5ce4-445d-8da1-206b55690a16.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.tvchosun.com/sitedata/image/202502/25/2025022590041_0.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 최태원 SK 회장 “한미일 협력 통해 AI·에너지 시너지 발휘해야”</title><link>https://weekly.cnbnews.com/news/article.html?no=169945</link><description>
+                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 "한 시가 급하다"…3월 착공이라던 SK하이닉스 공장, 벌써 '첫 삽'</title><link>https://www.hankyung.com/article/202502256645g</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            최태원 SK 회장 “한미일 협력 통해 AI·에너지 시너지 발휘해야”&lt;br&gt;&lt;br&gt;SK그룹은 최종현학술원 이사장을 겸임하고 있는 최태원 SK그룹 회장이 21·22일(이하 현지시간) 양일간 미국 워싱턴DC 샐러맨더 호텔에서 열린 ‘트랜스 퍼시픽 다이얼로그(Trans-Pacific Dialogue, 이하 TPD) 2025’에 참석했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;최종현학술원이 주최하는 TPD는 한미일의 전·현직 고위 관료와 세계적 석학, 싱크탱크, 재계 인사들이 한자리에 모여 동북아와 태평양 지역의 국제 현안을 논의하고, 경제·안보의 해법을 모색하는 집단지성 플랫폼이다. 2021년 처음 열린 이래 올해로 4회째를 맞았다.&lt;br&gt;&lt;br&gt;예년 대비 50% 많은 약 90명의 한미일 인사가 참석한 가운데 이들은 ▲2025년 미국 외교정책의 방향 ▲한미일 에너지 협력 ▲AI 인프라 ▲AI 시대의 전략적 경쟁 ▲동아시아에서 미국 동맹의 안보 등 다섯 가지 주제에 대해 토론을 펼쳤다.&lt;br&gt;&lt;br&gt;최 회장은 21일 개회사와 22일 AI에 대한 특별연설을 통해 한미일 산업 연대를 제안하며, “제조 AI, 에너지, 조선·해운, 원자력 등에서 힘을 모으면 글로벌 시장에서 강력한 시너지를 발휘할 수 있다”고 주장했다.
+                            "한 시가 급하다"…3월 착공이라던 SK하이닉스 공장, 벌써 '첫 삽'&lt;br&gt;&lt;br&gt;당초 다음달 경기 용인 반도체 클러스터에 착공할 것으로 알려졌던 SK하이닉스의 1기 팹(fab·반도체 생산공장)이 빠르게 첫 삽을 떴다. 용인시가 신속하게 인허가 절차를 밟아 지난 21일 건축을 허가한 덕분에 착공 일정을 예정보다 앞당긴 것이다.&lt;br&gt;&lt;br&gt;25일 SK하이닉스 뉴스룸에 따르면 지난 24일 용인 반도체 클러스터 1기 팹 착공에 들어갔다.&lt;br&gt;&lt;br&gt;용인 처인구 일대 415만㎡(약 126만평) 규모 부지에 조성될 용인 반도체 클러스터는 △SK하이닉스 팹 60만평 △소부장(소재·부품·장비) 업체 협력화 단지 14만평 △인프라 부지 12만평으로 조성된다. SK하이닉스는 이곳에 모두 4기의 팹을 순차 건립할 예정으로 1기 팹은 2027년 5월 준공이 목표다.&lt;br&gt;&lt;br&gt;회사 측은 “SK하이닉스 용인캠퍼스는 고대역폭메모리(HBM)를 비롯한 차세대 D램 메모리 생산 거점으로 구축된다”면서 “급증하는 인공지능(AI) 메모리 반도체 수요에 적기 대응해 회사의 중장기 성장 기반을 주도할 예정”이라고 말했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://weekly.cnbnews.com/news/article.html?no=169945" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/202502256645g" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: weekly.cnbnews.com
+                            출처: www.hankyung.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://weekly.cnbnews.com/data/photos/20250209/art_169945_1740364310.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202502/01.34664789.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 [MWC2025] 인공지능 '첨병' 나선 스타트업, 글로벌에 K-AI 알린다</title><link>http://www.enewstoday.co.kr/news/articleView.html?idxno=2241042</link><description>
+                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 SK CEO들 한자리…최창원 "질문 회피 말고 해법 찾자"</title><link>https://www.newsis.com/view/NISX20250225_0003077931</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [MWC2025] 인공지능 ‘첨병’ 나선 스타트업, 글로벌에 K-AI 알린다&lt;br&gt;&lt;br&gt;[MWC2025] 인공지능 ‘첨병’ 나선 스타트업, 글로벌에 K-AI 알린다&lt;br&gt;&lt;br&gt;리벨리온 등 7개사 공동 참가···국제 협력 등 기회의 장 마련&lt;br&gt;&lt;br&gt;24일 업계에 따르면 AI 스타트업 협력체 ‘K-AI 얼라이언스’ 회원사 7곳이 SKT와 MWC 2025에 공동 참가한다. 참가 리스트에는 몰로코, 리벨리온, 래블업, 트웰브랩스, 투아트, 엑스엘에이트, 노타 등 7개 기업이 이름을 올렸다. 이들은 SK텔레콤 전시관(부스)과 스타트업 전용관인 ‘4YFN’에서 자사 핵심 기술들을 선보일 예정이다.&lt;br&gt;&lt;br&gt;몰로코는 머신러닝 기반 광고 솔루션 기업으로, 지난해 6월 SKT와 AI 기반 통합 광고 플랫폼 '어썸 2.0' 출시를 기점으로 글로벌향 사업 확대를 본격화했다.
+                            관세 등 통상환경 변화, 인플레이션, 인공지능(AI) 등 '삼각파도'의 영향에 맞서 기민한 대응이 절실하다는 것에 인식을 같이 한 뒤 운영개선을 고도화해 본원적 경쟁력을 확보하는 것이 선행돼야 한다고 의견을 모았다.&lt;br&gt;&lt;br&gt;SK그룹은 25일 서울 종로구 SK서린빌딩에서 최창원 수펙스추구협의회 의장 주재로 열린 2월 수펙스추구협의회에서 SK㈜ 장용호, SK이노베이션 박상규, SK하이닉스 곽노정, SK텔레콤 유영상 등 주요 계열사 CEO 20여명이 참석한 가운데 이 같은 방향성에 공감하고 실행 의지를 다졌다고 밝혔다.&lt;br&gt;&lt;br&gt;SK수펙스추구협의회는 '따로 또 같이' 문화에 기반한 그룹 최고협의기구로, 매월 한차례 모여 그룹 내 다양한 현안을 함께 논의하고 시너지 창출을 도모하고 있다.&lt;br&gt;&lt;br&gt;CEO들은 지난해 추진한 리밸런싱의 경과를 점검하는 시간을 먼저 가졌다. SK그룹은 지난해부터 진행하고 있는 재무구조 및 사업구조 강화에 이은 운영 효율화로 실적 개선 흐름을 보이기 시작하고 있다.&lt;br&gt;&lt;br&gt;이에 각 계열사는 앞으로 운영 효율화에 더욱 집중해 체질을 혁신하고 AI 등 미래 시장을 선점할 체력을 비축해 나간다는 방침이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2241042" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.enewstoday.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.enewstoday.co.kr/news/thumbnail/202502/2241042_1052575_2229_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Mon, 24 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 SKT, MWC25서 AI 동맹사 기술 소개…글로벌 진출 돕는다</title><link>https://www.newsis.com/view/NISX20250224_0003075685</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            K-AI 얼라이언스 7개사의 AI 혁신 기술 MWC25서 선봬&lt;br&gt;&lt;br&gt;AI기반 통합 광고플랫폼, 영상 이해 솔루션 등 소개 예정&lt;br&gt;&lt;br&gt;SK텔레콤은 스페인 바르셀로나에서 3월3일(현지시각)부터 나흘 간 열리는 MWC25에서 우리나라 AI 혁신기업 연합 'K-AI 얼라이언스'와 함께 AI혁신 아이디어와 기술을 전 세계에 선보인다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤은 K-AI 얼라이언스가 대한민국 AI 생태계 혁신을 주도하고 글로벌 영역 진출을 가속화하는 데 있어 이번 MWC25가 중요한 계기가 될 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;MWC25에 참가하는 K-AI 얼라이언스 멤버사는 7곳이다. 참여 멤버사들은 자사 AI 서비스와 솔루션, 기술 등을 전시하고 현재 운영 중인 AI 사업 모델과 적용 사례, 향후 사업 전략 등에 대해 소개할 예정이다. 실질적인 글로벌 성과 창출을 위해 MWC에 참가한 해외 기업들과의 미팅도 진행한다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250224_0003075685" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250225_0003077931" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -73,6 +54,6 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/02/24/NISI20250224_0001776578_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2022/06/27/NISI20220627_0018964009_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Feb 2025 17:00:24 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item></channel></rss>
