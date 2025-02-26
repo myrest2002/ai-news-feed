@@ -1,51 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 25 Feb 2025 08:00:24 +0000</lastBuildDate><item><title>📰 SK하이닉스, 용인 클러스터 1기 팹 첫 삽…2027년 5월 준공 목표</title><link>https://news.tvchosun.com/site/data/html_dir/2025/02/25/2025022590041.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Wed, 26 Feb 2025 08:00:25 +0000</lastBuildDate><item><title>📰 이통3사 CEO 'AI' 들고 MWC 총출동…非통신 금융권도 발걸음</title><link>https://www.newsis.com/view/NISX20250225_0003078406</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스, 용인 클러스터 1기 팹 첫 삽…2027년 5월 준공 목표&lt;br&gt;&lt;br&gt;25일 SK하이닉스 뉴스룸에 따르면 SK하이닉스[000660]는 전날 용인 반도체 클러스터 1기 팹의 본격 착공에 들어갔다. /연합뉴스&lt;br&gt;&lt;br&gt;SK하이닉스가 경기도 용인 반도체 클러스터 내 1기 팹(fab·반도체 생산공장)의 첫 삽을 떴다.&lt;br&gt;&lt;br&gt;SK하이닉스는 당초 다음 달부터 1기 팹 착공에 들어갈 계획이었으나 용인시가 예정보다 신속하게 인허가 절차를 진행해 지난 21일 건축을 허가하면서 착공 시점보다 계획보다 앞당기게 됐다.&lt;br&gt;&lt;br&gt;용인시는 지난해 4월 SK하이닉스와 '생산라인 조기 착공 추진과 지역 건설산업 활성화를 위한 업무협약'을 맺은 데 이어 건축허가 태스크포스(TF)를 구성, 인허가 절차에 속도를 냈다.
+                            SKT 유영상·KT 김영섭·LGU+ 홍범식 대표 참석…3사 모두 'AI' 기술 전시&lt;br&gt;&lt;br&gt;전세계 통신 사업자가 주도하는 행사이지만 기술의 중심이 통신에서 인공지능(AI)으로 옮겨가고 있는 만큼 올해 MWC에서도 AI가 화두가 될 전망이다.&lt;br&gt;&lt;br&gt;이에 국내 이동통신 3사 수장뿐 아니라 금융권에서도 MWC 현장을 찾는다.&lt;br&gt;&lt;br&gt;26일 GSMA에 따르면 올해 MWC 행사 주제는 MWC 주제는 '융합, 연결, 창조’다. 인공지능(AI)과 5G·6G, 클라우드와 네트워크 기술이 융합되고 다양한 기기와 산업이 연결되면서 새로운 시장이 창조된다는 의미를 담았다.&lt;br&gt;&lt;br&gt;세부 테마로는 5G 인사이드, 커넥트 X, AI+, 기업의 재창조, 게임 체인저, 디지털 DNA 등 6개를 선정했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://news.tvchosun.com/site/data/html_dir/2025/02/25/2025022590041.html" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: news.tvchosun.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.tvchosun.com/sitedata/image/202502/25/2025022590041_0.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 "한 시가 급하다"…3월 착공이라던 SK하이닉스 공장, 벌써 '첫 삽'</title><link>https://www.hankyung.com/article/202502256645g</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "한 시가 급하다"…3월 착공이라던 SK하이닉스 공장, 벌써 '첫 삽'&lt;br&gt;&lt;br&gt;당초 다음달 경기 용인 반도체 클러스터에 착공할 것으로 알려졌던 SK하이닉스의 1기 팹(fab·반도체 생산공장)이 빠르게 첫 삽을 떴다. 용인시가 신속하게 인허가 절차를 밟아 지난 21일 건축을 허가한 덕분에 착공 일정을 예정보다 앞당긴 것이다.&lt;br&gt;&lt;br&gt;25일 SK하이닉스 뉴스룸에 따르면 지난 24일 용인 반도체 클러스터 1기 팹 착공에 들어갔다.&lt;br&gt;&lt;br&gt;용인 처인구 일대 415만㎡(약 126만평) 규모 부지에 조성될 용인 반도체 클러스터는 △SK하이닉스 팹 60만평 △소부장(소재·부품·장비) 업체 협력화 단지 14만평 △인프라 부지 12만평으로 조성된다. SK하이닉스는 이곳에 모두 4기의 팹을 순차 건립할 예정으로 1기 팹은 2027년 5월 준공이 목표다.&lt;br&gt;&lt;br&gt;회사 측은 “SK하이닉스 용인캠퍼스는 고대역폭메모리(HBM)를 비롯한 차세대 D램 메모리 생산 거점으로 구축된다”면서 “급증하는 인공지능(AI) 메모리 반도체 수요에 적기 대응해 회사의 중장기 성장 기반을 주도할 예정”이라고 말했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.hankyung.com/article/202502256645g" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.hankyung.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.hankyung.com/photo/202502/01.34664789.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item><item><title>📰 SK CEO들 한자리…최창원 "질문 회피 말고 해법 찾자"</title><link>https://www.newsis.com/view/NISX20250225_0003077931</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            관세 등 통상환경 변화, 인플레이션, 인공지능(AI) 등 '삼각파도'의 영향에 맞서 기민한 대응이 절실하다는 것에 인식을 같이 한 뒤 운영개선을 고도화해 본원적 경쟁력을 확보하는 것이 선행돼야 한다고 의견을 모았다.&lt;br&gt;&lt;br&gt;SK그룹은 25일 서울 종로구 SK서린빌딩에서 최창원 수펙스추구협의회 의장 주재로 열린 2월 수펙스추구협의회에서 SK㈜ 장용호, SK이노베이션 박상규, SK하이닉스 곽노정, SK텔레콤 유영상 등 주요 계열사 CEO 20여명이 참석한 가운데 이 같은 방향성에 공감하고 실행 의지를 다졌다고 밝혔다.&lt;br&gt;&lt;br&gt;SK수펙스추구협의회는 '따로 또 같이' 문화에 기반한 그룹 최고협의기구로, 매월 한차례 모여 그룹 내 다양한 현안을 함께 논의하고 시너지 창출을 도모하고 있다.&lt;br&gt;&lt;br&gt;CEO들은 지난해 추진한 리밸런싱의 경과를 점검하는 시간을 먼저 가졌다. SK그룹은 지난해부터 진행하고 있는 재무구조 및 사업구조 강화에 이은 운영 효율화로 실적 개선 흐름을 보이기 시작하고 있다.&lt;br&gt;&lt;br&gt;이에 각 계열사는 앞으로 운영 효율화에 더욱 집중해 체질을 혁신하고 AI 등 미래 시장을 선점할 체력을 비축해 나간다는 방침이다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250225_0003077931" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250225_0003078406" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -54,6 +16,82 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2022/06/27/NISI20220627_0018964009_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/01/02/NISI20250102_0001741721_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 25 Feb 2025 17:00:24 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Wed, 26 Feb 2025 17:00:25 +0900</pubDate></item><item><title>📰 “AI메모리 수요 잡는다” SK하이닉스 1기 팹 첫 삽</title><link>https://www.joongang.co.kr/article/25316535</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            “AI메모리 수요 잡는다” SK하이닉스 1기 팹 첫 삽&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;SK하이닉스가 122조원을 투자하는 경기 용인 반도체 클러스터가 계획 6년 만에 첫 삽을 떴다. 인접 지방자치단체와 용수·전력 사용을 둘러싼 갈등, 토지 보상 등으로 지연을 겪다가 최근 용인시와 협력으로 속도를 냈다.&lt;br&gt;&lt;br&gt;25일 SK하이닉스는 전날 경기도 용인시 처인구 원삼면 일대 415만㎡(약 126만 평) 규모 부지에 짓는 첨단 반도체 제조 팹(공장) 4기 중 1기 팹이 본격 착공에 들어갔다고 밝혔다. 인공지능(AI) 시대 수요가 급증한 고대역폭메모리(HBM)를 비롯한 차세대 D램 메모리 생산 거점으로 조성된다. 2027년 5월 준공이 목표다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.joongang.co.kr/article/25316535" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.joongang.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202502/26/fbc541a9-8741-44af-909c-fc9b35fa20c2.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Wed, 26 Feb 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK증권, 미국 LA골프 아태지역 자금 조달 주관키로</title><link>https://www.hankyung.com/article/202502260113i</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK증권은 미국 캘리포니아주 로스엔젤레스(LA) 기반 골프용품 제조사 LA 골프파트너스(LG골프)에 대해 한국과 아시아태평양지역 자금 조달을 주관한다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;SK증권에 따르면 LA골프와 투자자 주선 계약을 이달 내에 체결할 예정이다. SK증권 글로벌사업본부가 국내에서 LA골프의 A등급(Class A) 해외증권 투자자를 모집하는 독점적 역할을 수행하는 게 골자다.&lt;br&gt;&lt;br&gt;LA골프는 한국을 비롯한 아태지역 등에서 자금을 조달해 아시아 시장에 진출하고 글로벌 시장 내 입지를 강화하는 게 목표다. LA골프는 세계 각국에서 총 1억5000만달러(약 2148억원) 규모 자금을 조달할 계획이다. SK증권의 주관 규모는 아직 정해지지 않았다.&lt;br&gt;&lt;br&gt;LA골프는 인공지능(AI) 기술을 활용해 골프채 샤프트(몸통)를 추천해주거나, 골프 자세를 교정해주는 등 서비스를 하고 있다. 골프에 게임적 요소를 결합한 게이미피케이션 골프 클럽도 확장할 계획이다.&lt;br&gt;&lt;br&gt;한정호 SK증권 글로벌사업본부 대표는 “이번 글로벌 자금 조달 주관을 통해 해외 기업과의 협업을 확대하고, 향후 다양한 산업 분야에서 인바운드(해외 투자자의 한국 투자)·아웃바운드(한국 투자자의 해외 투자) 등 국제 금융 딜을 적극적으로 발굴할 것"이라며 "SK증권의 글로벌 IB 시장 경쟁력 강화에 중요한 역할을 할 것으로 기대한다"고 말했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hankyung.com/article/202502260113i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.hankyung.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.hankyung.com/photo/202502/01.39632731.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Wed, 26 Feb 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK하이닉스, 용인 클러스터 ‘1기 팹’ 첫 삽</title><link>http://www.segye.com/newsView/20250225516265?OutUrl=naver</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            경기 용인 반도체 클러스터에 건설되는 SK하이닉스 1기 팹(반도체 생산공장)이 본격 착공에 돌입했다. 25일 SK하이닉스 뉴스룸에 따르면 SK하이닉스는 전날 1기 팹의 첫 삽을 떴다. 당초 다음 달부터 착공에 들어갈 예정이었지만 용인시가 예정보다 신속하게 인허가 절차를 진행, 지난 21일 건축을 허가하면서 계획보다 착공 시점이 앞당겨졌다.&lt;br&gt;&lt;br&gt;경기 용인시 원삼면 일대 415만㎡(약 126만평) 규모의 부지에 구축될 용인 반도체 클러스터는 SK하이닉스 용인캠퍼스(약 60만평)와 소부장(소재·부품·장비) 업체 협력화단지(14만평), 인프라 부지(12만평)로 조성되는 반도체 산업단지다. SK하아닉스는 이곳에 총 4기의 팹을 순차적으로 조성한다. 1기 팹은 2027년 5월 준공이 목표이고, 총 건설 비용은 약 9조4000억원이 소요된다.&lt;br&gt;&lt;br&gt;SK하이닉스 용인캠퍼스는 인공지능(AI) 시대 핵심 메모리로 떠오른 고대역폭메모리(HBM)를 비롯한 차세대 D램 메모리 생산 거점이 될 전망이다. 급증하는 AI 메모리 반도체 수요를 적기에 대응해 회사의 중장기 성장 기반을 주도하겠다는 계획이다.&lt;br&gt;&lt;br&gt;SK하이닉스 측은 “클러스터 내 50여개 반도체 소부장 기업과 함께 대한민국 반도체 생태계 경쟁력을 제고하는 역할도 수행할 예정”이라고 설명했다.&lt;br&gt;&lt;br&gt;최태원 SK그룹 회장은 2023년 9월 부지 조성 작업 중인 용인 클러스터 현장을 방문해 “SK하이닉스 역사상 가장 계획적이고도 전략적으로 추진되는 프로젝트”라고 강조한 바 있다. SK하이닉스는 1기 팹 착공에 맞춰 시공(플랜트 건축·설비·전기·기계), 사업·안전관리 등 인프라 구축을 담당할 경력 사원 채용에 나서기도 했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.segye.com/newsView/20250225516265?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.segye.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="//img.segye.com/static/2019_segye/resources/images/logo_bk.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Wed, 26 Feb 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK텔레콤, MWC에서 네트워크 AI 기술 시연</title><link>https://www.yna.co.kr/view/AKR20250226031200017?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK텔레콤이 세계 최대 이동통신 전시회 '모바일 월드 콩그레스'에 참가해 네트워크 인공지능 기술을 선보인다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;기기 자체에서 AI 기능을 구현하는 온디바이스 AI로 간단한 AI 작업을 처리해 AI 서비스에 필요한 서버의 부하를 줄여주는 'AI 라우팅' 기술도 선보인다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250226031200017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img2.yna.co.kr/etc/inner/KR/2025/02/26/AKR20250226031200017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Wed, 26 Feb 2025 17:00:25 +0900</pubDate></item></channel></rss>
