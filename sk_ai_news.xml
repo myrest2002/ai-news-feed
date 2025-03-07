@@ -1,78 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 04 Mar 2025 08:00:27 +0000</lastBuildDate><item><title>📰 LGU+, 구글 제미나이로 고성능 AI 비서 만든다 [MWC 2025]</title><link>https://www.sedaily.com/NewsView/2GQ45NDAXM</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 07 Mar 2025 08:00:50 +0000</lastBuildDate><item><title>📰 삼성전자·SK하이닉스, 엔비디아 급락에 동반 약세[특징주]</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=02423926642101024</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            가 구글과 손잡고 인공지능(AI) 사업 강화와 글로벌 진출에 나선다. 특히 AI 에이전트(비서)에 구글의 고성능 모델 ‘제미나이’를 탑재해 국내외에서 본격화하는 기술 경쟁에 선제적으로 대응하겠다는 구상이다.&lt;br&gt;&lt;br&gt;LG유플러스는 3일(현지시간) 스페인 바르셀로나 피라그란비아 전시장에서 열린 세계 최대 이동통신 전시회 ‘모바일월드콩그레스(MWC) 2025’에서 구글과 AI 경쟁력 강화를 위한 전방위 협력안을 발표했다고 밝혔다. 홍범식 LG유플러스 대표와 맷 레너 구글클라우드 글로벌영업총괄, 캐런 티오 구글 아시아태평양 플랫폼디바이스파트너십 총괄 등이 참석했다.&lt;br&gt;&lt;br&gt;LG유플러스는 우선 제미나이를 활용해 AI 에이전트 ‘익시오’의 기능을 고도화한다. 익시오는 LG유플러스가 LG AI연구원 모델 ‘엑사원’을 통신 분야에 특화해 학습시킨 소형언어모델(SLM) ‘익시젠’을 기반으로 통화 요약과 보이스 피싱 등 사용자의 통화를 도울 수 있는 에이전트로 지난해 말 출시됐다.&lt;br&gt;&lt;br&gt;익시오가 이제 익시젠뿐 아니라 제미나이까지 탑재해 대화 맥락을 더 정교하게 분석하고 상황에 맞는 요약과 추천 행동 제안을 할 수 있다는 게 LG유플러스가 설명이다. 삼성전자 역시 ‘갤럭시 AI’에 자사 ‘가우스’뿐 아니라 제미나이와 중국 모델을 탑재하는 등 서비스 고도화를 위해 멀티(다중) LLM을 쓰는 게 업계의 추세다.&lt;br&gt;&lt;br&gt;익시오는 통화 내용과 관련한 사물, 상황, 장소 등을 바로 검색할 수 있는 서비스도 지원할 계획이다. LG유플러스는 검색 품질을 높이기 위해 ‘구글 검색으로 그라운딩’ 도입을 적극 검토 중이다. 텍스트뿐 아니라 이미지·영상 데이터도 종합적으로 처리 가능한 멀티모달(다중모델)을 포함한 다양한 기술을 양사가 공동 개발하고 익시오에 적용할 방침이다. 이를 통해 SK텔레콤 등 경쟁사의 AI 에이전트에 맞서 익시오 역시 글로벌 진출을 꾀한다.
+                            7일 엠피닥터에 따르면 오전 9시38분 삼성전자는 0.92% 내린 5만3800원에 거래되고 있다.&lt;br&gt;&lt;br&gt;SK하이닉스는 1.87% 하락한 18만8800원에 거래 중이다.&lt;br&gt;&lt;br&gt;삼성전자와 SK하이닉스가 장초 반 하락세가 두드러진 것은 반도체 대장주인 엔비디아의 주가가 급락한 영향이 큰 것으로 분석된다. 간밤 뉴욕증시에서 엔비디아는 전거래일 대비 5.74% 내린 110.57달러로 장을 마쳤다.&lt;br&gt;&lt;br&gt;엔비디아가 급락한 배경으로는 블랙웰 공급 확대 지연이 꼽힌다. 콜레트 크레스 엔비디아 최고재무책임자(CFO)는 투자은행 모건스탠리와 인터뷰에서 “공급 문제로 새로운 블랙웰 칩에 대한 모든 수요를 맞추는 데 시간이 좀 걸릴 것”이라고 밝혔다. 크레스는 “블랙웰과 구형 칩인 호퍼를 (당분간) 함께 판매할 가능성이 높다”고 덧붙였다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.sedaily.com/NewsView/2GQ45NDAXM" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=02423926642101024" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.sedaily.com
+                            출처: www.edaily.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://newsimg.sedaily.com/2025/03/04/2GQ45NDAXM_2.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/03/PS25030700480.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 04 Mar 2025 17:00:27 +0900</pubDate></item><item><title>📰 SKT, 글로벌 이동 통신사들과 ‘AI 협력’ 강화[MWC25]</title><link>https://www.khan.co.kr/article/202503041046001</link><description>
+                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item><item><title>📰 SK쉴더스-KB데이타시스템 '안전한 디지털 환경 구축' 맞손</title><link>https://www.news1.kr/it-science/security-hacking/5711692</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤을 비롯한 글로벌 통신사들이 스페인 바르셀로나에서 열린 ‘모바일 월드 콩그레스(MWC) 2025’에서 인공지능(AI) 관련 협력을 한층 공고히 했다.&lt;br&gt;&lt;br&gt;SK텔레콤은 3일(현지시간) 5개 글로벌 통신사의 인공지능(AI) 협의체 ‘글로벌 텔코 AI 얼라이언스’ 총회를 열고 AI 협력 방향을 논의했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;이앤(e&amp;)그룹 전시관에서 진행된 총회에는 유영상 SK텔레콤 대표와 팀 회트게스 도이치텔레콤 회장, 하템 도비다 이앤그룹 최고경영자(CEO), 위엔 콴 문 싱텔그룹 CEO, 아나 입 싱텔그룹 인터내셔널 디지털 서비스 CEO, 다다시 이이다 소프트뱅크 최고정보보안책임자(CISO)가 참석했다.&lt;br&gt;&lt;br&gt;얼라이언스는 통신사 특화 거대언어모델 ‘텔코 LLM’ 개발을 위해 지난해 출범했다. 이들은 이번 총회를 거쳐 협력 방안을 확대해나가기로 했다. 이어진 ‘글로벌 텔코 AI 라운드테이블’ 행사에서는 통신사 주도의 AI 혁신 가속화를 위한 다양한 협력 가능성도 모색했다.&lt;br&gt;&lt;br&gt;얼라이언스는 이날 로고도 최초 공개했다. 곡선들이 교차하며 중심에서 바깥으로 뻗어나가는 형태의 로고는 글로벌 텔코 AI 얼라이언스 멤버사들의 연결과 협력 그리고 통신과 AI의 시너지를 의미한다.
+                            "여성, 스스로 정의하다"…애플 '세계 여성의날' 콘텐츠 선봬&lt;br&gt;&lt;br&gt;"1000억 과징금 말도 안돼"…구글·메타, 1심 패소에 항소&lt;br&gt;&lt;br&gt;'로보캅' 시대 온다…아파트 순찰로봇 '뉴비' 포착[미래on]
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.khan.co.kr/article/202503041046001" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/it-science/security-hacking/5711692" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.khan.co.kr
+                            출처: www.news1.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.khan.co.kr/news/2025/03/04/news-p.v1.20250304.7e587d0263cf4c2e8700ebf8b0b5df99_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/3/7/7167539/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 04 Mar 2025 17:00:27 +0900</pubDate></item><item><title>📰 SKT "전세계 통신사 동맹 강화…AI 응용 촉진" [MWC 2025]</title><link>https://www.hankyung.com/article/202503049892i</link><description>
+                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item><item><title>📰 SKT AI 기술 보러 7만여명 몰렸다 [MWC25]</title><link>https://www.newsis.com/view/NISX20250306_0003089480</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT "전세계 통신사 동맹 강화…AI 응용 촉진" [MWC 2025]&lt;br&gt;&lt;br&gt;SK텔레콤은 스페인 바르셀로나에서 3일(현지 시각) 개막한 모바일월드콩그레스(MWC) 2025에서 통신사들의 인공지능(AI) 연합인 ‘글로벌 텔코 AI 얼라이언스’(GTAA) 총회를 열고 협력을 강화하는 데 뜻을 모았다고 발표했다.&lt;br&gt;&lt;br&gt;이앤(e&amp;)그룹 전시관에서 열린 총회에는 SK텔레콤 대표, 팀 회트게스 도이치텔레콤 회장, 하템 도비다 이앤그룹 최고경영자(CEO), 위엔 콴 문 싱텔그룹 CEO, 아나 입 싱텔그룹 인터내셔널 디지털 서비스 CEO, 타다시 이이다 소프트뱅크 최고정보보안책임자(CISO)가 참석해 GTAA의 성과와 향후 협력 방향성을 논의했다.&lt;br&gt;&lt;br&gt;이 자리에선 GTAA의 로고도 처음 공개됐다. 곡선들이 교차하며 중심에서 바깥으로 뻗어나가는 형태로 GTAA 멤버사의 연결과 협력, 통신과 AI의 시너지를 의미한다.&lt;br&gt;&lt;br&gt;SK텔레콤을 포함한 멤버사들은 같은 날 오후 ‘글로벌 텔코 AI 라운드테이블’을 열고 통신사 주도 AI 혁신 가속화를 위한 다양한 협력 가능성을 모색했다. 각사 AI 사업 담당 임원들이 GTAA의 성과와 비전을 적극적으로 알렸다.
+                            AI 인프라 및 기술·서비스 전시…입구에 대형 미디어아트로 눈길&lt;br&gt;&lt;br&gt;AI 역량 강화 위해 다양한 글로벌 기업과 파트너십 체&lt;br&gt;&lt;br&gt;스페인 바르셀로나에서 열린 MWC는 ‘융합. 연결. 창조.(Converge. Connect. Create.)’를 주제로 진행됐다. SK텔레콤은 주요 글로벌 ICT 기업들이 포진해 있는 전시장 '3홀'에 792m² 규모의 단독 전시관을 마련했다.&lt;br&gt;&lt;br&gt;전시 부스는 ‘네트워크 AI’, ‘AI 데이터센터(DC)’, ‘AI 플랫폼’, ‘AI 서비스’, ‘AI 얼라이언스’ 구역으로 구분하고 AI를 접목한 첨단기술 및 서비스를 소개하는 전시 아이템들을 배치했다.&lt;br&gt;&lt;br&gt;전시장 메인 입구에 배치된 대형 미디어아트는 움직이는 18개의 LED 패널을 통해 ‘AI인프라 슈퍼 하이웨이’ 전략을 감각적으로 소개했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.hankyung.com/article/202503049892i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250306_0003089480" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.hankyung.com
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img.hankyung.com/photo/202503/01.39696254.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/03/06/NISI20250306_0001785452_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Tue, 04 Mar 2025 17:00:27 +0900</pubDate></item><item><title>📰 빅테크 홀린 SK하이닉스…'HBM 훈풍'에 美매출 2배 이상 증가</title><link>https://www.yna.co.kr/view/AKR20250303049500003?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            지난해 고대역폭 메모리에 힘입어 '역대급 실적'을 낸 SK하이닉스가 미국에서도 크게 선전했다.&lt;br&gt;&lt;br&gt;최근 회사는 엔비디아를 비롯한 주요 빅테크들과의 영업에서 핵심적인 역할을 해온 류성수 HBM비즈니스 담당을 새로운 미주법인장으로 앉히며 글로벌 빅테크와의 HBM 파트너십 강화에 나선 상태다.&lt;br&gt;&lt;br&gt;한편 SK하이닉스는 빅테크를 중심으로 한 HBM3E 출하량 확대로 작년 4분기 글로벌 D램 시장에서 36.6%의 점유율을 기록하며 1위인 삼성전자를 턱밑까지 추격하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250303049500003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img6.yna.co.kr/photo/yna/YH/2025/01/07/PYH2025010712620001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Tue, 04 Mar 2025 17:00:27 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item></channel></rss>
