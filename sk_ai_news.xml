@@ -1,51 +1,89 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 07 Mar 2025 08:00:50 +0000</lastBuildDate><item><title>📰 삼성전자·SK하이닉스, 엔비디아 급락에 동반 약세[특징주]</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=02423926642101024</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 08 Mar 2025 08:00:44 +0000</lastBuildDate><item><title>📰 SK하이닉스, 시스템 힘 빼고 AI 메모리 '올인'···삼성전자는?</title><link>http://www.seoulfn.com/news/articleView.html?idxno=550409</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            7일 엠피닥터에 따르면 오전 9시38분 삼성전자는 0.92% 내린 5만3800원에 거래되고 있다.&lt;br&gt;&lt;br&gt;SK하이닉스는 1.87% 하락한 18만8800원에 거래 중이다.&lt;br&gt;&lt;br&gt;삼성전자와 SK하이닉스가 장초 반 하락세가 두드러진 것은 반도체 대장주인 엔비디아의 주가가 급락한 영향이 큰 것으로 분석된다. 간밤 뉴욕증시에서 엔비디아는 전거래일 대비 5.74% 내린 110.57달러로 장을 마쳤다.&lt;br&gt;&lt;br&gt;엔비디아가 급락한 배경으로는 블랙웰 공급 확대 지연이 꼽힌다. 콜레트 크레스 엔비디아 최고재무책임자(CFO)는 투자은행 모건스탠리와 인터뷰에서 “공급 문제로 새로운 블랙웰 칩에 대한 모든 수요를 맞추는 데 시간이 좀 걸릴 것”이라고 밝혔다. 크레스는 “블랙웰과 구형 칩인 호퍼를 (당분간) 함께 판매할 가능성이 높다”고 덧붙였다.
+                            CIS 철수, 관련 인력 AI 메모리 배치···시스템IC도 지난해 희망퇴직&lt;br&gt;&lt;br&gt;HBM 1위 유지, 고객사 수요 대응 승부수···고부가 사업 역량 집중&lt;br&gt;&lt;br&gt;삼성전자, 메모리 경쟁력 회복 숙제···시스템 반도체 '총체적 부진'&lt;br&gt;&lt;br&gt;파운드리, 올해 투자 줄이고 기술개발 집중···李 "분사 고려 안 해"&lt;br&gt;&lt;br&gt;앞서 SK하이닉스가 6일 CIS 사업부문 구성원 소통행사에서 글로벌 AI 중심 기업으로서의 입지를 굳건히 하기 위해 사업부문이 지닌 역량을 AI 메모리 분야로 전환한다고 밝혔다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=02423926642101024" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.seoulfn.com/news/articleView.html?idxno=550409" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
+                            출처: www.seoulfn.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/03/PS25030700480.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="http://www.seoulfn.com/news/thumbnail/202503/550409_303334_80_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item><item><title>📰 SK쉴더스-KB데이타시스템 '안전한 디지털 환경 구축' 맞손</title><link>https://www.news1.kr/it-science/security-hacking/5711692</link><description>
+                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 [정구민의 톺아보기] 필요한 AI 에이전트, 이제 직접 설계</title><link>http://www.inews24.com/view/1821021</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "여성, 스스로 정의하다"…애플 '세계 여성의날' 콘텐츠 선봬&lt;br&gt;&lt;br&gt;"1000억 과징금 말도 안돼"…구글·메타, 1심 패소에 항소&lt;br&gt;&lt;br&gt;'로보캅' 시대 온다…아파트 순찰로봇 '뉴비' 포착[미래on]
+                            [정구민의 톺아보기] 스페인 바르셀로나에서 6일(현지시간)까지 열린 세계 최대 이동통신 전시회 '모바일 월드 콩그레스(MWC) 2025'에서는 사용자가 직접 설계하는 인공지능(AI) 에이전트 도구가 전시됐다.&lt;br&gt;&lt;br&gt;MWC 2025에서 마이크로소프트와 구글은 AI에이전트를 만들 수 있는 도구를 시연했다.&lt;br&gt;&lt;br&gt;두 전시장에는 많은 관람객들이 참관하여 기업과 사용자들의 AI에이전트 진화에 대한 관심을 엿볼 수 있었다.&lt;br&gt;&lt;br&gt;마이크로소프트는 일반 사용자를 위한 프롬프트 기반의 AI 에이전트 설계 툴과 고급 개발자를 위한 AI 에이전트 설계 툴을 각각 전시했다.&lt;br&gt;&lt;br&gt;구글도 개발자를 위한 AI 에이전트 설계 툴을 선보였다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news1.kr/it-science/security-hacking/5711692" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.inews24.com/view/1821021" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
+                            출처: www.inews24.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://i3n.news1.kr/system/photos/2025/3/7/7167539/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.inews24.com/v1/02aa0fa5981b19.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item><item><title>📰 SKT AI 기술 보러 7만여명 몰렸다 [MWC25]</title><link>https://www.newsis.com/view/NISX20250306_0003089480</link><description>
+                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 기아 PV5, '각형 배터리셀' 적용...삼성SDI 유력 후보</title><link>https://www.bloter.net/news/articleView.html?idxno=632745</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            AI 인프라 및 기술·서비스 전시…입구에 대형 미디어아트로 눈길&lt;br&gt;&lt;br&gt;AI 역량 강화 위해 다양한 글로벌 기업과 파트너십 체&lt;br&gt;&lt;br&gt;스페인 바르셀로나에서 열린 MWC는 ‘융합. 연결. 창조.(Converge. Connect. Create.)’를 주제로 진행됐다. SK텔레콤은 주요 글로벌 ICT 기업들이 포진해 있는 전시장 '3홀'에 792m² 규모의 단독 전시관을 마련했다.&lt;br&gt;&lt;br&gt;전시 부스는 ‘네트워크 AI’, ‘AI 데이터센터(DC)’, ‘AI 플랫폼’, ‘AI 서비스’, ‘AI 얼라이언스’ 구역으로 구분하고 AI를 접목한 첨단기술 및 서비스를 소개하는 전시 아이템들을 배치했다.&lt;br&gt;&lt;br&gt;전시장 메인 입구에 배치된 대형 미디어아트는 움직이는 18개의 LED 패널을 통해 ‘AI인프라 슈퍼 하이웨이’ 전략을 감각적으로 소개했다.
+                            기아가 올해 상반기 국내서 계약을 시작할 목적기반형차량(PBV) PV5에 각형 배터리셀이 장착되는 것으로 8일 확인됐다. 기아는 PV5 배터리셀의 공급사를 정확하게 밝히지 않았지만 최근 각형 배터리셀 기반 셀투팩(CTP) 기술을 확보한 삼성SDI가 유력 후보다.&lt;br&gt;&lt;br&gt;기아 관계자는 이날 “PV5에 각형 배터리가 탑재되는 것은 맞지만 향후 출시될 PV7 등에는 어떠한 형태의 셀이 들어갈지는 미정”이라고 설명했다.&lt;br&gt;&lt;br&gt;현대차그룹은 지난달 27일 자체 홈페이지에 PV5에 탑재될 PBV 전용 플랫폼 ‘E-GMP.S’의 구체 특징을 그림을 통해 설명했다. E-GMP.S의 가장 큰 특징은 배터리가 모듈 과정 없이 곧바로 팩 형태로 제작되는 셀투팩 기술이다. 현대차그룹은 이 기술을 쉽게 설명하기 위해 각형 배터리셀을 본 딴 셀투팩 배터리 구조를 별도의 이미지로 선보였다.&lt;br&gt;&lt;br&gt;기아 관계자는 “아직까지 PV5에 어떤 배터리 제조사의 각형 셀이 들어가는지는 알릴 수 없다”는 입장이지만 현재 국내 배터리 업계 셀투팩 기술 현황을 살펴봤을 때 삼성SDI의 배터리셀이 들어갈 가능성이 매우 높다.&lt;br&gt;&lt;br&gt;삼성SDI는 이달 5일 서울 삼성동 코엑스에서 개막한 인터배터리 2025에서 국내 배터리 3사중 유일하게 각형 배터리셀 기반의 셀투팩 기술 모형을 전시했다. LG에너지솔루션과 SK온은 현재까지 파우치형 배터리 기반의 셀투팩 기술을 선보였지만 각형 배터리 기반의 셀투팩은 아직까지 검토 상태다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250306_0003089480" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=632745" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.bloter.net
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202503/632745_239691_3124_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 한화 다음은 여기?…‘AI·로봇·원전’ 다 가진 두산의 질주</title><link>https://magazine.hankyung.com/business/article/202503055360b</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            한화 다음은 여기?…‘AI·로봇·원전’ 다 가진 두산의 질주&lt;br&gt;&lt;br&gt;https://magazine.hankyung.com/business/article/202503055360b&lt;br&gt;&lt;br&gt;국내 대기업그룹의 시가총액 순위에 지각변동이 일고 있다. 올해 들어 상위 10개 그룹의 시총 증가율이 두드러진 곳은 한화그룹과 두산그룹이다.&lt;br&gt;&lt;br&gt;한국거래소에 따르면 두산그룹 전체 시총은 지난 4일 종가 기준 31조9232억원으로 올 들어 7조2000억원 이상(29.24%) 증가했다. 두산그룹 상장사는 두산, 두산에너빌리티, 두산밥캣, 두산퓨얼셀, 두산로보틱스, 두산테스나, 오리콤 등 7곳이다.&lt;br&gt;&lt;br&gt;그룹 지주사인 (주)두산의 주가는 31만9000원(4일 종가)으로 올해 초(26만5000원) 대비 20.38% 올랐다. (주)두산의 전자비즈니스그룹(BG) 사업 경쟁력에 기반한 자체 사업의 가치와 계열사 지분가치가 높아진 영향이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://magazine.hankyung.com/business/article/202503055360b" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: magazine.hankyung.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://static.hankyung.com/photo/202503/AD.36366069.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 "빨랫줄(線) 시대는 갔다"…AI 회사 되겠다는 통신사[MWC리포트①]</title><link>https://www.newsis.com/view/NISX20250307_0003090311</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SKT·KT·LGU+, 첨단 통신기술 대신 '한국형 AI' 전세계에 알려&lt;br&gt;&lt;br&gt;"탐색의 시기는 지났다"…'돈 버는 AI' 시대 본격화 의지 표명&lt;br&gt;&lt;br&gt;정체된 통신사업 AI로 활로…'내수' 벗고 '글로벌 사업' 시동&lt;br&gt;&lt;br&gt;"모바일 성장에서 봤던 파괴적 에너지가 다시 인공지능(AI)시대에서 재현되고 있다."&lt;br&gt;&lt;br&gt;마츠 그란리드 세계이동통신사업자연합회(GSMA) 사무총장의 말이다. 스페인 바르셀로나에서 지난 3일(현지시간)부터 나흘 간 일정으로 열렸던 세계 최대 모바일 전시회 'MWC25'. 올해 행사를 관통하는 핵심 키워드는 단연 'AI'다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250307_0003090311" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -56,4 +94,4 @@
                     
                     &lt;img src="https://img1.newsis.com/2025/03/06/NISI20250306_0001785452_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 07 Mar 2025 17:00:50 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item></channel></rss>
