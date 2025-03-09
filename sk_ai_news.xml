@@ -1,97 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 08 Mar 2025 08:00:44 +0000</lastBuildDate><item><title>📰 SK하이닉스, 시스템 힘 빼고 AI 메모리 '올인'···삼성전자는?</title><link>http://www.seoulfn.com/news/articleView.html?idxno=550409</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 09 Mar 2025 08:00:46 +0000</lastBuildDate><item><title>📰 엔비디아도 눈독···'이 기술' 있어야 고도화 AI 산다</title><link>http://news.mt.co.kr/mtview.php?no=2025030714150884119</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            CIS 철수, 관련 인력 AI 메모리 배치···시스템IC도 지난해 희망퇴직&lt;br&gt;&lt;br&gt;HBM 1위 유지, 고객사 수요 대응 승부수···고부가 사업 역량 집중&lt;br&gt;&lt;br&gt;삼성전자, 메모리 경쟁력 회복 숙제···시스템 반도체 '총체적 부진'&lt;br&gt;&lt;br&gt;파운드리, 올해 투자 줄이고 기술개발 집중···李 "분사 고려 안 해"&lt;br&gt;&lt;br&gt;앞서 SK하이닉스가 6일 CIS 사업부문 구성원 소통행사에서 글로벌 AI 중심 기업으로서의 입지를 굳건히 하기 위해 사업부문이 지닌 역량을 AI 메모리 분야로 전환한다고 밝혔다.
+                            (�ٸ����γ�(������)=����1) �ΰ漮 ���� = 6��(�����ð�) ������ �ٸ����γ� �Ƕ� �׶� ��� �����忡�� ���� '����� ���� ��׷���(MWC) 2025'�� ã�� ���������� �߱� ����Ʈ�� ���� ��ü �Ƴ�(HONOR) �ν����� AI ����� ü���ϰ� �ִ�. MWC�� ������ 800�� ���� �̵���Ż簡 �����ϴ� �����̵���Ż���ڿ���ȸ(GSMA)�� �ְ��ϴ� ����, �̱��� ���Ͽ��� ���� ������ CES, IFA�� �Բ� 3�� ���ڡ�IT ����ȸ�� ������. ���� MWC�� �����ϴ� �ѱ� ����� 187������ �����غ��� 22���� �þ���. 2025.3.6/����1 Copyright (C) ����1. All rights reserved. ���� ���� �� �����, AI�н� �̿� ����. /����=(�ٸ����γ�(������)=����1) �ΰ漮 ����&lt;br&gt;&lt;br&gt;����ȭ�� AI(�ΰ�����)�� ���ȭ ���ɼ��� ��������. ���� ���꿡 ���� �߿��� ������ �� �ִ� �����ͼ��� ����� ���õ� �ð� �ַ�� ��� �α⵵ ������ �������� �ִ�. �뼼�� ��ħ�� �ð� ����� ���ŵǴ� ����̴�. �۷ι� ����鵵 �ָ��ϴ� ����� ���� �ټ� ������� �ش� ��� ���߿� ���� ���̰� �ִ�. ���� �۷ι� ���� �Ը� �޼��� ���ɼ��� ����. AI ���ü�����μ��� ���� ��ġ�� �������� �� ���� ������ ���δ�&lt;br&gt;&lt;br&gt;9�� ���ѹ��������������(��Ʈ��)�� �۷ι� �������� ��ü�� ���Ͼظ����� �ο��� �ڷῡ ������ ��ħ �ð� ������ 2030����� 32��޷�(�� 4��6000���)�޷� �Ը�� ����� 8% �̻� ������ ������ �����ƴ�.&lt;br&gt;&lt;br&gt;�۷ι� ������ ��� ������ �۷ι� Ʈ���̵� ��Ʋ�󽺰� ������ 12�� ������ ������ ���� �츮����� �̱��� ��ħ�ð��� �ֿ� ���Ա� �� �ϳ��� ĳ����(22.3%), �߽���(11.4%)�� ���� 3��(9.5%)��.&lt;br&gt;&lt;br&gt;�����ͼ��ʹ� ����ȭ�Ǵ� AI�� ���������� �߿��� �ذ��� �� �ִ� �ٽ� ���ü�� ����̴�. �߿� ���� ������ ���� �����ͼ��� ���䰡 ������ ������ �� �ִٴ� ��밨�� ���� ����� ������ �ڱ��Ѵ�.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.seoulfn.com/news/articleView.html?idxno=550409" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://news.mt.co.kr/mtview.php?no=2025030714150884119" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.seoulfn.com
+                            출처: news.mt.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="http://www.seoulfn.com/news/thumbnail/202503/550409_303334_80_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://thumb.mt.co.kr/21/2025/03/2025030714150884119_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 [정구민의 톺아보기] 필요한 AI 에이전트, 이제 직접 설계</title><link>http://www.inews24.com/view/1821021</link><description>
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 국가AI컴퓨팅센터 민간사업자 GPU 확약서 내야…이르면 6월 윤곽</title><link>https://www.yna.co.kr/view/AKR20250308038500017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [정구민의 톺아보기] 스페인 바르셀로나에서 6일(현지시간)까지 열린 세계 최대 이동통신 전시회 '모바일 월드 콩그레스(MWC) 2025'에서는 사용자가 직접 설계하는 인공지능(AI) 에이전트 도구가 전시됐다.&lt;br&gt;&lt;br&gt;MWC 2025에서 마이크로소프트와 구글은 AI에이전트를 만들 수 있는 도구를 시연했다.&lt;br&gt;&lt;br&gt;두 전시장에는 많은 관람객들이 참관하여 기업과 사용자들의 AI에이전트 진화에 대한 관심을 엿볼 수 있었다.&lt;br&gt;&lt;br&gt;마이크로소프트는 일반 사용자를 위한 프롬프트 기반의 AI 에이전트 설계 툴과 고급 개발자를 위한 AI 에이전트 설계 툴을 각각 전시했다.&lt;br&gt;&lt;br&gt;구글도 개발자를 위한 AI 에이전트 설계 툴을 선보였다.
+                            국내에 부족한 인공지능 컴퓨팅 자원을 확보하기 위해 최대 2조5천억원 규모로 추진되는 '국가 AI 컴퓨팅 센터' 구축에 참여하려는 기업은 확보 대상인 AI 반도체의 공급 확약서를 내야 한다.&lt;br&gt;&lt;br&gt;공모 지침서는 신청 기업들에 센터의 전력효율지수 목표 및 달성 방안, 전력 안정성 등을 강화하기 위한 방안을 제시할 것을 주문했다.&lt;br&gt;&lt;br&gt;참여 기업을 대표하는 법인은 국내에 주 사업장을 둔 기간통신사업자, 부가통신사업자 또는 데이터센터·클라우드 사업자가 맡아야 한다는 지침도 들어갔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.inews24.com/view/1821021" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250308038500017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.inews24.com
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.inews24.com/v1/02aa0fa5981b19.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img5.yna.co.kr/photo/yna/YH/2025/02/07/PYH2025020710630001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 기아 PV5, '각형 배터리셀' 적용...삼성SDI 유력 후보</title><link>https://www.bloter.net/news/articleView.html?idxno=632745</link><description>
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 '원팀 AI' 선언한 LG유플-AI연구원 "국가대표 LLM 만들면 경쟁력 있을 것...</title><link>https://view.asiae.co.kr/article/2025030905313525878</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            기아가 올해 상반기 국내서 계약을 시작할 목적기반형차량(PBV) PV5에 각형 배터리셀이 장착되는 것으로 8일 확인됐다. 기아는 PV5 배터리셀의 공급사를 정확하게 밝히지 않았지만 최근 각형 배터리셀 기반 셀투팩(CTP) 기술을 확보한 삼성SDI가 유력 후보다.&lt;br&gt;&lt;br&gt;기아 관계자는 이날 “PV5에 각형 배터리가 탑재되는 것은 맞지만 향후 출시될 PV7 등에는 어떠한 형태의 셀이 들어갈지는 미정”이라고 설명했다.&lt;br&gt;&lt;br&gt;현대차그룹은 지난달 27일 자체 홈페이지에 PV5에 탑재될 PBV 전용 플랫폼 ‘E-GMP.S’의 구체 특징을 그림을 통해 설명했다. E-GMP.S의 가장 큰 특징은 배터리가 모듈 과정 없이 곧바로 팩 형태로 제작되는 셀투팩 기술이다. 현대차그룹은 이 기술을 쉽게 설명하기 위해 각형 배터리셀을 본 딴 셀투팩 배터리 구조를 별도의 이미지로 선보였다.&lt;br&gt;&lt;br&gt;기아 관계자는 “아직까지 PV5에 어떤 배터리 제조사의 각형 셀이 들어가는지는 알릴 수 없다”는 입장이지만 현재 국내 배터리 업계 셀투팩 기술 현황을 살펴봤을 때 삼성SDI의 배터리셀이 들어갈 가능성이 매우 높다.&lt;br&gt;&lt;br&gt;삼성SDI는 이달 5일 서울 삼성동 코엑스에서 개막한 인터배터리 2025에서 국내 배터리 3사중 유일하게 각형 배터리셀 기반의 셀투팩 기술 모형을 전시했다. LG에너지솔루션과 SK온은 현재까지 파우치형 배터리 기반의 셀투팩 기술을 선보였지만 각형 배터리 기반의 셀투팩은 아직까지 검토 상태다.
+                            LG유플러스와 LG AI연구원이 '원팀 AI' 전략을 표방하며 AI 기술 개발에 대한 자신감을 표했다. 이상엽 LG유플러스 CTO는 정부의 국가대표 AI 팀 선발 참여에 관한 질문에 "국가대표 LLM(거대언어모델)이나 sLM(소형언어모델)을 만든다면 원팀 LG AI가 경쟁력이 있을 것"이라고 자신감을 내비쳤다.&lt;br&gt;&lt;br&gt;LG유플러스와 LG AI연구원은 5일(현지시간) '모바일 월드 콩그레스 2025(MWC 2025)'가 열린 스페인 바르셀로나에서 '원팀 AI' 전략을 공개했다고 9일 밝혔다. 이날 간담회에는 이상엽 LG유플러스 CTO와 이홍락 LG AI연구원 CSAI(최고AI과학자, 부사장)가 참석했다.&lt;br&gt;&lt;br&gt;정부는 지난달 발표한 '국가 AI 역량 강화 방안'에서 세계 최고 수준의 인공지능(AI) 모델 개발을 목표로 '국가대표 AI 팀'을 선발하겠다고 밝힌 바 있다. 분산된 기업 AI 역량을 한데 모아 컨소시엄을 구성하고, 컴퓨팅 자원과 연구비 등 지원을 집중하겠다는 전략이다.&lt;br&gt;&lt;br&gt;현재 네이버, 카카오, LG, SK 등 AI 기술을 보유한 주요 기업들의 참여 여부와 컨소시엄 구성 방식에 관심이 집중되고 있다. 특히 자체 파운데이션 모델을 보유한 기업 간의 협력 가능성과 참여 형태가 쟁점으로 떠오르고 있는 상황이다.&lt;br&gt;&lt;br&gt;이런 가운데 국가대표 AI 팀 선발에 참여 의사를 묻는 질문이 나오자 이 CTO는 "기술자 입장에서 의사결정을 얘기하기보다, 지난해 12월 공개한 (LG AI연구원의) '엑사원 3.5' 32B 모델이 미국 비영리 연구기관 에포크 AI(Epoch AI) 선정 '주목할 만한 AI 모델'에 등재된 바 있다"고 언급하며 "도메인 특화 데이터를 가지고 특화된 성능을 높이는 데는 LG유플러스가 잘하고 있어 국가대표 LLM이나 sLM을 만든다면 원팀 LG AI가 경쟁력이 있을 것"이라고 덧붙였다. 다만 구체적인 참여 방식에 대해서는 "내부적으로 논의 중"이라고 말했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=632745" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://view.asiae.co.kr/article/2025030905313525878" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
+                            출처: view.asiae.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202503/632745_239691_3124_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cphoto.asiae.co.kr/listimglink/1/2025030905254860012_1741465548.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 한화 다음은 여기?…‘AI·로봇·원전’ 다 가진 두산의 질주</title><link>https://magazine.hankyung.com/business/article/202503055360b</link><description>
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 SK쉴더스-KB데이타시스템, 금융IT 보안 강화 협력</title><link>https://zdnet.co.kr/view/?no=20250309141455</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            한화 다음은 여기?…‘AI·로봇·원전’ 다 가진 두산의 질주&lt;br&gt;&lt;br&gt;https://magazine.hankyung.com/business/article/202503055360b&lt;br&gt;&lt;br&gt;국내 대기업그룹의 시가총액 순위에 지각변동이 일고 있다. 올해 들어 상위 10개 그룹의 시총 증가율이 두드러진 곳은 한화그룹과 두산그룹이다.&lt;br&gt;&lt;br&gt;한국거래소에 따르면 두산그룹 전체 시총은 지난 4일 종가 기준 31조9232억원으로 올 들어 7조2000억원 이상(29.24%) 증가했다. 두산그룹 상장사는 두산, 두산에너빌리티, 두산밥캣, 두산퓨얼셀, 두산로보틱스, 두산테스나, 오리콤 등 7곳이다.&lt;br&gt;&lt;br&gt;그룹 지주사인 (주)두산의 주가는 31만9000원(4일 종가)으로 올해 초(26만5000원) 대비 20.38% 올랐다. (주)두산의 전자비즈니스그룹(BG) 사업 경쟁력에 기반한 자체 사업의 가치와 계열사 지분가치가 높아진 영향이다.
+                            금융 IT 보안 강화를 위한 업무협약(MOU)을 체결했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;SK쉴더스가 분석한 2024년 상반기 국내 업종별 침해 사고 통계에 따르면, 금융업을 겨냥한 사이버 공격이 전체의 20.6%를 차지하며 가장 높은 비율을 기록했다. 최근 망분리 규제 완화로 금융권의 생성형 AI 및 SaaS(서비스형 소프트웨어) 기반 클라우드 서비스 도입이 가속화하면서, 금융업 대상 사이버 공격이 더욱 증가할 것으로 예상된다.&lt;br&gt;&lt;br&gt;SK쉴더스는 KB데이타시스템과 금융 IT 보안 강화를 위한 업무협약을 맺었다. SK쉴더스 김병무 사이버보안부문장(왼쪽터 다섯번째)과 KB데이타시스템 신광섭 혁신사업본부 전무(왼쪽 네번째) 등이 기념 촬영을 하고 있다.&lt;br&gt;&lt;br&gt;"AI도 안전해야 혁신 가능"…SK쉴더스, 'LLM 보안 가이드'로 새 기준 제시&lt;br&gt;&lt;br&gt;"사람 중심 AI"...LGU+, 온디바이스AI 익시오 연내 상용화
                         &lt;/div&gt;
                         
-                        &lt;a href="https://magazine.hankyung.com/business/article/202503055360b" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://zdnet.co.kr/view/?no=20250309141455" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: magazine.hankyung.com
+                            출처: zdnet.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://static.hankyung.com/photo/202503/AD.36366069.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.zdnet.co.kr/2025/03/09/0f976601a6d96a101383535f84221c9e.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item><item><title>📰 "빨랫줄(線) 시대는 갔다"…AI 회사 되겠다는 통신사[MWC리포트①]</title><link>https://www.newsis.com/view/NISX20250307_0003090311</link><description>
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 [MWC] 통신도 모바일도 핵심은 'AI'…통신 3사, 빅테크와 협력 과시</title><link>https://www.yna.co.kr/view/AKR20250308045100017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT·KT·LGU+, 첨단 통신기술 대신 '한국형 AI' 전세계에 알려&lt;br&gt;&lt;br&gt;"탐색의 시기는 지났다"…'돈 버는 AI' 시대 본격화 의지 표명&lt;br&gt;&lt;br&gt;정체된 통신사업 AI로 활로…'내수' 벗고 '글로벌 사업' 시동&lt;br&gt;&lt;br&gt;"모바일 성장에서 봤던 파괴적 에너지가 다시 인공지능(AI)시대에서 재현되고 있다."&lt;br&gt;&lt;br&gt;마츠 그란리드 세계이동통신사업자연합회(GSMA) 사무총장의 말이다. 스페인 바르셀로나에서 지난 3일(현지시간)부터 나흘 간 일정으로 열렸던 세계 최대 모바일 전시회 'MWC25'. 올해 행사를 관통하는 핵심 키워드는 단연 'AI'다.
+                            세계 최대 이동통신 전시회 '모바일 월드 콩그레스 2025'가 팬데믹 이전 수준을 완벽히 회복하며 지난 6일 막을 내렸다.&lt;br&gt;&lt;br&gt;글로벌 주요 통신사는 물론 에릭슨, 화웨이 등 네트워크 장비 제조사와 삼성, 샤오미 등 단말기 제조 업체, 인텔, 퀄컴 등 반도체 기업 모두 전시 부스에 AI를 크게 강조했다.&lt;br&gt;&lt;br&gt;통신사들은 자체 AI와 함께 AI로 네트워크를 혁신하는 기술을 선보였고 제조업체들은 AI 스마트폰, 혼합현실 기기 등 다양한 폼팩터를 선보였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250307_0003090311" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250308045100017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/03/06/NISI20250306_0001785452_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img6.yna.co.kr/etc/inner/KR/2025/03/08/AKR20250308045100017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 08 Mar 2025 17:00:44 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 SK쉴더스, KB데이타시스템과 협력해 안전한 디지털 환경 구축</title><link>http://www.koit.co.kr/news/articleView.html?idxno=128846</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK쉴더스가 KB데이타시스템과 금융 IT 보안 강화를 위한 업무협약(MOU)을 체결했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;SK쉴더스가 분석한 2024년 상반기 국내 업종별 침해 사고 통계에 따르면, 금융업을 겨냥한 사이버 공격이 전체의 20.6%를 차지하며 가장 높은 비율을 기록했다. 최근 망분리 규제 완화로 금융권의 생성형 인공지능(AI)과 서비스형 소프트웨어(SaaS) 기반 클라우드 서비스 도입이 가속화되면서 금융업 대상 사이버 공격이 증가할 것으로 예상된다.&lt;br&gt;&lt;br&gt;이에 따라 SK쉴더스는 자사의 보안 기술과 컨설팅 역량을 활용해 KB데이타시스템의 보안 체계를 한층 강화할 계획이다. 올해 정보보호팀을 신설한 KB데이타시스템은 정보보호 컨설팅, 통합 보안관제, 클라우드 보안 등을 중심으로 보안 역량을 확대하고 있다.&lt;br&gt;&lt;br&gt;김병무 SK쉴더스 사이버보안부문장 부사장은 “KB데이타시스템과의 긴밀한 협력을 통해 고도화되는 사이버 위협에 선제적으로 대응해 나가겠다”고 말했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.koit.co.kr/news/articleView.html?idxno=128846" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.koit.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="http://www.koit.co.kr/news/thumbnail/202503/128846_81465_4024_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item><item><title>📰 SK온, '인터배터리 2025'서 차세대 배터리 및 첨단 기술 공개</title><link>http://www.newswatch.kr/news/articleView.html?idxno=70830</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            3대 폼팩터 전시…액침냉각·무선BMS 등 배터리 안전 기술 선보여&lt;br&gt;&lt;br&gt;AI 활용 경쟁력 강화 전략 소개…‘잡페어’ 통한 미래 인재 확보 활동&lt;br&gt;&lt;br&gt;‘Dream Onward to the Future(미래를 향해 꿈을 펼치다)’를 테마로 꾸며진 SK온 전시 부스는 각국 대사관, 업계 최고경영진 등 국내외 정·재계 인사들뿐 아니라 대학생, 군인 등 다양한 관람객들이 들러 배터리 폼팩터케미스트리와 액침냉각무선BMS(Battery Management System) 등 배터리 안전 기술에 큰 관심을 보였다.&lt;br&gt;&lt;br&gt;총 5개 구역으로 전시 부스를 꾸민 SK온은 3대 폼팩터(파우치형각형원통형)를 모두 전시하고 다양한 기술력을 선보였다.&lt;br&gt;&lt;br&gt;특히 처음으로 공개된 SK온의 46파이(지름 46mm) 원통형 배터리 실물 모형을 비롯해 총 3개의 원통형 사이즈(4680, 4695, 46120)를 전시한 SK온은 지난해 하반기 파일럿 라인을 준공하고 품질·생산공정·양산성 등을 검증 및 최적화하고 있다고 밝혔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.newswatch.kr/news/articleView.html?idxno=70830" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newswatch.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.newswatch.kr/news/thumbnail/202503/70830_73099_3214_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sun, 09 Mar 2025 17:00:46 +0900</pubDate></item></channel></rss>
