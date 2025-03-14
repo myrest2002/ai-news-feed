@@ -1,40 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 13 Mar 2025 08:00:28 +0000</lastBuildDate><item><title>📰 美·中 메모리 반도체에 쫓기는 삼성전자·SK하이닉스</title><link>https://weekly.donga.com/3/all/11/5485777/1</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 14 Mar 2025 08:00:40 +0000</lastBuildDate><item><title>📰 한화세미텍, SK하이닉스에 TC본더 납품</title><link>http://www.wolyo.co.kr/news/articleView.html?idxno=256749</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            반도체는 기능에 따라 메모리 반도체와 비메모리 반도체로 나뉜다. 전자는 데이터 저장, 후자는 데이터 연산과 처리 역할을 담당한다. 메모리 반도체에는 D램, 낸드플래시, 고대역폭메모리(HBM) 등이 포함된다. 시스템 반도체로 불리는 비메모리 반도체에는 중앙처리장치(CPU), 그래픽처리장치(GPU), 신경망처리장치(NPU), 애플리케이션 프로세서(AP) 등이 속한다.&lt;br&gt;&lt;br&gt;세계 메모리 반도체 시장점유율 1, 2위는 삼성전자와 SK하이닉스가 차지하고 있다. 두 기업의 점유율 합계는 낸드플래시 시장의 약 50%, D램 시장의 약 70% 수준이며 HBM 시장에서는 90%가 넘는다. 반면 시스템 반도체 시장은 전통적으로 인텔, AMD, 엔비디아, 퀄컴 등 글로벌 기업이 장악해왔다.&lt;br&gt;&lt;br&gt;시스템 반도체는 기술 진입 장벽이 높고 제품 수명이 길어 가격 변동성이 적다. 반면 메모리 반도체는 수요와 공급에 따라 가격 변동이 크고 기술 교체 주기가 짧아 지속적인 연구개발이 필요하다. 이러한 특성 때문에 시스템 반도체 기업 수익성이 메모리 반도체 기업보다 높다. 지난해 시스템 반도체 설계 1위 기업 엔비디아의 영업이익률은 62.4%, 시스템 반도체 파운드리 1위 기업 TSMC는 45.7%를 기록했다. 반면 SK하이닉스의 영업이익률은 35%, 삼성전자 반도체 부문은 13.6%에 그쳤다.&lt;br&gt;&lt;br&gt;최근 국내 기업들이 장악하고 있던 메모리 반도체 시장에 새로운 경쟁자가 등장한 것도 문제다. 미국 마이크론테크놀로지와 중국 창신메모리테크놀로지, 양쯔메모리테크놀로지, 중신궈지(SMIC) 등이 대표적이다. 미국과 중국은 기술 패권 확보를 두고 치열하게 경쟁하면서 자국 기업 성장과 내수시장 활성화를 위해 메모리 반도체 육성 정책을 적극 추진하고 있다. 그 결과 양국 기업이 삼성전자와 SK하이닉스의 기술력을 빠르게 따라잡고 있는 게 현실이다.&lt;br&gt;&lt;br&gt;특히 중국 정부의 대규모 투자는 국내 기업에 큰 위협이 된다. 중국 정부는 2014년부터 반도체 기업 육성을 위해 수십조 원을 지원했다. 현재 세계 반도체 파운드리 시장에서 TSMC와 삼성전자에 이어 3위인 SMIC의 경우 2023년부터 2억7000만 달러(약 4000억 원) 보조금을 받아 메모리 반도체 사업을 확장하고 있다. 동시에 삼성전자와 SK하이닉스 출신 엔지니어 영입에도 적극적이다. 창신메모리테크놀로지는 최첨단 D램인 DDR5 상용화에 성공해 D램 시장점유율 확대를 노리고 있다.
+                            한화세미텍은 최근 고객사로부터 HBM TC본더 구매 주문(PO)을 공식 요청 받았다. 지난해 퀄테스트를 본격 시작한 이후 거둔 성과다.&lt;br&gt;&lt;br&gt;강도 높은 품질 검증을 거쳐 마침내 양산에 성공하면서 한화세미텍은 HBM TC본더 시장의 첫 물꼬를 텄다. 특히 이번 성과로 한화세미텍은 글로벌 반도체 시장을 선도하고 있는 '엔비디아(NVIDIA) 공급체인'에 합류하게 됐다.&lt;br&gt;&lt;br&gt;글로벌 HBM 시장은 AI 수요 급증에 따라 최근 눈에 띄게 성장하고 있다. 시장조사기관 트렌드포스는 HBM 시장 규모가 지난해 182억 달러에서 내년에는 467억 달러로 156% 성장할 것으로 전망했다.&lt;br&gt;&lt;br&gt;한화세미텍은 2020년 TC본더 개발에 착수해 불과 4년여 만에 가시적인 성과를 이뤘다. 한화세미텍 관계자는 "플립칩 본더 등 기존 자체 보유 기술과 노하우를 바탕으로 HBM TC본더 연구개발에 지속적으로 공을 들인 끝에 비로소 좋은 결과를 얻었다"면서 "이번을 계기로 시장 확대에 속도를 낼 것"이라고 말했다.&lt;br&gt;&lt;br&gt;최근 사명을 변경하며 '반도체 장비 전문회사'로 탈바꿈한 한화세미텍은 이번 성과를 시작으로 반도체 전후 공정을 아우르는 다양한 시장에 적극 진출한다는 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://weekly.donga.com/3/all/11/5485777/1" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.wolyo.co.kr/news/articleView.html?idxno=256749" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: weekly.donga.com
+                            출처: www.wolyo.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://dimg1.donga.com/ugc/CDB/WEEKLY/Article/67/ca/b7/6e/67cab76e076cd2738252.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.wolyo.co.kr/news/thumbnail/202503/256749_147549_2349_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Mar 2025 17:00:28 +0900</pubDate></item><item><title>📰 英 옴디아, SK텔레콤 AI 전략 주목…"새로운 수익 창출 기회"</title><link>https://www.yna.co.kr/view/AKR20250313097500017?input=1195m</link><description>
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 SK C&amp;C, AI 랜딩존 서비스 활용해 포트폴리오 스펙트럼 '대확장'</title><link>http://www.wikileaks-kr.org/news/articleView.html?idxno=165212</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            AI DC·GPUaaS·AI 소프트웨어 서비스 관련 성과 언급&lt;br&gt;&lt;br&gt;영국 시장조사업체 옴디아는 최근 발간한 '통신사의 AI 전략' 보고서에서 "SK텔레콤이 추진 중인 AI 인프라 사업, 에스터(A*) 등 AI 소프트웨어 서비스, 글로벌 텔코 AI 얼라이언스(GTAA) 통신사 특화 거대 언어 모델(LLM)이 새로운 수익 창출 기회가 될 전망"이라고 밝혔다.&lt;br&gt;&lt;br&gt;보고서에 따르면 전 세계 통신사들은 AI 기술을 다양한 방식으로 활용하고 있으며, 특히 생성형 AI의 발전이 AI 도입을 가속하고 있다.&lt;br&gt;&lt;br&gt;SK텔레콤 또한 'AI 인프라 슈퍼 하이웨이' 전략을 필두로 AI 인프라 사업에 적극 투자하는 한편, AI 에이전트 에스터 등 다양한 AI 소프트웨어 서비스를 선보이고 있다.&lt;br&gt;&lt;br&gt;AI 인프라 슈퍼 하이웨이 전략은 SK텔레콤이 작년 11월 'SK AI 서밋 2024'에서 밝힌 구상으로, 인공지능 데이터센터(AI DC), 그래픽 처리장치 클라우드 서비스(GPUaaS), 에지 AI 등 세 가지 축을 중심으로 AI 인프라를 구축하는 것을 골자로 한다.
+                            금융·제조·통신·서비스 등 각 산업 특화된 AI 랜딩존 서비스 재구성&lt;br&gt;&lt;br&gt;SK C&amp;C가 맞춤형 생성형 AI를 신속하게 클라우드 환경에 구현할 수 있는 '산업 맞춤 AI 랜딩존 클라우드 서비스'로 사업 포트폴리오의 스펙트럼을 넓히고 있다.&lt;br&gt;&lt;br&gt;대표적인 예시가 지난 12일 발표된 AI 랜딩존 서비스를 통한 AI 기반 프롭테크 서비스 전환이다. 프롭테크란 부동산(Property)과 기술(Technology)의 합성어로, IT 기술을 기반으로 부동산 시장 혁신을 이끄는 산업을 말한다.&lt;br&gt;&lt;br&gt;유영채 SK C&amp;C Hybrid Cloud2본부장은 "SK C&amp;C는 AI기술을 활용해 고객 클라우드 자원 활용을 최적화하고, 비즈니스 생산성을 높이는데 집중하고 있다"면서 "프롭티어가 AI 기반 프롭테크 분야에서 경쟁력을 더욱 강화할 수 있도록 적극 지원하겠다"고 강조했다.&lt;br&gt;&lt;br&gt;SK C&amp;C는 AI 기반 멀티 클라우드 관리 플랫폼(MCMP)을 활용해 프롭티어 클라우드 인프라와 애플리케이션을 실시간 모니터링하고, 장애 대응과 운영 관리를 최적화한다는 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250313097500017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.wikileaks-kr.org/news/articleView.html?idxno=165212" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: www.wikileaks-kr.org
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img2.yna.co.kr/photo/yna/YH/2025/03/04/PYH2025030401000001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="http://www.wikileaks-kr.org/news/thumbnail/202503/165212_165135_2248_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 13 Mar 2025 17:00:28 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 이통3사 과징금 때문에 AI투자 늦어진다는 경제매체</title><link>https://www.mediatoday.co.kr/news/articleView.html?idxno=324892</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            ▲지난 2월 서울의 한 휴대폰 판매점의 모습. ⓒ연합뉴스&lt;br&gt;&lt;br&gt;공정거래위원회가 SK텔레콤·KT·LG유플러스 등 이동통신 3사에 스마트폰 판매장려금 담합 혐의로 총 1140억2500만 원의 과징금을 부과한 것과 관련해 경제매체와 방송사·종합일간지 논조가 엇갈리고 있다. 매일경제·한국경제·디지털타임스·한국경제TV 등 경제매체는 공정위 제재를 몽니로 표현하며 비판했고, 이번 과징금으로 AI 투자 여력이 줄어들 것이라고 우려를 표했다. 이통3사 입장에 초점을 맞춘 경제매체와 달리 방송사·종합일간지는 이통3사의 담합 행위에 집중했다.&lt;br&gt;&lt;br&gt;이번 과징금 부과는 2014년 꾸려진 시장상황반이 발단이 됐다. 방통위는 2014년 10월 단통법 제정 후 판매장려금 경쟁이 과열되지 않도록 장려금 상한선을 30만 원으로 정하는 행정지도를 결정했다. 이후 한국정보통신진흥협회와 이통3사는 과도한 판매장려금 지급 사례가 발견될 시 위반사항을 해결하는 시장상황반을 구성했다. 판매장려금은 이통3사가 대리점 등 스마트폰 유통점에 지급하는 지원금으로, 유통점은 판매장려금을 기반으로 소비자들에게 추가 지원금을 지급한다.&lt;br&gt;&lt;br&gt;이통3사는 방통위 행정지도에 따라 시장상황반에 참여했을 뿐 담합은 없다는 입장이지만 공정위는 시장상황반에서 이통3사가 서로의 번호이동(가입자의 통신사 변경) 현황과 판매장려금 정보를 공유했으며, 각사별 번호이동 추이를 바탕으로 장려금을 조정했다고 보고 있다. 방통위는 문제가 없다고 보고 있어 부처 간 대립도 이어졌다.&lt;br&gt;&lt;br&gt;경제매체는 이통3사 입장에 무게를 실었다. 공정위가 과도한 제재를 결정했으며 이번 과징금으로 통신사의 AI 투자에 차질이 생길 것이라는 지적이다. 하지만 SBS·채널A·한겨레 등 방송사·종합일간지는 이통3사의 담합 의혹에 초점을 맞췄다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.mediatoday.co.kr/news/articleView.html?idxno=324892" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.mediatoday.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.mediatoday.co.kr/news/thumbnail/202503/324892_461560_3859_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 [단독] SK-한화, TC본더 계약 완료…HBM 동맹 맺었다</title><link>https://www.sedaily.com/NewsView/2GQ8QS85OI</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            와 한화세미텍이 고대역폭메모리(HBM) 핵심 장비인 'TC 본더' 공급 계약을 체결했다. 국내 최대 기업인 SK와 한화 간 AI 메모리 협업이 본격적으로 시작될 것으로 예상된다.&lt;br&gt;&lt;br&gt;14일 업계에 따르면 SK하이닉스는 한화세미텍과 TC 본더 계약을 완료하고 장비를 구매한다. 양사가 이 공급에 대한 정식 계약을 맺었다고 알려진 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;이 계약에 따라 한화세미텍은 SK하이닉스에 10대 안팎의 초도물량을 공급할 것으로 예상된다. 이미 SK하이닉스가 제시한 납기를 맞추기 위해 장비 생산에 돌입한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;올해 SK하이닉스는 60~80여 대의 TC 본더를 구매할 예정이다. 한화세미텍이 이 중 50%가 넘는 30대 이상을 공급할 수 있다는 시각도 나온다. 이 장비는 5세대 HBM(HBM3E) 12단, 연내 양산할 6세대 HBM(HBM4) 제조에 쓰일 예정이다.&lt;br&gt;&lt;br&gt;SK하이닉스는 올초 50대가량의 TC 본더를 구매할 예정이었다. 그러나 HBM 수요의 폭발적인 증가로 이천 M10, 청주 M8 등을 HBM 후공정 라인으로 전환하면서 이 장비가 더욱 많이 필요해졌다. 한화는 이러한 SK하이닉스의 움직임 속에서 핵심 파트너 역할을 할 전망이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.sedaily.com/NewsView/2GQ8QS85OI" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.sedaily.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://newsimg.sedaily.com/2025/03/14/2GQ8QS85OI_3.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 [마켓파워] SK리밸런싱, 지주사부터 군살 ‘확’ 뺐다… 106개사 합치고...</title><link>https://www.asiatoday.co.kr/view.php?key=20250313010006543</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            13일 금융감독원에 따르면 지난해 SK㈜에서 흡수합병된 종속기업은 19개사, 지배력을 상실한 기업은 4개사, 청산한 기업은 26개사, 매각한 기업은 57개사인 것으로 나타났다. 총 106개사가 SK㈜의 종속기업에서 제외된 것으로, 새로 설립하거나 지분을 취득한 회사가 39개사인 것에 비하면 2배 이상의 회사를 줄인 것이다.&lt;br&gt;&lt;br&gt;이는 2023년 대비 확연한 차이를 보인다. 당시 SK㈜에 포함된 회사는 195개사, 제외된 회사는 51개사로, 오히려 정리한 회사보다 새로 설립하거나 지분을 취득한 회사가 4배 가까이 많았다. 2022년에도 포함된 회사가 146개사, 제외된 회사가 28개사로 최근 몇 년간 SK그룹이 사업 영역을 확장하는데 집중한 기조를 완전히 바꿔 지난해부터 포트폴리오 재조정을 강력하게 진행한 점이 읽힌다.&lt;br&gt;&lt;br&gt;지난해 말 기준 매각 예정인 자산도 3조원 이상이다. 가장 비중이 큰 자산은 SK스페셜티로, SK㈜는 지난해 12월 한앤컴퍼니에 지분 85%를 2조7000억원에 넘기는 계약을 체결했다. SK스페셜티가 보유한 자산은 약 1조4000억원 수준이다.&lt;br&gt;&lt;br&gt;줄이기만 하는 것은 아니다. SK㈜는 오는 4월 전기차 충전기 업체 SK시그넷에 1150억원을 출자한다. SK시그넷은 지난 2021년 SK㈜가 인수한 회사로, 그룹이 미래 먹거리로 추진하는 전기차 산업과도 맞닿아 있다.&lt;br&gt;&lt;br&gt;SK는 지난 10월에도 기업가치 제고계획을 통해 계열사 간 중복 투자 영역을 통합해 운영 효율성을 제고, 역량을 집중하겠다고 밝힌 바 있다. 대표적인 사례가 SK이노베이션과 E&amp;S의 합병, SK온과 엔텀, 트레이딩인터내셔널의 합병이다. 반대로 사업 방향성과 다른 비해김 자산은 유동화하고 수익성이 낮은 비효율 자산은 매각한다. 스페셜티 매각 등이 사례다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.asiatoday.co.kr/view.php?key=20250313010006543" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.asiatoday.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.asiatoday.co.kr/file/2025y/03m/14d/2025031301001057100065431.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 [SK하이닉스 돌풍③] 미래 키워드 '차량용 HBM'</title><link>http://www.seoulwire.com/news/articleView.html?idxno=642009</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            자율주행차 시장이 확장됨에 따라 차량용 메모리 반도체는 수요가 급증할 것으로 보이는 가운데 SK하이닉스는 고성능 메모리인 HBM이 미래차 컴퓨팅에도 반드시 필요할 것으로 예상하고 선제적으로 투자를 늘리고 있다.&lt;br&gt;&lt;br&gt;지난달 SK하이닉스는 메모리 업계 최초로 글로벌 자동차 산업 정보 보안 인증인 ‘TISAX’를 획득했다.&lt;br&gt;&lt;br&gt;TISAX는 유럽자동차제조·공급협회(ENX)가 운영하는 글로벌 정보 보안 인증 체계다. 자동차 산업 공급망 내 기업 간 정보 보안 표준화를 목표로 한다.&lt;br&gt;&lt;br&gt;SK하이닉스는 경기 이천, 성남, 충북 청주에 위치한 국내 모든 사업장이 TISAX 인증을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;SK하이닉스 관계자는 “이번 인증 획득을 통해 글로벌 완성차 업계가 요구하는 국제적 수준의 보안 역량을 갖췄다는 사실을 입증하게 됐다”며 “이를 계기로 인공지능(AI) 기반의 미래 자동차 기술 구현에 필수적인 고성능 메모리 솔루션 개발을 가속화하겠다”고 말했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.seoulwire.com/news/articleView.html?idxno=642009" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.seoulwire.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.seoulwire.com/news/thumbnail/202503/642009_844757_2017_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item><item><title>📰 한화세미텍, SK하이닉스에 210억 HBM 제조장비 공급</title><link>https://www.etnews.com/20250314000268</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            한화세미텍, SK하이닉스에 210억 HBM 제조장비 공급&lt;br&gt;&lt;br&gt;한화세미텍이 SK하이닉스에 열압착(TC) 본더를 공급하며 고대역폭메모리(HBM) 공급망에 추가 진입한다.&lt;br&gt;&lt;br&gt;한화세미텍은 SK하이닉스와 210억원 규모의 HBM 제조용 반도체 장비 공급 계약을 체결했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;해당 장비는 HBM 제조에 사용되는 TC본더다. HBM은 D램을 수직으로 쌓아 데이터 처리 성능을 강화한 메모리다. 인공지능(AI) 반도체에 주로 사용된다. TC본더는 D램을 수직으로 쌓으며 가접합하는 데 사용하는 장비다.&lt;br&gt;&lt;br&gt;한화세미텍은 2020년부터 TC본더를 개발했고 지난해부터 SK하이닉스와 품질평가를 진행해왔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.etnews.com/20250314000268" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.etnews.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.etnews.com/news/article/2025/03/14/news-p.v1.20250314.4bb376def8db4bab836b4f80057151c9_P1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 14 Mar 2025 17:00:40 +0900</pubDate></item></channel></rss>
