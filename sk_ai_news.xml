@@ -1,97 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 16 Mar 2025 08:00:39 +0000</lastBuildDate><item><title>📰 규제 충돌 논란…이동통신 3사 AI 경쟁력 제고에 악영향</title><link>https://www.news1.kr/it-science/general-it/5719702</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 17 Mar 2025 08:00:25 +0000</lastBuildDate><item><title>📰 반도체주 일제히 상승…AI랠리 기대감 증폭</title><link>https://www.imaeil.com/page/view/2025031716430210792</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            카카오프렌즈, 춘식이 테마 '맛삼춘' 굿즈 26종 출시&lt;br&gt;&lt;br&gt;"대체 어느 장단에"…이통사 과징금 폭탄 쟁점은 '규제 충돌'&lt;br&gt;&lt;br&gt;김범수 물러난 카카오…이통사, 과징금 폭탄 반발[뉴스잇(IT)쥬]&lt;br&gt;&lt;br&gt;[뉴스1 PICK] '시작도 끝도 AI'…MWC25 폐막&lt;br&gt;&lt;br&gt;AI가 주도한 미래 기술 경연장 MWC 폐막…韓 자존심 세운 'SKT'
+                            코스피가 전장보다 44.33p(1.73%) 오른 2,610.69로 마감한 17일 서울 종로구 연합인포맥스에 설치된 화면에 이날 5% 이상 급등한 삼성전자 주가가 표시되어 있다. 연합뉴스&lt;br&gt;&lt;br&gt;반도체주가 업황 개선 전망과 기대감과 인공지능(AI) 랠리 재개 기대감에 힘입어 17일 국내 증시가 반등했다.&lt;br&gt;&lt;br&gt;삼성전자는 5% 넘는 급등세로 4개월 만에 최대 오름폭을 기록했고, 반도체 장비주를 포함한 밸류체인 종목들이 일제히 강세를 보였다. 이날 코스피가 1.73% 강세로 2,610대로 올라선 가운데 시가총액 1, 2위인 삼성전자와 SK하이닉스가 나란히 오르며 상승세를 견인했다.&lt;br&gt;&lt;br&gt;삼성전자는 전장 대비 5.30% 오른 5만7천600원으로 거래를 마감했다. 이는 삼성전자가 10조원 규모 자사주 매입 계획을 발표한 다음인 지난해 11월 18일(5.98%) 이후 4개월 만에 최대 상승 폭이다. 또 개장 직후 1.46% 오른 주가는 한때 5.67% 오른 5만7천800원을 기록하기도 했다.&lt;br&gt;&lt;br&gt;SK하이닉스도 장중 2.44%까지 오름폭을 확대하는 등 장중 강세를 유지한 끝에 0.73% 오른 20만6천원으로 장을 마쳤다. SK하이닉스 주가는 이날까지 4거래일 연속 상승을 기록했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news1.kr/it-science/general-it/5719702" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.imaeil.com/page/view/2025031716430210792" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
+                            출처: www.imaeil.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://i3n.news1.kr/system/photos/2024/9/6/6866036/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://www.imaeil.com/photos/2025/03/17/2025031716403643081_l.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 16 Mar 2025 17:00:39 +0900</pubDate></item><item><title>📰 영화 예매 빼고 오픈AI 모델 더한 에이닷…유료화 예고 후 AI비서 집중</title><link>https://view.asiae.co.kr/article/2025031409090786019</link><description>
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 국내 기업들도 “AI 네트워크 혁신” 박차</title><link>http://www.segye.com/newsView/20250316507720?OutUrl=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤이 인공지능(AI) 비서 애플리케이션 ‘에이닷’에서 이용률이 낮은 서비스들을 철수시키고, 새로운 AI 모델을 추가하고 있다. 에이닷의 유료화를 예고한 만큼 AI 비서로서의 정체성을 명확하게 하고, 성능을 높이기 위한 조치다.&lt;br&gt;&lt;br&gt;16일 통신업계에 따르면 SKT는 에이닷 내 영화예매 에이전트를 다음 달 9일부터 종료한다. 지금까지는 에이닷을 실행해 대화하듯 영화와 상영관을 골라 예매할 수 있었는데, 이용자가 예상만큼 늘지 않자 이 서비스를 빼기로 한 것이다.&lt;br&gt;&lt;br&gt;SKT 관계자는 "AI 비서 서비스라는 에이닷의 취지에 걸맞게 이용자들이 많이 사용하는 기능을 중심으로 개편하기 위해 영화예매 기능을 종료하게 됐다"면서 "영화 예매 서비스 관련 개인정보도 모두 삭제할 예정"이라고 밝혔다. SK텔레콤은 영화 예매에 앞서 시간대에 맞춰 기능을 자동 실행하는 루틴 기능과 타로·심리테스트, 게임, 캐릭터스토어 기능도 차례로 중단해왔다.&lt;br&gt;&lt;br&gt;SKT는 대신 에이닷이 AI 비서로서 성능을 높이도록 개편하는 중이다. 에이닷의 멀티 대형언어모델(LLM)에 새 모델을 지속적으로 추가하고 있다. 이달 초에는 복잡한 질문에 대해 심층적인 답변을 할 수 있는 퍼플렉시티의 ‘소나 프로’ 모델과 오픈AI의 최신 추론형 모델인 ‘o3-mini’ 모델을 추가했다. 현재 SKT 자체 LLM인 에이닷엑스(A.X)를 비롯해 오픈AI의 모델 5종과 앤스로픽(클로드) 모델 3종, 퍼플렉시티 모델 2종 등의 외부 LLM을 동시에 사용할 수 있다.&lt;br&gt;&lt;br&gt;한편 에이닷은 고정 이용자층을 모으며 외산 서비스들이 점령한 AI 에이전트 시장에서 두각을 보이고 있다. 아이지에이웍스 모바일인덱스에 따르면 에이닷은 지난달 약 155만명의 월간 활성 이용자수(MAU)를 기록했다. 이는 같은 기간 AI 앱 가운데 챗GPT(387만명)에 이어 두 번째로 많은 수치다.
+                            6세대 이동통신(6G) 표준 경쟁이 시작되면서 국내 기업들도 시장 선점을 위해 신발끈을 조여매고 있다. 이동통신 3사, 세계적 통신장비 경쟁력을 가진 삼성전자와 중견·중소기업들이 6G 기술·서비스 개발에 나서고 있다.&lt;br&gt;&lt;br&gt;차세대 이동통신 기술인 ‘통신·센싱 통합(ISAC)’ 연구 현황도 공개했다. ISAC는 전파 신호로 주변 환경 정보를 수집하는 기술이다.&lt;br&gt;&lt;br&gt;KT는 이달 초 위성 및 양자, AI 네트워크를 6G 핵심기술로 낙점하고 기술 확보에 나서겠다고 밝혔다. 국내 유일 위성통신 사업자로서 정지궤도 위성(GEO), 저궤도 위성(LEO), 성층권 비행체(HAPS)를 활용한 비지상 통신망(NTN)을 구성해 해상·상공까지 서비스를 넓힐 방침이다.&lt;br&gt;&lt;br&gt;또 양자를 이용해 직접 데이터를 전달하는 기술을 통해 양자 인터넷 시대를 앞당길 계획이다. KT는 양자암호 통신을 고도화해 양자 암호키 생성 속도를 국내 최고 수준인 150kbps까지 끌어올렸다고 밝혔다. AI기반 네트워크도 선보일 방침이다. KT는 최근 노키아와 6G 후보 주파수 대역 중 하나인 7GHz(기가헤르츠) 대역에서 초고집적 안테나를 활용한 기지국 기술을 검증하기도 했다.&lt;br&gt;&lt;br&gt;LG유플러스는 6G 핵심기술 개발, AI 기반 네트워크 혁신 등을 통해 6G 혁신을 선도하려 한다. 이 회사는 지난해 글로벌 정보기술(IT) 기업 델 테크놀로지스와 통신망 운용비용을 절감할 수 있는 AI 기반 클라우드 랜(RAN·무선접속망) 자동화 기술을 검증했다. 검증 결과 총 운용비용(TCO) 절감 효과가 기존 대비 약 20%에 달했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://view.asiae.co.kr/article/2025031409090786019" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.segye.com/newsView/20250316507720?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: view.asiae.co.kr
+                            출처: www.segye.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cphoto.asiae.co.kr/listimglink/1/2024122414315864779_1735018319.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://www.segye.com/content/image/2025/03/16/20250316509914.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 16 Mar 2025 17:00:39 +0900</pubDate></item><item><title>📰 SK하이닉스, 레거시 수요 개선으로 실적 방어...지금이 매수 적기인가?</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=328554</link><description>
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK하이닉스, 올해 상반기 신입사원 채용…28일까지 모집</title><link>https://www.yna.co.kr/view/AKR20250317108100003?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스가 예상보다 빠른 레거시 수요 개선에 힘입어 1분기 실적이 시장 기대치에 부합할 것이라는 전망이 나왔다.&lt;br&gt;&lt;br&gt;한화투자증권은 최근 보고서에서 SK하이닉스에 대해 '매수' 의견을 유지하며, 목표 주가를 29만 원으로 제시했다.&lt;br&gt;&lt;br&gt;SK하이닉스의 올해 1분기 예상 실적은 매출액 16조 5000억 원, 영업이익 6조 2000억 원으로 시장 기대치에 부합할 것으로 전망된다.&lt;br&gt;&lt;br&gt;당초 레거시 수요 부진과 HBM의 일시적 출하 감소로 인해 시장 기대치와 가이던스를 하회할 가능성이 제기됐으나, 1분기 출하량은 디램, 낸드 각각 전분기 대비 -12%, -18% 감소하는 수준으로 가이던스에 대체로 부합할 것으로 판단된다.&lt;br&gt;&lt;br&gt;또한, Blended ASP(평균판매단가)도 범용 메모리 가격 하락을 고려하면 전분기 대비 하락이 불가피하겠으나, 디램 -5%, 낸드 -10% 수준으로 높은 HBM과 eSSD 비중으로 인해 경쟁사 대비 상대적으로 방어되는 수준일 것으로 예상된다.
+                            '월간 하이닉스 탤런트'서 매달 경력직 모집 공고 공개&lt;br&gt;&lt;br&gt;17일 업계에 따르면 SK하이닉스는 이날 채용 홈페이지에 '2025년 상반기 SK하이닉스 신입사원 모집' 공고를 냈다. 마감일은 이달 28일까지다.&lt;br&gt;&lt;br&gt;모집 대상은 올해 7∼8월 입사가 가능한 4년제 학사 이상 졸업 예정자 및 기졸업자다. 근무지는 경기 이천·분당캠퍼스와 충북 청주캠퍼스다.&lt;br&gt;&lt;br&gt;모집 분야는 테크 연구개발(R&amp;D)·제조 직무 내 R&amp;D 공정, PGK(패키지) 개발, 양산 기술, 특허 개발, 기반 기술(인프라), 유틸리티 기술 등으로, 채용 규모는 세자릿수로 알려졌다.&lt;br&gt;&lt;br&gt;서류 전형 통과 후 필기 전형(4월)인 SKCT(SK Competency Test)와 면접(5월)을 거쳐 최종 합격자가 결정될 예정이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=328554" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250317108100003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.pinpointnews.co.kr
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202503/328554_328553_2717_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img3.yna.co.kr/photo/yna/YH/2025/01/23/PYH2025012313920006100_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 16 Mar 2025 17:00:39 +0900</pubDate></item><item><title>📰 용인대 AI바이오융합대학, 파이엇과 MOU 체결… 인공지능·로봇 산업 발...</title><link>https://www.aitimes.kr/news/articleView.html?idxno=34249</link><description>
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 잘 만든 물류플랫폼 덕에…美 '전기차 배터리 벨트' 뚫은 韓 기업</title><link>https://www.hankyung.com/article/202503178445i</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            (왼쪽부터)파이엇 서영우의장, 우학문화재단 이학재단이사장, 용인대 ai 바이오융합대학장 이완주 교수.&lt;br&gt;&lt;br&gt;용인대학교 AI바이오융합대학(학장 이완주 교수)과 인공지능(AI) 및 로봇 기술 기업 파이엇(서영우 의장)이 산업체 성장과 우수 인재 양성을 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 이번 협약은 용인시가 추진하는 스마트도시 조성과 AI·로봇 산업 발전 기조와 맞물려 지역 내 혁신적인 기회로 주목받고 있다.&lt;br&gt;&lt;br&gt;최근 용인시는 인공지능 기반 도로 위험 관리 시스템과 스마트 제설 관제 시스템을 도입하여 도로 안전성을 향상시키고 있으며, 용인세브란스병원은 SK텔레콤과 협력하여 5G 방역로봇 솔루션을 구축하는 등 스마트도시 구축에 적극 나서고 있다. 또한, 용인 반도체 클러스터가 조성되면서 지역 경제 및 산업 경쟁력이 더욱 강화되고 있다.&lt;br&gt;&lt;br&gt;용인 반도체 클러스터는 SK하이닉스가 122조 원을 투자해 처인구 원삼면 일대에 416만㎡ 규모의 반도체 생산라인 4기를 건설하는 대규모 프로젝트로, 2027년 첫 가동을 목표로 하고 있다. 더불어, 이동남사 지역에 삼성반도체 국가산업단지가 조성될 예정으로, 국내외 반도체 관련 기업들이 집결하는 중심지로 성장할 전망이다.&lt;br&gt;&lt;br&gt;이에 따라 반도체 산업과 AI·로봇 기술이 융합된 연구와 실무 경험이 더욱 중요해지고 있으며, 이번 협약이 이러한 변화에 맞춰 인재 양성과 기술 개발을 촉진하는 중요한 계기가 될 것으로 기대된다.
+                            잘 만든 물류플랫폼 덕에…美 '전기차 배터리 벨트' 뚫은 韓 기업&lt;br&gt;&lt;br&gt;SK스퀘어 자회사 FSK L&amp;S, 블루오벌SK 통합물류센터 운영 계약&lt;br&gt;&lt;br&gt;BOSK가 미국 켄터키주 불릿 카운티에 건설 중인 켄터키 1공장 부지 근처 풀필먼트센터 전경.&lt;br&gt;&lt;br&gt;SK스퀘어의 물류 자회사 FSK L&amp;S가 SK온과 미국 포드의 합작법인인 블루오벌SK(BOSK, )의 풀필먼트센터 운영 사업을 수주했다. SK스퀘어는 FSK L&amp;S가 올해부터 2030년까지 6년간 BOSK와의 운영 계약을 맺었다고 17일 발표했다. 계약은 이후 2034년까지 연장할 수 있다.&lt;br&gt;&lt;br&gt;SK스퀘어는 계약 기간 동안 BOSK 및 밴더사로부터 매년 수백억원대의 신규 매출이 발생할 것으로 내다보고 있다. 이와 함께 올해 중국·북미 반도체 낸드 물류 서비스 등 신규 사업도 추진할 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.aitimes.kr/news/articleView.html?idxno=34249" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/202503178445i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.aitimes.kr
+                            출처: www.hankyung.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.aitimes.kr/news/thumbnail/202503/34249_52026_2027_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202503/01.39838598.1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 16 Mar 2025 17:00:39 +0900</pubDate></item><item><title>📰 한화세미텍, SK하이닉스에 HBM용 TC본더 첫 공급</title><link>https://www.topstarnews.net/news/articleView.html?idxno=15617579</link><description>
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 中, 엔비디아에 저사양 칩 대거 주문…삼성·SK 영향은?</title><link>https://www.widedaily.com/news/articleView.html?idxno=262565</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            한화세미텍은 SK하이닉스의 퀄테스트를 최종 통과하고 210억원 규모의 공급 계약을 체결했다고 밝혔다.&lt;br&gt;&lt;br&gt;한미반도체가 HBM용 TC본더 시장을 주도해온 가운데, 한화세미텍이 이 장비를 고객사에 납품하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;TC본더는 인공지능(AI) 반도체용 HBM을 제조하는 데 필요한 핵심 장비다. HBM은 D램을 여러 개 수직으로 쌓아 올리는 방식으로 만든다. 이 때 각 D램을 고정하는 공정에 TC본더가 쓰인다.&lt;br&gt;&lt;br&gt;한화세미텍은 2020년 TC본더 개발에 착수하고 지난해 퀄테스트를 본격적으로 시작했다. 한화세미텍은 이번 계약으로 제품 양산에 성공하면서 HBM TC본더 시장의 첫 물꼬를 텄다고 설명했다.&lt;br&gt;&lt;br&gt;SK하이닉스가 엔비디아의 AI 반도체에 HBM 대부분을 공급하고 있어, 이번 성과로 한화세미텍도 글로벌 반도체 시장을 선도하는 '엔비디아 공급체인'에 합류하게 됐다.
+                            최근 중국의 빅테크 기업들이 엔비디아의 저가·저사양 인공지능(AI) 칩을 공격적으로 사들이고 있다. 미국 트럼프 정부의 대중국 반도체 수출 제재 확대를 대비한 선구매로 보인다.&lt;br&gt;&lt;br&gt;삼성전자와 SK하이닉스는 엔비디아의 저사양 칩에 필요한 구형 고대역폭메모리(HBM)를 공급 중으로, 중국 발 저사양 칩 수요 증가에 따른 수혜가 예상된다.&lt;br&gt;&lt;br&gt;하지만 트럼프 정부가 딥시크를 견제하기 위해 저사양 칩 대중 수출을 완전히 차단할 경우 양사의 HBM 공급망도 일정 부분 타격을 입을 수 있다.&lt;br&gt;&lt;br&gt;17일 업계에 따르면 중국의 빅테크인 텐센트는 엔비디아에 저사양 AI 칩인 'H20'을 대량 주문했다. 주문 금액은 수 조원에 달하는 것으로 알려졌다. H20은 엔비디아가 미국 정부의 제재를 피하기 위해 성능을 대폭 낮춘 AI 칩이다.&lt;br&gt;&lt;br&gt;이외에도 알리바바, 바이트댄스 등 중국 빅테크들은 엔비디아의 H20 칩 주문을 늘리고 있다. H20은 비용 대비 성능이 좋은 것으로 평가 받는 만큼 중국 내에서도 자국 기업인 화웨이의 AI 칩 '어센드910B'보다 선호도가 높다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.topstarnews.net/news/articleView.html?idxno=15617579" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.widedaily.com/news/articleView.html?idxno=262565" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.topstarnews.net
+                            출처: www.widedaily.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.topstarnews.net/news/photo/202503/15617579_1520238_2133.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.widedaily.com/news/thumbnail/202503/262565_268467_4456_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 16 Mar 2025 17:00:39 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 [마켓톺] 반도체株 돌아오면 코스피에 봄이 온다…삼성전자 5% 급등</title><link>https://www.yna.co.kr/view/AKR20250317037651008?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            삼성전자 4개월 만에 5%대 급등…반도체 밸류체인 강세 이어져&lt;br&gt;&lt;br&gt;외인, 전기전자 업종 5천400억원 담아…기관, 삼전·하이닉스 집중매수&lt;br&gt;&lt;br&gt;"업황 턴어라운드 기대감 고조"…엔비디아 개발자회의 개최 모멘텀도&lt;br&gt;&lt;br&gt;삼성전자[005930]는 5% 넘는 급등세로 4개월 만에 최대 오름폭을 기록했고, 반도체 장비주를 포함한 밸류체인 종목들이 일제히 강세를 보였다.&lt;br&gt;&lt;br&gt;이날 코스피가 1.73% 강세로 2,610대로 올라선 가운데 시가총액 1, 2위인 삼성전자와 SK하이닉스[000660]가 나란히 오르며 상승세를 이끌었다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250317037651008?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img9.yna.co.kr/photo/yna/YH/2025/03/17/PYH2025031705340001300_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item><item><title>📰 SK하이닉스, 상반기 신입 채용…경력직도 모집</title><link>https://www.newsis.com/view/NISX20250317_0003101784</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            17일 업계에 따르면 SK하이닉스는 '2025년 SK하이닉스 신입사원 수시채용'을 공고하고, 채용 절차를 시작했다. 지원서 접수 마감은 오는 28일까지다.&lt;br&gt;&lt;br&gt;모집 분야는 이천·분당캠퍼스의 경우 ▲R&amp;D 공정 ▲소자 ▲PKG 개발 ▲IT ▲양산기술 ▲양산관리 ▲양산기술(P&amp;T) ▲특허개발 ▲기반기술 등이다.&lt;br&gt;&lt;br&gt;청주캠퍼스는 ▲소자 ▲양산기술 ▲양산관리 ▲유틸리티 기술 ▲양산기술(P&amp;T) ▲기반기술 부문에서 뽑는다. 모집 대상은 올해 7∼8월 입사가 가능한 4년제 학사 이상 졸업 예정자 및 기졸업자다.&lt;br&gt;&lt;br&gt;지원자는 서류전형과 오는 4월 필기 전형인 SK종합역량검사(SKCT), 5월 면접 등을 거쳐 채용이 확정된다.&lt;br&gt;&lt;br&gt;SK하이닉스는 인공지능(AI) 반도체 수요 증가에 대응해 최근 신입·경력사원 채용을 잇달아 실시하고 있다. 지난해의 경우 7차례 신입·경력 채용을 진행했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250317_0003101784" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2024/07/25/NISI20240725_0020428016_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 17 Mar 2025 17:00:25 +0900</pubDate></item></channel></rss>
