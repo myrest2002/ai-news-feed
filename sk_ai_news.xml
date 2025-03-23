@@ -1,116 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 22 Mar 2025 08:00:31 +0000</lastBuildDate><item><title>📰 OpenAI 협력 및 자체 AI 모델 '카나나' 공개… 카카오, AI 서비스 기대감...</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=330378</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 23 Mar 2025 08:00:32 +0000</lastBuildDate><item><title>📰 주총 시즌 맞이하는 통신3사, AI 경영 본격 힘준다</title><link>http://www.m-i.kr/news/articleView.html?idxno=1219991</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            하반기 AI 서비스 본격 공개… 목표가 5만 3000 원 '매수' 유지&lt;br&gt;&lt;br&gt;SK증권은 최근 보고서에서 카카오가 하반기부터 다양한 AI 서비스를 출시하며 AI 분야에서 경쟁력을 확보할 것으로 전망하며 목표주가 5만 3천 원과 '매수' 의견을 유지했다.&lt;br&gt;&lt;br&gt;카카오는 지난해까지 AI 기술 및 전략 측면에서 경쟁사에 비해 뒤처져 있다는 평가를 받았으나, 올해 초 OpenAI와의 협력 소식과 2월 실적 컨퍼런스 콜에서 준비 중인 AI 서비스에 대한 구체적인 정보를 공개하며 AI 서비스에 대한 기대감을 높이고 있다.&lt;br&gt;&lt;br&gt;카카오는 자체 언어 모델 '카나나'뿐만 아니라 글로벌 오픈소스 LLM의 API를 조합하여 카카오 서비스에 최적화된 생성형 AI를 구축할 계획이다.&lt;br&gt;&lt;br&gt;카카오는 올해 하반기 'AI 메이트', '카나나', '생성형 AI 검색', 'AI 에이전트' 등 다양한 AI 서비스를 공개할 예정이다.
+                            SKT·LGU+ AI 전문가 이사 선임… KT 기존 구성 유지&lt;br&gt;&lt;br&gt;'AI에이전트·데이터센터'서 통신사 간 경쟁 가열 전망&lt;br&gt;&lt;br&gt;통신 3사가 이달 말 연이어 주주총회를 통해 인공지능(AI) 전문가를 이사로 선임하고 AI 중심 전략을 수립한다. 유무선 시장 성장이 한계에 이른 가운데 통신사들의 AI 서비스 경쟁은 더욱 심화될 전망이다.&lt;br&gt;&lt;br&gt;23일 업계에 따르면 SK텔레콤은 26일, KT는 31일, LG유플러스는 25일 주주총회를 진행한다.&lt;br&gt;&lt;br&gt;특히 SK텔레콤과 LG유플러스는 이사 선임은 AI 사업 강화와 관련됐다. SK텔레콤은 강동수 SK그룹 포트폴리오매니지먼트(PM) 부문장을 기타비상무이사 후보로 선임한다는 의견을 올렸다. 강 부문장은 2018년 SK에너지 경영기획실장, 수펙스추구협의회 SV추진팀 임원, SK에너지 솔루션&amp;플랫폼 추진단장을 역임했고 지난해에는 SK이노베이션 포트폴리오 부문장으로 일했다. 강 부문장은 사업 전략, 기획, 재무 등에서 풍부한 경험과 높은 이해도를 보유하고 있는 만큼 SK텔레콤은 대외 경제 환경의 불확실성을 극복하고 통신, AI 사업 영역에서 성장을 이끌 것으로 기대하고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=330378" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.m-i.kr/news/articleView.html?idxno=1219991" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.pinpointnews.co.kr
+                            출처: www.m-i.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202503/330378_330230_2033_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://cdn.m-i.kr/news/thumbnail/202503/1219991_993664_856_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 SKT·KT·LGU+ '통신사'에서 'AI 선도기업'으로…'탈통신' 기업가치 고공...</title><link>https://www.pointdaily.co.kr/news/articleView.html?idxno=238222</link><description>
+                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item><item><title>📰 Samsung, SK hynix to face-off in upcoming HBM4 race</title><link>https://www.koreaherald.com/article/10447867?ref=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            22일 통신 업계에 따르면 KT는 15년 만에 주가 5만원을 돌파하며 주목을 받고 있다. 지난 19일 KT의 주가는 5만 700원을 기록했다. 이는 2010년 1월 이후 처음으로 5만원선을 넘어선 것이다. 시가총액은 12조 7775억원에 이르며 연초 대비 약 15% 상승했다.&lt;br&gt;&lt;br&gt;하나증권은 KT의 주가가 배당 확대 기대감으로 올해 안에 7만원대 돌파 가능성이 있다고 전망했다. 김홍식 하나증권 연구원은 “KT의 1분기 배당금이 약 600원으로 상승할 것”이라며 “하반기에는 분기 배당금이 700원으로 상승할 것이라는 기대감이 주가 7만원 돌파를 시도할 수 있는 요인”이라고 분석했다.&lt;br&gt;&lt;br&gt;KT의 주가 상승은 김영섭 대표 취임 이후 AICT(AI·Cloud·Telecom) 전략과 적극적인 주주환원 정책이 주효했다는 평가다. 특히 김 대표는 취임 후 마이크로소프트(MS)와의 협력을 강화하고 AI 중심 기업으로의 전환을 일관되게 추진해 왔다. KT는 한국형 거대언어모델(LLM) 개발을 추진 중이며 이달 중 300여명 규모의 ‘AX 딜리버리 전문센터’를 공동 신설할 계획이다.&lt;br&gt;&lt;br&gt;주주환원 측면에서도 KT는 2023년 창사 이래 처음으로 분기배당을 도입했고 2028년까지 총 1조원 규모의 자사주를 매입·소각할 계획을 발표했다.&lt;br&gt;&lt;br&gt;증권가는 SK텔레콤에 대해서도 긍정적인 전망을 내놓고 있다. NH투자증권·KB증권·DB금융투자·미래에셋증권 등은 이달 중순 보고서를 내고 SK텔레콤이 추진 중인 AI 사업의 성장 가능성을 긍정적으로 언급했다. SK텔레콤은 'AI 피라미드 전략'을 통해 글로벌 AI 기업들과의 전략적 투자 및 협력을 강화하고 있다.
+                            SK hynix vies to retain leadership while Samsung renews commitment to make up for missteps to overtake smaller rival&lt;br&gt;&lt;br&gt;SK hynix HBM4 sample (SK hynix)&lt;br&gt;&lt;br&gt;The world’s top two memory-chip makers Samsung Electronics and SK hynix are set to go head-to-head this year for HBM4 dominance, with the next-generation chip poised to determine their positions in the artificial intelligence chip market.&lt;br&gt;&lt;br&gt;In a bid to retain its leadership in the lucrative AI market, SK hynix showcased a sample of the six-generation HBM4 chip last week at GTC 2025, a developer conference hosted by the industry's largest customer for AI chips, Nvidia.&lt;br&gt;&lt;br&gt;Having failed to gain an early edge in the lucrative market, Samsung Electronics renewed its commitment to make up for its past missteps to overtake the smaller rival with the upcoming HBM4 chips.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.pointdaily.co.kr/news/articleView.html?idxno=238222" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.koreaherald.com/article/10447867?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.pointdaily.co.kr
+                            출처: www.koreaherald.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.pointdaily.co.kr/news/thumbnail/202503/238222_229395_2550_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/03/23/news-p.v1.20250323.aecc3d60c5af4a9a85a7a0935abc2bc1_T1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 “SK가 삼성보다 더 견제하는 이곳”…韓 인재 빼가더니 ‘제2의 HBM’ 노...</title><link>https://biz.heraldcorp.com/article/10447330?ref=naver</link><description>
+                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item><item><title>📰 HBM4로 눈 돌리는 삼성·SK하이닉스…새로운 격전지서 '격돌'</title><link>https://www.yna.co.kr/view/AKR20250321154800003?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            마냥 어려울 것 같은 반도체에도 누구나 공감할 ‘세상만사’가 있습니다. 불안정한 국제 정세 속 주요 국가들의 전쟁터가 된 반도체 시장. 그 안의 말랑말랑한 비하인드 스토리부터 촌각을 다투는 트렌드 이슈까지, ‘칩만사’가 세상만사 전하듯 쉽게 알려드립니다.&lt;br&gt;&lt;br&gt;산자이 메흐로트라 마이크론 최고경영자(CEO) [로이터]&lt;br&gt;&lt;br&gt;“SK하이닉스가 견제하는 건 삼성이 아니라 마이크론이다. 요즘 엔지니어들 사이에선 마이크론이 소위 ‘폼이 올라왔다(컨디션이 좋다)’며 정말 무섭게 쫓아오고 있다는 얘기가 들린다.”(반도체 업계 종사자)&lt;br&gt;&lt;br&gt;작년 말부터 ‘메모리 만년 3위’의 반란이라며 마이크론의 추격이 심상치 않다는 소식이 많이 들렸습니다. 그땐 몰랐는데, 최근 메모리 시장의 동향을 보니 상당 부분 납득이 갑니다. 마이크론은 올 1분기 HBM(고대역폭메모리)으로 상당한 매출을 올리며 연간 최대 실적까지 기대하고 있습니다.&lt;br&gt;&lt;br&gt;특히, 마이크론은 조용하게 ‘제2의 HBM’으로 불리는 AI 메모리 시장을 노리고 있었습니다. SK하이닉스 보다 먼저 양산을 시작했다고 밝히며 ‘카운터펀치’를 날렸습니다.
+                            6세대 고대역폭 메모리인 'HBM4'가 인공지능 반도체 시장의 새로운 격전지로 떠오르고 있다.&lt;br&gt;&lt;br&gt;반도체 업계 관계자는 "이미 엔비디아 물량의 대부분을 맡고 있는 SK하이닉스가 올해 물량을 '완판'했다고 밝힌 만큼 이미 HBM3E 시장은 포화 상태"라며 "삼성전자의 HBM3E 퀄테스트 통과가 사업적 의미는 있겠지만 공급량 확보 측면에서는 그다지 유의미하지 않을 수 있다"고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 "삼성은 이미 뒤처진 HBM3E 보다는 새로운 HBM4 시장에서 승기를 잡으려 할 것"이라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://biz.heraldcorp.com/article/10447330?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250321154800003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: biz.heraldcorp.com
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/03/21/rcv.YNA.20241211.PRU20241211014501009_T1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img6.yna.co.kr/photo/yna/YH/2025/03/21/PYH2025032102690009100_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 [칩톡]'210억 TC본더'는 시작…소·부·장 판도 흔드는 한화세미텍</title><link>https://view.asiae.co.kr/article/2025032105281059182</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            지난 14일 한화세미텍이 SK하이닉스와 맺은 TC본더(열압착장비) 공급계약 규모는 210억 원이다. 반도체 업계는 통상적인 장비 공급계약과 비교해 결코 큰 규모는 아니라고 평가한다. 한화세미텍 스스로도 이번 계약을 ‘소규모’로 표현했다. 하지만 이 계약의 파급력은 예상보다 클 것이란 데 이견이 없다. 오랜 기간 한미반도체가 사실상 독점해 온 SK하이닉스의 TC본더 공급망에 균열이 생겼고, 국내 소재·부품·장비 시장의 판도까지 흔들 수 있다는 전망이다. 작은 균열이 시작된 한화세미텍의 도전은 점차 확산하며 결국 시장 구조를 재편할 만한 변화로 이어질 것이란 분석이다.&lt;br&gt;&lt;br&gt;이번 계약으로 한화세미텍은 일단 SK하이닉스가 새로 세울 고대역폭메모리(HBM) 라인 10개에 TC본더를 공급할 것으로 전해진다. 이 라인에선 HBM3E 12단 제품들이 만들어질 예정이다. SK하이닉스는 세계적인 인공지능(AI) 기업 엔비디아에 HBM3E 12단 제품을 공급하고 있다. TC본더는 HBM에 쓰이는 D램을 쌓아 올리는 과정에서 칩을 하나하나 열로 압착해 접합하는 장비다. 8~12회 이 과정을 반복하면서 단수를 쌓는다. SK하이닉스는 이 TC본더를 주로 한미반도체에서 공급받아서 썼지만, 이제부턴 한화세미텍까지 두 곳에서 받아서 쓰게 된다. SK하이닉스는 최근 엔비디아 등 고객사들이 주문하는 HBM 물량이 급증하고 HBM4 12단 제품까지 양산을 목전에 두면서, TC본더 공급망을 다각화해야겠다는 판단 아래 한화세미텍과도 손을 잡게 됐다.&lt;br&gt;&lt;br&gt;한화세미텍은 하늘에서 뚝 떨어진 ‘혜성’ 같은 기업은 아니다. 한화정밀기계가 지난달 초 사명을 바꾸고 반도체 기업으로 거듭났다. 한화세미텍은 반도체(Semiconductor)와 기술(Technology)을 한화와 결합한 합성어다. 회사는 이 이름에 첨단기술을 앞세워 글로벌 시장을 선도하는 ‘종합 반도체 제조 솔루션 기업’이 되겠다는 의지를 담았다고 설명했다. 김승연 한화그룹 회장의 3남인 김동선 미래비전총괄 부사장이 합류하면서 그룹 내 핵심 계열사로서의 무게감도 얻었다. 새로이 출발한 지 약 한 달 만에 우리나라 간판 기업 SK하이닉스로의 TC본더 납품을 이뤄내며 업계에 강렬한 인상을 남기는 데는 성공했다. 이를 동력 삼아 한화세미텍이 차츰 영향력을 키워나갈지 반도체 업계는 앞으로 유심히 지켜볼 것으로 보인다.&lt;br&gt;&lt;br&gt;한화세미텍은 TC본더에 관해선 후발주자다. 2020년 TC본더 개발을 처음 시작했고 올해 SK하이닉스와의 계약으로 양산, 공급을 모두 처음 하게 됐다. 약 5년 만에 가시적인 성과를 이룬 것이다.&lt;br&gt;&lt;br&gt;다른 반도체 장비에 대해선 쌓아온 업력이 높다. 웨이퍼에서 절단된 칩을 기판에 붙이는 ‘다이 본더’, 장비와 칩을 뒤집어 기판에 연결하는 ‘플립칩 본더’ 등을 이미 생산하고 있는 등 제품의 패러다임이 넓고 기술력은 30년 이상으로 평가받는다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://view.asiae.co.kr/article/2025032105281059182" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: view.asiae.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cphoto.asiae.co.kr/listimglink/1/2025031914161074516_1742361370.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 SK텔레콤 유영상, 지난해 연봉 30억 돌파…50% 증가</title><link>http://www.newsroad.co.kr/news/articleView.html?idxno=37214</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            -SK텔레콤 CEO 유영상, AI 사업 성장 기반 마련하며 급여 대폭 증가&lt;br&gt;&lt;br&gt;-KT와 LG유플러스 CEO도 연봉 공개…SK텔레콤 임원진 중 최고 연봉 수령&lt;br&gt;&lt;br&gt;유영상 SKT CEO, MWC25서 AI 사업 전략 발표/연합뉴스&lt;br&gt;&lt;br&gt;[뉴스로드] 지난해 SK텔레콤의 유영상 대표가 통신업계 최고경영자(CEO) 중 가장 높은 연봉을 기록한 것으로 나타났다. 금융감독원 전자공시시스템에 따르면, 유 대표는 지난해 총 30억8천300만 원의 보수를 받았으며, 이는 전년 대비 약 50% 증가한 수치다.&lt;br&gt;&lt;br&gt;유 대표의 급여는 14억 원, 상여는 16억4천만 원, 주식매수선택권 행사이익은 1천700만 원, 기타 근로소득은 2천600만 원으로 구성됐다. 또한, SK텔레콤의 성과기준 보상 제도(PSU)에 따라 PSU 2만6천555 유닛을 부여받았다. PSU는 특정 성과 목표 달성 시 1유닛이 회사 보통주 1주로 전환되는 제도다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.newsroad.co.kr/news/articleView.html?idxno=37214" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsroad.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.newsroad.co.kr/news/thumbnail/202503/37214_51311_028_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 베일 벗은 엔비디아 게임체인저 ‘소캠’… 美 마이크론, SK·삼성 제쳤...</title><link>http://www.segye.com/newsView/20250321505903?OutUrl=naver</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스가 엔비디아가 주최하는 글로벌 인공지능(AI) 컨퍼런스 ‘GTC 2025’에서 전시한 새로운 메모리 모듈 규격 ‘소캠’(SOCAMM)에 업계 시선이 쏠리고 있다. 미국 마이크론이 SK하이닉스, 삼성전자보다 먼저 양산에 성공하면서 엔비디아가 주도하는 AI 특화 메모리 모듈 경쟁에서 유리한 고지를 점했다는 분석이 나온다.&lt;br&gt;&lt;br&gt;22일 업계에 따르면 소캠은 엔비디아 주도로 개발 중인 새로운 AI 서버용 메모리 표준이다. 국제반도체표준협의기구(JEDEC)에서 확정하는 표준 규격 반도체와 달리 엔비디아가 독자적인 표준화를 시도하고 있다. 기존 AI 가속기의 전력 소모를 줄이면서 높은 성능을 낼 수 있도록 개발 중이라서 반도체 시장의 ‘게임체인저’로 기대를 모으고 있다.&lt;br&gt;&lt;br&gt;소캠은 일반적으로 서버에 사용되는 ‘DDR’ D램 대신 저전력 D램(LPDDR) 기반으로 제작해 전력 소모를 3분의 1 수준으로 줄였다.&lt;br&gt;&lt;br&gt;대역폭도 기존 D램 모듈 대비 2배 이상 높아 처리 속도도 빨라질 전망이다. 데이터가 오가는 통로인 I/O 핀 수가 기존 D램 모듈이 262개인데 비해 소캠은 694개다.&lt;br&gt;&lt;br&gt;모듈 크기도 같은 용량의 기존 메모리 대비 3분의 1 수준에 불과해 제품 설계 제약을 크게 줄여준다. 탈부착이 가능한 모듈이어서 칩 교체가 용이하다는 장점도 있다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.segye.com/newsView/20250321505903?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.segye.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://www.segye.com/content/image/2025/03/21/20250321505902.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sat, 22 Mar 2025 17:00:31 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item></channel></rss>
