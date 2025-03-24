@@ -1,51 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 23 Mar 2025 08:00:32 +0000</lastBuildDate><item><title>📰 주총 시즌 맞이하는 통신3사, AI 경영 본격 힘준다</title><link>http://www.m-i.kr/news/articleView.html?idxno=1219991</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 24 Mar 2025 08:00:35 +0000</lastBuildDate><item><title>📰 "퓨리오사AI, 메타 1조원대 인수 제안 거절"</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=03375126642106600</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT·LGU+ AI 전문가 이사 선임… KT 기존 구성 유지&lt;br&gt;&lt;br&gt;'AI에이전트·데이터센터'서 통신사 간 경쟁 가열 전망&lt;br&gt;&lt;br&gt;통신 3사가 이달 말 연이어 주주총회를 통해 인공지능(AI) 전문가를 이사로 선임하고 AI 중심 전략을 수립한다. 유무선 시장 성장이 한계에 이른 가운데 통신사들의 AI 서비스 경쟁은 더욱 심화될 전망이다.&lt;br&gt;&lt;br&gt;23일 업계에 따르면 SK텔레콤은 26일, KT는 31일, LG유플러스는 25일 주주총회를 진행한다.&lt;br&gt;&lt;br&gt;특히 SK텔레콤과 LG유플러스는 이사 선임은 AI 사업 강화와 관련됐다. SK텔레콤은 강동수 SK그룹 포트폴리오매니지먼트(PM) 부문장을 기타비상무이사 후보로 선임한다는 의견을 올렸다. 강 부문장은 2018년 SK에너지 경영기획실장, 수펙스추구협의회 SV추진팀 임원, SK에너지 솔루션&amp;플랫폼 추진단장을 역임했고 지난해에는 SK이노베이션 포트폴리오 부문장으로 일했다. 강 부문장은 사업 전략, 기획, 재무 등에서 풍부한 경험과 높은 이해도를 보유하고 있는 만큼 SK텔레콤은 대외 경제 환경의 불확실성을 극복하고 통신, AI 사업 영역에서 성장을 이끌 것으로 기대하고 있다.
+                            24일(현지시간) 블룸버그통신은 메타가 올해 초부터 한국의 AI 칩 스타트업 퓨리오사AI와 인수 협상을 진행해왔는데 퓨리오사AI가 경영권 해외 매각 대신 AI 칩 개발·양산 등 독자적인 성장을 이어가기로 결정하면서 협상을 종료했다고 보도했다.&lt;br&gt;&lt;br&gt;메타는 AI 인프라에 막대한 투자를 하고 있다. 중국 항저우를 기반으로 한 딥시크와 같은 신생 기업뿐만 아니라 오픈AI와 구글 등과의 경쟁에서 우위를 점하기 위해 노력 중이다. 마크 저커버그 메타 최고경영자(CEO)는 지난 1월 대규모 데이터 센터를 구축하고 AI 인력을 확충하는 데 올해 650억 달러(약 95조 3200억원)를 투자할 계획이라고 밝혔으며, 이후에도 수천억 달러 규모로 AI 인프라 확장을 예고했다.&lt;br&gt;&lt;br&gt;메타는 페이스북과 인스타그램의 광고 추천 및 콘텐츠 랭킹 시스템을 강화하기 위해 자체 AI 칩을 개발 중이다. 2023년엔 최초의 맞춤형 AI 추론 칩을 출시했으며, 작년에 업그레이드된 버전을 공개했다.&lt;br&gt;&lt;br&gt;퓨리오사AI는 메타의 투자를 유치한 소수의 아시아 스타트업 중 한 곳이다. 삼성전자와 AMD 출신의 백준 대표가 이끄는 퓨리오사AI는 AI 연산(추론) 칩을 개발하고 있다.&lt;br&gt;&lt;br&gt;퓨리오사AI의 2세대 프로세서인 ‘레니게이드(RNGD)’는 세계 최대 파운드리업체(위탁생산)인 TSMC의 5나노 공정을 기반으로 AI 반도체 최초로 SK하이닉스의 고대역폭 메모리 HBM3를 활용해 하반기 본격적인 양산을 목표로 하고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.m-i.kr/news/articleView.html?idxno=1219991" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=03375126642106600" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.m-i.kr
+                            출처: www.edaily.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cdn.m-i.kr/news/thumbnail/202503/1219991_993664_856_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/03/PS25032401019.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item><item><title>📰 Samsung, SK hynix to face-off in upcoming HBM4 race</title><link>https://www.koreaherald.com/article/10447867?ref=naver</link><description>
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SK브로드밴드, 한-미-일-대만 잇는 국제 해저 케이블 구축 참여</title><link>https://www.yna.co.kr/view/AKR20250324031000017?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK hynix vies to retain leadership while Samsung renews commitment to make up for missteps to overtake smaller rival&lt;br&gt;&lt;br&gt;SK hynix HBM4 sample (SK hynix)&lt;br&gt;&lt;br&gt;The world’s top two memory-chip makers Samsung Electronics and SK hynix are set to go head-to-head this year for HBM4 dominance, with the next-generation chip poised to determine their positions in the artificial intelligence chip market.&lt;br&gt;&lt;br&gt;In a bid to retain its leadership in the lucrative AI market, SK hynix showcased a sample of the six-generation HBM4 chip last week at GTC 2025, a developer conference hosted by the industry's largest customer for AI chips, Nvidia.&lt;br&gt;&lt;br&gt;Having failed to gain an early edge in the lucrative market, Samsung Electronics renewed its commitment to make up for its past missteps to overtake the smaller rival with the upcoming HBM4 chips.
+                            SK브로드밴드가 한국과 미국, 일본, 대만 등 4개국을 연결하는 국제 해저 케이블 구축 컨소시엄 'E2A' 계약을 맺었다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;하민용 SK브로드밴드 AI DC사업부장은 "E2A 해저 케이블 참여를 통해 AI 시대 다양한 수요에 맞춰 서비스 안정성과 확장성을 크게 높일 수 있을 것으로 기대한다"고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.koreaherald.com/article/10447867?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.koreaherald.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/03/23/news-p.v1.20250323.aecc3d60c5af4a9a85a7a0935abc2bc1_T1.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item><item><title>📰 HBM4로 눈 돌리는 삼성·SK하이닉스…새로운 격전지서 '격돌'</title><link>https://www.yna.co.kr/view/AKR20250321154800003?input=1195m</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            6세대 고대역폭 메모리인 'HBM4'가 인공지능 반도체 시장의 새로운 격전지로 떠오르고 있다.&lt;br&gt;&lt;br&gt;반도체 업계 관계자는 "이미 엔비디아 물량의 대부분을 맡고 있는 SK하이닉스가 올해 물량을 '완판'했다고 밝힌 만큼 이미 HBM3E 시장은 포화 상태"라며 "삼성전자의 HBM3E 퀄테스트 통과가 사업적 의미는 있겠지만 공급량 확보 측면에서는 그다지 유의미하지 않을 수 있다"고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 "삼성은 이미 뒤처진 HBM3E 보다는 새로운 HBM4 시장에서 승기를 잡으려 할 것"이라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250321154800003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250324031000017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -54,6 +35,82 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img6.yna.co.kr/photo/yna/YH/2025/03/21/PYH2025032102690009100_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img2.yna.co.kr/etc/inner/KR/2025/03/24/AKR20250324031000017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 23 Mar 2025 17:00:32 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SKT, 美 스타트업 '투게더 AI'에 전략 투자…AI 운영비 감축 기대</title><link>https://www.newsis.com/view/NISX20250324_0003109748</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            투게더 AI 보유 AI 알고리즘 활용…추론속도·비용 등 효율화&lt;br&gt;&lt;br&gt;SKT AI 에이전트 '에스터', AI DC 등에서도 사업 협력 모색&lt;br&gt;&lt;br&gt;SK텔레콤은 '투게더 AI'에 전략적 투자를 진행하고 AI 플랫폼 구축을 위한 개발 협력을 강화한다고 24일 밝혔다. SK텔레콤의 구체적인 투자 규모는 공개되지 않았다.&lt;br&gt;&lt;br&gt;AI 클라우드 및 오픈소스 전문 기업인 투게더 AI는 2022년 미국 캘리포니아주에 설립됐다. 최근 3억500백만 달러(약 4470억원) 규모의 시리즈B 투자 유치에 성공하며 글로벌 AI 기업으로서 성장세를 인정받았다.&lt;br&gt;&lt;br&gt;SK텔레콤은 북미 시장 진출을 앞둔 글로벌 개인 AI 에이전트 에스터(A*), LLM, GPU 효율화와 관련해 투게더 AI와 협력을 모색할 방침이다. 투게더 AI가 AI 모델 학습 및 파인튜닝 역량과 컴퓨팅 리소스 효율화 기술 구현 역량을 보유하고 있기 때문이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250324_0003109748" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/03/24/NISI20250324_0001798582_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SK플래닛·원스토어 희망퇴직 실시…SK그룹 리밸런싱 지속(종합)</title><link>https://www.yna.co.kr/view/AKR20250324099751017?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            작년 초부터 조직 슬림화와 운영 효율화 등 리밸런싱을 추진해 온 SK그룹이 올해에도 그 기조를 이어가고 있다.&lt;br&gt;&lt;br&gt;SK플래닛은 고환율, 소비 시장 위축 등 외부 경영 환경이 불안정한 점과, 내부적으로 장기간 성장이 정체되고 사업 모델과 서비스 기반이 약화한 점을 고려해 희망퇴직을 실시한다고 밝혔다.&lt;br&gt;&lt;br&gt;SK스퀘어의 앱 마켓 자회사인 원스토어도 최근 설립 이후 처음으로 희망퇴직을 실시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250324099751017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img4.yna.co.kr/photo/cms/2020/03/27/37/PCM20200327000037017_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 “세계 최초 HBM4” SK하닉, HBM ‘절대 지존’… 韓 영업익 1위 기업도...</title><link>https://biz.heraldcorp.com/article/10448230?ref=naver</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            증권가에선 올해 SK하이닉스가 엔비디아 향(向) HBM 수출 호조를 기반으로 ‘절대 강자’ 삼성전자를 제치고 연간 영업이익 1위 기업으로 이름을 올릴지 관심이 집중된다.&lt;br&gt;&lt;br&gt;24일 한국거래소에 따르면 SK하이닉스 주가는 올해 들어서만 지난 21일 종가까지 23.92%(17만3900→21만5500원) 상승했다.&lt;br&gt;&lt;br&gt;SK하이닉스 주가 상승세의 밑바탕에는 반도체 업황 개선에 대한 기대감이 깔려 있다는 분석이 증권가의 중론이다. 글로벌 투자은행(IB) 모건스탠리는 최근 보고서를 통해 “D램 현물 가격은 중국 AI 수요 증가와 PC·스마트폰 재고 축소 영향으로 올해 초부터 점진적인 회복세를 보이고 있으며, 낸드플래시도 주요 업체들의 감산 효과가 본격화되고 있다”면서 “단기적으로 메모리 반도체 가격이 상승할 가능성이 있다”고 평가했다.&lt;br&gt;&lt;br&gt;전문가들은 레거시(범용) 반도체 업황 반등이 하방을 지지해 주는 가운데, 글로벌 시장을 주도하며 주가 역시 강세로 이끌었던 HBM이 올해도 SK하이닉스 주가의 향후 높이를 가늠할 키워드라고 꼽는다.&lt;br&gt;&lt;br&gt;5세대 HBM ‘HBM3E’ 전장에서 삼성전자, 마이크론 테크놀로지 등 경쟁자를 상대로 ‘완승’을 거둔 SK하이닉스는 6세대 ‘HBM4’에서도 첫 신호탄을 쏜 상황이다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://biz.heraldcorp.com/article/10448230?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: biz.heraldcorp.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/03/24/news-p.v1.20250324.13f6f1263c9a401488839d41c799e853_T1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 논산딸기축제에 인공지능 입힌다…AI마케팅솔루션 도입</title><link>https://www.newsis.com/view/NISX20250324_0003110751</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK텔레콤의 AI 기반 타겟 마켓팅 솔루션은 '지오펜싱' 기술을 활용해 특정 지역에 방문한 고객에게 맞춤형 정보를 자동 발송하는 방식으로 운영된다.&lt;br&gt;&lt;br&gt;시는 전국 최초 인공지능 기반 타겟 마케팅 솔루션을 지역 내 모든 축제와 행사로 확대하는 것은 물론 '2025~2026 충남방문의 해'를 맞아 논산을 방문하는 관광객을 대상으로 상시 운영하고 충남 전역으로 확대해 나갈 계획이다.&lt;br&gt;&lt;br&gt;시는 SK텔레콤과 인공지능을 비롯한 다양한 분야에서 협력 체계를 구축해 시민들의 교통, 안전, 재난 정보 등 생활과 밀접한 현안 해결에도 최선을 다한다는 목표다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.newsis.com/view/NISX20250324_0003110751" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.newsis.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img1.newsis.com/2025/03/24/NISI20250324_0001799267_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item></channel></rss>
