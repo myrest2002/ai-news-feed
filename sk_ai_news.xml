@@ -1,108 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 24 Mar 2025 08:00:35 +0000</lastBuildDate><item><title>📰 "퓨리오사AI, 메타 1조원대 인수 제안 거절"</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=03375126642106600</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 25 Mar 2025 08:00:37 +0000</lastBuildDate><item><title>📰 과기부, AI 컨퍼런스 개최…"AI 인프라·모델 함께 잡는다"(종합)</title><link>https://www.news1.kr/it-science/general-it/5730904</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            24일(현지시간) 블룸버그통신은 메타가 올해 초부터 한국의 AI 칩 스타트업 퓨리오사AI와 인수 협상을 진행해왔는데 퓨리오사AI가 경영권 해외 매각 대신 AI 칩 개발·양산 등 독자적인 성장을 이어가기로 결정하면서 협상을 종료했다고 보도했다.&lt;br&gt;&lt;br&gt;메타는 AI 인프라에 막대한 투자를 하고 있다. 중국 항저우를 기반으로 한 딥시크와 같은 신생 기업뿐만 아니라 오픈AI와 구글 등과의 경쟁에서 우위를 점하기 위해 노력 중이다. 마크 저커버그 메타 최고경영자(CEO)는 지난 1월 대규모 데이터 센터를 구축하고 AI 인력을 확충하는 데 올해 650억 달러(약 95조 3200억원)를 투자할 계획이라고 밝혔으며, 이후에도 수천억 달러 규모로 AI 인프라 확장을 예고했다.&lt;br&gt;&lt;br&gt;메타는 페이스북과 인스타그램의 광고 추천 및 콘텐츠 랭킹 시스템을 강화하기 위해 자체 AI 칩을 개발 중이다. 2023년엔 최초의 맞춤형 AI 추론 칩을 출시했으며, 작년에 업그레이드된 버전을 공개했다.&lt;br&gt;&lt;br&gt;퓨리오사AI는 메타의 투자를 유치한 소수의 아시아 스타트업 중 한 곳이다. 삼성전자와 AMD 출신의 백준 대표가 이끄는 퓨리오사AI는 AI 연산(추론) 칩을 개발하고 있다.&lt;br&gt;&lt;br&gt;퓨리오사AI의 2세대 프로세서인 ‘레니게이드(RNGD)’는 세계 최대 파운드리업체(위탁생산)인 TSMC의 5나노 공정을 기반으로 AI 반도체 최초로 SK하이닉스의 고대역폭 메모리 HBM3를 활용해 하반기 본격적인 양산을 목표로 하고 있다.
+                            과기부 'AI 글로벌 컨퍼런스'서 국내외 AI 기업 전략적 협력 논의&lt;br&gt;&lt;br&gt;과기정통부, 혁신R&amp;D장비기술센터 개소…"기술개발 지원 일원화"&lt;br&gt;&lt;br&gt;과기부 'AI 글로벌 컨퍼런스'서 국내외 AI 기업 전략적 협력 논의&lt;br&gt;&lt;br&gt;"디지털혁신인재, 韓 미래를 이끌다"…과기부, 심포지엄 개최
                         &lt;/div&gt;
                         
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=03375126642106600" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.news1.kr/it-science/general-it/5730904" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
+                            출처: www.news1.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/03/PS25032401019.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://i3n.news1.kr/system/photos/2025/3/25/7199462/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SK브로드밴드, 한-미-일-대만 잇는 국제 해저 케이블 구축 참여</title><link>https://www.yna.co.kr/view/AKR20250324031000017?input=1195m</link><description>
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 허태수 GS회장, 한경협 'AI혁신위원회' 초대 위원장 취임</title><link>https://www.joongang.co.kr/article/25323337</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK브로드밴드가 한국과 미국, 일본, 대만 등 4개국을 연결하는 국제 해저 케이블 구축 컨소시엄 'E2A' 계약을 맺었다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;하민용 SK브로드밴드 AI DC사업부장은 "E2A 해저 케이블 참여를 통해 AI 시대 다양한 수요에 맞춰 서비스 안정성과 확장성을 크게 높일 수 있을 것으로 기대한다"고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                            허태수 GS회장, 한경협 'AI혁신위원회' 초대 위원장 취임&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;허태수 GS그룹 회장이 한국경제인협회(한경협) 인공지능(AI) 혁신위원회 초대 위원장에 취임했다.&lt;br&gt;&lt;br&gt;한경협은 25일 서울 영등포구 FKI타워에서 AI 혁신위원회 회의를 열고 국내 AI 산업 관련 기업 의견과 향후 정책 과제 등을 논의했다. 신설된 AI 혁신위원회는 정책, 기술개발·확산, 인재·인프라, 거버넌스·표준, 미래성장 등 분과로 나눠 AI 산업 발전 방안을 논의할 계획이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250324031000017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.joongang.co.kr/article/25323337" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: www.joongang.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img2.yna.co.kr/etc/inner/KR/2025/03/24/AKR20250324031000017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202503/25/6a2510ae-06f2-4133-82e2-ae8f0a7b3529.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SKT, 美 스타트업 '투게더 AI'에 전략 투자…AI 운영비 감축 기대</title><link>https://www.newsis.com/view/NISX20250324_0003109748</link><description>
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 퓨리오사AI, 메타 인수제안 거절…“독자적 AI칩 개발·양산”</title><link>http://www.segye.com/newsView/20250324517343?OutUrl=naver</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            투게더 AI 보유 AI 알고리즘 활용…추론속도·비용 등 효율화&lt;br&gt;&lt;br&gt;SKT AI 에이전트 '에스터', AI DC 등에서도 사업 협력 모색&lt;br&gt;&lt;br&gt;SK텔레콤은 '투게더 AI'에 전략적 투자를 진행하고 AI 플랫폼 구축을 위한 개발 협력을 강화한다고 24일 밝혔다. SK텔레콤의 구체적인 투자 규모는 공개되지 않았다.&lt;br&gt;&lt;br&gt;AI 클라우드 및 오픈소스 전문 기업인 투게더 AI는 2022년 미국 캘리포니아주에 설립됐다. 최근 3억500백만 달러(약 4470억원) 규모의 시리즈B 투자 유치에 성공하며 글로벌 AI 기업으로서 성장세를 인정받았다.&lt;br&gt;&lt;br&gt;SK텔레콤은 북미 시장 진출을 앞둔 글로벌 개인 AI 에이전트 에스터(A*), LLM, GPU 효율화와 관련해 투게더 AI와 협력을 모색할 방침이다. 투게더 AI가 AI 모델 학습 및 파인튜닝 역량과 컴퓨팅 리소스 효율화 기술 구현 역량을 보유하고 있기 때문이다.
+                            국내 인공지능(AI) 반도체 설계 기업 퓨리오사AI가 메타의 인수 제안을 거절했다.&lt;br&gt;&lt;br&gt;24일 반도체 업계에 따르면 백준호 퓨리오사AI 대표는 이날 메타와 인수 협상을 진행하지 않는다고 사내 공지했다. 메타 측에도 매각 거절 의사를 전달한 것으로 알려졌다. 퓨리오사AI는 엔비디아 AI 반도체 대비 비용 효율적인 신경망처리장치(NPU) 워보이, 레니게이드를 개발했다. 레니게이드는 AI 반도체 최초로 SK하이닉스 고대역폭 메모리 HBM3를 탑재했고 하반기에 본격적인 양산을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;퓨리오사AI는 경영권을 해외에 매각하는 대신 레니게이드 등 독자적인 AI칩을 개발·양산하겠다는 선택을 내린 것으로 전해졌다. 퓨리오사AI가 메타 제안을 거절한 배경으로 최근 진행된 레니게이드 성능 평가에서 유의미한 성과를 얻으며 자체 칩 개발·양산이 회사를 해외에 매각하는 선택보다 실익이 크다는 판단이 작용했다는 후문이다.&lt;br&gt;&lt;br&gt;레니게이드는 엔비디아 H100의 다음 단계로 최상위 추론용 AI 칩으로 꼽히는 L40S와 유사한 성능을 보이지만, 전력 소모량은 150W로 L40S의 350W보다 2배 이상 효율적이다. 퓨리오사AI는 LG AI연구원, 사우디 아람코 등 국내외 주요 기업들과 레니게이드 성능 테스트를 진행 중이다.&lt;br&gt;&lt;br&gt;메타는 지난해 10월 이후 미국, 이스라엘 등 AI 팹리스 업체를 인수합병(M&amp;A) 대상으로 접촉하다 퓨리오사AI를 유력 인수 대상으로 협상에 나선 것으로 알려졌다. 메타는 자사의 AI 모델 학습과 추론에 최적화된 자체 칩을 설계하기 위해 AI 팹리스 스타트업 인수에 공을 들여왔다. 퓨리오사AI의 기업 가치는 8000억원 정도로 추정되며, 메타는 퓨리오사AI에 8억달러(약 1조2000억원)를 인수 제안가로 제시한 것으로 알려져 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.newsis.com/view/NISX20250324_0003109748" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="http://www.segye.com/newsView/20250324517343?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
+                            출처: www.segye.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/03/24/NISI20250324_0001798582_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://www.segye.com/content/image/2025/03/24/20250324519141.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 SK플래닛·원스토어 희망퇴직 실시…SK그룹 리밸런싱 지속(종합)</title><link>https://www.yna.co.kr/view/AKR20250324099751017?input=1195m</link><description>
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 한경협, 민간 첫 'AI위원회' 출범…위원장 GS 허태수 회장</title><link>https://www.newsis.com/view/NISX20250324_0003110850</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            작년 초부터 조직 슬림화와 운영 효율화 등 리밸런싱을 추진해 온 SK그룹이 올해에도 그 기조를 이어가고 있다.&lt;br&gt;&lt;br&gt;SK플래닛은 고환율, 소비 시장 위축 등 외부 경영 환경이 불안정한 점과, 내부적으로 장기간 성장이 정체되고 사업 모델과 서비스 기반이 약화한 점을 고려해 희망퇴직을 실시한다고 밝혔다.&lt;br&gt;&lt;br&gt;SK스퀘어의 앱 마켓 자회사인 원스토어도 최근 설립 이후 처음으로 희망퇴직을 실시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                            삼성전자, 네이버 등 주요 기업들이 참여하는 가운데 초대 위원장은 허태수 GS그룹 회장이 맡았다.&lt;br&gt;&lt;br&gt;한국경제인협회(한경협)는 25일 오전 서울 영등포구 FKI타워 컨퍼런스센터에서 대통령 직속 국가인공지능위원회(국가AI위원회) 염재호 부위원장을 초청해 AI 혁신위원회를 개최하고 국내 AI 산업 관련 기업 의견과 향후 정책과제 등을 논의했다.&lt;br&gt;&lt;br&gt;허태수 회장이 초대 위원장을 맡았으며 네이버, 두산, 두나무, 롯데이노베이트, 삼성글로벌리서치, 현대차, CJ, LG, KT, SK텔레콤 등 16곳이 운영위원으로 참여한다. 이경무 서울대 전기정보공학부 교수, 윤지웅 과학기술정책연구원장 등 7명이 자문위원을 맡았다.&lt;br&gt;&lt;br&gt;AI 혁신위원회는 정책, 기술개발·확산, 인재·인프라, 거버넌스·표준, 미래성장 5개 분과를 구성해 운영한다. 국가AI위원회와 유기적인 협력을 지속하고, 정책당국자 초청 간담을 포함해 분과별로 정책과제를 선별해 국회와 정부에 전달함으로써 실효성 있는 제도 개선을 이끌어낸다는 계획이다.&lt;br&gt;&lt;br&gt;허 회장은 그간 AI를 통한 혁신의 중요성을 강조해 왔다. 해커톤, AI·디지털 협의체 등을 주기적으로 개최하며 AI를 활용한 업무 효율 향상과 고객 경험 개선, 비즈니스 기회 창출의 중요성을 일찍부터 강조했다. 최근에는 생성형 AI를 도입해 사업 현장에 적용하고 있다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250324099751017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img4.yna.co.kr/photo/cms/2020/03/27/37/PCM20200327000037017_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 “세계 최초 HBM4” SK하닉, HBM ‘절대 지존’… 韓 영업익 1위 기업도...</title><link>https://biz.heraldcorp.com/article/10448230?ref=naver</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            증권가에선 올해 SK하이닉스가 엔비디아 향(向) HBM 수출 호조를 기반으로 ‘절대 강자’ 삼성전자를 제치고 연간 영업이익 1위 기업으로 이름을 올릴지 관심이 집중된다.&lt;br&gt;&lt;br&gt;24일 한국거래소에 따르면 SK하이닉스 주가는 올해 들어서만 지난 21일 종가까지 23.92%(17만3900→21만5500원) 상승했다.&lt;br&gt;&lt;br&gt;SK하이닉스 주가 상승세의 밑바탕에는 반도체 업황 개선에 대한 기대감이 깔려 있다는 분석이 증권가의 중론이다. 글로벌 투자은행(IB) 모건스탠리는 최근 보고서를 통해 “D램 현물 가격은 중국 AI 수요 증가와 PC·스마트폰 재고 축소 영향으로 올해 초부터 점진적인 회복세를 보이고 있으며, 낸드플래시도 주요 업체들의 감산 효과가 본격화되고 있다”면서 “단기적으로 메모리 반도체 가격이 상승할 가능성이 있다”고 평가했다.&lt;br&gt;&lt;br&gt;전문가들은 레거시(범용) 반도체 업황 반등이 하방을 지지해 주는 가운데, 글로벌 시장을 주도하며 주가 역시 강세로 이끌었던 HBM이 올해도 SK하이닉스 주가의 향후 높이를 가늠할 키워드라고 꼽는다.&lt;br&gt;&lt;br&gt;5세대 HBM ‘HBM3E’ 전장에서 삼성전자, 마이크론 테크놀로지 등 경쟁자를 상대로 ‘완승’을 거둔 SK하이닉스는 6세대 ‘HBM4’에서도 첫 신호탄을 쏜 상황이다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://biz.heraldcorp.com/article/10448230?ref=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: biz.heraldcorp.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://wimg.heraldcorp.com/news/cms/2025/03/24/news-p.v1.20250324.13f6f1263c9a401488839d41c799e853_T1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item><item><title>📰 논산딸기축제에 인공지능 입힌다…AI마케팅솔루션 도입</title><link>https://www.newsis.com/view/NISX20250324_0003110751</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤의 AI 기반 타겟 마켓팅 솔루션은 '지오펜싱' 기술을 활용해 특정 지역에 방문한 고객에게 맞춤형 정보를 자동 발송하는 방식으로 운영된다.&lt;br&gt;&lt;br&gt;시는 전국 최초 인공지능 기반 타겟 마케팅 솔루션을 지역 내 모든 축제와 행사로 확대하는 것은 물론 '2025~2026 충남방문의 해'를 맞아 논산을 방문하는 관광객을 대상으로 상시 운영하고 충남 전역으로 확대해 나갈 계획이다.&lt;br&gt;&lt;br&gt;시는 SK텔레콤과 인공지능을 비롯한 다양한 분야에서 협력 체계를 구축해 시민들의 교통, 안전, 재난 정보 등 생활과 밀접한 현안 해결에도 최선을 다한다는 목표다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250324_0003110751" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250324_0003110850" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -111,6 +73,82 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img1.newsis.com/2025/03/24/NISI20250324_0001799267_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/03/24/NISI20250324_0001799322_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Mon, 24 Mar 2025 17:00:35 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 LG유플러스, 'AI 전환' 속도…권봉석 합류로 그룹 역량 결집</title><link>https://www.moneys.co.kr/article/2025032512405741141</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            LG유플러스, 'AI 전환' 속도…권봉석 합류로 그룹 역량 결집&lt;br&gt;&lt;br&gt;홍범식 사장 사내이사, 권봉석 ㈜LG COO 기타비상무이사 선임&lt;br&gt;&lt;br&gt;LG유플러스가 올해 인공지능 전환(AX)을 핵심 성장 전략으로 내세우며 고객 맞춤형 인공지능(AI) 서비스를 본격적으로 선보일 계획이다. LG그룹 차원의 시너지를 극대화하기 위해 권봉석 LG 최고운영책임자(COO)를 기타비상무이사로 새롭게 선임하며 그룹 차원의 AI 전환 전략에도 힘을 실었다.&lt;br&gt;&lt;br&gt;LG유플러스는 25일 서울 용산구 LG유플러스 사옥에서 제29기 정기주주총회를 열고 ▲2024년 재무제표 승인 ▲이사 선임 ▲감사위원회 위원 선임 ▲이사 보수한도 승인 등 총 4개 안건을 원안대로 통과시켰다.&lt;br&gt;&lt;br&gt;이번 주총에서 LG유플러스의 새로운 수장을 맞는 의미 있는 인사도 있었다. 홍범식 LG유플러스 사장이 사내이사로 신규 선임됐으며 이후 이사회를 통해 대표이사로 공식 선임될 예정이다. 홍 사장은 이날 주총에서 직접 향후 경영 전략을 설명하며 회사의 중장기 방향성을 제시했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.moneys.co.kr/article/2025032512405741141" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.moneys.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://menu.moneys.co.kr/moneyweek/thumb/2025/03/25/06/2025032512405741141_1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 SK스퀘어 자회사 SK플래닛과 원스토어 잇단 희망퇴직</title><link>https://isplus.com/article/view/isp202503240309</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK스퀘어의 자회사 SK플래닛과 원스토어가 희망퇴직을 실시한다.&lt;br&gt;&lt;br&gt;25일 업계에 따르면 OK캐쉬백을 운영하는 SK플래닛은 전체 구성원을 대상으로 희망퇴직 신청을 받는다고 공지한 것으로 알려졌다. 신청 기한은 이달 31일부터 다음 달 11일까지다.&lt;br&gt;&lt;br&gt;SK플래닛은 심사를 통해 신청자 중 희망퇴직 승인 여부를 개별 통지하고, 내달 30일자로 퇴직하도록 할 예정이다.&lt;br&gt;&lt;br&gt;퇴직 조건으로는 근속 연수와 연령에 따른 특별 퇴직금을 내걸었다. 1986년 이후 출생자는 기본 연봉 12개월치, 1976~1985년생은 근속 연수에 따라 14~18개월치다. 1975년 이전 출생자는 근속 연수에 따라 기본 연봉의 20~24개월치로 정했다.&lt;br&gt;&lt;br&gt;SK플래닛은 “고환율, 소비 시장 위축 등 외부 경영 환경이 불안정한 점과, 내부적으로 장기간 성장이 정체되고 사업 모델과 서비스 기반이 약화한 점을 고려해 희망퇴직을 실시한다”고 밝혔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://isplus.com/article/view/isp202503240309" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: isplus.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://isplus.com/data/isp/image/2024/11/27/isp20241127000324.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 SK C&amp;C, '톱3 SI' 지키기 위해 글로벌 사업 박차</title><link>http://www.hansbiz.co.kr/news/articleView.html?idxno=740224</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            제조향 디지털팩토리 전환 사업에 AI 도입...해외 수출 주력&lt;br&gt;&lt;br&gt;현대오토에버 무섭게 쫓아오지만...SI는 내부 거래 의존성 탈피 중요&lt;br&gt;&lt;br&gt;SK C&amp;C가 시스템 통합(SI) '빅3' 지위를 굳히기 위해 해외 사업에 주력한다. / SK C&amp;C&lt;br&gt;&lt;br&gt;24일 업계에 따르면 전통적으로 국내 SI 업계는 삼성 SDS, LG CNS, SK C&amp;C가 삼두마차를 형성하고 있었으나, 2022년 이후 현대오토에버 매출이 SK C&amp;C를 넘어서며 매섭게 추격하고 있다. 또 급성장 중인 2위 LG CNS와의 격차도 벌어지고 있어 오랜 기간 지켜온 '빅3' 타이틀이 무색해지는 상황이다.&lt;br&gt;&lt;br&gt;SI가 그룹 계열사와의 내부 거래에 의존하는 특성이 큰 탓에 SK C&amp;C는 회사를 글로벌 기업으로 키우고 인공지능(AI) 사업을 확대하려는 전략을 꾀해왔다. 1년전 윤풍영 SK C&amp;C 대표는 "올해는 글로벌에서의 사업 영토를 적극적으로 발굴하는 원년이 돼야 한다"며 임직원들에게 해외 사업 육성을 적극 주문했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=740224" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.hansbiz.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.hansbiz.co.kr/news/thumbnail/202503/740224_731232_929_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item><item><title>📰 SK브로드밴드, 韓·美·日·대만 연결 해저케이블 구축</title><link>http://www.segye.com/newsView/20250324514834?OutUrl=naver</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK브로드밴드가 일본 소프트뱅크 등과 함께 한국·미국·일본·대만을 연결하는 국제 해저 케이블 구축 사업에 참여한다.&lt;br&gt;&lt;br&gt;SK브로드밴드는 21일 서울에서 국제 해저 케이블 구축 컨소시엄 ‘E2A’ 계약을 맺었다고 24일 밝혔다. 이번 컨소시엄에는 국내에서 SK브로드밴드가 단독으로 참여하고, 소프트뱅크, 대만 청화텔레콤 등이 함께한다.&lt;br&gt;&lt;br&gt;E2A 해저 케이블은 태평양을 횡단하며 총 길이는 1만2500㎞다. 부산과 일본 지바현의 마루야마, 대만 이란현의 터우청, 미국 캘리포니아의 모로 베이 등 아시아와 미국의 주요 디지털 허브를 연결한다.&lt;br&gt;&lt;br&gt;앞서 이 회사는 2018년 처음으로 아시아 9개국 11개 지역을 연결하는 국제 해저케이블 구축 컨소시엄 ‘SJC2’에 참여한다고 발표했다.&lt;br&gt;&lt;br&gt;하민용 SK브로드밴드 AI DC사업부장은 “E2A 해저 케이블 참여를 통해 AI 시대 다양한 수요에 맞춰 서비스 안정성과 확장성을 크게 높일 수 있을 것으로 기대한다”고 밝혔다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="http://www.segye.com/newsView/20250324514834?OutUrl=naver" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.segye.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="//img.segye.com/static/2019_segye/resources/images/logo_bk.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 25 Mar 2025 17:00:37 +0900</pubDate></item></channel></rss>
