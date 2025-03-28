@@ -1,116 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Thu, 27 Mar 2025 08:00:31 +0000</lastBuildDate><item><title>📰 [단독] MS 10배 키운 나델라 장담 "AI판 뒤집을 대혁신 온다"</title><link>https://www.joongang.co.kr/article/25323870</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 28 Mar 2025 08:00:38 +0000</lastBuildDate><item><title>📰 인천공항, AI 혁신 생태계 조성 시동...오늘 개항 24주년 기념식</title><link>https://www.hankyung.com/article/202503285035h</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            [단독] MS 10배 키운 나델라 장담 "AI판 뒤집을 대혁신 온다"&lt;br&gt;&lt;br&gt;로그인 하시면 최신호의 전체 내용을 보실 수 있습니다.&lt;br&gt;&lt;br&gt;더중앙플러스 회원이 되시면 창간호부터 전체 지면보기와 지면 다운로드가 가능합니다.&lt;br&gt;&lt;br&gt;“AI 에이전트(비서)는 질문에 답하고, 작업을 수행하고 자율적으로 행동도 하지만, 결국 사용자에게 돌아와 허가와 지시를 요청해야 한다. 스스로 결정하기보다, 인간과 함께 작동한다.”&lt;br&gt;&lt;br&gt;마이크로소프트(MS) 사티아 나델라 최고경영자(CEO)는 26일 서울 서초구 양재aT센터에서 중앙일보와 가진 단독 인터뷰에서 이 같이 말했다. “AI가 사람보다 우월한 결정을 내릴 미래에 대해 어떻게 대비해야 하냐”는 질문에 대한 답이다. 그는 분명 AI가 똑똑해지고 있지만 최종 결정권은 인간에게 있다고 강조했다.
+                            인천공항, AI 혁신 생태계 조성 시동...오늘 개항 24주년 기념식&lt;br&gt;&lt;br&gt;인공지능(AI) 혁신 허브는 인천공항 관련 시스템에 AI 기술을 접목하고 인근에 글로벌 테크 기업을 유치해 AI 생태계를 조성하는 사업이다. 인천공항이 세계 최고 수준의 공항이지만, 글로벌 공항 경쟁에서 우위를 선점하기 위해서는 AI 기술 등 새로운 가치가 창출되는 ‘인천공항 4.0 시대’로의 도약이 필수적이라는 게 공사 측 판단이다.&lt;br&gt;&lt;br&gt;공사는 항공 AI 데이터센터, 항공 연구개발(R&amp;D)·비즈니스 센터, 글로벌 빅테크 기업 유치 등을 골자로 하는 항공 AI 혁신 허브 개발사업을 추진하고 있다.&lt;br&gt;&lt;br&gt;최근 서울대 AI 연구원, SK텔레콤, LG CNS, KAIST 김재철AI대학원, 삼천리자산운용 등이 참여하는 컨소시엄이 최우수 제안자로 선정됐다.&lt;br&gt;&lt;br&gt;제안자 컨소시엄은 글로벌 빅테크 기업인 엔비디아의 솔루션을 활용한 공항 운영모델 고도화 추진, 국내 유수 대학 AI 연구원 등과의 R&amp;D 센터 운영, 입주계획을 밝힌 50여 개 스타트업과의 다양한 협업계획을 제안했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.joongang.co.kr/article/25323870" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.hankyung.com/article/202503285035h" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.joongang.co.kr
+                            출처: www.hankyung.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://pds.joongang.co.kr/news/FbMetaImage/202503/aa49a2bc-38f7-41d6-9d99-2c1e8f2acce0.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img.hankyung.com/photo/202503/01.39965027.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 SK텔레콤, ESG 비전 ‘DO THE GOOD AI’ 공개</title><link>https://zdnet.co.kr/view/?no=20250327090354</link><description>
+                </description><pubDate>Fri, 28 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 박상규 SK이노 사장 "2027년 통합 시너지 효과 가시화"</title><link>https://news.mtn.co.kr/news-detail/2025032815294058729</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤은 ESG 경영 전반에 AI를 접목한 ESG 비전 ‘DO THE GOOD AI’를 공개한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;SK텔레콤이 새롭게 선보이는 ESG 비전 ‘DO THE GOOD AI’는 크게 3가지 영역 ‘DO AI’, ‘T.H.E. AI’, ‘GOOD AI’으로 구성됐다. AI로 통신과 기술의 경쟁력을 높이면서(DO AI), SK텔레콤이 24년 3월 선보인 AI 거버넌스 ‘T.H.E AI(By Telco. For Humanity. With Ethics AI)’를 바탕으로 AI의 신뢰성과 안전성을 확보하고(T.H.E. AI), AI로 세상에 긍정적인 기여를 하도록 ESG 경영을 추진한다(GOOD AI)는 의미를 담았다.&lt;br&gt;&lt;br&gt;이를 통해 SK텔레콤은 AI와 ESG의 시너지를 창출해 AI 사업 성장에 기여하고, 동시에 다양한 분야에서 AI로 긍정적인 변화를 이끌며 지속가능한 성장을 추구하겠다는 방침이다.&lt;br&gt;&lt;br&gt;SK텔레콤은 환경(E) 측면에서 AI 기반 네트워크 설계 및 에너지 효율화 등 근원적인 넷제로 실행 방안을 추진해 나가고 있다. SK텔레콤은 통신 네트워크 설계 시 AI 기술을 활용해 고객 품질 변화를 사전에 예측하고 최적의 위치에 네트워크 장비를 배치하는 등 망을 효율적으로 구축하고 있다. 또한, AI 기술로 네트워크 트래픽 부하 수준에 따라 통신장비의 전기 소모를 동적으로 관리하는 등 전기 사용량을 감축하고 있다. 앞으로도 SK텔레콤은 통신 인프라 전반에 AI 기술을 확대 적용해 에너지 효율적인 망으로 진화하며 온실가스 배출을 최소화한다는 계획이다.&lt;br&gt;&lt;br&gt;사회(S) 영역에선 보이스피싱 예방, 사회 취약계층 케어 등 AI 기술 기반으로 다양한 사회 문제의 해법을 제시하며 사회적 가치 창출을 추구한다. 먼저 SK텔레콤은 AI를 기반으로 보이스피싱 의심 메시지, 전화를 월 평균 130만건 이상 차단하는 등 관련 기술을 고도화하며 고객 피해 예방에 앞장서고 있다.
+                            박상규 SK이노 사장 "2027년 통합 시너지 효과 가시화"&lt;br&gt;&lt;br&gt;SK E&amp;S와 합병후 첫 주총…"에너지 포트폴리오 기반 수익·성장성 구축"&lt;br&gt;&lt;br&gt;"배터리와 석유화학 동시 부진해 인내심 필요한 시기…재무안전성 확보"&lt;br&gt;&lt;br&gt;박상규 SK이노베이션 사장이 오는 2027년 SKI E&amp;S(SK이노베이션 E&amp;S)와의 통합 시너지 효과가 가시화될 것이라며 균형있는 에너지 포트폴리오를 기반으로 수익성과 성장성을 확보해 나가겠다고 밝혔다. 배터리와 석유화학 업황이 유례없이 동반 부진한 상황에서 LNG(액화천연가스)와 전력 등 중장기적으로 안정적인 수익을 확보할 수 있는 사업구조를 갖춰 불황을 타개해나겠다는 목표다.&lt;br&gt;&lt;br&gt;■ SK E&amp;S 합병 후 첫 주주총회…"균형잡힌 에너지 포트폴리오 확보"
                         &lt;/div&gt;
                         
-                        &lt;a href="https://zdnet.co.kr/view/?no=20250327090354" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://news.mtn.co.kr/news-detail/2025032815294058729" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: zdnet.co.kr
+                            출처: news.mtn.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.zdnet.co.kr/2025/03/27/5fe3b970cf1255e3322b8b0acccb89f6.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://menu.mtn.co.kr/upload/article/2025/03/28/2025032815294058729_00_540.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 곽노정 SK하닉 사장 "내년 HBM 물량, 올해 상반기에 협상 마무리"</title><link>https://www.news1.kr/industry/electronics/5733495</link><description>
+                </description><pubDate>Fri, 28 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 SK하이닉스, 인텔 사업부 인수 종결…기업용 SSD 사업 '가속'</title><link>https://www.yna.co.kr/view/AKR20250328050900003?input=1195m</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            곽노정 사장 "내년 HBM 물량, 올해 상반기 협상 마무리"(종합)&lt;br&gt;&lt;br&gt;"액자처럼 걸었다가 이동도 된다"…TCL, 초슬림 프레임TV 출시&lt;br&gt;&lt;br&gt;SK하이닉스, 이사회 의장에 한애라 교수…첫 여성 의장 선임&lt;br&gt;&lt;br&gt;이상일 시장 “평택~부발선 용인반도체 클러스터와 연결해야”&lt;br&gt;&lt;br&gt;'車관세 우려' 코스피 2600선 '추락'…'겹악재' 반도체주 '휘청'[시황종합]
+                            SK하이닉스가 인텔 낸드 사업부 인수 작업을 마무리했다.&lt;br&gt;&lt;br&gt;인수 1단계 절차 종결 시점이었던 2021년 말에는 인텔 중국 다롄 생산공장과 SSD 사업부문을 이전받았으며, 같은 해 12월 SSD 사업부문은 SK하이닉스의 미국 자회사 '솔리다임'으로 새롭게 출범했다.&lt;br&gt;&lt;br&gt;SK하이닉스는 인텔이 갖고 있던 핵심 자산에 대한 지배력을 확보한 만큼 낸드 사업에 대한 구체적인 전략 수립과 운영에 나설 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.news1.kr/industry/electronics/5733495" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250328050900003?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.news1.kr
+                            출처: www.yna.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://i3n.news1.kr/system/photos/2025/3/27/7203627/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img3.yna.co.kr/photo/yna/YH/2025/01/23/PYH2025012313920006100_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 [주총 포커스] 'HBM 선두' SK하이닉스…곽노정 사장 "올해 물량 완판"</title><link>https://www.bloter.net/news/articleView.html?idxno=633941</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "올해 고대역폭메모리(HBM) 물량은 이미 솔드아웃됐고, 내년 물량은 상반기 중 고객과의 협의를 마무리해 매출 안정성을 더욱 강화하겠다."&lt;br&gt;&lt;br&gt;곽노정 SK하이닉스 대표이사(사장)가 27일 경기 이천 SK하이닉스 본사에서 열린 제77기 정기 주주총회에서 이같이 말했다.&lt;br&gt;&lt;br&gt;곽 사장은 이날 "HBM은 제품 특성상 높은 투자비용과 긴 생산기간이 요구되는 만큼 고객들과 사전 물량에 대한 협의를 거쳐 판매 가시성을 높이고 있다"고 설명했다.&lt;br&gt;&lt;br&gt;현재 SK하이닉스는 인공지능(AI) 칩 시장을 주도하는 엔비디아에 HBM3E(5세대) 12단 제품을 사실상 독점공급하고 있다. 후속 제품인 HBM4(6세대) 12단 제품 역시 올해 하반기 양산을 목표로 주요 고객사에 샘플을 전달한 상태다.&lt;br&gt;&lt;br&gt;이번 주총에서 곽 사장은 글로벌 경제의 저성장 기조가 장기화하는 가운데도 AI 메모리 시장의 성장세는 지속될 것으로 내다봤다. 그는 "세계 경제 성장률 전망이 지속 하향되는 등 불확실성이 높지만 AI 시장의 주도권을 확보하기 위한 빅테크 기업들의 투자는 확대되고 있다"며 "그래픽처리장치(GPU), 맞춤형 칩(ASIC) 등의 증가로 HBM의 수요가 폭발적적으로 늘어날 것으로 예상된다”고 강조했다. 이어 "2023년 대비 올해 HBM 시장은 8.8배 이상 커지고 또 다른 AI 메모리인 기업용솔리드스테이트드라이브(eSSD) 시장 역시 3.5배 성장할 것으로 예상된다"고 덧붙였다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=633941" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202503/633941_240966_4817_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 삼성·SK·DB 반도체 3사, 공공 팹 고도화 나선다…인력·장비 지원</title><link>https://www.etnews.com/20250327000121</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            삼성·SK·DB 반도체 3사, 공공 팹 고도화 나선다…인력·장비 지원&lt;br&gt;&lt;br&gt;삼성전자, SK하이닉스, DB하이텍이 고경력 인력과 장비 등을 지원해 정부와 함께 반도체 공공팹 연계 플랫폼을 고도화한다.&lt;br&gt;&lt;br&gt;과학기술정보통신부는 27일 한국과학기술회관에서 삼성전자, SK하이닉스, DB하이텍과 반도체 첨단연구 및 기술사업화 선도를 위한 양해각서(MOU)를 체결했다.&lt;br&gt;&lt;br&gt;MOU는 인공지능(AI) 시대를 맞아 글로벌 반도체 패권 경쟁이 심화하는 가운데 국내 반도체 산업 경쟁력 강화를 위해 마련됐다.&lt;br&gt;&lt;br&gt;이를 위해 반도체 3사는 최근 본격적인 운영에 들어간 반도체 공공팹 연계 플랫폼 '모아팹(MoaFab)'의 연구개발(R&amp;D), 성능평가, 시제품 제작, 교육 등 공적 기능 강화에 역량을 투입한다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.etnews.com/20250327000121" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.etnews.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.etnews.com/news/article/2025/03/27/news-p.v1.20250327.b311f2285115426d9a17f30b070c222a_P1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item><item><title>📰 SK스퀘어 "AI·반도체 투자기업 정체성 강화할 것"</title><link>https://www.newsis.com/view/NISX20250327_0003115860</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK스퀘어는 이날 서울 을지로 본사 T타워 수펙스홀에서 제4기 정기 주주총회를 열고 지난해 성과와 올해 경영 목표를 발표했다.&lt;br&gt;&lt;br&gt;한 사장은 "올해 주주가치 제고를 위해 포트폴리오 밸류업, 비핵심자산 유동화, AI∙반도체 신규투자, 일관성 있는 주주환원에 주력하겠다"고 강조했다.&lt;br&gt;&lt;br&gt;SK스퀘어는 올해 포트폴리오 밸류업과 비핵심자산 유동화에 중점을 두고 질적 성장을 이뤄낸다는 계획이다.&lt;br&gt;&lt;br&gt;주요 ICT 포트폴리오는 활발한 O/I(운영개선) 활동을 통해, 핵심 경쟁력을 강화하고 수익성을 대폭 개선한다는 방침을 정했다.&lt;br&gt;&lt;br&gt;티맵모빌리티와 11번가는 올해 연간 에비타(법인세∙이자∙감가상각비 차감 전 영업이익·EBITDA) 흑자 달성을 목표로 사업을 추진한다. 티맵모빌리티는 성장성과 수익성이 높은 모빌리티 데이터 사업에 집중하고 AI와 연계를 강화할 예정이다. 11번가는 오픈마켓과 리테일 사업을 수익성 좋은 상품 카테고리로 재편해 실적 개선세를 이어 나갈 계획이다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250327_0003115860" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2025/03/27/NISI20250327_0001802465_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Thu, 27 Mar 2025 17:00:31 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Fri, 28 Mar 2025 17:00:38 +0900</pubDate></item></channel></rss>
