@@ -1,116 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 30 Mar 2025 08:00:38 +0000</lastBuildDate><item><title>📰 SK텔레콤, AI로 ESG 연다···'DO THE GOOD AI' 비전 공개</title><link>http://www.enewstoday.co.kr/news/articleView.html?idxno=2256825</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK텔레콤, AI로 ESG 연다···‘DO THE GOOD AI’ 비전 공개&lt;br&gt;&lt;br&gt;SK텔레콤, AI로 ESG 연다···‘DO THE GOOD AI’ 비전 공개&lt;br&gt;&lt;br&gt;SK텔레콤은 ESG 경영 전반에 AI를 접목한 ESG 비전 ‘DO THE GOOD AI’를 공개한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;새롭게 선보이는 ESG 비전 ‘DO THE GOOD AI’는 크게 ‘DO AI’, ‘T.H.E. AI’, ‘GOOD AI’ 등 3가지 영역으로 구성됐다.&lt;br&gt;&lt;br&gt;AI로 통신과 기술의 경쟁력을 높이면서(DO AI), 지난해 3월 선보인 AI 거버넌스 ‘T.H.E AI(By Telco. For Humanity. With Ethics AI)’를 바탕으로 AI의 신뢰성과 안전성을 확보하고(T.H.E. AI), AI로 세상에 긍정적인 기여를 하도록 ESG 경영을 추진한다(GOOD AI)는 의미를 담았다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2256825" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.enewstoday.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.enewstoday.co.kr/news/thumbnail/202503/2256825_1069865_3547_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 인천공항, 개항 24주년 맞아 항공 AI 혁신허브로 '비상'</title><link>https://www.asiatoday.co.kr/view.php?key=20250330010016123</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            인천공항이 올해로 개항 24주년을 맞이 AI(인공지능) 시대를 선도하는 '항공 AI 혁신허브'로의 힘찬 도약을 준비한다.&lt;br&gt;&lt;br&gt;이날 행사에서는 개항 24주년 기념 특별영상을 통해 인천공항 개항(2001.3.29.) 이후 현재까지 주요성과를 돌아보고 이어 '항공 AI 혁신허브 비전 선포식', 인천공항 서비스 경쟁력 강화 유공기관 시상식인 '제9회 ICN(아이씨엔) 어워즈'가 진행됐다.&lt;br&gt;&lt;br&gt;인천공항은 지난 2001년 개항 후 정부의 정책적 지원과 국민적 성원을 바탕으로 개항 24년 만에 세계 최고 수준의 공항으로 성장했다.&lt;br&gt;&lt;br&gt;또한 세계 최초로 ACI 주관 세계공항서비스평가(ASQ)에서 12년 연속(2006~2017년) 1위를 달성하고 ACI 고객경험인증에서 3년 연속(2022~2024년) 최고등급을 획득하는 등 서비스 선도공항으로서 글로벌 위상을 공고히 하고 있다.&lt;br&gt;&lt;br&gt;이에 더해 공항경제권 개발, 항공정비(MRO) 관련 첨단복합항공단지 조성과 아울러 2009년 해외사업 첫 진출 이후 18개국 38개 사업 수주(누적 수주액 약 4억 5백만 USD)등 신사업을 확대하고 공항운영 전 분야에 걸친 디지털 대전환을 통해 미래 경쟁력을 강화하고 있다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.asiatoday.co.kr/view.php?key=20250330010016123" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.asiatoday.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img.asiatoday.co.kr/file/2025y/03m/30d/2025033001002590600161231.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 daum.ai가 14억?..ai도메인 선점 나선 기업들</title><link>http://www.edaily.co.kr/news/newspath.asp?newsid=01666246642108568</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            30일 업계에 따르면 도메인 관리 기관인 한국인터넷진흥원(KISA)은 지난 5일부터 ai[.]kr, it[.]kr, io[.]kr, me[.]kr 등 4개 신규 3단계 kr도메인의 일반 등록을 시작했다. kr도메인이 신설된 것은 22년 만이다. 3단계 도메인이란 edaily[.]domain[.]kr과 같이 세 부분으로 나뉘는 인터넷 주소 형태를 말한다.&lt;br&gt;&lt;br&gt;이번 신규 도메인은 인공지능(ai), 정보기술(it), 디지털(io), 개인(me) 외에도 인기 상품(잇템-it), 메디컬(medical-me) 등 이용자가 원하는 의미로 해석해 다양하게 활용할 수 있다.&lt;br&gt;&lt;br&gt;최근 해당 신규 도메인을 등록한 기업에는 네이버, 카카오, 리멤버앤컴퍼니, 야놀자 등 플랫폼 기업뿐 아니라 SK텔레콤, KT, SK브로드밴드 등 통신사와 현대자동차, 기아자동차, LG전자, CJ, 롯데건설 등 대기업도 포함됐다.&lt;br&gt;&lt;br&gt;SK텔레콤(017670)은 지난 5일 에이닷 도메인(adot[.]ai[.]kr)을 등록했다. 네이버는 최근 naver[.]ai[.]kr, naver[.]io[.]kr, naver[.]it[.]kr, naver[.]me[.]kr 등 네 가지 도메인을 확보했으며 카카오(035720)도 kakao[.]ai[.]kr을 선점했다. kakao[.]io[.]kr과 kakao[.]it[.]kr, kakao[.]me[.]kr 도메인은 메가존이 등록한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;LG전자도 이번 신규 도메인 네 가지를 모두 가져갔다. (lge[.]ai[.]kr, lge[.]it[.]kr, lge[.]io[.]kr, lge[.]me[.]kr)
-                        &lt;/div&gt;
-                        
-                        &lt;a href="http://www.edaily.co.kr/news/newspath.asp?newsid=01666246642108568" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.edaily.co.kr
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://image.edaily.co.kr/images/Photo/files/NP/S/2025/03/PS25033000328.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 'ai.kr' 등 신규 도메인 등록 완료</title><link>https://www.jemin.com/news/articleView.html?idxno=793556</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            'ai.kr' 'it.kr' 'io.kr' 'me.kr' 등 신규 kr 도메인에 대한 상표권자 우선 등록이 774건, 일반 등록이 6천120건 진행됐다. 한국인터넷진흥원(KISA)은 30일 이 같은 내용을 밝혔다. KISA는 인터넷주소자원에 관한 법률에 따라 '.kr'과 '.한국'을 관리하고 있다. 최근 인공지능(AI) 기술에 대한 관심으로 해외 국가 도메인인 '.ai(앵귈라)' '.io(영국령 인도양 지역)' '.it(이탈리아)' '.me(몬테네그로)'가 AI 분야 스타트업, 정보기술(IT) 기업, 블로거 사이에서 활발히 사용됨에 따라 이들 도메인을 '.kr' 앞에 붙인 신규 국가 도메인을 도입했다.&lt;br&gt;&lt;br&gt;올해 초까지 상표권자 우선 등록을 진행한 결과 총 828건이 접수됐고, 774건이 등록을 마쳤다. 'ai.kr' 등록은 260건, 'io.kr'는 185건, 'it.kr'는 208건, 'me.kr'는 175건이다. 플랫폼 정보기술(IT) 회사로 네이버, 카카오, 이스트소프트, 한글과컴퓨터, 사람인, 리멤버, 야놀자, NHN, 이글루코퍼레이션, 빗썸이 등록했다. 통신사·방송사는 KT, KBS, MBC, EBS가 등록을 마쳤고 한국전력공사, 한국거래소, 한국능률협회, 연세대, 부산대병원, LG, CJ, SK C&amp;C, 현대자동차, 기아자동차 등도 등록했다.&lt;br&gt;&lt;br&gt;이달 초 시작한 일반 등록은 모두 6천120건으로 'ai.kr'는 2천742건, 'io.kr'는 1천139건, 'it.kr'는 1천173건, 'me.kr'는 1천66건이다. 신규 kr 도메인은 대한민국에 주소지를 둔 법인 또는 개인이라면 누구나 등록할 수 있고 연간 2만원 내외로 등록할 수 있어 10만원 내외인 해외 유사 국가도메인보다 저렴하다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.jemin.com/news/articleView.html?idxno=793556" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.jemin.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.jemin.com/news/thumbnail/202503/793556_381738_3853_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 '주방기기' 나비엔 매직, 공식출격…"국내매출 1조 이끌것"</title><link>https://www.newsis.com/view/NISX20250328_0003118220</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            2028년 국내 매출 1조·생활환경사업 3000억원 목표&lt;br&gt;&lt;br&gt;경동나비엔이 '나비엔 매직'을 론칭하며 주방기기 시장에 새로운 발걸음을 내디뎠다.&lt;br&gt;&lt;br&gt;김 부사장은 "공기질은 크게 실외와 실내로 구분된다. 지금까지는 일반 보일러보다 이산화탄소 배출량을 30%가량 줄인 콘덴싱 보일러를 통해 실외 공기를 지켜왔다"면서 "이제는 실내 공기질 관리에 집중할 때"라고 전했다.&lt;br&gt;&lt;br&gt;경동나비엔은 실내 공기를 관리하기 위해 가장 먼저 손대야 할 공간으로 주방을 꼽았다. 맛있는 요리가 완성되는 주방은 조리시 포름알데히드, 벤조피렌 등 유해물질들로 폐·심혈관 질환 발병률을 높이는 '요리매연'이 발생하는 곳이기도 하다.&lt;br&gt;&lt;br&gt;주방 공기를 잡겠다는 일념으로 경동나비엔은 2023년 레인지후드 전문 업체 리베첸의 자산을 인수하고, 지난해 SK매직의 가스레인지, 전기레인지, 전기오븐 세 개 분야의 영업권까지 사들였다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.newsis.com/view/NISX20250328_0003118220" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.newsis.com
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://img1.newsis.com/2025/03/25/NISI20250325_0001799869_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item><item><title>📰 [주총 포커스] 하영구 후임에 한애라 선임…SK하이닉스, 첫 여성 의장 시...</title><link>https://www.bloter.net/news/articleView.html?idxno=634106</link><description>
-                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
-                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
-                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SK하이닉스가 신임 이사회 의장에 한애라 성균관대 로스쿨 교수를 선임하며 창사 이래 '첫 여성 의장' 시대를 열었다.&lt;br&gt;&lt;br&gt;주주총회 직전까지도 하영구 블랙스톤 한국법인 회장(전 이사회 의장)의 후임자 선임에 난항을 겪으면서 일각에서는 그룹 경영진으로 구성된 기타비상무이사 중 한 명이 맡을 가능성도 거론됐지만 이사회의 독립성과 다양성을 고려한 행보로 풀이된다.&lt;br&gt;&lt;br&gt;다만 이미 한 차례 연임으로 한 교수가 내년 3월 임기 만료를 앞두고 있어 SK하이닉스는 신임 의장 선출 1년 만에 또다시 후임자를 구해야 하는 과제를 안게 됐다.&lt;br&gt;&lt;br&gt;30일 업계에 따르면 SK하이닉스는 최근 주주총회 직후 이사회를 열어 한 교수를 신임 이사회 의장으로 선출했다.&lt;br&gt;&lt;br&gt;1972년생인 한 교수는 서울대 법대를 졸업하고 미국 하버드 법학전문대학원에서 석사를 받았다. 1995년 사법시험(37회) 합격 이후에는 △사법연구원 교수(2011년) △창원지법 부장판사(2013년) △대법원 재판연구관(2014년) 등을 지내고 △2016∼2018년 김앤장 법률사무소 변호사로 활동했다.
-                        &lt;/div&gt;
-                        
-                        &lt;a href="https://www.bloter.net/news/articleView.html?idxno=634106" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
-                            원문 보기 →
-                        &lt;/a&gt;
-                        
-                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.bloter.net
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                    
-                    &lt;img src="https://cdn.bloter.net/news/thumbnail/202503/634106_241135_5741_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
-                &lt;/div&gt;
-                </description><pubDate>Sun, 30 Mar 2025 17:00:38 +0900</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 31 Mar 2025 08:03:11 +0000</lastBuildDate><item><title>📰 SK_AI - 금일 새로운 뉴스가 없습니다</title><description>
+        &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+            &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0;"&gt;
+                &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 안내&lt;/h3&gt;
+                &lt;p style="line-height: 1.6; color: #444;"&gt;
+                    2025년 03월 31일자 SK_AI 관련 새로운 뉴스가 없습니다.&lt;br&gt;
+                    다음 업데이트를 기다려주세요.
+                &lt;/p&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+        </description><pubDate>Mon, 31 Mar 2025 17:03:11 +0900</pubDate></item></channel></rss>
