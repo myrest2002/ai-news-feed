@@ -1,12 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Mon, 31 Mar 2025 08:03:11 +0000</lastBuildDate><item><title>📰 SK_AI - 금일 새로운 뉴스가 없습니다</title><description>
-        &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
-            &lt;div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin: 15px 0;"&gt;
-                &lt;h3 style="color: #202124; margin-top: 0;"&gt;📌 안내&lt;/h3&gt;
-                &lt;p style="line-height: 1.6; color: #444;"&gt;
-                    2025년 03월 31일자 SK_AI 관련 새로운 뉴스가 없습니다.&lt;br&gt;
-                    다음 업데이트를 기다려주세요.
-                &lt;/p&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-        </description><pubDate>Mon, 31 Mar 2025 17:03:11 +0900</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 04 Apr 2025 08:00:44 +0000</lastBuildDate><item><title>📰 박외진 아크릴 대표 "AI, 모델 전쟁 끝···이젠 운영 전쟁"</title><link>https://zdnet.co.kr/view/?no=20250404085309</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            "기술이라는 긴 터널 끝에 결국 우리가 도달해야 할 곳은 고객 뿐이라는 걸 다시 한번 절감했습니다."&lt;br&gt;&lt;br&gt;박외진 아크릴 대표는 4일 코스닥 기술특례 상장을 위한 기술성평가 통과 소감을 이렇게 밝혔다.&lt;br&gt;&lt;br&gt;아크릴은 최근 예비 기술평가에서 ‘A등급’을 받으며 큰 산 하나를 넘었다. 이어 본 기술평가를 신청, 하반기에 기술 특례 상장한다는 목표다.&lt;br&gt;&lt;br&gt;금융업계에 따르면, 최근 들어 IPO 전문심사 기관의 검증이 한층 강화, 기술성 평가를 통과하기가 매우 어려워졌다. 기술성 평가 통과 자체가 투자자 사이에서 ‘기술력과 '사업화' 가능성을 모두 검증 받은 기업’ 으로 간주되는 분위기다. 최근 아크릴이 기술성 평가 통과한 사실이 화제가 되는 이유이기도 하다. 박 대표는 "기술력은 물론 사업화와 지속 가능성도 높아야 기술성 평가를 통과하는게 요즘 분위기"라며 "AI 인프라 시장의 ‘게임 체인저’로 인정받은 것 같아 기쁘다"고 말했다.&lt;br&gt;&lt;br&gt;기업 인공지능 효율적 운영 돕는 MLOps 전문 플랫폼 기업
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://zdnet.co.kr/view/?no=20250404085309" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: zdnet.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.zdnet.co.kr/2025/04/04/d082111613b371903b051efbdd3b8704.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item><item><title>📰 유영상 SKT 대표 "연내 멀티모달 및 추론형 AI 모델 개발"</title><link>https://www.yna.co.kr/view/AKR20250404030800017?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            유영상 SK텔레콤 대표가 4일 인공지능 수요자와 공급자 역할을 융합한 진정한 AI 컴퍼니로서 가시적 성과를 창출하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;AI 피라미드 2.0 전략은 SK텔레콤이 '돈 버는 AI' 성과를 본격화하기 위해 세운 것으로, 피라미드를 AI 수요자와 공급자 관점으로 구성했다.&lt;br&gt;&lt;br&gt;유 대표는 "글로벌 통신사들은 대부분 네트워크에 AI를 도입해 운용 비용을 절감하고 마케팅에 활용하는 등 '수요자로서의 AI'에 관심이 많다"면서 "지금은 문제를 풀기 위해 임시적으로 수요자 관점과 AI를 통한 신성장을 노리는 '공급자로서의 AI'를 인수분해했지만 궁극적으로는 이 둘을 융합시킬 것"이라고 강조했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250404030800017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2025/04/04/AKR20250404030800017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item><item><title>📰 상호관세 다음은 반도체 관세…SK하이닉스 주가 6% 급락(종합)</title><link>https://www.yna.co.kr/view/AKR20250404039051008?input=1195m</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            뉴욕 증시가 대폭락하고 도널드 트럼프 미국 대통령은 반도체 관세가 임박했다고 밝히자 4일 SK하이닉스가 6% 넘게 급락하는 등 반도체주가 일제히 하락했다.&lt;br&gt;&lt;br&gt;상호관세 부과 이후 경기 침체 우려로 전날 뉴욕 증시 반도체주가 일제히 급락한 것도 악재가 됐다.&lt;br&gt;&lt;br&gt;엔비디아, 마이크론테크놀로지, 브로드컴 등 반도체주가 줄줄이 내린 결과 필라델피아반도체지수는 9.88% 폭락했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.yna.co.kr/view/AKR20250404039051008?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.yna.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img4.yna.co.kr/etc/inner/KR/2025/04/04/AKR20250404039051008_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item></channel></rss>
