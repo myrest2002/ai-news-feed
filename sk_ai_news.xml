@@ -1,13 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Fri, 04 Apr 2025 08:00:44 +0000</lastBuildDate><item><title>📰 박외진 아크릴 대표 "AI, 모델 전쟁 끝···이젠 운영 전쟁"</title><link>https://zdnet.co.kr/view/?no=20250404085309</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sat, 05 Apr 2025 08:00:39 +0000</lastBuildDate><item><title>📰 SKT, 글로벌 데이터 기업과 손잡고 AI 인텔리전스 역량 키운다</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=334185</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            "기술이라는 긴 터널 끝에 결국 우리가 도달해야 할 곳은 고객 뿐이라는 걸 다시 한번 절감했습니다."&lt;br&gt;&lt;br&gt;박외진 아크릴 대표는 4일 코스닥 기술특례 상장을 위한 기술성평가 통과 소감을 이렇게 밝혔다.&lt;br&gt;&lt;br&gt;아크릴은 최근 예비 기술평가에서 ‘A등급’을 받으며 큰 산 하나를 넘었다. 이어 본 기술평가를 신청, 하반기에 기술 특례 상장한다는 목표다.&lt;br&gt;&lt;br&gt;금융업계에 따르면, 최근 들어 IPO 전문심사 기관의 검증이 한층 강화, 기술성 평가를 통과하기가 매우 어려워졌다. 기술성 평가 통과 자체가 투자자 사이에서 ‘기술력과 '사업화' 가능성을 모두 검증 받은 기업’ 으로 간주되는 분위기다. 최근 아크릴이 기술성 평가 통과한 사실이 화제가 되는 이유이기도 하다. 박 대표는 "기술력은 물론 사업화와 지속 가능성도 높아야 기술성 평가를 통과하는게 요즘 분위기"라며 "AI 인프라 시장의 ‘게임 체인저’로 인정받은 것 같아 기쁘다"고 말했다.&lt;br&gt;&lt;br&gt;기업 인공지능 효율적 운영 돕는 MLOps 전문 플랫폼 기업
+                            지난 2일 서울 소공동 롯데호텔에서 열린 업무협약 조인식에는 케플러 공동 창업자인 장 매이니어 회장이 직접 참석했다.&lt;br&gt;&lt;br&gt;SKT는 이번 파트너십으로, 멀티 거대언어모델(LLM) 기반 AI 에이전트와 데이터 수집·가공·통합 분석 플랫폼에 케플러의 시장 전문 데이터를 결합함으로써 시너지를 극대화할 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;MCP 기술을 활용해 양사 간 데이터를 연동, 확보한 정밀 정보를 바탕으로 기업의 한발 앞선 의사결정을 지원한다는 구상이다. SKT는 앞으로 자체 LLM '에이닷엑스(A.X) 4.0' 적용도 계획 중이다.&lt;br&gt;&lt;br&gt;결과적으로 SKT가 SK C&amp;C와 공동 개발 중인 'AI 마켓 인텔리전스' 플랫폼에 한층 탄력이 붙게 됐다. AI 마켓 인텔리전스는 검증된 금융 시장 분석 모델을 AI로 고도화해 LPG·LNG·유가 등 원자재 트렌드를 예측하는 AI 기업간거래(B2B) 서비스다.&lt;br&gt;&lt;br&gt;신용식 SK텔레콤 AIX 사업부장(부사장)은 "케플러와의 이번 업무협약은 당사의 시장 정보 분석 역량과 인사이트를 한 단계 끌어올리는 계기가 될 것"이라며 "이를 바탕으로 연내 출시 예정인 AI 마켓 인텔리전스 플랫폼의 완성도를 높이고 다양한 사업 기회를 모색해 나가겠다"고 말했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://zdnet.co.kr/view/?no=20250404085309" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=334185" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.pinpointnews.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202504/334185_333802_4249_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item><item><title>📰 "정국 안정, AI 정책 새 출발"…尹 파면으로 추진력 회복 기대</title><link>https://zdnet.co.kr/view/?no=20250404164108</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            헌법재판소가 윤석열 전 대통령의 탄핵을 인용하며 장기화된 정국 혼란이 마무리됐다. 업계는 인공지능(AI) 전략기술 정책의 추진 동력이 회복될 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;5일 업계에 따르면 지난해 12월 윤 전 대통령의 계엄령 선포 이후 정부 기능 마비로 인해 AI 정책의 원활한 추진은 지연됐다.&lt;br&gt;&lt;br&gt;AI 기본법 제정, 국가 AI 컴퓨팅 센터, 월드 베스트 거대언어모델(LLM) 개발 등 일부 사업은 진척됐지만 정상적인 행정이 뒷받침됐다면 추진 속도는 훨씬 빨랐을 것이라는 지적이다. 업계는 이번 헌재 결정을 기점으로 정책 집행이 본격화될 것으로 보고 있다.&lt;br&gt;&lt;br&gt;탄핵 정국 속에서도 여야는 AI를 정쟁을 넘어선 국가적 전략 기술로 인식해왔다. 실제 계엄령 사태가 발생한 지난해 12월 국회는 초당파적으로 '인공지능 발전 및 신뢰 기반 구축에 관한 법률(AI 기본법)'을 통과시켰다. 유럽연합(EU)의 AI 법에 이어 세계 두 번째로 포괄적 제정 입법이라는 점에서 산업계의 주목을 받았다.&lt;br&gt;&lt;br&gt;법 제정 과정에서는 과학기술정보방송통신위원회를 중심으로 초당적 논의가 이어졌다. 여야 모두 기술 주권 확보와 산업 경쟁력 유지를 위한 최소한의 규범 틀 마련에는 이견이 없었다. 당시 국회 안팎에서는 “AI만큼은 정치와 떼어내야 한다”는 기조가 공유됐다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://zdnet.co.kr/view/?no=20250404164108" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
@@ -16,44 +35,82 @@
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://image.zdnet.co.kr/2025/04/04/d082111613b371903b051efbdd3b8704.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://image.zdnet.co.kr/2025/04/04/4e827e6b85aa0c658c06b76e50a10b4b.png" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item><item><title>📰 유영상 SKT 대표 "연내 멀티모달 및 추론형 AI 모델 개발"</title><link>https://www.yna.co.kr/view/AKR20250404030800017?input=1195m</link><description>
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item><item><title>📰 “교육은 종합예술과 비슷” 기술·트렌드 모두 잡는다</title><link>https://economist.co.kr/article/view/ecn202503170066</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            유영상 SK텔레콤 대표가 4일 인공지능 수요자와 공급자 역할을 융합한 진정한 AI 컴퍼니로서 가시적 성과를 창출하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;AI 피라미드 2.0 전략은 SK텔레콤이 '돈 버는 AI' 성과를 본격화하기 위해 세운 것으로, 피라미드를 AI 수요자와 공급자 관점으로 구성했다.&lt;br&gt;&lt;br&gt;유 대표는 "글로벌 통신사들은 대부분 네트워크에 AI를 도입해 운용 비용을 절감하고 마케팅에 활용하는 등 '수요자로서의 AI'에 관심이 많다"면서 "지금은 문제를 풀기 위해 임시적으로 수요자 관점과 AI를 통한 신성장을 노리는 '공급자로서의 AI'를 인수분해했지만 궁극적으로는 이 둘을 융합시킬 것"이라고 강조했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                            2013년 설립된 글로벌 성인 교육 콘텐츠 기업 데이원컴퍼니는 성인들이 실제 업무에 바로 적용할 수 있는 실무 중심의 콘텐츠에 집중하고 있다. 예를 들어 인공지능(AI)·프로그래밍·디자인 등 빠르게 변화하는 분야의 최신 트렌드를 현업 전문가들과 함께 콘텐츠화하고 있다.&lt;br&gt;&lt;br&gt;데이원컴퍼니는 2014년 10억원이던 연 매출이 지난 2024년 1277억원까지 늘었다. 10년간 70% 이상의 연평균 성장률을 유지하며 고성장할 수 있었던 비결은 무엇일까.&lt;br&gt;&lt;br&gt;이와 함께 현업 최고 전문가들을 강사로 섭외해 실무에 바로 적용 가능한 콘텐츠를 만들었다. 예를 들어 2016년 UX·UI(화면 디자인·사용자 경험) 디자인 수요가 폭발할 때 네이버와 카카오의 담당 팀장, 팀원들이 직접 강의를 했고, 프론트엔드 개발 붐이 일어났을 땐 배달의민족 담당자를 찾아 교육 콘텐츠로 만들었다.&lt;br&gt;&lt;br&gt;그러면서 “결국 기술의 흐름이 어떻게 진행될지에 대해서 가설을 세우고 거기에 맞는 기술 트렌드를 찾고 새로운 게 나오면 그때 그 맥락에 맞춰서 콘텐츠를 만들고 하는 게 저희의 일”이라며 “또, 교육 상품을 만들 때 기획자들이 모르는 사람(비전문가)의 눈높이에 맞추는 게 정말 중요하다”고 강조했다.&lt;br&gt;&lt;br&gt;데이원컴퍼니는 올해 기업공개(IPO)라는 주요 과제를 완수하며 2월 24일 코스닥 시장에 입성했다. 이 대표는 상장 주관사인 미래에셋증권과 2021년부터 협력하며, 회사가 단순한 교육 기업이 아니라 ‘교육 콘텐츠 기업’으로서의 특성을 설명하는 데 많은 시간을 할애했다. 넷플릭스처럼 콘텐츠를 자체 기획하고 제작하는 시스템을 구축했기 때문이다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250404030800017?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://economist.co.kr/article/view/ecn202503170066" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: economist.co.kr
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img5.yna.co.kr/etc/inner/KR/2025/04/04/AKR20250404030800017_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://economist.co.kr/data/ecn/image/2025/03/17/ecn20250317000070.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item><item><title>📰 상호관세 다음은 반도체 관세…SK하이닉스 주가 6% 급락(종합)</title><link>https://www.yna.co.kr/view/AKR20250404039051008?input=1195m</link><description>
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item><item><title>📰 전국민 2명 중 1명 해봤다는 '지브리 프사'…오픈AI, 연매출 20조 꿈 당길...</title><link>https://www.newsis.com/view/NISX20250404_0003127391</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            뉴욕 증시가 대폭락하고 도널드 트럼프 미국 대통령은 반도체 관세가 임박했다고 밝히자 4일 SK하이닉스가 6% 넘게 급락하는 등 반도체주가 일제히 하락했다.&lt;br&gt;&lt;br&gt;상호관세 부과 이후 경기 침체 우려로 전날 뉴욕 증시 반도체주가 일제히 급락한 것도 악재가 됐다.&lt;br&gt;&lt;br&gt;엔비디아, 마이크론테크놀로지, 브로드컴 등 반도체주가 줄줄이 내린 결과 필라델피아반도체지수는 9.88% 폭락했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                            챗GPT, '지브리' 화풍 기반 AI 그림 제작해 화제&lt;br&gt;&lt;br&gt;4일(현지 시간) 디 인포메이션 등에 따르면 오픈AI는 지난 1분기에 12억4500만 달러의 수익을 거둔 것으로 추정된다. 유료 멤버십 구독료, API 사용 수익 등을 종합한 수치로 3개월 만에 분기 수익을 약 30% 끌어올린 셈이다.&lt;br&gt;&lt;br&gt;오픈AI의 챗GPT 주간 이용자 수(WAU)와 유료 구독자 수도 지난달 말 기준 각각 5억명, 2000만명을 돌파했다. 지난해 말 대비 WAU는 1억5000만명, 유료 구독자 수는 450만명 늘었다.&lt;br&gt;&lt;br&gt;지난해 12월 정식 출시한 동영상 생성 인공지능(AI) '소라(Sora)'와 챗GPT '고급 음성 모드(AVM)' 실시간 영상 이해 기능이 이용자 증가에 일부 영향을 줬다는 분석이 나온다. 하지만 업계에서는 지난달 25일 공개한 GPT-4o 기반 이미지 생성 기술이 가장 큰 성장 동력이었다는 평가가 나온다.&lt;br&gt;&lt;br&gt;여기저기 '지브리 프사' 천지…제2 AI 신드롬 만든 챗GPT
                         &lt;/div&gt;
                         
-                        &lt;a href="https://www.yna.co.kr/view/AKR20250404039051008?input=1195m" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250404_0003127391" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: www.yna.co.kr
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://img4.yna.co.kr/etc/inner/KR/2025/04/04/AKR20250404039051008_01_i_P4.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2025/04/04/NISI20250404_0001809517_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Fri, 04 Apr 2025 17:00:44 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item><item><title>📰 트럼프 한 마디에 무너진 반도체株... SK하이닉스 삼성전자 테크윙 '털썩...</title><link>https://www.pinpointnews.co.kr/news/articleView.html?idxno=334260</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            뉴욕 증시가 큰 폭으로 하락하고, 도널드 트럼프 미국 대통령이 반도체에 대한 관세 부과가 임박했다고 밝히자 국내 반도체주가 일제히 급락했다.&lt;br&gt;&lt;br&gt;4일 SK하이닉스는 전 거래일보다 6.37% 하락한 18만2200원에 거래를 마쳤다. 개장 직후부터 주가는 빠르게 밀리며 19만원 선이 붕괴됐고, 장중 한때는 17만8400원까지 떨어지며 8% 넘는 낙폭을 기록했다.&lt;br&gt;&lt;br&gt;삼성전자는 개장 직후 2.43% 내린 뒤 윤석열 대통령 파면을 전후해 1%대 강세로 전환하기도 했으나 이내 반락해 3% 안팎의 약세가 이어졌다.&lt;br&gt;&lt;br&gt;이 밖에도 이오테크닉스(-8.35%), 디아이티(-8.60%), 피에스케이홀딩스(-5.26%), 테크윙](-3.30%), 한미반도체(-2.53%) 등 반도체주가 줄줄이 내렸다.&lt;br&gt;&lt;br&gt;이는 트럼프 대통령이 반도체 분야 관세 도입 여부에 대해 "아주 곧 이뤄질 것"이라고 말한 영향으로 풀이된다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=334260" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.pinpointnews.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://cdn.pinpointnews.co.kr/news/thumbnail/202504/334260_333865_2823_v150.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item><item><title>📰 "반도체 관세 부과 곧 한다"…트럼프 입에 휘청한 SK하이닉스[종목현미...</title><link>https://www.news1.kr/finance/general-stock/5743575</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            모처럼 단비 내린 2차전지株…에코프로비엠 7% 급등[핫종목]&lt;br&gt;&lt;br&gt;"반도체도 곧 관세부과"…외국인 순매도에 '18만닉스' 위태[핫종목]&lt;br&gt;&lt;br&gt;공매도 재개 2시간 만에 외국인 6600억 매도…2차전지株 '주르륵'&lt;br&gt;&lt;br&gt;코스닥, 석달 만에 최저치…코스피도 1.8% 하락[장중시황]&lt;br&gt;&lt;br&gt;10거래일 만에 돌아온 외국인…코스피 2580선 추격[시황종합]
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.news1.kr/finance/general-stock/5743575" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.news1.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://i3n.news1.kr/system/photos/2024/7/25/6779798/high.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Sat, 05 Apr 2025 17:00:39 +0900</pubDate></item></channel></rss>
