@@ -1,21 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Sun, 06 Apr 2025 08:00:32 +0000</lastBuildDate><item><title>📰 SKT 민간 데이터 결합 '그랜데이터' 사업에 이마트 합류</title><link>https://view.asiae.co.kr/article/2025040616022694448</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK_AI 뉴스 요약</title><link>https://myrest2002.github.io/ai-news-feed/sk_ai_news.xml</link><description>최신 SK_AI 관련 뉴스 요약</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ko</language><lastBuildDate>Tue, 08 Apr 2025 08:00:32 +0000</lastBuildDate><item><title>📰 SKT, 에이닷·기업은행에 AI 기반 보이스피싱 탐지 기술 적용</title><link>https://www.newsis.com/view/NISX20250408_0003130214</link><description>
                 &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
                     &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
                         &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
                         &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
-                            SKT, 글로벌 데이터 기업과 손잡고 '기업용 AI' 키운다&lt;br&gt;&lt;br&gt;인터넷 검색하며 에이닷 함께 쓴다…SKT, 크롬 확장 프로그램 출시&lt;br&gt;&lt;br&gt;[클릭 e종목]"이마트, 실적 개선세 가시화…투자의견·목표가↑"&lt;br&gt;&lt;br&gt;1.4兆 역대 최대 물량…신세계그룹, 랜더스 쇼핑페스타&lt;br&gt;&lt;br&gt;삼겹살 1980원·애호박 1480원…이마트, 4월 '가격파격 선언'
+                            SK텔레콤은 자사 AI 사이버보안 기술 스캠뱅가드를 활용한 AI 기반 이상탐지 통합 서비스를 개발하고, IBK기업은행 및 에이닷에 적용했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 개발된 이상탐지 통합 서비스는 국내 최초로 통신 정보와 금융 데이터를 연계해 고객의 보이스피싱 노출 여부와 위험도를 실시간으로 분석해준다. 이를 통해 이체·출금 차단 등 선제적 대응에 활용할 수 있다.&lt;br&gt;&lt;br&gt;이 솔루션은 SK텔레콤의 AI 사이버보안 기술인 스캠뱅가드를 기반으로 개발됐다. 보이스피싱, 스미싱, 스캠 등 다양한 전자금융사기를 통합적으로 탐지·분석한다.&lt;br&gt;&lt;br&gt;SK텔레콤은 스캠뱅가드를 더욱 고도화해 ▲AI 미끼문자 탐지 시스템 ▲피싱 시도 채팅 탐지 시스템 ▲보이스피싱 통화 패턴 분석 AI ▲본인확인 분석 AI 등 4가지 AI 기술을 적용하고 탐지 정확도를 높였다.&lt;br&gt;&lt;br&gt;스캠뱅가드는 지난 CES 2025에서 '사이버보안 부문 최고 혁신상'을 수상했고, MWC25의 글로모 어워드에서 '커넥티드 소비자를 위한 최고의 이동통신 서비스'의 영예를 안는 등 국제 무대에서 그 기술력을 인정받기도 했다.
                         &lt;/div&gt;
                         
-                        &lt;a href="https://view.asiae.co.kr/article/2025040616022694448" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                        &lt;a href="https://www.newsis.com/view/NISX20250408_0003130214" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
                             원문 보기 →
                         &lt;/a&gt;
                         
                         &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
-                            출처: view.asiae.co.kr
+                            출처: www.newsis.com
                         &lt;/div&gt;
                     &lt;/div&gt;
                     
-                    &lt;img src="https://cphoto.asiae.co.kr/listimglink/1/2025040616002999018_1743922829.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                    &lt;img src="https://img1.newsis.com/2023/08/30/NISI20230830_0001351815_web.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
                 &lt;/div&gt;
-                </description><pubDate>Sun, 06 Apr 2025 17:00:32 +0900</pubDate></item></channel></rss>
+                </description><pubDate>Tue, 08 Apr 2025 17:00:32 +0900</pubDate></item><item><title>📰 "전력요금이 이상하네"…한전, 고독사 위기 12명 살린 비결</title><link>https://www.hankyung.com/article/202504087844i</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            "전력요금이 이상하네"…한전, 고독사 위기 12명 살린 비결&lt;br&gt;&lt;br&gt;"계량기가 돌지 않습니다. 고독사 우려가 있으니 꼭 가정방문을 해주세요."&lt;br&gt;&lt;br&gt;한국전력공사는 첨단 인공지능(AI) 기술과 빅데이터 분석을 융합한 'AI 고독사 예방 서비스'를 통해 지금까지 12명의 생명을 구했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;전국 84개 지방자치단체와 협력해 1만여명의 돌봄 대상자를 모니터링할 수 있기 때문이다.&lt;br&gt;&lt;br&gt;한전의 'AI 고독사 예방 서비스'는 전력이 활발히 사용돼야할 시점에 전력요금이 올라가지 않는 이상징후를 자동으로 전력량을 검침하는 IoT 기술을 통해 파악한다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hankyung.com/article/202504087844i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.hankyung.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.hankyung.com/photo/202504/02.30312095.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 08 Apr 2025 17:00:32 +0900</pubDate></item><item><title>📰 에이닷으로 보이스피싱·스미싱 잡는다…SKT, 이상탐지 통합 서비스 개...</title><link>https://www.hankyung.com/article/202504087038i</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            에이닷으로 보이스피싱·스미싱 잡는다…SKT, 이상탐지 통합 서비스 개발&lt;br&gt;&lt;br&gt;SK텔레콤이 인공지능(AI) 기반 이상 탐지 통합 서비스를 개발하고 IBK기업은행 및 자사 AI 서비스 에이닷에 적용했다고 8일 발표했다.&lt;br&gt;&lt;br&gt;이 솔루션은 SK텔레콤의 사이버보안 기술인 ‘스캠뱅가드’를 기반으로 만들었다. 보이스피싱, 스미싱, 스캠 등 다양한 전자금융사기를 통합적으로 탐지·분석한다. SK텔레콤은 AI 미끼 문자 탐지 시스템, 피싱 시도 채팅 탐지 시스템, 보이스피싱 통화 패턴 분석 AI, 본인확인 분석 AI 등의 기술을 적용해 탐지 정확도를 높였다.&lt;br&gt;&lt;br&gt;스캠뱅가드는 올해 CES 2025에서 ‘사이버보안 부문 최고 혁신상’을, MWC 2025의 글로모 어워드에선 ‘커넥티드 소비자를 위한 최고의 이동통신 서비스’를 받으며 기술력을 인정받았다.&lt;br&gt;&lt;br&gt;이종민 SK텔레콤 미래연구개발(R&amp;D) 담당은 “AI로 보이스피싱 패턴을 정밀하게 분석해 금융 사기 위험을 실시간 예측·대응하는 방식으로 고객 피해를 최소화하는 데 초점을 맞춘 기술”이라며 “향후 통신과 금융 피싱 정보를 융합해 더욱 정교하고 고도화된 이상 탐지 통합 솔루션으로 발전시켜 나갈 계획”이라고 말했다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://www.hankyung.com/article/202504087038i" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: www.hankyung.com
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://img.hankyung.com/photo/202504/02.25637545.1.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 08 Apr 2025 17:00:32 +0900</pubDate></item><item><title>📰 韓 주요 제조 공장, SK C&amp;C AI·DX 기술로 안전 수준 높아진다</title><link>https://zdnet.co.kr/view/?no=20250408104039</link><description>
+                &lt;div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;"&gt;
+                    &lt;div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 15px 0;"&gt;
+                        &lt;h3 style="color: #1a73e8; margin: 0 0 15px 0;"&gt;📌 주요 내용&lt;/h3&gt;
+                        &lt;div style="line-height: 1.8; color: #444; white-space: pre-line; margin-bottom: 15px;"&gt;
+                            SK C&amp;C가 최신 인공지능(AI)과 디지털 전환(DX) 기술을 활용한 디지털 '쉬(SHE)' 서비스를 통해 제조 현장 안전 수준을 한층 강화한다.&lt;br&gt;&lt;br&gt;SK C&amp;C는 대형 산업 현장과 제조 공장에 특화된 안전·보건·환경(SHE) 관리를 위한 '제조 산업 특화 AI DX 기반 쉬 서비스' 체계를 구축했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;이 서비스는 최신 AI와 디지털 기술을 접목해 기존 '쉬' 시스템을 한층 정교하게 발전시켜 제조 현장을 모니터링하고 신속한 사고 위험 예측 및 예방 조치를 지원하는 것이 특징이다. 또&lt;br&gt;&lt;br&gt;AI와 IoT 기술을 접목해 현장에서 발생하는 각종 데이터를 실시간으로 수집·분석하고 이를 바탕으로 사고나 재해 발생 시 즉각적인 조치를 취할 수 있도록 설계됐다.&lt;br&gt;&lt;br&gt;특히 대형 공장과 산업 단지는 넓은 작업 공간과 복잡한 공정이 얽혀 있어 다양한 위험 요소가 존재한다. 이에 'AI DX 기반 쉬 서비스'는 이러한 환경을 고려해 고해상도 영상 분석, 진동 탐지, 가스 센서 네트워크 등 다양한 기술을 활용, 더욱 정밀한 안전 관리를 가능하게 한다.
+                        &lt;/div&gt;
+                        
+                        &lt;a href="https://zdnet.co.kr/view/?no=20250408104039" style="display: inline-block; background-color: #1a73e8; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;"&gt;
+                            원문 보기 →
+                        &lt;/a&gt;
+                        
+                        &lt;div style="margin-top: 15px; font-size: 12px; color: #666;"&gt;
+                            출처: zdnet.co.kr
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    
+                    &lt;img src="https://image.zdnet.co.kr/2025/04/08/2c17c5616a0b30648d93a998a9feec24.jpg" alt="뉴스 이미지" style="max-width:100%; border-radius: 8px;"/&gt;
+                &lt;/div&gt;
+                </description><pubDate>Tue, 08 Apr 2025 17:00:32 +0900</pubDate></item></channel></rss>
